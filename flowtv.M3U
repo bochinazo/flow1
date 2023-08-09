@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bochinazo/flow1/main/flowtv.xml"
 #EXTINF:-1 tvg-chno="6" tvg-id="1045" tvg-name="SOMOS LA PLATA HD" group-title="Flow" radio="false" catchup="vod",SOMOS LA PLATA HD
 plugin://plugin.video.flow/play/channel/1045
 #EXTINF:-1 tvg-chno="7" tvg-id="717" tvg-name="SOMOS HD" group-title="Flow" radio="false" catchup="vod",SOMOS HD
