@@ -1,0 +1,633 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 tvg-chno="6" tvg-id="1045" tvg-name="SOMOS LA PLATA HD" group-title="Flow" radio="false" catchup="vod",SOMOS LA PLATA HD
+plugin://plugin.video.flow/play/channel/1045
+#EXTINF:-1 tvg-chno="7" tvg-id="717" tvg-name="SOMOS HD" group-title="Flow" radio="false" catchup="vod",SOMOS HD
+plugin://plugin.video.flow/play/channel/717
+#EXTINF:-1 tvg-chno="8" tvg-id="706" tvg-name="METRO" group-title="Flow" radio="false" catchup="vod",METRO
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="66" tvg-name="AMERICA 2 HD" group-title="Flow" radio="false" catchup="vod",AMERICA 2 HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
+#EXTINF:-1 tvg-chno="10" tvg-id="69" tvg-name="TELEFE HD" group-title="Flow" radio="false" catchup="vod",TELEFE HD
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1027900387&_cdn_timestamp=1691465700&_cdn_token=dadc738d2a1020c3bf5cdb756a08ad772c412a28
+#EXTINF:-1 tvg-chno="11" tvg-id="77" tvg-name="TV PUBLICA HD" group-title="Flow" radio="false" catchup="vod",TV PUBLICA HD
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="75" tvg-name="EL TRECE HD" group-title="Flow" radio="false" catchup="vod",EL TRECE HD
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="76" tvg-name="EL NUEVE HD" group-title="Flow" radio="false" catchup="vod",EL NUEVE HD
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="70" tvg-name="TN HD" group-title="Flow" radio="false" catchup="vod",TN HD
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="262" tvg-name="A24 HD" group-title="Flow" radio="false" catchup="vod",A24 HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+#EXTINF:-1 tvg-chno="16" tvg-id="65" tvg-name="C5N" group-title="Flow" radio="false" catchup="vod",C5N
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="269" tvg-name="CRONICA HD" group-title="Flow" radio="false" catchup="vod",CRONICA HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
+#EXTINF:-1 tvg-chno="18" tvg-id="1025" tvg-name="26 TV" group-title="Flow" radio="false" catchup="vod",26 TV
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="1081" tvg-name="LA NACION" group-title="Flow" radio="false" catchup="vod",LA NACION +
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u80
+#EXTINF:-1 tvg-chno="20" tvg-id="64" tvg-name="MAGAZINE" group-title="Flow" radio="false" catchup="vod",CIUDAD MAGAZINE
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Flow" radio="false" catchup="vod",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="686" tvg-name="ENCUENTRO" group-title="Flow" radio="false" catchup="vod",ENCUENTRO
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="23" tvg-id="676" tvg-name="CNN EN ESPAÑOL" group-title="Flow" radio="false" catchup="vod",CNN EN ESPAÑOL
+https://v3.playerlatino.live/stream/m3u8/136
+#EXTINF:-1 tvg-chno="24" tvg-id="8398" tvg-name="IP" group-title="Flow" radio="false" catchup="vod",IP INFORMACION PERIODISTICA
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="9117" tvg-name="BRAVO" group-title="Flow" radio="false" catchup="vod",BRAVO
+plugin://plugin.video.flow/play/channel/9117
+#EXTINF:-1 tvg-chno="26"tvg-id="TelefeCordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="Undefined",TELEFE CORDOBA
+https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+#EXTINF:-1tvg-chno="27" tvg-id="TelefeRosario.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png" group-title="Undefined",TELEFE ROSARIO
+https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+#EXTINF:-1 tvg-chno="28"tvg-id="TelefeSalta.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/512px-Telefe_Salta_%282018%29.png" group-title="Undefined",TELEFE SALTA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
+#EXTINF:-1 tvg-chno="29" tvg-id="TelefeSantaFe.ar" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="Undefined",TELEFE SANTA FE
+https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
+#EXTINF:-1 tvg-chno="30"   group-title="Flow" radio="false" catchup="vod",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/El_Trece_Internacional_2009.png/revision/latest/scale-to-width-down/200?cb=20191216035910&path-prefix=es", EL TRECE INTERNACIONAL
+https://v3.playerlatino.live/stream/m3u8/767
+#EXTINF:-1 tvg-chno="31" tvg-id="ElDoce.ar",EL DOCE
+https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="ElOcho.ar",EL OCHO
+https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="7097" tvg-name="DIPUTADOS TV" group-title="Flow" radio="false" catchup="vod",DIPUTADOS TV
+https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-logo="http://www.radiosargentina.com.ar/png/VI--CGTN.png" group-title="Noticias",CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="ViajarTV.ar",tvg-chno="38" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",VIAJAR TV
+https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+#EXTINF:-1 tvg-chno="91"tvg-id="CnArNoticias.ar" tvg-logo="https://i.imgur.com/yOk4bHZ.png" group-title="Noticias",CN AR NOTICIAS
+https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://www.cn247.tv/img/logo.png" group-title="Variedades",CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="921" tvg-name="CANAL 90" group-title="Flow" radio="false" catchup="vod",CANAL 90
+plugin://plugin.video.flow/play/channel/921
+#EXTINF:-1 tvg-chno="100" tvg-id="270" tvg-name="DEPORTV HD" group-title="Flow" radio="false" catchup="vod",DEPORTV HD
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="74" tvg-name="TYC SPORTS HD" group-title="Flow" radio="false" catchup="vod",TYC SPORTS HD
+https://v3.playerlatino.live/stream/m3u8/274
+#EXTINF:-1 tvg-chno="102" tvg-id="278" tvg-name="ESPN 2" group-title="Flow" radio="false" catchup="vod",ESPN 2
+http://181.78.8.90:16123/play/ch17 
+#EXTINF:-1 tvg-chno="103" tvg-id="280" tvg-name="ESPN" group-title="Flow" radio="false" catchup="vod",ESPN
+ http://181.78.8.90:16123/play/ch16 
+#EXTINF:-1 tvg-chno="104" tvg-id="72" tvg-name="ESPN 3 HD" group-title="Flow" radio="false" catchup="vod",ESPN 3 HD
+http://181.78.8.90:16123/play/ch18 
+#EXTINF:-1 tvg-chno="105" tvg-id="279" tvg-name="ESPN EXTRA" group-title="Flow" radio="false" catchup="vod",ESPN 4 HD
+http://181.78.8.90:16123/play/ch19 
+#EXTINF:-1 tvg-chno="106" tvg-id="73" tvg-name="FOX SPORTS HD" group-title="Flow" radio="false" catchup="vod",FOX SPORTS HD
+https://v3.playerlatino.live/stream/m3u8/402
+#EXTINF:-1 tvg-chno="107" tvg-id="292" tvg-name="FOX SPORTS 2 HD" group-title="Flow" radio="false" catchup="vod",FOX SPORTS 2 HD
+http://181.78.8.90:16123/play/ch20 
+#EXTINF:-1 tvg-chno="108" tvg-id="293" tvg-name="FOX SPORTS 3 HD" group-title="Flow" radio="false" catchup="vod",FOX SPORTS 3 HD
+http://181.78.8.90:16123/play/ch21
+#EXTINF:-1 tvg-chno="109" tvg-id="685" tvg-name="EL GARAGE" group-title="Flow" radio="false" catchup="vod",EL GARAGE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0027
+#EXTINF:-1 tvg-chno="110" tvg-id="696" tvg-name="GOLF CHANNEL HD" group-title="Flow" radio="false" catchup="vod",GOLF CHANNEL HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2145544
+#EXTINF:-1 tvg-chno="111" tvg-id="710" tvg-name="NBA TV" group-title="Flow" radio="false" catchup="vod",NBA TV
+https://v3.playerlatino.live/stream/m3u8/838
+#EXTINF:-1 tvg-chno="112" tvg-id="641" tvg-name="DISC TURBO HD" group-title="Flow" radio="false" catchup="vod",DISC TURBO HD
+http://181.78.8.90:16123/play/ch24 
+#EXTINF:-1 tvg-chno="113" tvg-id="7840" tvg-name="PX SPORTS" group-title="Flow" radio="false" catchup="vod",PX SPORTS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121811
+#EXTINF:-1 tvg-chno="115" tvg-id="663" tvg-name="AMERICA SPORTS SATELITAL" group-title="Flow" radio="false" catchup="vod",AMERICA SPORTS SATELITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
+#EXTINF:-1 tvg-chno="116" tvg-id="543" tvg-name="EVENTOS HD 1" group-title="Flow" radio="false" catchup="vod",EVENTOS TyC SPORTS PLAY 1
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="8037" tvg-name="EVENTOS HD 2" group-title="Flow" radio="false" catchup="vod",EVENTOS TyC SPORTS PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1,  tvg-chno="125" tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",FOX SPORTS PREMIUM
+https://v3.playerlatino.live/stream/m3u8/512
+#EXTINF:-1, tvg-chno="126" tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT SPORTS
+https://v3.playerlatino.live/stream/m3u8/509
+#EXTINF:-1  tvg-chno="128" tvg-name="ESPN PREMIUM" tvg-logo="http://jumangis.com:2082/images/QCqX5p5x3Y181Q8jwb82JIw1Kd3uv9irfCdByX5g7YoZOp6S_R72SLrmbkqWaL4c.jpg" group-title="Deportes",ESPN PREMIUM
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwVP5saNUNhEGUwGI3pSNxoqJhtiBaFy-v2RznWx7eSvq
+#EXTINF:-1 tvg-chno="129" tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportivo",DEPORTV 
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-id="713" tvg-name="PAKAPAKA" group-title="Flow" radio="false" catchup="vod",PAKAPAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-id="275" tvg-name="DISNEY HD" group-title="Flow" radio="false" catchup="vod",DISNEY CHANNEL 
+https://v3.playerlatino.live/stream/m3u8/29
+#EXTINF:-1 tvg-chno="202" tvg-id="6857" tvg-name="NICKELODEON HD" group-title="Flow" radio="false" catchup="vod",NICKELODEON HD
+https://v3.playerlatino.live/stream/m3u8/184
+#EXTINF:-1 tvg-chno="203" tvg-id="71" tvg-name="CARTOON NETWORK" group-title="Flow" radio="false" catchup="vod",CARTOON NETWORK
+http://177.53.153.21:8001/play/a03d/index.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="9140" tvg-name="DREAMWORKS" group-title="Flow" radio="false" catchup="vod",DREAMWORKS
+http://vip-max.com:5555/user/pass/23596
+#EXTINF:-1 tvg-chno="205" tvg-id="679" tvg-name="DISCOVERY KIDS" group-title="Flow" radio="false" catchup="vod",DISCOVERY KIDS
+https://v3.playerlatino.live/stream/m3u8/25
+#EXTINF:-1 tvg-chno="206" tvg-id="266" tvg-name="CARTOONITO HD" group-title="Flow" radio="false" catchup="vod",CARTOONITO HD
+https://v3.playerlatino.live/stream/m3u8/11
+#EXTINF:-1 tvg-chno="207" tvg-id="276" tvg-name="DISNEY JR" group-title="Flow" radio="false" catchup="vod",DISNEY JR
+https://v3.playerlatino.live/stream/m3u8/30
+#EXTINF:-1 tvg-chno="208" tvg-id="264" tvg-name="BABY TV" group-title="Flow" radio="false" catchup="vod",BABY TV
+plugin://plugin.video.flow/play/channel/264
+#EXTINF:-1 tvg-chno="209" tvg-id="726" tvg-name="TOONCAST" group-title="Flow" radio="false" catchup="vod",TOONCAST
+http://181.189.243.254:8000/play/a0s3/index.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="711" tvg-name="NICK JR." group-title="Flow" radio="false" catchup="vod",NICK JR.
+https://v3.playerlatino.live/stream/m3u8/78
+#EXTINF:-1,  tvg-chno="211"tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TEEN NICK
+https://v3.playerlatino.live/stream/m3u8/882
+#EXTINF:-1,  tvg-chno="213" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="Infantiles",LA PANTERA ROSA
+https://v3.playerlatino.live/stream/m3u8/671
+#EXTINF:-1,  tvg-chno="214" tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Infantiles",LOONEY TUNES
+https://v3.playerlatino.live/stream/m3u8/524
+#EXTINF:-1,  tvg-chno="215" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="Infantiles",LOS PICAPIEDRAS
+https://v3.playerlatino.live/stream/m3u8/669
+#EXTINF:-1,  tvg-chno="216" tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="Infantiles",LOS PITUFOS
+https://v3.playerlatino.live/stream/m3u8/795
+#EXTINF:-1,  tvg-chno="217" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Infantiles",LOS SIMPSON 
+https://v3.playerlatino.live/stream/m3u8/357
+#EXTINF:-1,  tvg-chno="218" tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="Infantiles",LOS SUPERSONICOS
+https://v3.playerlatino.live/stream/m3u8/797
+#EXTINF:-1,  tvg-chno="219" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="Infantiles",EL CHAVO DEL OCHO
+https://v3.playerlatino.live/stream/m3u8/400
+#EXTINF:-1,  tvg-chno="220" tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="Infantiles" ,TOM Y JERRY
+https://v3.playerlatino.live/stream/m3u8/421
+#EXTINF:-1 tvg-chno="221" tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="Infantiles", MAGIC KIDS
+https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", PLANETA TV KIDS
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-id="701" tvg-name="CINE.AR HD" group-title="Flow" radio="false" catchup="vod",CINE.AR HD
+https://5fb24b460df87.streamlock.net/live-cont.ar/CINEar/playlist.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-id="673" tvg-name="CINEMAX HD" group-title="Flow" radio="false" catchup="vod",CINEMAX HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwTNk7cBZj4oD0Br9AS1YrAo
+#EXTINF:-1, tvg-chno="302" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
+https://v3.playerlatino.live/stream/m3u8/844
+#EXTINF:-1 tvg-chno="303" tvg-id="732" tvg-name="VOLVER" group-title="Flow" radio="false" catchup="vod",VOLVER
+plugin://plugin.video.flow/play/channel/732
+#EXTINF:-1 tvg-chno="304" tvg-id="67" tvg-name="SPACE HD" group-title="Flow" radio="false" catchup="vod",SPACE HD
+https://v3.playerlatino.live/stream/m3u8/83
+#EXTINF:-1 tvg-chno="305" tvg-id="267" tvg-name="CINECANAL HD" group-title="Flow" radio="false" catchup="vod",CINECANAL HD
+http://181.78.8.90:16123/play/ch10
+#EXTINF:-1 tvg-chno="306" tvg-id="6877" tvg-name="TNT HD" group-title="Flow" radio="false" catchup="vod",TNT HD
+https://v3.playerlatino.live/stream/m3u8/179
+#EXTINF:-1 tvg-chno="307" tvg-id="322" tvg-name="TNT SERIES" group-title="Flow" radio="false" catchup="vod",TNT SERIES
+https://v3.playerlatino.live/stream/m3u8/90
+#EXTINF:-1 tvg-chno="308" tvg-id="294" tvg-name="FX HD" group-title="Flow" radio="false" catchup="vod",FX HD
+http://181.78.8.90:16123/play/ch08
+#EXTINF:-1 tvg-chno="309" tvg-id="123" tvg-name="STAR CHANNEL HD" group-title="Flow" radio="false" catchup="vod",STAR CHANNEL HD
+http://181.78.8.90:16123/play/ch07
+#EXTINF:-1 tvg-chno="310" tvg-id="124" tvg-name="SONY HD" group-title="Flow" radio="false" catchup="vod",SONY HD
+https://v3.playerlatino.live/stream/m3u8/145
+#EXTINF:-1 tvg-chno="311" tvg-id="298" tvg-name="WARNER HD" group-title="Flow" radio="false" catchup="vod",WARNER HD
+https://v3.playerlatino.live/stream/m3u8/102
+#EXTINF:-1 tvg-chno="312" tvg-id="731" tvg-name="UNIVERSAL CHANNEL HD" group-title="Flow" radio="false" catchup="vod",UNIVERSAL CHANNEL HD
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwdJaOLxboR6Wyj3wEUd_62E
+#EXTINF:-1 tvg-chno="313" tvg-id="263" tvg-name="AXN HD" group-title="Flow" radio="false" catchup="vod",AXN HD
+https://v3.playerlatino.live/stream/m3u8/713
+#EXTINF:-1 tvg-chno="314" tvg-id="718" tvg-name="STUDIO UNIVERSAL" group-title="Flow" radio="false" catchup="vod",STUDIO UNIVERSAL
+https://v3.playerlatino.live/stream/m3u8/84
+#EXTINF:-1 tvg-chno="315" tvg-id="242" tvg-name="A&E MUNDO HD" group-title="Flow" radio="false" catchup="vod",A&E MUNDO HD
+https://v3.playerlatino.live/stream/m3u8/1
+#EXTINF:-1 tvg-chno="318" tvg-id="722" tvg-name="TCM" group-title="Flow" radio="false" catchup="vod",TCM
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwRHuTM5PqAz69lTMjiznwtk
+#EXTINF:-1 tvg-chno="319" tvg-id="261" tvg-name="AMC HD" group-title="Flow" radio="false" catchup="vod",AMC HD
+https://v3.playerlatino.live/stream/m3u8/183
+#EXTINF:-1 tvg-chno="320" tvg-id="700" tvg-name="ISAT" group-title="Flow" radio="false" catchup="vod",ISAT
+http://181.78.8.90:16123/play/711
+#EXTINF:-1 tvg-chno="322" tvg-id="720" tvg-name="SY FY" group-title="Flow" radio="false" catchup="vod",SY FY
+https://v3.playerlatino.live/stream/m3u8/151
+#EXTINF:-1 tvg-chno="323" tvg-id="9139" tvg-name="SONY MOVIES" group-title="Flow" radio="false" catchup="vod",SONY MOVIES
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwWmaCU0OXxZa5RhucmmJGMg
+#EXTINF:-1 tvg-chno="324" tvg-id="687" tvg-name="EUROCHANNEL" group-title="Flow" radio="false" catchup="vod",EUROCHANNEL
+http://181.189.243.254:8000/play/a0r6/index.m3u8
+#EXTINF:-1 tvg-chno="325" tvg-id="642" tvg-name="DISCOVERY ID" group-title="Flow" radio="false" catchup="vod",DISCOVERY ID
+http://181.78.8.90:16123/play/ch23 
+#EXTINF:-1 tvg-chno="326" tvg-id="268" tvg-name="COMEDY CENTRAL HD" group-title="Flow" radio="false" catchup="vod",COMEDY CENTRAL HD
+https://v3.playerlatino.live/stream/m3u8/135
+#EXTINF:-1 tvg-chno="327" tvg-id="714" tvg-name="PARAMOUNT" group-title="Flow" radio="false" catchup="vod",PARAMOUNT
+https://v3.playerlatino.live/stream/m3u8/200
+#EXTINF:-1 tvg-chno="328" tvg-id="8177" tvg-name="A3CINE" group-title="Flow" radio="false" catchup="vod",A3CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3CINE-index.m3u8
+#EXTINF:-1 tvg-chno="330" tvg-id="6619" tvg-name="PASIONES" group-title="Flow" radio="false" catchup="vod",PASIONES
+http://181.78.8.90:16123/play/ch35
+#EXTINF:-1 tvg-chno="331" tvg-id="7117" tvg-name="TELEMUNDO HD" group-title="Flow" radio="false" catchup="vod",TELEMUNDO HD
+https://v3.playerlatino.live/stream/m3u8/92
+#EXTINF:-1 tvg-chno="332" tvg-id="721" tvg-name="TNT NOVELAS" group-title="Flow" radio="false" catchup="vod",TBS TNT NOVELAS
+ http://181.189.243.254:8000/play/a0pj/index.m3u8
+#EXTINF:-1 tvg-chno="333" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbo.webp" group-title"Peliculas" tvg-id="I313.59837.schedulesdirect.org",  HBO
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwdgElRDi02P3pOAPb8636CY
+#EXTINF:-1 tvg-chno="334" tv-id="I313.59837.schedulesdirect.org"tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbo2.webp" group-title="Peliculas",  HBO 2
+http://177.53.153.21:8001/play/a03i/index.m3u8
+#EXTINF:-1 tvg-chno="335" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hboplus.webp" group-title="Peliculas",  HBO+
+https://v3.playerlatino.live/stream/m3u8/64
+#EXTINF:-1 tvg-chno="336" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbofam.webp" group-title="Peliculas",  HBO FAMILY
+http://177.53.153.21:8001/play/a04g/index.m3u8
+#EXTINF:-1 tvg-chno="337" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hboxtreme.webp" group-title="Peliculas",  HBO XTREME
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwX4JWlXNxejMfx39ZUhl3no
+#EXTINF:-1 tvg-chno="338" tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbopop.webp" group-title="Peliculas",HBO POP 
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwXqRzxFyirJB0qWw0_YZ0Fw
+#EXTINF:-1 tvg-chno="339"  tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbomundi.webp" group-title="Peliculas",HBO MUNDI
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwQv0xGgOSEPibzTBLliN_bo
+#EXTINF:-1 tvg-chno=" 340 " tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas", MY TIME MOVIES 1
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno=" 341 " tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas", MY TIME MOVIES 2
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, tvg-chno=" 342 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Comedia
+https://v3.playerlatino.live/stream/m3u8/696
+#EXTINF:-1, tvg-chno=" 343 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU",CINE de Ficcion y Fantasia
+https://v3.playerlatino.live/stream/m3u8/709
+#EXTINF:-1, tvg-chno=" 344" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE Infantil
+https://v3.playerlatino.live/stream/m3u8/687
+#EXTINF:-1, tvg-chno=" 345" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE Infantil Sagas
+https://v3.playerlatino.live/stream/m3u8/694
+#EXTINF:-1, tvg-chno="346" tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",CINE Latino
+https://v3.playerlatino.live/stream/m3u8/295
+#EXTINF:-1, tvg-chno=" 347" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Romance
+https://v3.playerlatino.live/stream/m3u8/689
+#EXTINF:-1, tvg-chno=" 348" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Terror
+https://v3.playerlatino.live/stream/m3u8/693
+#EXTINF:-1, tvg-chno=" 349" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Zombis
+https://v3.playerlatino.live/stream/m3u8/688
+#EXTINF:-1,tvg-chno=" 350" tvg-logo="https://apksos.com/storage/images/extrema/radiotv/extrema.radiotv_1.png" group-title="Peliculas",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-chno="351" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Peliculas",PLANETA TV MOVIES
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno=" 352" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas",RUNTIME Español
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+#EXTINF:-1 tvg-chno="353  " tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", group-title="Peliculas",RUNTIME Accion
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+#EXTINF:-1 tvg-chno="354 " tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas", RUNTIME Comedia
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+#EXTINF:-1 tvg-chno="355" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="Peliculas", RUNTIME Thriller
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+#EXTINF:-1 tvg-chno="356" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="Peliculas", RUNTIME Crimen
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+#EXTINF:-1 tvg-chno="357" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="Peliculas", RUNTIME Romance
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+#EXTINF:-1 tvg-chno="358" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas", RUNTIME Classics
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+#EXTINF:-1 tvg-chno="359" tvg-logo="https://CINEramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="Peliculas", CINERAMA
+https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
+#EXTINF:-1 tvg-chno="360" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg", AMERICAN HORRORS
+https://5d0cf65a7cc81.streamlock.net/live/Stream1/.m3u8
+#EXTINF:-1 tvg-chno="361" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cine-real.jpg?itok=xcg6JUt0" group-title="Peliculas",CINE REAL
+https://CINEreal-plex.amagi.tv/CINEReal/master.m3u8
+#EXTINF:-1 tvg-chno="362" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2022/06/Horrorfy_logowhite295x98.png"group-title="Peliculas", HORRORFY
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 tvg-chno=" 363" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="Peliculas", CINE Sureño
+https://olympusamagi.pc.cdn.bitgravity.com/CINESureno-roku/master.m3u8
+#EXTINF:-1 tvg-chno=" 364 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcyiPiWA5ZmuELc6XNPY8ex5PtY38urhSV3JJGAtv&s"group-title="Peliculas", TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCINE-roku/master.m3u8
+#EXTINF:-1 tvg-chno=" 365" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="Peliculas", TU CINE
+https://tucineeurope-samsungspain.amagi.tv/TuCineEurope-Samsung/master.m3u8
+#EXTINF:-1, tvg-chno=" 366" tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",COMEDY CENTRAL
+https://v3.playerlatino.live/stream/m3u8/135
+#EXTINF:-1, tvg-chno="367" tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas",GOLDEN
+https://v3.playerlatino.live/stream/m3u8/57
+#EXTINF:-1 tvg-id="golden.us"tvg-chno=" 368" tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png " group-title="Peliculas", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="golden.edge" tvg-chno="369" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png?20210824000810" group-title="Peliculas", GOLDEN EDGE 
+http://181.78.8.90:16123/play/ch47
+#EXTINF:-1 tvg-id="406-XtremaAccion.ar" tvg-chno="370" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Peliculas",XTREMA CINE de Acción 
+https://stmv1.cnarlatam.com/CINEaccion/CINEaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="407-XtremaAsia.ar" tvg-chno="371" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="Peliculas",XTREMA CINE Asiatico 
+https://stmv1.cnarlatam.com/CINEasia/CINEasia/playlist.m3u8
+#EXTINF:-1 tvg-id="408-XtremaComedy.ar" tvg-chno="372" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="Comedy;Peliculas",XTREMA CINE Comedia 
+https://stmv1.cnarlatam.com/CINEcomedia/CINEcomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="409-XtremaDrama.ar" tvg-chno="373" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="Peliculas",XTREMA CINE Drama 
+https://stmv1.cnarlatam.com/CINEdrama/CINEdrama/playlist.m3u8
+#EXTINF:-1 tvg-id="410-XtremaEuropa.ar" tvg-chno="374" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="Peliculas",XTREMA CINE Europa 
+https://stmv1.cnarlatam.com/CINEuropa/CINEuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="411-XtremaFamily.ar" tvg-chno=" 375" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="Peliculas",XTREMA CINE Family 
+https://stmv1.cnarlatam.com/CINEfamiliy/CINEfamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="412-XtremaLatina.ar" tvg-chno="376" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="Peliculas",XTREMA CINE Latino 
+https://stmv1.cnarlatam.com/CINElatino/CINElatino/playlist.m3u8
+#EXTINF:-1 tvg-id="413-XtremaSuspenso.ar" tvg-chno="377" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="Peliculas", XTREMA CINE Suspenso 
+https://stmv1.cnarlatam.com/CINEsuspenso/CINEsuspenso/playlist.m3u8
+#EXTINF:-1 tvg-id="414-XtremaTerror.ar" tvg-chno="378" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Peliculas", XTREMA CINE Terror 
+https://stmv1.cnarlatam.com/CINEterror/CINEterror/playlist.m3u8
+#EXTINF:-1 tvg-id="415-XtremaRetroCartoons.ar" tvg-chno="379" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Peliculas",XTREMA Retro Cartoons 
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="416-XtremaRetroSeries.ar" tvg-chno="380" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Series",XTREMA Retro Series 
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="417-XtremaSeries.ar" tvg-chno="381"  tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Peliculas",XTREMA Series 
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1,tvg-id="409-cinema + " tvg-chno="382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Canal%2B_Cin%C3%A9ma_2009.svg/339px-Logo_Canal%2B_Cin%C3%A9ma_2009.svg.png" group-title="Peliculas", CINEMA+ 
+http://181.78.8.90:16123/play/ch12a
+#EXTINF:-1 tvg-id="" tvg-name="CINE TV: MultiCINEma" tvg-chno="383" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png?20200108235020" group-title="Peliculas",CRACKLE
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNweeP9wcixYLEdDBpTYvfjic
+#EXTINF:-1 tvg-chno="384" tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Peliculas",PELIS ESTRENOS 2023
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0242
+#EXTINF:-1 tvg-chno=" 386" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/5-40.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0244
+#EXTINF:-1 tvg-chno="387" tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Peliculas",PELIS ESTRENOS 2023
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0245
+#EXTINF:-1 tvg-chno="388" tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Peliculas",PELIS ESTRENOS 2023
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0246
+#EXTINF:-1 tvg-chno="389" tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Peliculas",PELIS ESTRENOS 2023
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0247
+#EXTINF:-1 tvg-chno="390" tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Peliculas",PELIS ESTRENOS 2023
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0248
+#EXTINF:-1  tvg-chno="601" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png"group-title="Peliculas", SKY CINEMA DRAMA
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577383
+#EXTINF:-1  tvg-chno=" 602 " tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png"group-title="Peliculas", SKY CINEMA FAMILY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577368
+#EXTINF:-1  tvg-chno=" 603" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA GREATS
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577382
+#EXTINF:-1  tvg-chno=" 604" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA HITS
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577381
+#EXTINF:-1  tvg-chno=" 605" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA OSCARS
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577380
+#EXTINF:-1  tvg-chno=" 606" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA SELECT
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577377
+#EXTINF:-1  tvg-chno=" 607" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA THRILLER
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577376
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY ACTION
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577387
+#EXTINF:-1  tvg-chno="609" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA PREMIER 
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577379
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA DISNEY HD
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/30934.ts
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA KIDS
+http://2hubs.ddns.net:25461/BabNour/telegrramm/59993
+#EXTINF:-1  tvg-chno=" 612" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA ACTION 
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577387
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY ONE
+http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/221536.ts
+#EXTINF:-1 tvg-chno="614" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA COMEDY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577385
+#EXTINF:-1  tvg-chno="615" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png" group-title="Peliculas", SKY CINEMA CRIME
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577375
+#EXTINF:-1  tvg-chno=" 616" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png"group-title="Peliculas", SKY CINEMA DOCUMENTARIES
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577375
+#EXTINF:0 tvg-chno=" 617" tvg-id="ext" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/orbit-tv.jpg?itok=C3qDW8zT" group-title="Peliculas",ORBIT TV 
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
+#EXTINF:-1 tvg-chno=" 618" tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",ENERGEEK FANPOP
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, tvg-chno=" 618" tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas",STARZ Cinema
+https://v3.playerlatino.live/stream/m3u8/680
+#EXTINF:-1, tvg-chno=" 619" tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Peliculas",STARZ Encore Action
+https://v3.playerlatino.live/stream/m3u8/682
+#EXTINF:-1, tvg-chno=" 620" tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="Peliculas",STARZ Encore Black
+https://v3.playerlatino.live/stream/m3u8/683
+#EXTINF:-1, tvg-chno=" 621" tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas",STARZ Encore Family
+https://v3.playerlatino.live/stream/m3u8/684
+#EXTINF:-1 tvg-chno="400" tvg-id="692" tvg-name="LIFETIME" group-title="Flow" radio="false" catchup="vod",LIFETIME
+https://v3.playerlatino.live/stream/m3u8/152
+#EXTINF:-1 tvg-chno="401" tvg-id="295" tvg-name="EL GOURMET" group-title="Flow" radio="false" catchup="vod",EL GOURMET
+https://v3.playerlatino.live/stream/m3u8/157
+#EXTINF:-1 tvg-chno="403" tvg-id="901" tvg-name="FOOD NETWORK HD" group-title="Flow" radio="false" catchup="vod",FOOD NETWORK HD
+http://181.78.8.90:16123/play/ch28 
+#EXTINF:-1 tvg-chno="404" tvg-id="684" tvg-name="E! HD" group-title="Flow" radio="false" catchup="vod",E! HD
+https://v3.playerlatino.live/stream/m3u8/33
+#EXTINF:-1 tvg-chno="405" tvg-id="272" tvg-name="HOME AND HEALTH HD" group-title="Flow" radio="false" catchup="vod",HOME AND HEALTH HD
+https://v3.playerlatino.live/stream/m3u8/33
+#EXTINF:-1 tvg-chno="407" tvg-id="1027" tvg-name="DISCOVERY TLC HD" group-title="Flow" radio="false" catchup="vod",DISCOVERY TLC HD
+https://v3.playerlatino.live/stream/m3u8/87
+#EXTINF:-1 tvg-chno="408" tvg-id="8417" tvg-name="HGTV" group-title="Flow" radio="false" catchup="vod",HGTV
+plugin://plugin.video.flow/play/channel/8417
+#EXTINF:-1 tvg-chno="410" tvg-id="695" tvg-name="GLITZ" group-title="Flow" radio="false" catchup="vod",GLITZ
+https://v3.playerlatino.live/stream/m3u8/158
+#EXTINF:-1 tvg-chno="420" tvg-id="671" tvg-name="CANAL RURAL" group-title="Flow" radio="false" catchup="vod",CANAL RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="422" tvg-id="1026" tvg-name="SUN CHANNEL" group-title="Flow" radio="false" catchup="vod",SUN CHANNEL
+http://190.61.102.67:8000/play/a023
+#EXTINF:-1 tvg-chno="423" tvg-id="723" tvg-name="TELEMAX" group-title="Flow" radio="false" catchup="vod",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-chno="424" tvg-id="963" tvg-name="CANAL SANTA MARÍA" group-title="Flow" radio="false" catchup="vod",CANAL SANTA MARÍA
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-id="668" tvg-name="CANAL ORBE 21" group-title="Flow" radio="false" catchup="vod",CANAL ORBE 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="426" tvg-id="690" tvg-name="EWTN" group-title="Flow" radio="false" catchup="vod",EWTN
+https://dyo5cp96eopax.cloudfront.net/p/CANE_640x360_800k.m3u8
+#EXTINF:-1 tvg-chno="427" tvg-id="1254" tvg-name="CANAL LUZ" group-title="Flow" radio="false" catchup="vod",CANAL LUZ
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0282
+#EXTINF:-1 tvg-chno="428" tvg-id="733" tvg-name="WOBI" group-title="Flow" radio="false" catchup="vod",WOBI
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist.m3u8
+#EXTINF:-1 tvg-chno="429" tvg-id="8717" tvg-name="CHACRA TV" group-title="Flow" radio="false" catchup="vod",CHACRA TV
+https://s8.stweb.tv/chacra/live/chunks.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TecTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Cultura",TEC TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-chno="450" tvg-id="300" tvg-name="Nat Geo Channel HD" group-title="Flow" radio="false" catchup="vod",Nat Geo Channel HD
+http://181.78.8.90:16123/play/ch30 
+#EXTINF:-1 tvg-chno="451" tvg-id="271" tvg-name="DISCOVERY HD" group-title="Flow" radio="false" catchup="vod",DISCOVERY HD
+http://181.78.8.90:16123/play/ch22 
+#EXTINF:-1 tvg-chno="452" tvg-id="643" tvg-name="ANIMAL PLANET" group-title="Flow" radio="false" catchup="vod",ANIMAL PLANET
+http://181.78.8.90:16123/play/ch29 
+#EXTINF:-1 tvg-chno="453" tvg-id="725" tvg-name="DISCOVERY HD THEATER" group-title="Flow" radio="false" catchup="vod",DISCOVERY HD THEATER
+plugin://plugin.video.flow/play/channel/725
+#EXTINF:-1 tvg-chno="454" tvg-id="301" tvg-name="HISTORY HD" group-title="Flow" radio="false" catchup="vod",HISTORY HD
+https://v3.playerlatino.live/stream/m3u8/67
+#EXTINF:-1 tvg-chno="455" tvg-id="122" tvg-name="TRU TV HD" group-title="Flow" radio="false" catchup="vod",TRU TV HD
+http://181.78.8.90:16123/play/ch75
+#EXTINF:-1 tvg-chno="456" tvg-id="667" tvg-name="CANAL A" group-title="Flow" radio="false" catchup="vod",CANAL A
+plugin://plugin.video.flow/play/channel/667
+#EXTINF:-1 tvg-chno="457" tvg-id="691" tvg-name="FILM&ARTS" group-title="Flow" radio="false" catchup="vod",FILM&ARTS
+http://181.78.8.90:16123/play/ch11
+#EXTINF:-1 tvg-chno="458" tvg-id="698" tvg-name="H2" group-title="Flow" radio="false" catchup="vod",H2
+https://v3.playerlatino.live/stream/m3u8/61
+#EXTINF:-1 tvg-chno="460" tvg-id="681" tvg-name="DISCOVERY WORLD HD" group-title="Flow" radio="false" catchup="vod",DISCOVERY WORLD HD
+https://v3.playerlatino.live/stream/m3u8/187 
+#EXTINF:-1 tvg-chno="462" tvg-id="680" tvg-name="DISCOVERY SCIENCE" group-title="Flow" radio="false" catchup="vod",DISCOVERY SCIENCE
+https://v3.playerlatino.live/stream/m3u8/26
+#EXTINF:-1 tvg-chno="500" tvg-id="707" tvg-name="MTV HD" group-title="Flow" radio="false" catchup="vod",MTV HD
+https://v3.playerlatino.live/stream/m3u8/69
+#EXTINF:-1 tvg-chno="501" tvg-id="715" tvg-name="QUIERO HD" group-title="Flow" radio="false" catchup="vod",QUIERO HD
+plugin://plugin.video.flow/play/channel/715
+#EXTINF:-1 tvg-chno="502" tvg-id="7018" tvg-name="VORTERIX" group-title="Flow" radio="false" catchup="vod",VORTERIX
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0008
+#EXTINF:-1 tvg-chno="503" tvg-id="7277" tvg-name="ALLEGRO HD" group-title="Flow" radio="false" catchup="vod",ALLEGRO HD
+plugin://plugin.video.flow/play/channel/7277
+#EXTINF:-1 tvg-chno="504" tvg-id="1044" tvg-name="MTV 00S" group-title="Flow" radio="false" catchup="vod",MTV 00S
+http://190.61.102.67:8000/play/a029
+#EXTINF:-1 tvg-chno="505" tvg-id="699" tvg-name="HTV" group-title="Flow" radio="false" catchup="vod",HTV
+https://v3.playerlatino.live/stream/m3u8/66
+#EXTINF:-1 tvg-chno="506" tvg-id="708" tvg-name="MUCHMUSIC" group-title="Flow" radio="false" catchup="vod",MUCHMUSIC
+plugin://plugin.video.flow/play/channel/708
+#EXTINF:-1 tvg-chno="507" tvg-id="674" tvg-name="CANAL DE LA MUSICA" group-title="Flow" radio="false" catchup="vod",CANAL DE LA MUSICA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
+#EXTINF:-1 tvg-chno="508" tvg-id="1022" tvg-name="MTV HITS" group-title="Flow" radio="false" catchup="vod",MTV HITS
+plugin://plugin.video.flow/play/channel/1022
+#EXTINF:-1 tvg-chno="509" tvg-id="1021" tvg-name="NICKMUSIC" group-title="Flow" radio="false" catchup="vod",NICKMUSIC
+plugin://plugin.video.flow/play/channel/1021
+#EXTINF:-1 tvg-id="SuperClassicsTV.ar"  tvg-chno="510" tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="Music",SUPER CLASSICS
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1 tvg-chno="511"tvg-logo="http://www.radiosargentina.com.ar/png/VIURBPLY.png" group-title="Variedades",URBANA PLAY
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
+#EXTINF:-1 tvg-chno="515" tvg-id="669" tvg-name="CANAL DE LA CIUDAD" group-title="Flow" radio="false" catchup="vod",CANAL DE LA CIUDAD
+https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+#EXTINF:-1 tvg-chno="520" tvg-id="6897" tvg-name="SOMOS ROSARIO HD" group-title="Flow" radio="false" catchup="vod",SOMOS ROSARIO HD
+plugin://plugin.video.flow/play/channel/6897
+#EXTINF:-1 tvg-chno="522" tvg-id="1263" tvg-name="SOMOS SANTA FE HD" group-title="Flow" radio="false" catchup="vod",SOMOS SANTA FE HD
+plugin://plugin.video.flow/play/channel/1263
+#EXTINF:-1 tvg-chno="523" tvg-id="7960" tvg-name="SOMOS SALTA-JUJUY HD" group-title="Flow" radio="false" catchup="vod",SOMOS SALTA-JUJUY HD
+plugin://plugin.video.flow/play/channel/7960
+#EXTINF:-1 tvg-chno="525" tvg-id="6637" tvg-name="SOMOS MAR DEL PLATA NECOCHEA HD" group-title="Flow" radio="false" catchup="vod",SOMOS MAR DEL PLATA NECOCHEA HD
+plugin://plugin.video.flow/play/channel/6637
+#EXTINF:-1 tvg-chno="526" tvg-id="8001" tvg-name="SOMOS EL VALLE" group-title="Flow" radio="false" catchup="vod",SOMOS EL VALLE
+plugin://plugin.video.flow/play/channel/8001
+#EXTINF:-1 tvg-chno="544" tvg-id="1061" tvg-name="CANAL UNIVERSIDAD DE LA PLATA" group-title="Flow" radio="false" catchup="vod",CANAL UNIVERSIDAD DE LA PLATA
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-chno="551" tvg-id="716" tvg-name="RAI" group-title="Flow" radio="false" catchup="vod",RAI
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
+#EXTINF:-1 tvg-chno="552" tvg-id="666" tvg-name="BLOOMBERG" group-title="Flow" radio="false" catchup="vod",BLOOMBERG
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-chno="553" tvg-id="727" tvg-name="TVN CHILE" group-title="Flow" radio="false" catchup="vod",TVN CHILE
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+#EXTINF:-1 tvg-chno="554" tvg-id="730" tvg-name="TV 5" group-title="Flow" radio="false" catchup="vod",TV 5
+plugin://plugin.video.flow/play/channel/730
+#EXTINF:-1 tvg-chno="556" tvg-id="724" tvg-name="TELESUR" group-title="Flow" radio="false" catchup="vod",TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-chno="557" tvg-id="677" tvg-name="CNN" group-title="Flow" radio="false" catchup="vod",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="558" tvg-id="864" tvg-name="BBC WORLD" group-title="Flow" radio="false" catchup="vod",BBC WORLD
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-chno="559" tvg-id="693" tvg-name="FOX NEWS" group-title="Flow" radio="false" catchup="vod",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="560" tvg-id="1024" tvg-name="AL JAZEERA" group-title="Flow" radio="false" catchup="vod",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-chno="561" tvg-id="688" tvg-name="EURONEWS" group-title="Flow" radio="false" catchup="vod",EURONEWS
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="562" tvg-id="683" tvg-name="DEUTSCHE WELLE" group-title="Flow" radio="false" catchup="vod",DW DEUTSCHE WELLE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-chno="564" tvg-id="729" tvg-name="GALICIA TV" group-title="Flow" radio="false" catchup="vod",GALICIA TV
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1 tvg-chno="565" tvg-id="670" tvg-name="CANAL DE LAS ESTRELLAS" group-title="Flow" radio="false" catchup="vod",CANAL DE LAS ESTRELLAS
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+#EXTINF:-1 tvg-chno="566" tvg-id="941" tvg-name="ARIRANG" group-title="Flow" radio="false" catchup="vod",ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="567" tvg-id="672" tvg-name="UCL" group-title="Flow" radio="false" catchup="vod",UCL
+http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
+#EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Flow" radio="false" catchup="vod",FRANCE 24
+https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+#EXTINF:-1 tvg-chno="569" tvg-id="1162" tvg-name="NEW BRASIL" group-title="Flow" radio="false" catchup="vod",NEW BRASIL
+plugin://plugin.video.flow/play/channel/1162
+#EXTINF:-1 tvg-chno="570" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElDestape.jpg" group-title="Noticias",El Destape
+https://ythls.onrender.com/channel/UCgOvQwLB387CWMrseINhyCg.m3u8
+#EXTINF:-1 tvg-chno="573" tvg-id="664" tvg-name="ARGENTINISIMA SATELITAL" group-title="Flow" radio="false" catchup="vod",ARGENTINISIMA SATELITAL
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-chno="575" tvg-id="6617" tvg-name="FRANCE 24 ESPAÑOL" group-title="Flow" radio="false" catchup="vod",FRANCE 24 ESPAÑOL
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-chno="601" tvg-id="7982" tvg-name="FLOW GAMING" group-title="Flow" radio="false" catchup="vod",FLOW GAMING
+plugin://plugin.video.flow/play/channel/7982
+#EXTINF:-1 tvg-chno="605" tvg-id="7978" tvg-name="FLOW MUSIC" group-title="Flow" radio="false" catchup="vod",FLOW MUSIC
+plugin://plugin.video.flow/play/channel/7978
+#EXTINF:-1 radio="true" tvg-id="RMIT" tvg-name="Mitre AM 790" group-title="Radio Flow;live",Mitre AM 790
+https://musicsrc.cvattv.com.ar/RMIT
+#EXTINF:-1 radio="true" tvg-id="L100" tvg-name="La 100" group-title="Radio Flow;live",La 100
+https://musicsrc.cvattv.com.ar/L100
+#EXTINF:-1 radio="true" tvg-id="RDIS" tvg-name="Radio Disney" group-title="Radio Flow;live",Radio Disney
+https://musicsrc.cvattv.com.ar/RDIS
+#EXTINF:-1 radio="true" tvg-id="RDPL" tvg-name="Del Plata" group-title="Radio Flow;live",Del Plata
+https://musicsrc.cvattv.com.ar/RDPL
+#EXTINF:-1 radio="true" tvg-id="RRIV" tvg-name="Radio Rivadavia" group-title="Radio Flow;live",Radio Rivadavia
+https://musicsrc.cvattv.com.ar/RRIV
+#EXTINF:-1 radio="true" tvg-id="RMCB" tvg-name="Mitre Córdoba" group-title="Radio Flow;live",Mitre Córdoba
+https://musicsrc.cvattv.com.ar/RMCB
+#EXTINF:-1 radio="true" tvg-id="RMIR" tvg-name="Mitre Rosario" group-title="Radio Flow;live",Mitre Rosario
+https://musicsrc.cvattv.com.ar/RMIR
+#EXTINF:-1 radio="true" tvg-id="100R" tvg-name="La 100 Rosario" group-title="Radio Flow;live",La 100 Rosario
+https://musicsrc.cvattv.com.ar/100R
+#EXTINF:-1 radio="true" tvg-id="RRFI" tvg-name="Radio France" group-title="Radio Flow;live",Radio France
+https://musicsrc.cvattv.com.ar/RRFI
+#EXTINF:-1 radio="true" tvg-id="RNAC" tvg-name="Radio Nacional" group-title="Radio Flow;live",Radio Nacional
+https://musicsrc.cvattv.com.ar/RNAC
+#EXTINF:-1 radio="true" tvg-id="RM01" tvg-name="Top 40" group-title="Radio Flow;music",Top 40
+https://musicsrc.cvattv.com.ar/RM01
+#EXTINF:-1 radio="true" tvg-id="RM02" tvg-name="Top Europa" group-title="Radio Flow;music",Top Europa
+https://musicsrc.cvattv.com.ar/RM02
+#EXTINF:-1 radio="true" tvg-id="RM48" tvg-name="Clásicos" group-title="Radio Flow;music",Clásicos
+https://musicsrc.cvattv.com.ar/RM48
+#EXTINF:-1 radio="true" tvg-id="RM04" tvg-name="90 Internacional" group-title="Radio Flow;music",90 Internacional
+https://musicsrc.cvattv.com.ar/RM04
+#EXTINF:-1 radio="true" tvg-id="RM05" tvg-name="80 Internacional" group-title="Radio Flow;music",80 Internacional
+https://musicsrc.cvattv.com.ar/RM05
+#EXTINF:-1 radio="true" tvg-id="RM07" tvg-name="70 Internacional" group-title="Radio Flow;music",70 Internacional
+https://musicsrc.cvattv.com.ar/RM07
+#EXTINF:-1 radio="true" tvg-id="RM08" tvg-name="60 Internacional" group-title="Radio Flow;music",60 Internacional
+https://musicsrc.cvattv.com.ar/RM08
+#EXTINF:-1 radio="true" tvg-id="RM09" tvg-name="50 Internacional" group-title="Radio Flow;music",50 Internacional
+https://musicsrc.cvattv.com.ar/RM09
+#EXTINF:-1 radio="true" tvg-id="RM17" tvg-name="Rock nacional" group-title="Radio Flow;music",Rock nacional
+https://musicsrc.cvattv.com.ar/RM17
+#EXTINF:-1 radio="true" tvg-id="RM30" tvg-name="Reggaetón romántico" group-title="Radio Flow;music",Reggaetón romántico
+https://musicsrc.cvattv.com.ar/RM30
+#EXTINF:-1 radio="true" tvg-id="RM16" tvg-name="Retromix" group-title="Radio Flow;music",Retromix
+https://musicsrc.cvattv.com.ar/RM16
+#EXTINF:-1 radio="true" tvg-id="RM46" tvg-name="Tango" group-title="Radio Flow;music",Tango
+https://musicsrc.cvattv.com.ar/RM46
+#EXTINF:-1 radio="true" tvg-id="RM39" tvg-name="Chill out" group-title="Radio Flow;music",Chill out
+https://musicsrc.cvattv.com.ar/RM39
+#EXTINF:-1 radio="true" tvg-id="RM40" tvg-name="Chill África" group-title="Radio Flow;music",Chill África
+https://musicsrc.cvattv.com.ar/RM40
+#EXTINF:-1 radio="true" tvg-id="RM41" tvg-name="Electrónica" group-title="Radio Flow;music",Electrónica
+https://musicsrc.cvattv.com.ar/RM41
+#EXTINF:-1 radio="true" tvg-id="RM03" tvg-name="Nuevos clásicos" group-title="Radio Flow;music",Nuevos clásicos
+https://musicsrc.cvattv.com.ar/RM03
+#EXTINF:-1 radio="true" tvg-id="RM24" tvg-name="Películas" group-title="Radio Flow;music",Películas
+https://musicsrc.cvattv.com.ar/RM24
+#EXTINF:-1 radio="true" tvg-id="RM21" tvg-name="Power Ballads" group-title="Radio Flow;music",Power Ballads
+https://musicsrc.cvattv.com.ar/RM21
+#EXTINF:-1 radio="true" tvg-id="RM23" tvg-name="Reggae" group-title="Radio Flow;music",Reggae
+https://musicsrc.cvattv.com.ar/RM23
+#EXTINF:-1 radio="true" tvg-id="RM18" tvg-name="Grandes del rock" group-title="Radio Flow;music",Grandes del rock
+https://musicsrc.cvattv.com.ar/RM18
+#EXTINF:-1 radio="true" tvg-id="RM11" tvg-name="Ellos" group-title="Radio Flow;music",Ellos
+https://musicsrc.cvattv.com.ar/RM11
+#EXTINF:-1 radio="true" tvg-id="RM12" tvg-name="Ellas" group-title="Radio Flow;music",Ellas
+https://musicsrc.cvattv.com.ar/RM12
+#EXTINF:-1 radio="true" tvg-id="RM33" tvg-name="Salsa" group-title="Radio Flow;music",Salsa
+https://musicsrc.cvattv.com.ar/RM33
+#EXTINF:-1 radio="true" tvg-id="RM14" tvg-name="Disco" group-title="Radio Flow;music",Disco
+https://musicsrc.cvattv.com.ar/RM14
+#EXTINF:-1 radio="true" tvg-id="RM13" tvg-name="Vivo" group-title="Radio Flow;music",Vivo
+https://musicsrc.cvattv.com.ar/RM13
+#EXTINF:-1 radio="true" tvg-id="RM10" tvg-name="Grandes voces" group-title="Radio Flow;music",Grandes voces
+https://musicsrc.cvattv.com.ar/RM10
+#EXTINF:-1 radio="true" tvg-id="RM37" tvg-name="Jazz" group-title="Radio Flow;music",Jazz
+https://musicsrc.cvattv.com.ar/RM37
+#EXTINF:-1 radio="true" tvg-id="RM47" tvg-name="Tango electrónico" group-title="Radio Flow;music",Tango electrónico
+https://musicsrc.cvattv.com.ar/RM47
+#EXTINF:-1 radio="true" tvg-id="RM49" tvg-name="Ópera" group-title="Radio Flow;music",Ópera
+https://musicsrc.cvattv.com.ar/RM49
+#EXTINF:-1 radio="true" tvg-id="RM36" tvg-name="Axé" group-title="Radio Flow;music",Axé
+https://musicsrc.cvattv.com.ar/RM36
+#EXTINF:-1 radio="true" tvg-id="RM19" tvg-name="Heavy metal" group-title="Radio Flow;music",Heavy metal
+https://musicsrc.cvattv.com.ar/RM19
+#EXTINF:-1 radio="true" tvg-id="RM20" tvg-name="Rock alternativo" group-title="Radio Flow;music",Rock alternativo
+https://musicsrc.cvattv.com.ar/RM20
+#EXTINF:-1 radio="true" tvg-id="RM25" tvg-name="Classic CINEma" group-title="Radio Flow;music",Classic CINEma
+https://musicsrc.cvattv.com.ar/RM25
+#EXTINF:-1 radio="true" tvg-id="RM42" tvg-name="Trendy" group-title="Radio Flow;music",Trendy
+https://musicsrc.cvattv.com.ar/RM42
+#EXTINF:-1 radio="true" tvg-id="RM43" tvg-name="Lounge" group-title="Radio Flow;music",Lounge
+https://musicsrc.cvattv.com.ar/RM43
+#EXTINF:-1 radio="true" tvg-id="RM34" tvg-name="Mpb" group-title="Radio Flow;music",Mpb
+https://musicsrc.cvattv.com.ar/RM34
+#EXTINF:-1 radio="true" tvg-id="RM29" tvg-name="Reggaetón" group-title="Radio Flow;music",Reggaetón
+https://musicsrc.cvattv.com.ar/RM29
+#EXTINF:-1 radio="true" tvg-id="RM26" tvg-name="Romántica" group-title="Radio Flow;music",Romántica
+https://musicsrc.cvattv.com.ar/RM26
+#EXTINF:-1 radio="true" tvg-id="RM31" tvg-name="Latino" group-title="Radio Flow;music",Latino
+https://musicsrc.cvattv.com.ar/RM31
+#EXTINF:-1 radio="true" tvg-id="RM06" tvg-name="80/90 Internacional" group-title="Radio Flow;music",80/90 Internacional
+https://musicsrc.cvattv.com.ar/RM06
+#EXTINF:-1 radio="true" tvg-id="RM27" tvg-name="Lentos" group-title="Radio Flow;music",Lentos
+https://musicsrc.cvattv.com.ar/RM27
+#EXTINF:-1 radio="true" tvg-id="RM28" tvg-name="Teens" group-title="Radio Flow;music",Teens
+https://musicsrc.cvattv.com.ar/RM28
+#EXTINF:-1 radio="true" tvg-id="RM32" tvg-name="Letras y canciones" group-title="Radio Flow;music",Letras y canciones
+https://musicsrc.cvattv.com.ar/RM32
+#EXTINF:-1 radio="true" tvg-id="RM44" tvg-name="Blend" group-title="Radio Flow;music",Blend
+https://musicsrc.cvattv.com.ar/RM44
+#EXTINF:-1 radio="true" tvg-id="RM15" tvg-name="New party radio" group-title="Radio Flow;music",New party radio
+https://musicsrc.cvattv.com.ar/RM15
+#EXTINF:-1 radio="true" tvg-id="RM626" tvg-name="Zen" group-title="Radio Flow;music",Zen
+https://musicsrc.cvattv.com.ar/626
+#EXTINF:-1 radio="true" tvg-id="RM35" tvg-name="Bossa Nova" group-title="Radio Flow;music",Bossa Nova
+https://musicsrc.cvattv.com.ar/RM35
+#EXTINF:-1 radio="true" tvg-id="RM50" tvg-name="Ópera romántica" group-title="Radio Flow;music",Ópera romántica
+https://musicsrc.cvattv.com.ar/RM50
+#EXTINF:-1 radio="true" tvg-id="RM38" tvg-name="Smooth jazz" group-title="Radio Flow;music",Smooth jazz
+https://musicsrc.cvattv.com.ar/RM38
+#EXTINF:-1 radio="true" tvg-id="RM45" tvg-name="New Age" group-title="Radio Flow;music",New Age
+https://musicsrc.cvattv.com.ar/RM45
+#EXTINF:-1 radio="true" tvg-id="RM22" tvg-name="New Wave" group-title="Radio Flow;music",New Wave
+https://musicsrc.cvattv.com.ar/RM22
+#EXTINF:-1 radio="true" tvg-id="RCNN" tvg-name="CNN Radio" group-title="Radio Flow;live",CNN Radio
+https://musicsrc.cvattv.com.ar/RCNN
