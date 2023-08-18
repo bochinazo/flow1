@@ -6,11 +6,7 @@ plugin://plugin.video.flow/play/channel/717
 #EXTINF:-1 tvg-chno="8" tvg-id="706" tvg-name="METRO" group-title="Flow" radio="false" catchup="vod",METRO
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="66" tvg-name="AMERICA 2 HD" group-title="Flow" radio="false" catchup="vod",AMERICA 2 HD
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="ARGENTINA", VOLVER 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/volverar.json 
-https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="69" tvg-name="TELEFE HD" group-title="Flow" radio="false" catchup="vod",TELEFE HD
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1027900387&_cdn_timestamp=1691465700&_cdn_token=dadc738d2a1020c3bf5cdb756a08ad772c412a28
 #EXTINF:-1 tvg-chno="11" tvg-id="77" tvg-name="TV PUBLICA HD" group-title="Flow" radio="false" catchup="vod",TV PUBLICA HD
@@ -22,7 +18,7 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="70" tvg-name="TN HD" group-title="Flow" radio="false" catchup="vod",TN HD
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="262" tvg-name="A24 HD" group-title="Flow" radio="false" catchup="vod",A24 HD
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0065
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
 #EXTINF:-1 tvg-chno="16" tvg-id="65" tvg-name="C5N" group-title="Flow" radio="false" catchup="vod",C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="269" tvg-name="CRONICA HD" group-title="Flow" radio="false" catchup="vod",CRONICA HD
@@ -165,8 +161,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/CINEar/playlist.m3u8
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwTNk7cBZj4oD0Br9AS1YrAo
 #EXTINF:-1, tvg-chno="302" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
 https://v3.playerlatino.live/stream/m3u8/844
-#EXTINF:-1 tvg-chno="303" tvg-id="732" tvg-name="VOLVER" group-title="Flow" radio="false" catchup="vod",VOLVER
-plugin://plugin.video.flow/play/channel/732
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="ARGENTINA", VOLVER 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/volverar.json 
+https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd
 #EXTINF:-1 tvg-chno="304" tvg-id="67" tvg-name="SPACE HD" group-title="Flow" radio="false" catchup="vod",SPACE HD
 https://v3.playerlatino.live/stream/m3u8/83
 #EXTINF:-1 tvg-chno="305" tvg-id="267" tvg-name="CINECANAL HD" group-title="Flow" radio="false" catchup="vod",CINECANAL HD
@@ -253,7 +251,7 @@ https://v3.playerlatino.live/stream/m3u8/693
 https://v3.playerlatino.live/stream/m3u8/688
 #EXTINF:-1,tvg-chno=" 350" tvg-logo="https://apksos.com/storage/images/extrema/radiotv/extrema.radiotv_1.png" group-title="Peliculas",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-chno="351" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Peliculas",PLANETA TV MOVIES
+#EXTINF:-1 tvg-chno="351" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png?itok=SQuhCR2p" group-title="Peliculas",PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno=" 352" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas",RUNTIME Español
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
@@ -442,15 +440,15 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0008
 #EXTINF:-1 tvg-chno="503" tvg-id="7277" tvg-name="ALLEGRO HD" group-title="Flow" radio="false" catchup="vod",ALLEGRO HD
 plugin://plugin.video.flow/play/channel/7277
 #EXTINF:-1 tvg-chno="504" tvg-id="1044" tvg-name="MTV 00S" group-title="Flow" radio="false" catchup="vod",MTV 00S
-http://190.61.102.67:8000/play/a029
+http://myott.top/stream/DT6QU63K5VX/165.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-chno="505" tvg-id="699" tvg-name="HTV" group-title="Flow" radio="false" catchup="vod",HTV
 https://v3.playerlatino.live/stream/m3u8/66
 #EXTINF:-1 tvg-chno="506" tvg-id="708" tvg-name="MUCHMUSIC" group-title="Flow" radio="false" catchup="vod",MUCHMUSIC
-plugin://plugin.video.flow/play/channel/708
+https://list.iptvcat.com/my_list/s/31543bd8ab29ddf7ca75fbc24efbdab6.m3u8
 #EXTINF:-1 tvg-chno="507" tvg-id="674" tvg-name="CANAL DE LA MUSICA" group-title="Flow" radio="false" catchup="vod",CANAL DE LA MUSICA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
 #EXTINF:-1 tvg-chno="508" tvg-id="1022" tvg-name="MTV HITS" group-title="Flow" radio="false" catchup="vod",MTV HITS
-plugin://plugin.video.flow/play/channel/1022
+https://list.iptvcat.com/my_list/s/926339dfdc0ed7cb9199cb35d15e2894.m3u8
 #EXTINF:-1 tvg-chno="509" tvg-id="1021" tvg-name="NICKMUSIC" group-title="Flow" radio="false" catchup="vod",NICKMUSIC
 plugin://plugin.video.flow/play/channel/1021
 #EXTINF:-1 tvg-id="SuperClassicsTV.ar"  tvg-chno="510" tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="Music",SUPER CLASSICS
@@ -478,7 +476,7 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-chno="553" tvg-id="727" tvg-name="TVN CHILE" group-title="Flow" radio="false" catchup="vod",TVN CHILE
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 #EXTINF:-1 tvg-chno="554" tvg-id="730" tvg-name="TV 5" group-title="Flow" radio="false" catchup="vod",TV 5
-plugin://plugin.video.flow/play/channel/730
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-chno="556" tvg-id="724" tvg-name="TELESUR" group-title="Flow" radio="false" catchup="vod",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-chno="557" tvg-id="677" tvg-name="CNN" group-title="Flow" radio="false" catchup="vod",CNN
