@@ -63,7 +63,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0275
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-logo="http://www.radiosargentina.com.ar/png/VI--CGTN.png" group-title="Noticias",CGTN ESPAÑOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="ViajarTV.ar",tvg-chno="38" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",VIAJAR TV
+#EXTINF:-1, tvg-chno="38 "tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina",TELEFE INTERNACIONAL
+https://v3.playerlatino.live/stream/m3u8/771
+#EXTINF:-1 tvg-id="ViajarTV.ar",tvg-chno="39" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",VIAJAR TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-chno="91"tvg-id="CnArNoticias.ar" tvg-logo="https://i.imgur.com/yOk4bHZ.png" group-title="Noticias",CN AR NOTICIAS
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
@@ -287,6 +289,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCINE-roku/master.m3u8
 https://tucineeurope-samsungspain.amagi.tv/TuCineEurope-Samsung/master.m3u8
 #EXTINF:-1, tvg-chno=" 366" tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",COMEDY CENTRAL
 https://v3.playerlatino.live/stream/m3u8/135
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",IMAGEN TELEVISION
+https://v3.playerlatino.live/stream/m3u8/341
 #EXTINF:-1, tvg-chno="367" tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas",GOLDEN
 https://v3.playerlatino.live/stream/m3u8/57
 #EXTINF:-1 tvg-id="golden.us"tvg-chno=" 368" tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png " group-title="Peliculas", GOLDEN PLUS
@@ -335,6 +339,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0255
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0256
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/3ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0257
+#EXTINF:-1, tvg-chno="390" tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",IMAGEN TELEVISION
+https://v3.playerlatino.live/stream/m3u8/341
+#EXTINF:-1,  tvg-chno="391" tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas",MOVIE MAX
+https://v3.playerlatino.live/stream/m3u8/678
 #EXTINF:-1  tvg-chno="601" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png"group-title="Peliculas", SKY CINEMA DRAMA
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577383
 #EXTINF:-1  tvg-chno=" 602 " tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png"group-title="Peliculas", SKY CINEMA FAMILY
@@ -461,8 +469,12 @@ plugin://plugin.video.flow/play/channel/1021
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1 tvg-chno="511"tvg-logo="http://www.radiosargentina.com.ar/png/VIURBPLY.png" group-title="Variedades",URBANA PLAY
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
+#EXTINF:-1, tvg-chno="512 "tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Musica",VH1
+https://v3.playerlatino.live/stream/m3u8/101
 #EXTINF:-1 tvg-chno="515" tvg-id="669" tvg-name="CANAL DE LA CIUDAD" group-title="Flow" radio="false" catchup="vod",CANAL DE LA CIUDAD
 https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+#EXTINF:-1, tvg-chno="512 "tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Musica",VH1
+https://v3.playerlatino.live/stream/m3u8/101
 #EXTINF:-1 tvg-chno="520" tvg-id="6897" tvg-name="SOMOS ROSARIO HD" group-title="Flow" radio="false" catchup="vod",SOMOS ROSARIO HD
 plugin://plugin.video.flow/play/channel/6897
 #EXTINF:-1 tvg-chno="522" tvg-id="1263" tvg-name="SOMOS SANTA FE HD" group-title="Flow" radio="false" catchup="vod",SOMOS SANTA FE HD
@@ -475,8 +487,8 @@ plugin://plugin.video.flow/play/channel/6637
 plugin://plugin.video.flow/play/channel/8001
 #EXTINF:-1 tvg-chno="544" tvg-id="1061" tvg-name="CANAL UNIVERSIDAD DE LA PLATA" group-title="Flow" radio="false" catchup="vod",CANAL UNIVERSIDAD DE LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-chno="551" tvg-id="716" tvg-name="RAI" group-title="Flow" radio="false" catchup="vod",RAI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
+#EXTINF:-1 tvg-chno="551" tvg-id="716" tvg-name="RAI" group-title="Flow" radio="false" catchup="vod",RAI NEWS
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-chno="552" tvg-id="666" tvg-name="BLOOMBERG" group-title="Flow" radio="false" catchup="vod",BLOOMBERG
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-chno="553" tvg-id="727" tvg-name="TVN CHILE" group-title="Flow" radio="false" catchup="vod",TVN CHILE
