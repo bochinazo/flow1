@@ -6,9 +6,9 @@ plugin://plugin.video.flow/play/channel/717
 #EXTINF:-1 tvg-chno="8" tvg-id="706" tvg-name="METRO" group-title="Flow" radio="false" catchup="vod",METRO
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="66" tvg-name="AMERICA 2 HD" group-title="Flow" radio="false" catchup="vod",AMERICA 2 HD
-https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
+http://191.102.90.97:8000/play/a0i9/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="69" tvg-name="TELEFE HD" group-title="Flow" radio="false" catchup="vod",TELEFE HD
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1027900387&_cdn_timestamp=1691465700&_cdn_token=dadc738d2a1020c3bf5cdb756a08ad772c412a28
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
 #EXTINF:-1 tvg-chno="11" tvg-id="77" tvg-name="TV PUBLICA HD" group-title="Flow" radio="false" catchup="vod",TV PUBLICA HD
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="75" tvg-name="EL TRECE HD" group-title="Flow" radio="false" catchup="vod",EL TRECE HD
@@ -55,21 +55,21 @@ https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="TelefeJujuy.ar" tvg-logo="https://2.bp.blogspot.com/-XeKs-8yWg9k/VDHYARgGUZI/AAAAAAAAoX8/m_rbGEMELn0/s1600/logo-c7jujuy-abril2014.png" group-title="Undefined",TELEFE JUJUY
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0207
-#EXTINF:-1 tvg-chno="34" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png" group-title="ME Mendoza",AMERICA TV MENDOZA
+#EXTINF:-1 tvg-chno="34" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png"  tvg-id="66" group-title="ME Mendoza",AMERICA TV MENDOZA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0222
-#EXTINF:-1 tvg-chno="35" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV82.png" group-title="SJ San Juan",AMERICA TV SAN JUAN
+#EXTINF:-1 tvg-chno="35" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV82.png"  tvg-id="66" group-title="SJ San Juan",AMERICA TV SAN JUAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0275
 #EXTINF:-1 tvg-chno="36" tvg-id="7097" tvg-name="DIPUTADOS TV" group-title="Flow" radio="false" catchup="vod",DIPUTADOS TV
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-logo="http://www.radiosargentina.com.ar/png/VI--CGTN.png" group-title="Noticias",CGTN ESPAÑOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1, tvg-chno="38 "tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina",TELEFE INTERNACIONAL
+#EXTINF:-1 tvg-chno="38" tvg-id="69" tvg-name="TELEFE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWgub9GoLIv70AkfJV2oQbibH9OO54SCa8dKTI7mHL6DYEGZM_TW_fNRTLU6ZVKeT9t1s&usqp=CAU" group-title="Flow" radio="false" catchup="vod",TELEFE INTERNACIONAL
 https://v3.playerlatino.live/stream/m3u8/771
 #EXTINF:-1 tvg-id="ViajarTV.ar",tvg-chno="39" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",VIAJAR TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-chno="91"tvg-id="CnArNoticias.ar" tvg-logo="https://i.imgur.com/yOk4bHZ.png" group-title="Noticias",CN AR NOTICIAS
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-logo="https://www.cn247.tv/img/logo.png" group-title="Variedades",CN 24/7
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://www.cn247.tv/img/logo.png" group-title="Variedades",CANAL NOTICIAS 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-id="921" tvg-name="CANAL 90" group-title="Flow" radio="false" catchup="vod",CANAL 90
 plugin://plugin.video.flow/play/channel/921
@@ -126,7 +126,7 @@ https://v3.playerlatino.live/stream/m3u8/184
 #EXTINF:-1 tvg-chno="203" tvg-id="71" tvg-name="CARTOON NETWORK" group-title="Flow" radio="false" catchup="vod",CARTOON NETWORK
 http://177.53.153.21:8001/play/a03d/index.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="9140" tvg-name="DREAMWORKS" group-title="Flow" radio="false" catchup="vod",DREAMWORKS
-http://vip-max.com:5555/user/pass/23596
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=1086947163&_cdn_timestamp=1692844415&_cdn_token=24428e6ecbd18eee300f6ef1a202336e03ff77ed
 #EXTINF:-1 tvg-chno="205" tvg-id="679" tvg-name="DISCOVERY KIDS" group-title="Flow" radio="false" catchup="vod",DISCOVERY KIDS
 https://v3.playerlatino.live/stream/m3u8/25
 #EXTINF:-1 tvg-chno="206" tvg-id="266" tvg-name="CARTOONITO HD" group-title="Flow" radio="false" catchup="vod",CARTOONITO HD
@@ -134,7 +134,7 @@ https://v3.playerlatino.live/stream/m3u8/11
 #EXTINF:-1 tvg-chno="207" tvg-id="276" tvg-name="DISNEY JR" group-title="Flow" radio="false" catchup="vod",DISNEY JR
 https://v3.playerlatino.live/stream/m3u8/30
 #EXTINF:-1 tvg-chno="208" tvg-id="264" tvg-name="BABY TV" group-title="Flow" radio="false" catchup="vod",BABY TV
-plugin://plugin.video.flow/play/channel/264
+http://177.53.153.21:8001/play/a04k/index.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-id="726" tvg-name="TOONCAST" group-title="Flow" radio="false" catchup="vod",TOONCAST
 http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-id="711" tvg-name="NICK JR." group-title="Flow" radio="false" catchup="vod",NICK JR.
@@ -172,7 +172,7 @@ https://v3.playerlatino.live/stream/m3u8/844
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/volverar.json 
 https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd
 #EXTINF:-1 tvg-chno="304" tvg-id="67" tvg-name="SPACE HD" group-title="Flow" radio="false" catchup="vod",SPACE HD
-https://v3.playerlatino.live/stream/m3u8/83
+http://177.53.153.21:8001/play/a01w/index.m3u8
 #EXTINF:-1 tvg-chno="305" tvg-id="267" tvg-name="CINECANAL HD" group-title="Flow" radio="false" catchup="vod",CINECANAL HD
 http://181.78.8.90:16123/play/ch10
 #EXTINF:-1 tvg-chno="306" tvg-id="6877" tvg-name="TNT HD" group-title="Flow" radio="false" catchup="vod",TNT HD
@@ -206,7 +206,7 @@ https://v3.playerlatino.live/stream/m3u8/151
 #EXTINF:-1 tvg-chno="323" tvg-id="9139" tvg-name="SONY MOVIES" group-title="Flow" radio="false" catchup="vod",SONY MOVIES
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwWmaCU0OXxZa5RhucmmJGMg
 #EXTINF:-1 tvg-chno="324" tvg-id="687" tvg-name="EUROCHANNEL" group-title="Flow" radio="false" catchup="vod",EUROCHANNEL
-http://181.189.243.254:8000/play/a0r6/index.m3u8
+http://45.5.117.182:8000/play/a0gd/index.m3u8
 #EXTINF:-1 tvg-chno="325" tvg-id="642" tvg-name="DISCOVERY ID" group-title="Flow" radio="false" catchup="vod",DISCOVERY ID
 http://181.78.8.90:16123/play/ch23 
 #EXTINF:-1 tvg-chno="326" tvg-id="268" tvg-name="COMEDY CENTRAL HD" group-title="Flow" radio="false" catchup="vod",COMEDY CENTRAL HD
@@ -325,24 +325,32 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 http://181.78.8.90:16123/play/ch12a
 #EXTINF:-1 tvg-id="" tvg-name="CINE TV: MultiCINEma" tvg-chno="383" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png?20200108235020" group-title="Peliculas",CRACKLE
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNweeP9wcixYLEdDBpTYvfjic
-#EXTINF:-1 tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/4-ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
+#EXTINF:-1 tvg-chno="384" tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", GOLDEN PREMIER
+http://177.53.153.21:8001/play/a053/index.m3u8
+#EXTINF:-1 tvg-chno="385" tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", GOLDEN PREMIER 2
+http://177.53.153.21:8001/play/a054/index.m3u8
+#EXTINF:-1 tvg-chno="386" tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", MULTIPREMIER
+http://177.53.153.21:8001/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-chno="387" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/4-ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0251
-#EXTINF:-1 tvg-chno="387" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/6-38.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
+#EXTINF:-1 tvg-chno="388" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/6-38.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0252
-#EXTINF:-1 tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/1ok-1.jpg" group-title=""Peliculas",PELIS ESTRENOS 2023
+#EXTINF:-1 tvg-chno="389" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/1ok-1.jpg" group-title=""Peliculas",PELIS ESTRENOS 2023
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0253
-#EXTINF:-1 tvg-chno="388" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/4-ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
+#EXTINF:-1 tvg-chno="390" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/4-ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0254
-#EXTINF:-1 tvg-chno="389" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/6-38.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
+#EXTINF:-1 tvg-chno="391" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/6-38.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0255
-#EXTINF:-1 tvg-chno="390" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/5ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
+#EXTINF:-1 tvg-chno="392" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/5ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0256
-#EXTINF:-1 tvg-chno="389" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/3ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
+#EXTINF:-1 tvg-chno="393" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/3ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0257
-#EXTINF:-1, tvg-chno="390" tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",IMAGEN TELEVISION
+#EXTINF:-1, tvg-chno="394" tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",IMAGEN TELEVISION
 https://v3.playerlatino.live/stream/m3u8/341
-#EXTINF:-1,  tvg-chno="391" tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas",MOVIE MAX
+#EXTINF:-1,  tvg-chno="395" tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas",MOVIE MAX
 https://v3.playerlatino.live/stream/m3u8/678
+#EXTINF:-1  tvg-chno="396" tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", CINELIFE
+https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1  tvg-chno="601" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png"group-title="Peliculas", SKY CINEMA DRAMA
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577383
 #EXTINF:-1  tvg-chno=" 602 " tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Sky-Logo-500x281.png"group-title="Peliculas", SKY CINEMA FAMILY
@@ -454,7 +462,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0008
 #EXTINF:-1 tvg-chno="503" tvg-id="7277" tvg-name="ALLEGRO HD" group-title="Flow" radio="false" catchup="vod",ALLEGRO HD
 plugin://plugin.video.flow/play/channel/7277
 #EXTINF:-1 tvg-chno="504" tvg-id="1044" tvg-name="MTV 00S" group-title="Flow" radio="false" catchup="vod",MTV 00S
-http://myott.top/stream/DT6QU63K5VX/165.m3u8?checkedby:iptvcat.com
+http://177.53.153.21:8001/play/a09c/index.m3u8
 #EXTINF:-1 tvg-chno="505" tvg-id="699" tvg-name="HTV" group-title="Flow" radio="false" catchup="vod",HTV
 https://v3.playerlatino.live/stream/m3u8/66
 #EXTINF:-1 tvg-chno="506" tvg-id="708" tvg-name="MUCHMUSIC" group-title="Flow" radio="false" catchup="vod",MUCHMUSIC
@@ -462,7 +470,7 @@ https://list.iptvcat.com/my_list/s/31543bd8ab29ddf7ca75fbc24efbdab6.m3u8
 #EXTINF:-1 tvg-chno="507" tvg-id="674" tvg-name="CANAL DE LA MUSICA" group-title="Flow" radio="false" catchup="vod",CANAL DE LA MUSICA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
 #EXTINF:-1 tvg-chno="508" tvg-id="1022" tvg-name="MTV HITS" group-title="Flow" radio="false" catchup="vod",MTV HITS
-https://list.iptvcat.com/my_list/s/926339dfdc0ed7cb9199cb35d15e2894.m3u8
+http://177.53.153.21:8001/play/a05u/index.m3u8
 #EXTINF:-1 tvg-chno="509" tvg-id="1021" tvg-name="NICKMUSIC" group-title="Flow" radio="false" catchup="vod",NICKMUSIC
 plugin://plugin.video.flow/play/channel/1021
 #EXTINF:-1 tvg-id="SuperClassicsTV.ar"  tvg-chno="510" tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="Music",SUPER CLASSICS
@@ -495,6 +503,8 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 #EXTINF:-1 tvg-chno="554" tvg-id="730" tvg-name="TV 5" group-title="Flow" radio="false" catchup="vod",TV 5
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-chno="555" tvg-id="CanalE.ar",Canal E ECONOMIA
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="556" tvg-id="724" tvg-name="TELESUR" group-title="Flow" radio="false" catchup="vod",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-chno="557" tvg-id="677" tvg-name="CNN" group-title="Flow" radio="false" catchup="vod",CNN
