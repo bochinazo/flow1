@@ -92,9 +92,9 @@ http://181.78.8.90:16123/play/ch19
 #EXTINF:-1 tvg-chno="106" tvg-id="73" tvg-name="FOX SPORTS HD" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS HD
 https://v3.playerlatino.live/stream/m3u8/402
 #EXTINF:-1 tvg-chno="107" tvg-id="292" tvg-name="FOX SPORTS 2 HD" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 2 HD
-http://181.78.8.90:16123/play/ch20 
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwRXQGDj58O7HVfUtVwT7Hc699mLxg7CMthgFa7HnNJdk
 #EXTINF:-1 tvg-chno="108" tvg-id="293" tvg-name="FOX SPORTS 3 HD" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 3 HD
-http://181.78.8.90:16123/play/ch21
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwcxzdrVYhCv_BpUeQ87x00JsQV7Ks-KYDlw651bfric6
 #EXTINF:-1 tvg-chno="109" tvg-id="685" tvg-name="EL GARAGE" group-title="Deportes" radio="false" catchup="vod",EL GARAGE
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="696" tvg-name="GOLF CHANNEL HD" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL HD
@@ -112,11 +112,11 @@ https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/ind
 #EXTINF:-1 tvg-chno="117" tvg-id="8037" tvg-name="EVENTOS HD 2" group-title="Deportes" radio="false" catchup="vod",EVENTOS TyC SPORTS PLAY 2
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:-1,  tvg-chno="125" tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",FOX SPORTS PREMIUM
-https://v3.playerlatino.live/stream/m3u8/512
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwdB6ru2bEzrCqSioZF8a4Vh7e6GKBN0HghTuxlMVUSSV
 #EXTINF:-1, tvg-chno="126" tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT SPORTS
 https://v3.playerlatino.live/stream/m3u8/509
 #EXTINF:-1  tvg-chno="128" tvg-name="ESPN PREMIUM" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg" group-title="Deportes",ESPN PREMIUM
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwVP5saNUNhEGUwGI3pSNxoqJhtiBaFy-v2RznWx7eSvq
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwZ0Psg0dk7rHszuPZnguODBj-PZlBgpg6DOeCGm2WUAy
 #EXTINF:-1 tvg-chno="129" tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportivo",DEPORTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportes",CNAR DEPORTES
@@ -146,13 +146,13 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8
 #EXTINF:-1,  tvg-chno="211"tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantil",TEEN NICK
 http://177.53.153.21:8001/play/a068/index.m3u8
 #EXTINF:-1,  tvg-chno="213" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="Infantil",LA PANTERA ROSA
-https://v3.playerlatino.live/stream/m3u8/671
+https://archive.org/download/LaPanteraRosaLaMonedaRosa/La%20Pantera%20Rosa%20-%20La%20mano%20es%20m%C3%A1s%20rosa%20que%20el%20ojo.mp4
 #EXTINF:-1,  tvg-chno="214" tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Infantil",LOONEY TUNES
 https://v3.playerlatino.live/stream/m3u8/524
 #EXTINF:-1,  tvg-chno="215" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="Infantil",LOS PICAPIEDRAS
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
-#EXTINF:-1,  tvg-chno="216" tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="Infantil",LOS PITUFOS
-https://v3.playerlatino.live/stream/m3u8/795
+#EXTINF:-1 tvg-chno="216 tvg-id="" tvg-logo="https://i.imgur.com/UbZXTKF.jpg" group-title="Infantil",PITUFO TV
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1,  tvg-chno="217" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Infantil",LOS SIMPSON 
 https://v3.playerlatino.live/stream/m3u8/357
 #EXTINF:-1,  tvg-chno="218" tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="Infantil",LOS SUPERSONICOS
@@ -234,7 +234,7 @@ http://177.53.153.21:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-chno="334" tv-id="I313.59837.schedulesdirect.org"tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbo2.webp" group-title="Peliculas",  HBO 2
 http://177.53.153.21:8001/play/a03i/index.m3u8
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hboplus.webp" group-title="Peliculas",  HBO+
-https://v3.playerlatino.live/stream/m3u8/64
+http://clubtv.link/260823/top1425/lista.php?c=215&f=.m3u8
 #EXTINF:-1 tvg-chno="336" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbofam.webp" group-title="Peliculas",  HBO FAMILY
 http://177.53.153.21:8001/play/a04g/index.m3u8
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hboxtreme.webp" group-title="Peliculas",  HBO XTREME
@@ -256,7 +256,7 @@ https://v3.playerlatino.live/stream/m3u8/687
 #EXTINF:-1, tvg-chno=" 345" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE Infantil Sagas
 https://v3.playerlatino.live/stream/m3u8/694
 #EXTINF:-1, tvg-chno="346" tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",CINE Latino
-https://v3.playerlatino.live/stream/m3u8/295
+http://clubtv.link/260823/top1425/plutotv.php?c=5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true
 #EXTINF:-1, tvg-chno=" 347" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Romance
 https://v3.playerlatino.live/stream/m3u8/689
 #EXTINF:-1, tvg-chno=" 348" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Terror
@@ -311,8 +311,6 @@ http://177.53.153.21:8001/play/a054/index.m3u8
 http://177.53.153.21:8001/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-chno="373" tvg-id="USA | Europa Europa" tvg-name="USA | Europa Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/EUROPAEUROPALOGO2016.png/120px-EUROPAEUROPALOGO2016.png" group-title="Peliculas",EUROPA EUROPA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_session=1086926363&_cdn_timestamp=1692844137&_cdn_token=7d00833dee8db83edeb35f5c253f92b187893c8a
-#EXTINF:-1 tvg-chno="374" tvg-id="406-XtremaAccion.ar" tvg-chno="370" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Peliculas",XTREMA CINE de Acción 
-https://stmv1.cnarlatam.com/CINEaccion/CINEaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE TV: MultiCINEma" tvg-chno="375" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png?20200108235020" group-title="Peliculas",CRACKLE
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNweeP9wcixYLEdDBpTYvfjic
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/4-ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
@@ -334,7 +332,7 @@ https://v3.playerlatino.live/stream/m3u8/678
 #EXTINF:-1  tvg-chno="384" tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="Peliculas", CINELIFE
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno="385" tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=1107002259&_cdn_timestamp=1693296198&_cdn_token=c8a31b549452b76567f9318ac10ce409215f4d59
+http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwdJaOLxboR6Wyj3wEUd_62E
 #EXTINF:-1 tvg-chno="386" tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="Peliculas", UNIVERSAL CRIME
 http://177.53.153.21:8001/play/a09g/index.m3u8
 #EXTINF:-1 tvg-chno="387" tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="Peliculas", UNIVERSAL CINEMA
@@ -367,7 +365,7 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-id="417-XtremaSeries.ar" tvg-chno="402"  tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Peliculas",XTREMA Series 
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-chno="403" tvg-id="416-XtremaAccion.ar" t tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Peliculas",XTREMA CINE de Acción 
+#EXTINF:-1 tvg-chno="418" tvg-id="416-XtremaAccion.ar" t tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Peliculas",XTREMA CINE de Acción 
 https://stmv1.cnarlatam.com/cineccion/cineaccion/playlist.m3u8
 #EXTINF:-1,tvg-id="404-cinema + " tvg-chno="404" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Canal%2B_Cin%C3%A9ma_2009.svg/339px-Logo_Canal%2B_Cin%C3%A9ma_2009.svg.png" group-title="Peliculas",  +CINEMA 
 http://181.78.8.90:16123/play/ch12a
@@ -456,7 +454,7 @@ https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1 tvg-chno="511"tvg-logo="http://www.radiosargentina.com.ar/png/VIURBPLY.png" group-title="Musical",URBANA PLAY
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
 #EXTINF:-1, tvg-chno="512 "tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Musical",VH1
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-chno="515" tvg-id="669" tvg-name="CANAL DE LA CIUDAD" group-title="Flow" radio="false" catchup="vod",CANAL DE LA CIUDAD
 https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-chno="520" tvg-id="6897" tvg-name="SOMOS ROSARIO HD" group-title="Flow" radio="false" catchup="vod",SOMOS ROSARIO HD
