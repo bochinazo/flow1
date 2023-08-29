@@ -244,7 +244,7 @@ http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-chno="339"  tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbomundi.webp" group-title="Peliculas",HBO MUNDI
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwQv0xGgOSEPibzTBLliN_bo
 #EXTINF:-1 tvg-chno="340" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbosig.webp" group-title="Peliculas"group-title="Peliculas",HBO SIGNATURE
-http://clubtv.link/260823/key4512/lista.php?c=182&f=.m3u8
+http://clubtv.link/260823/top1425/lista.php?c=182&f=.m3u8
 #EXTINF:-1 tvg-chno=" 341 " tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas", MY TIME MOVIES 1
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno=" 342 " tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas", MY TIME MOVIES 2
@@ -516,7 +516,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1, tvg-chno=" 602 "tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",IMAGEN TELEVISION
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1, tvg-chno=" 603" tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas",STARZ Cinema
-http://clubtv.link/260823/key4512/lista.php?c=190&f=.m3u8
+http://clubtv.link/260823/top1425/lista.php?c=190&f=.m3u8
 #EXTINF:-1, tvg-chno=" 604" tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Peliculas",STARZ Encore Action
 https://v3.playerlatino.live/stream/m3u8/682
 #EXTINF:-1, tvg-chno=" 605" tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="Peliculas",STARZ Encore Black
