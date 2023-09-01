@@ -26,7 +26,7 @@ https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="1025" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod",26 TV
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="1081" tvg-name="LA NACION" group-title="Noticias" radio="false" catchup="vod",LA NACION +
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u80
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
 #EXTINF:-1 tvg-chno="20" tvg-id="64" tvg-name="MAGAZINE" group-title="Flow" radio="false" catchup="vod",CIUDAD MAGAZINE
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" radio="false" catchup="vod",NET TV
@@ -146,7 +146,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8
 #EXTINF:-1,  tvg-chno="211"tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantil",TEEN NICK
 http://177.53.153.21:8001/play/a068/index.m3u8
 #EXTINF:-1,  tvg-chno="213" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="Infantil",LA PANTERA ROSA
-https://archive.org/download/LaPanteraRosaLaMonedaRosa/La%20Pantera%20Rosa%20-%20La%20mano%20es%20m%C3%A1s%20rosa%20que%20el%20ojo.mp4
+https://v3.playerlatino.live/stream/m3u8/671
 #EXTINF:-1,  tvg-chno="214" tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Infantil",LOONEY TUNES
 https://v3.playerlatino.live/stream/m3u8/524
 #EXTINF:-1,  tvg-chno="215" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="Infantil",LOS PICAPIEDRAS
@@ -230,21 +230,21 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/109682
 #EXTINF:-1 tvg-chno="332" tvg-id="721" tvg-name="TNT NOVELAS" group-title="Novelas" radio="false" catchup="vod",TBS TNT NOVELAS
 http://201.222.44.219:4226/play/a03a/index.m3u8
 #EXTINF:-1 tvg-chno="333" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbo.webp" group-title"Peliculas" tv-id="I313.59837.schedulesdirect.org",  HBO
-http://177.53.153.21:8001/play/a03b/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/62
 #EXTINF:-1 tvg-chno="334" tv-id="I313.59837.schedulesdirect.org"tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbo2.webp" group-title="Peliculas",  HBO 2
-http://177.53.153.21:8001/play/a03i/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/300
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hboplus.webp" group-title="Peliculas",  HBO+
-http://clubtv.link/260823/top1425/lista.php?c=215&f=.m3u8
+https://v3.playerlatino.live/stream/m3u8/64
 #EXTINF:-1 tvg-chno="336" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbofam.webp" group-title="Peliculas",  HBO FAMILY
 http://177.53.153.21:8001/play/a04g/index.m3u8
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hboxtreme.webp" group-title="Peliculas",  HBO XTREME
-http://177.53.153.21:8001/play/a04h/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/814
 #EXTINF:-1 tvg-chno="338" tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbopop.webp" group-title="Peliculas",HBO POP 
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-chno="339"  tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbomundi.webp" group-title="Peliculas",HBO MUNDI
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwQv0xGgOSEPibzTBLliN_bo
 #EXTINF:-1 tvg-chno="340" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbosig.webp" group-title="Peliculas"group-title="Peliculas",HBO SIGNATURE
-http://clubtv.link/260823/top1425/lista.php?c=182&f=.m3u8
+http://clubtv.link/ago3008/top1425/lista3.php?c=182
 #EXTINF:-1 tvg-chno=" 341 " tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas", MY TIME MOVIES 1
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno=" 342 " tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas", MY TIME MOVIES 2
@@ -256,7 +256,7 @@ https://v3.playerlatino.live/stream/m3u8/687
 #EXTINF:-1, tvg-chno=" 345" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE Infantil Sagas
 https://v3.playerlatino.live/stream/m3u8/694
 #EXTINF:-1, tvg-chno="346" tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",CINE Latino
-http://clubtv.link/260823/top1425/plutotv.php?c=5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true
+https://v3.playerlatino.live/stream/m3u8/295
 #EXTINF:-1, tvg-chno=" 347" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Romance
 https://v3.playerlatino.live/stream/m3u8/689
 #EXTINF:-1, tvg-chno=" 348" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Terror
@@ -311,7 +311,7 @@ http://177.53.153.21:8001/play/a054/index.m3u8
 http://177.53.153.21:8001/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-chno="373" tvg-id="USA | Europa Europa" tvg-name="USA | Europa Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/EUROPAEUROPALOGO2016.png/120px-EUROPAEUROPALOGO2016.png" group-title="Peliculas",EUROPA EUROPA
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_session=1118854147&_cdn_timestamp=1693540280&_cdn_token=260b02ef5e8cd816b76074f137dd1aa1fe5cb4fa
-#EXTINF:-1,tvg-chno="374" tvg-logo="https://scontent.faep8-1.fna.fbcdn.net/v/t1.6435-9/118775920_3264413020311314_4173410791436800975_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=1Qlu-41KxWMAX-T9_rI&_nc_ht=scontent.faep8-1.fna&oh=00_AfAEDwpv974v33JRDhy6LNJDwOGNHdF14mFuIHjlmf8qCQ&oe=64B07E7C" group-title="Peliculas", CINE PREMIUM 
+#EXTINF:-1,tvg-chno="374" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="Peliculas", CINE PREMIUM 
 http://181.78.8.90:16123/play/ch49 
 #EXTINF:-1 tvg-id="" tvg-name="CINE TV: MultiCINEma" tvg-chno="375" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png?20200108235020" group-title="Peliculas",CRACKLE
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNweeP9wcixYLEdDBpTYvfjic
@@ -520,7 +520,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 #EXTINF:-1 tvg-chno=" 601" tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",ENERGEEK FANPOP
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, tvg-chno=" 603" tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas",STARZ Cinema
-http://clubtv.link/260823/top1425/lista.php?c=190&f=.m3u8
+https://v3.playerlatino.live/stream/m3u8/680
 #EXTINF:-1, tvg-chno=" 604" tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Peliculas",STARZ Encore Action
 https://v3.playerlatino.live/stream/m3u8/682
 #EXTINF:-1, tvg-chno=" 605" tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="Peliculas",STARZ Encore Black
