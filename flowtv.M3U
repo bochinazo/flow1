@@ -117,6 +117,8 @@ http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwdB6ru2bEzrCqSioZF8a4Vh7e6GKBN
 http://177.53.153.21:8001/play/a01x/index.m3u8
 #EXTINF:-1  tvg-chno="128" tvg-name="ESPN PREMIUM" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg" group-title="Deportes",ESPN PREMIUM
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwZ0Psg0dk7rHszuPZnguODBj-PZlBgpg6DOeCGm2WUAy
+#EXTINF:-1  tvg-chno="129" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="Deportes",ESPN EXTRA
+http://181.78.8.90:16123/play/a064
 #EXTINF:-1 tvg-chno="129" tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportivo",DEPORTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportes",CNAR DEPORTES
