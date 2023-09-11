@@ -318,17 +318,17 @@ http://181.78.8.90:16123/play/ch49
 #EXTINF:-1 tvg-id="" tvg-name="CINE TV: MultiCINEma" tvg-chno="375" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png?20200108235020" group-title="Peliculas",CRACKLE
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNweeP9wcixYLEdDBpTYvfjic
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/4-ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0253
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0265
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/6-38.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0254
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0266
 #EXTINF:-1 tvg-chno="378" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/1ok-1.jpg" group-title=""Peliculas",PELIS ESTRENOS 2023
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0255
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267
 #EXTINF:-1 tvg-chno="379" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/2ok.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0256
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0268
 #EXTINF:-1 tvg-chno="380" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/5ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0257
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0269
 #EXTINF:-1 tvg-chno="381" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/https://sonicaargentina.com.ar/wp-content/uploads/2021/10/3ok-1.jpg" group-title="Peliculas",PELIS ESTRENOS 2023
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0258
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0270
 #EXTINF:-1, tvg-chno="382" tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Peliculas",IMAGEN TELEVISION
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1,  tvg-chno="383" tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas",MOVIE MAX
