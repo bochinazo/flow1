@@ -156,7 +156,7 @@ https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.
 #EXTINF:-1 tvg-chno="216 tvg-id="" tvg-logo="https://i.imgur.com/UbZXTKF.jpg" group-title="Infantil",PITUFO TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1,  tvg-chno="217" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Infantil",LOS SIMPSON 
-https://v3.playerlatino.live/stream/m3u8/357
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1,  tvg-chno="218" tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="Infantil",LOS SUPERSONICOS
 https://v3.playerlatino.live/stream/m3u8/797
 #EXTINF:-1,  tvg-chno="219" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="Infantil",EL CHAVO DEL OCHO
@@ -373,7 +373,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-med
 http://181.78.8.90:16123/play/ch25
 #EXTINF:-1 tvg-chno="410" tvg-id="1027" tvg-name="DISCOVERY TLC HD" group-title="Flow" radio="false" catchup="vod",DISCOVERY TLC HD
 http://181.78.8.90:16123/play/ch26
-#EXTINF:-1 tvg-chno="411 tvg-id="8417" tvg-name="HGTV" group-title="Flow" radio="false" catchup="vod",HGTV
+#EXTINF:-1 tvg-chno="411" tvg-id="8417" tvg-name="HGTV" group-title="Flow" radio="false" catchup="vod",HGTV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=1177721923&_cdn_timestamp=1694747385&_cdn_token=8cba5c911afcf5c303a20ba35a581b9044a0ffbf
 #EXTINF:-1 tvg-chno="412" tvg-id="695" tvg-name="GLITZ" group-title="Flow" radio="false" catchup="vod",GLITZ
 http://181.78.8.90:16123/play/ch34
@@ -496,7 +496,7 @@ http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-chno="565" tvg-id="670" tvg-name="CANAL DE LAS ESTRELLAS" group-title="Internacional" radio="false" catchup="vod",CANAL DE LAS ESTRELLAS
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 tvg-chno="566" tvg-id="941" tvg-name="ARIRANG" group-title="Internacional" radio="false" catchup="vod",ARIRANG
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="567" tvg-id="672" tvg-name="UCL" group-title="Internacional" radio="false" catchup="vod",UCL
 http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
 #EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Internacional" radio="false" catchup="vod",FRANCE 24
