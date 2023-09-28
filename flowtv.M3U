@@ -82,23 +82,23 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="74" tvg-name="TYC SPORTS HD" group-title="Deportes" radio="false" catchup="vod",TYC SPORTS HD
 http://177.53.153.21:8001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="280" tvg-name="ESPN" group-title="Deportes" radio="false" catchup="vod",ESPN
- http://181.78.8.90:16123/play/ch16 
+http://190.61.43.117:45000/play/a01l
 #EXTINF:-1 tvg-chno="103" tvg-id="278" tvg-name="ESPN 2" group-title="Deportes" radio="false" catchup="vod",ESPN 2
-http://181.78.8.90:16123/play/ch17 
+http://190.90.251.18:8000/play/a003
 #EXTINF:-1 tvg-chno="104" tvg-id="72" tvg-name="ESPN 3 HD" group-title="Deportes" radio="false" catchup="vod",ESPN 3 HD
-http://181.78.8.90:16123/play/ch18 
+http://190.90.251.18:8000/play/a004
 #EXTINF:-1 tvg-chno="105" tvg-id="279" tvg-name="ESPN EXTRA" group-title="Deportes" radio="false" catchup="vod",ESPN 4 HD
-http://170.254.172.10:8000/play/a07a/index.m3u8 
+http://190.61.43.117:45000/play/a06w
 #EXTINF:-1  tvg-chno="129" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="Deportes",ESPN EXTRA
-http://181.78.8.90:16123/play/ch19 
+http://190.61.43.117:45000/play/a01v
 #EXTINF:-1  tvg-chno="128" tvg-name="ESPN PREMIUM" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg" group-title="Deportes",ESPN PREMIUM
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwZ0Psg0dk7rHszuPZnguODBj-PZlBgpg6DOeCGm2WUAy
 #EXTINF:-1 tvg-chno="106" tvg-id="73" tvg-name="FOX SPORTS HD" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS HD
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwf_cHG-DXVZhXTazfbnr-hLTKRal2pXdacjWjqY1rFu2
+http://190.108.85.20:9999/play/a011
 #EXTINF:-1 tvg-chno="107" tvg-id="292" tvg-name="FOX SPORTS 2 HD" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 2 HD
-http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173862
+http://190.61.43.117:45000/play/a01g
 #EXTINF:-1 tvg-chno="108" tvg-id="293" tvg-name="FOX SPORTS 3 HD" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 3 HD
-http://181.78.8.90:16123/play/ch21
+http://190.61.43.117:45000/play/a060
 #EXTINF:-1,  tvg-chno="125" tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",FOX SPORTS PREMIUM
 https://webudit.webdicdn.lol/lb/premium387/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-chno="109" tvg-id="685" tvg-name="EL GARAGE" group-title="Deportes" radio="false" catchup="vod",EL GARAGE
@@ -136,7 +136,7 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 #EXTINF:-1 tvg-chno="126" tvg-id="8037" tvg-name="EVENTOS HD 2" group-title="Deportes" radio="false" catchup="vod",EVENTOS TyC SPORTS PLAY 11
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 #EXTINF:-1, tvg-chno="127" tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT SPORTS
-http://177.53.153.21:8001/play/a01x/index.m3u8
+http://200.114.68.133:8000/play/a0v5/index.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportivo",DEPORTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportes",CNAR DEPORTES
