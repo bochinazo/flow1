@@ -223,6 +223,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_c
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=1243273091&_cdn_timestamp=1696163466&_cdn_token=4e9192eb7ef6aa17d762ad859a22aad4685e9d91
 #EXTINF:-1 tvg-chno="315" tvg-id="242" tvg-name="A&E MUNDO HD" group-title="Peliculas" radio="false" catchup="vod",A&E MUNDO HD
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=1243267515&_cdn_timestamp=1696163247&_cdn_token=a602588b393d501bf4791b0fa62c743e7b218238
+#EXTINF:-1  tvg-chno="316" tvg-chno="652" tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="Peliculas", CLOVER CHANNEL
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CloverCh/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCloverCh_stream_2e&_cdn_session=1243279875&_cdn_timestamp=1696163767&_cdn_token=be96e5a911de0eb0759fab79d9679c441f1823f2
 #EXTINF:-1 tvg-chno="318" tvg-id="722" tvg-name="TCM" group-title="Peliculas" radio="false" catchup="vod",TCM
 http://177.53.153.21:8001/play/a07n/index.m3u8
 #EXTINF:-1 tvg-chno="319" tvg-id="261" tvg-name="AMC HD" group-title="Peliculas" radio="false" catchup="vod",AMC HD
@@ -336,7 +338,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-medi
 #EXTINF:-1,tvg-chno="374" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="Peliculas", CINE PREMIUM 
 http://181.78.8.90:16123/play/ch49 
 #EXTINF:-1 tvg-id="" tvg-name="CINE TV: MultiCINEma" tvg-chno="375" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png?20200108235020" group-title="Peliculas",CRACKLE
-http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNweeP9wcixYLEdDBpTYvfjic
+https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-chno=" 376" tvg-id="ext" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/orbit-tv.jpg?itok=C3qDW8zT" group-title="Peliculas",ORBIT TV 
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 #EXTINF:-1 tvg-chno=" 377" tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",ENERGEEK FANPOP
@@ -541,8 +543,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-chno="651" tvg-id="7982" tvg-name="FLOW GAMING" group-title="Flow" radio="false" catchup="vod",FLOW GAMING
 plugin://plugin.video.flow/play/channel/7982
-#EXTINF:-1 tvg-chno="652" tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="Peliculas", CLOVER CHANNEL
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CloverCh/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCloverCh_stream_2e&_cdn_session=1243279875&_cdn_timestamp=1696163767&_cdn_token=be96e5a911de0eb0759fab79d9679c441f1823f2
 #EXTINF:-1 tvg-chno="655" tvg-id="7978" tvg-name="FLOW MUSIC" group-title="Flow" radio="false" catchup="vod", CONCERT
 http://45.228.232.219:16000/play/a0o2/index.m3u8
 #EXTINF:-1 radio="true" tvg-id="RMIT" tvg-name="Mitre AM 790" group-title="Radio Flow;live",Mitre AM 790
