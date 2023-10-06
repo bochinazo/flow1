@@ -231,7 +231,7 @@ http://177.53.153.21:8001/play/a07n/index.m3u8
 http://181.78.8.90:16123/play/ch13
 #EXTINF:-1 tvg-chno="320" tvg-id="700" tvg-name="ISAT" group-title="Peliculas" radio="false" catchup="vod",ISAT
 http://45.5.117.182:8000/play/a0j3/index.m3u8
-#EXTINF:-1 tvg-chno="322" tvg-id="720" tvg-name="SY FY" group-title="Peliculas" radio="false" catchup="vod",USA NETWORK-SYFY
+#EXTINF:-1 tvg-chno="322" tvg-id="720" tvg-name="SY FY" group-title="Peliculas" radio="false" catchup="vod" tvg-logo="https://res.cloudinary.com/tongal/image/upload/w_150,c_limit/images/sponsor/2021/07/20/ScreenShot2021-07-20At52324Pm.png",USA NETWORK-SYFY
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/189
 #EXTINF:-1 tvg-chno="323" tvg-id="9139" tvg-name="SONY MOVIES" group-title="Peliculas" radio="false" catchup="vod",SONY MOVIES
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=1269110851&_cdn_timestamp=1696770178&_cdn_token=1fa882e069f4331769d81df9599174d747726dce
@@ -305,7 +305,7 @@ https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 #EXTINF:-1 tvg-chno="358" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas", RUNTIME Classics
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-#EXTINF:-1 tvg-chno="359" group-title="09-PUBLICOS juanpablo" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas,"RUNTIME Terror
+#EXTINF:-1 tvg-chno="359" group-title="09-PUBLICOS juanpablo" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas",RUNTIME Terror
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg", AMERICAN HORRORS
 https://5d0cf65a7cc81.streamlock.net/live/Stream1/.m3u8
