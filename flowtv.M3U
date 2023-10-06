@@ -266,7 +266,7 @@ http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/148927
 #EXTINF:-1 tvg-chno="338" tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbopop.webp" group-title="Peliculas",HBO POP 
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-chno="339"  tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbomundi.webp" group-title="Peliculas",HBO MUNDI
-http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3059
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/226015
 #EXTINF:-1 tvg-chno="340" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbosig.webp" group-title="Peliculas"group-title="Peliculas",HBO SIGNATURE
 http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3059
 #EXTINF:-1 tvg-chno="341"group-title="Peliculas" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png", HBO HITS
@@ -287,8 +287,8 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6153/index.m3u8
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217551.ts
 #EXTINF:-1 tvg-chno=" 349" group-title="Peliculas" tvg-logo="https://ia903105.us.archive.org/14/items/CinemaxMoviemax/cinemax%20moviemax.png",CINEMAX MOVIE MAX
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217552.ts
-#EXTINF:-1 tvg-chno="350" group-title="Peliculas" tvg-logo="https://pbs.twimg.com/profile_images/1410566916775763971/BOG0bSts_400x400.jpg", FOX BUFFALO
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6537/index.m3u8
+#EXTINF:-1 tvg-chno="350" group-title="Peliculas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Fox_%281994%29.svg/revision/latest/scale-to-width-down/200?cb=20200722000146", FOX 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28003
 #EXTINF:-1 tvg-chno="351" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png?itok=SQuhCR2p" group-title="Peliculas",PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno=" 352" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas",RUNTIME Español
@@ -305,7 +305,7 @@ https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 #EXTINF:-1 tvg-chno="358" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas", RUNTIME Classics
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-#EXTINF:-1 tvg-chno="359" group-title="09-PUBLICOS juanpablo" tvg-logo="https://image.roku.com/developer_channels/prod/1501b86df311ec17bcc3056e6e1602f2c0c192153332e9325714e14263893c93.png",JP:RUN TIME TERROR
+#EXTINF:-1 tvg-chno="359" group-title="09-PUBLICOS juanpablo" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas"RUNTIME Terror
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg", AMERICAN HORRORS
 https://5d0cf65a7cc81.streamlock.net/live/Stream1/.m3u8
@@ -679,12 +679,12 @@ https://v3.playerlatino.live/stream/m3u8/687
 https://v3.playerlatino.live/stream/m3u8/694
 #EXTINF:-1, tvg-chno=" 613" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Romance
 https://v3.playerlatino.live/stream/m3u8/689
-#EXTINF:-1, tvg-chno=" 614" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Terror
-https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-#EXTINF:-1, tvg-chno=" 615" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Zombis
-https://v3.playerlatino.live/stream/m3u8/688
+#EXTINF:-1 tvg-chno=" 614" group-title="03-ESPAÑA juanpablo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWWnGD-7tUzFh7KAAp3Db989h7go5mIAckQ&usqp=CAU",M ACCION
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139186.ts
+#EXTINF:-1 tvg-chno=" 615" group-title="03-ESPAÑA juanpablo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF4ANeb7Q51cBOZ3JLCu6MQXFXH9Bl7g6BA&usqp=CAU",XTRM
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139177.ts
 #EXTINF:-1, tvg-chno=" 616" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Comedia
-https://v3.playerlatino.live/stream/m3u8/696
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 #EXTINF:-1 tvg-chno="618" tvg-id="HallmarkChannelEast.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66268_dark_360w_270h.png" group-title="USA",HALLMARK CHANNEL
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-chno="619" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="USA",HALLMARK Drama
