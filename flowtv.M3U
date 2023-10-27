@@ -192,7 +192,7 @@ http://177.53.153.21:8001/play/a078/index.m3u8
 #EXTINF:-1 tvg-chno="300" tvg-id="701" tvg-name="CINE.AR HD" group-title="Peliculas" radio="false" catchup="vod",CINE.AR HD
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-id="673" tvg-name="CINEMAX HD" group-title="Peliculas" radio="false" catchup="vod",CINEMAX HD
-http://45.189.117.202:48000/play/a02a/index.m3u8
+http://45.5.117.182:8000/play/a0j6/index.m3u8
 #EXTINF:-1, tvg-chno="302" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
 http://45.5.117.182:8000/play/a0fs/index.m3u8
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="ARGENTINA", VOLVER 
@@ -727,3 +727,4 @@ http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217573.ts
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217576.ts
 #EXTINF:-1 tvg-chno=" 638" tvg-id="" tvg-name="SONY MOVIES│MOVIES USA" tvg-logo="https://logo.iptveditor.com/sonymovies.png" group-title="Movies",SONY MOVIES USA
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217577.ts
+     
