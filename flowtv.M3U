@@ -40,19 +40,17 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 #EXTINF:-1 tvg-chno="25" tvg-id="9117" tvg-name="BRAVO" group-title="Aire" radio="false" catchup="vod",BRAVO
 plugin://plugin.video.flow/play/channel/9117
 #EXTINF:-1 tvg-chno="26"tvg-id="TelefeCordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png"  group-title="Aire" ,TELEFE CORDOBA
-https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0237
 #EXTINF:-1tvg-chno="27" tvg-id="TelefeRosario.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png"  group-title="Aire" ,TELEFE ROSARIO
-https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0395
 #EXTINF:-1 tvg-chno="28"tvg-id="TelefeSalta.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/512px-Telefe_Salta_%282018%29.png"  group-title="Aire" ,TELEFE SALTA
-#EXTINF:-1 tvg-chno="28"tvg-id="TelefeSalta.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/512px-Telefe_Salta_%282018%29.png"  group-title="Aire" ,TELEFE SALTA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0350
 #EXTINF:-1 tvg-chno="29" tvg-id="TelefeSantaFe.ar" tvg-logo="https://i.imgur.com/x6hiZRU.png"  group-title="Aire" ,TELEFE SANTA FE
-https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0403
 #EXTINF:-1 tvg-chno="30"   group-title="Aire" radio="false" catchup="vod",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/El_Trece_Internacional_2009.png/revision/latest/scale-to-width-down/200?cb=20191216035910&path-prefix=es"   , EL TRECE INTERNACIONAL
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=1338058779&_cdn_timestamp=1698662408&_cdn_token=d3f3ea532c4a23076bf00b3919b3550d0fe940e8
 #EXTINF:-1 tvg-chno="31" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV81.png" tvg-id="ElDoce.ar"  group-title="Aire" ,EL DOCE
-https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-#EXTINF:-1 tvg-chno="32"  tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV82.png"  tvg-id="ElOcho.ar"  group-title="Aire" ,EL OCHO
-https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0236
 #EXTINF:-1 tvg-chno="33" tvg-id="TelefeJujuy.ar" tvg-logo="https://2.bp.blogspot.com/-XeKs-8yWg9k/VDHYARgGUZI/AAAAAAAAoX8/m_rbGEMELn0/s1600/logo-c7jujuy-abril2014.png"  group-title="Aire" ,TELEFE JUJUY
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0291
 #EXTINF:-1 tvg-chno="34" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png"  tvg-id="66"  group-title="Aire" ,AMERICA TV MENDOZA
@@ -360,7 +358,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media
 #EXTINF:-1 tvg-chno="386" tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="Peliculas", UNIVERSAL CRIME
 http://177.53.153.21:8001/play/a09g/index.m3u8
 #EXTINF:-1 tvg-chno="387" tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="Peliculas", UNIVERSAL CINEMA
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
+http://177.53.153.21:8001/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-chno="388" tvg-id="USA | Universal Reality" tvg-name="USA | Universal Reality" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png" group-title="Peliculas", UNIVERSAL REALITY
 http://177.53.153.21:8001/play/a09f/index.m3u8
 #EXTINF:-tvg-chno="389"  tvg-id="USA | Universal Comedy" tvg-name="USA | Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest/scale-to-width-down/250?cb=20220102015318&path-prefix=es" group-title="Peliculas", UNIVERSAL COMEDY
