@@ -112,7 +112,7 @@ plugin://plugin.video.flow/play/channel/710
 #EXTINF:-1 tvg-chno="112" tvg-id="641" tvg-name="DISC TURBO HD" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO HD
 http://181.78.8.90:16123/play/ch24
 #EXTINF:-1 tvg-chno="113" tvg-id="7840" tvg-name="PX SPORTS" group-title="Deportes" radio="false" catchup="vod",PX SPORTS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121811
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-id="663" tvg-name="AMERICA SPORTS SATELITAL" group-title="Deportes" radio="false" catchup="vod",AMERICA SPORTS SATELITAL
 plugin://plugin.video.flow/play/channel/663
 #EXTINF:-1 tvg-chno="116"  " group-title="Deportes" radio="false" catchup="vod",tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg", EVENTOS TyC SPORTS PLAY 1
@@ -266,7 +266,7 @@ http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-chno="336" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbofam.webp" group-title="Peliculas",  HBO FAMILY
 http://177.53.153.21:8001/play/a04g/index.m3u8
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hboxtreme.webp" group-title="Peliculas",  HBO XTREME
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4183
+http://177.53.153.21:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-chno="338" tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbopop.webp" group-title="Peliculas",HBO POP 
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-chno="339"  tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbomundi.webp" group-title="Peliculas",HBO MUNDI
@@ -436,7 +436,7 @@ https://dyo5cp96eopax.cloudfront.net/p/CANE_640x360_800k.m3u8
 #EXTINF:-1 tvg-chno="427" tvg-id="1254" tvg-name="CANAL LUZ" group-title="Flow" radio="false" catchup="vod",CANAL LUZ
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0392
 #EXTINF:-1 tvg-chno="428" tvg-id="733" tvg-name="WOBI" group-title="Flow" radio="false" catchup="vod",WOBI
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist.m3u8
+http://190.211.250.148:8000/play/a038
 #EXTINF:-1 tvg-chno="429" tvg-id="8717" tvg-name="CHACRA TV" group-title="Flow" radio="false" catchup="vod",CHACRA TV
 https://s8.stweb.tv/chacra/live/chunks.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TecTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Cultura",TEC TV
@@ -693,6 +693,8 @@ http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139186.ts
 http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139177.ts
 #EXTINF:-1, tvg-chno=" 616" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Comedia
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
+#EXTINF:-1 tvg-chno=" 617" tvg-id="CL | MX Classic" tvg-name="CL | MX Classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", CLASSIC+
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-chno="618" tvg-id="HallmarkChannelEast.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66268_dark_360w_270h.png" group-title="USA",HALLMARK CHANNEL
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-chno="619" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="USA",HALLMARK Drama
