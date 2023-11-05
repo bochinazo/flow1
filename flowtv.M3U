@@ -20,7 +20,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="262" tvg-name="A24 HD" group-title="Noticias" radio="false" catchup="vod",A24 HD
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="65" tvg-name="C5N" group-title="Noticias" radio="false" catchup="vod",C5N
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0071
 #EXTINF:-1 tvg-chno="17" tvg-id="269" tvg-name="CRONICA HD" group-title="Noticias" radio="false" catchup="vod",CRONICA HD
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
 #EXTINF:-1 tvg-chno="18" tvg-id="1025" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod",26 TV
@@ -42,11 +42,11 @@ plugin://plugin.video.flow/play/channel/9117
 #EXTINF:-1 tvg-chno="26"tvg-id="TelefeCordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png"  group-title="Aire" ,TELEFE CORDOBA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0233
 #EXTINF:-1tvg-chno="27" tvg-id="TelefeRosario.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png"  group-title="Aire" ,TELEFE ROSARIO
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0393
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0394
 #EXTINF:-1 tvg-chno="28"tvg-id="TelefeSalta.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/512px-Telefe_Salta_%282018%29.png"  group-title="Aire" ,TELEFE SALTA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0348
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0349
 #EXTINF:-1 tvg-chno="29" tvg-id="TelefeSantaFe.ar" tvg-logo="https://i.imgur.com/x6hiZRU.png"  group-title="Aire" ,TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0401
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0402
 #EXTINF:-1 tvg-chno="30"   group-title="Aire" radio="false" catchup="vod",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/El_Trece_Internacional_2009.png/revision/latest/scale-to-width-down/200?cb=20191216035910&path-prefix=es"   , EL TRECE INTERNACIONAL
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=1364934787&_cdn_timestamp=1699216705&_cdn_token=f7191087b44eef9c9b7ca6eb7bfa6034eae53127
 #EXTINF:-1 tvg-chno="31" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV81.png" tvg-id="ElDoce.ar"  group-title="Aire" ,EL DOCE
@@ -58,7 +58,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png"  tvg-id="66"  group-title="Aire" ,AMERICA TV MENDOZA
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0306
 #EXTINF:-1 tvg-chno="35" tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV82.png"  tvg-id="66"  group-title="Aire" ,AMERICA TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0365
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0366
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKa-j8Veoa60WrBIZ0GDoYI-9W3P5UXFNFeNnW5f=s176-c-k-c0x00ffffff-no-rj"   group-title="Aire" ,TELEFE MAR DEL PLATA
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-logo="http://www.radiosargentina.com.ar/png/VI--CGTN.png" group-title="Noticias",CGTN ESPAÑOL
@@ -74,7 +74,7 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.
 #EXTINF:-1 tvg-chno="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/C10_Mar_del_Plata.png/133px-C10_Mar_del_Plata.png" tvg-id="Canal10MardelPlata.ar"  group-title="Aire" ,EL TRECE 10 MAR DEL PLATA 
 https://ythls.onrender.com/channel/UCUM1n1Cb_cbnYTY45GvtyJw.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Aire",KZO ENTERTAINMENT
-#EXTINF:-1 tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Aire",KZO ENTERTAINMENT
+http://185.71.66.13:8080/zyTYRQufUL/YBZgSIUHnS/43904
 #EXTINF:-1 tvg-chno="36" tvg-id="7097" tvg-name="DIPUTADOS TV" group-title="Noticias" radio="false" catchup="vod",DIPUTADOS TV
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0095
 #EXTINF:-1 tvg-chno="90" tvg-id="921" tvg-name="CANAL 90" group-title="None" radio="false" catchup="vod",CANAL 90
@@ -272,7 +272,7 @@ http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-chno="339"  tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbomundi.webp" group-title="Peliculas",HBO MUNDI
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
 #EXTINF:-1 tvg-chno="340" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbosig.webp" group-title="Peliculas"group-title="Peliculas",HBO SIGNATURE
-http://177.53.153.21:8001/play/a04h/index.m3u8
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/182.m3u8
 #EXTINF:-1 tvg-chno="341"group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png", HBO ZONE
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217547.ts
 #EXTINF:-1 tvg-chno=" 342" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas", MY TIME MOVIES 1
@@ -434,7 +434,7 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="426" tvg-id="690" tvg-name="EWTN" group-title="Flow" radio="false" catchup="vod",EWTN
 https://dyo5cp96eopax.cloudfront.net/p/CANE_640x360_800k.m3u8
 #EXTINF:-1 tvg-chno="427" tvg-id="1254" tvg-name="CANAL LUZ" group-title="Flow" radio="false" catchup="vod",CANAL LUZ
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0391
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0392
 #EXTINF:-1 tvg-chno="428" tvg-id="733" tvg-name="WOBI" group-title="Flow" radio="false" catchup="vod",WOBI
 http://190.211.250.148:8000/play/a038
 #EXTINF:-1 tvg-chno="429" tvg-id="8717" tvg-name="CHACRA TV" group-title="Flow" radio="false" catchup="vod",CHACRA TV
@@ -496,7 +496,7 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19148/index.m3u8
 #EXTINF:-1 tvg-chno="514" group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b8d2a6a7d0c3588f50ccc190b3f6a40d.png",NBC Universo
 http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/90120
 #EXTINF:-1 tvg-chno="515" tvg-id="669" tvg-name="CANAL DE LA CIUDAD" group-title="Flow" radio="false" catchup="vod",CANAL DE LA CIUDAD
-https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0021
 #EXTINF:-1 tvg-chno="516" tvg-id="1445" tvg-name="Teatrix" tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png", TEATRIX 
 https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="520" tvg-id="6897" tvg-name="SOMOS ROSARIO HD" group-title="Flow" radio="false" catchup="vod",SOMOS ROSARIO HD
@@ -544,13 +544,13 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-chno="567" tvg-id="672" tvg-name="UCL" group-title="Internacional" radio="false" catchup="vod",UCL
 http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
 #EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Internacional" radio="false" catchup="vod",FRANCE 24
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0034
 #EXTINF:-1 tvg-chno="569" tvg-id="1162" tvg-name="NEW BRASIL" group-title="Internacional" radio="false" catchup="vod",NEW BRASIL
 plugin://plugin.video.flow/play/channel/1162
 #EXTINF:-1 tvg-chno="573" tvg-id="664" tvg-name="ARGENTINISIMA SATELITAL" group-title="Flow" radio="false" catchup="vod",ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-chno="575" tvg-id="6617" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",FRANCE 24 ESPAÑOL
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0066
 #EXTINF:-1 tvg-chno="651" tvg-id="7982" tvg-name="FLOW GAMING" group-title="Flow" radio="false" catchup="vod",FLOW GAMING
 plugin://plugin.video.flow/play/channel/7982
 #EXTINF:-1 tvg-chno="655" tvg-id="7978" tvg-name="FLOW MUSIC" group-title="Flow" radio="false" catchup="vod", CONCERT
