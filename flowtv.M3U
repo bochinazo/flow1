@@ -739,21 +739,21 @@ http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217573.ts
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217576.ts
 #EXTINF:-1 tvg-chno=" 638" tvg-id="" tvg-name="SONY MOVIES│MOVIES USA" tvg-logo="https://logo.iptveditor.com/sonymovies.png" group-title="Movies",SONY MOVIES USA
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217577.ts
-#EXTINF:-1   tvg-chno=" 639"group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",CINEMA MOVISTAR 00
+#EXTINF:-1   tvg-chno=" 639"group-title="✅ 24/7 Cine" tvg-logo="https://i.blogs.es/113194/movistartv/450_1000.jpg",CINEMA MOVISTAR 00
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
-#EXTINF:-1   tvg-chno=" 640" group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",CINEMA MOVISTAR  01
+#EXTINF:-1   tvg-chno=" 640" group-title="✅ 24/7 Cine" tvg-logo="https://i.blogs.es/113194/movistartv/450_1000.jpg",CINEMA MOVISTAR  01
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507617&extension=ts&play_token=GRq1kuwvbY
-#EXTINF:-1  tvg-chno=" 641" group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",CINEMA MOVISTAR 02
+#EXTINF:-1  tvg-chno=" 641" group-title="✅ 24/7 Cine" tvg-logo="https://i.blogs.es/113194/movistartv/450_1000.jpg",CINEMA MOVISTAR 02
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507616&extension=ts&play_token=vhphKQbwnV
-#EXTINF:-1  tvg-chno="642" group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",CINEMA MOVISTAR 03
+#EXTINF:-1  tvg-chno="642" group-title="✅ 24/7 Cine" tvg-logo="https://i.blogs.es/113194/movistartv/450_1000.jpg",CINEMA MOVISTAR 03
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507615&extension=ts&play_token=MDBjCPbHPn
-#EXTINF:-1  tvg-chno="643" group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",CINEMA MOVISTAR 04
+#EXTINF:-1  tvg-chno="643" group-title="✅ 24/7 Cine" tvg-logo="https://i.blogs.es/113194/movistartv/450_1000.jpg",CINEMA MOVISTAR 04
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507614&extension=ts&play_token=Xim3PTfIJP
-#EXTINF:-1  tvg-chno="644" group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",CINEMA MOVISTAR 05
+#EXTINF:-1  tvg-chno="644" group-title="✅ 24/7 Cine" tvg-logo="https://i.blogs.es/113194/movistartv/450_1000.jpg",CINEMA MOVISTAR 05
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507609&extension=ts&play_token=Uwexr4qpwy
-#EXTINF:-1  tvg-chno="645" group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",CINEMA MOVISTAR 06
+#EXTINF:-1  tvg-chno="645" group-title="✅ 24/7 Cine" tvg-logo="https://i.blogs.es/113194/movistartv/450_1000.jpg",CINEMA MOVISTAR 06
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&extension=ts&play_token=dvsszwS27o
-#EXTINF:-1  tvg-chno="646" group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",CINEMA MOVISTAR 07
+#EXTINF:-1  tvg-chno="646" group-title="✅ 24/7 Cine" tvg-logo="https://i.blogs.es/113194/movistartv/450_1000.jpg",CINEMA MOVISTAR 07
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
-#EXTINF:-1  tvg-chno="647" group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",CINEMA MOVISTAR 08
+#EXTINF:-1  tvg-chno="647" group-title="✅ 24/7 Cine" tvg-logo="https://i.blogs.es/113194/movistartv/450_1000.jpg",CINEMA MOVISTAR 08
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
