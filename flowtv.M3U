@@ -208,9 +208,9 @@ http://177.53.153.21:8001/play/a01w/index.m3u8
 #EXTINF:-1 tvg-chno="305" tvg-id="267" tvg-name="CINECANAL HD" group-title="Peliculas" radio="false" catchup="vod",CINECANAL HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_session=1406225027&_cdn_timestamp=1699422594&_cdn_token=4a051e54d994edb91d237e26474276857cd3dc60
 #EXTINF:-1 tvg-chno="306" tvg-id="6877" tvg-name="TNT HD" group-title="Peliculas" radio="false" catchup="vod",TNT HD
-http://177.53.153.21:8001/play/a02b/index.m3u8
+http://177.93.45.155:6143/play/a00l/index.m3u8
 #EXTINF:-1 tvg-chno="307" tvg-id="322" tvg-name="TNT SERIES" group-title="Series" radio="false" catchup="vod",TNT SERIES
-http://177.53.153.21:8001/play/a02y/index.m3u8
+http://170.82.37.21:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-chno="308" tvg-id="294" tvg-name="FX HD" group-title="Peliculas" radio="false" catchup="vod",FX HD
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=1406237851&_cdn_timestamp=1699422756&_cdn_token=050bc6fc2e341549ef238d5447e015803526de4f
 #EXTINF:-1 tvg-chno="309" tvg-id="123" tvg-name="STAR CHANNEL HD" group-title="Peliculas" radio="false" catchup="vod",STAR CHANNEL HD
