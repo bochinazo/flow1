@@ -208,7 +208,7 @@ http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-chno="305" tvg-id="267" tvg-name="CINECANAL HD" group-title="Peliculas" radio="false" catchup="vod",CINECANAL HD
 http://190.187.154.156:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-chno="306" tvg-id="6877" tvg-name="TNT HD" group-title="Peliculas" radio="false" catchup="vod",TNT HD
-http://170.82.37.21:8000/play/a03c/index.m3u8
+http://170.82.37.21:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-chno="307" tvg-id="322" tvg-name="TNT SERIES" group-title="Series" radio="false" catchup="vod",TNT SERIES
 http://170.82.37.21:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-chno="308" tvg-id="294" tvg-name="FX HD" group-title="Peliculas" radio="false" catchup="vod",FX HD
@@ -229,7 +229,7 @@ http://190.187.154.156:8000/play/a063/index.m3u8
 http://190.187.154.156:8000/play/a05n/index.m3u8
 #EXTINF:-1  tvg-chno="316" tvg-chno="652" tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="Peliculas", CLOVER CHANNEL
 http://190.187.154.156:8000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-chno="317" tvg-logo "https://yt3.googleusercontent.com/ytc/APkrFKY50rH8nfGOs1ZaH3hlBEMpJn4he6VdjCtJZOD3=s176-c-k-c0x00ffffff-no-rj" group-title="Peliculas",TERROR TV 
+#EXTINF:-1 tvg-chno="317" tvg-logo "https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="Peliculas",TERROR TV 
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="318" tvg-id="722" tvg-name="TCM" group-title="Peliculas" radio="false" catchup="vod",TCM
 http://170.82.37.21:8000/play/a038/index.m3u8
