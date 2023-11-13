@@ -229,7 +229,7 @@ http://190.187.154.156:8000/play/a063/index.m3u8
 http://190.187.154.156:8000/play/a05n/index.m3u8
 #EXTINF:-1  tvg-chno="316" tvg-chno="652" tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="Peliculas", CLOVER CHANNEL
 http://190.187.154.156:8000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-chno="317" tvg-logo "https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="Peliculas",TERROR TV 
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="Peliculas",TERROR TV 
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="318" tvg-id="722" tvg-name="TCM" group-title="Peliculas" radio="false" catchup="vod",TCM
 http://170.82.37.21:8000/play/a038/index.m3u8
