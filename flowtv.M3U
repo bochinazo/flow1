@@ -82,7 +82,7 @@ plugin://plugin.video.flow/play/channel/921
 #EXTINF:-1 tvg-chno="100" tvg-id="270" tvg-name="DEPORTV HD" group-title="Deportes" radio="false" catchup="vod",DEPORTV HD
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="74" tvg-name="TYC SPORTS HD" group-title="Deportes" radio="false" catchup="vod",TYC SPORTS HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662
 #EXTINF:-1 tvg-chno="102" tvg-id="280" tvg-name="ESPN" group-title="Deportes" radio="false" catchup="vod",ESPN
 http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1915
 #EXTINF:-1 tvg-chno="103" tvg-id="278" tvg-name="ESPN 2" group-title="Deportes" radio="false" catchup="vod",ESPN 2
@@ -156,7 +156,7 @@ http://190.187.154.156:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-id="71" tvg-name="CARTOON NETWORK" group-title="Infantil" radio="false" catchup="vod",CARTOON NETWORK
 http://177.53.153.21:8001/play/a03d/index.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="9140" tvg-name="DREAMWORKS" group-title="Infantil" radio="false" catchup="vod",DREAMWORKS
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=1446844363&_cdn_timestamp=1700032320&_cdn_token=8b3f29edf8d8b0b108061de2445107edb0c30060
+http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/312777.m3u8
 #EXTINF:-1 tvg-chno="205" tvg-id="679" tvg-name="DISCOVERY KIDS" group-title="Infantil" radio="false" catchup="vod",DISCOVERY KIDS
 http://190.187.154.156:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-chno="206" tvg-id="266" tvg-name="CARTOONITO HD" group-title="Infantil" radio="false" catchup="vod",CARTOONITO HD
@@ -168,11 +168,11 @@ http://170.82.37.21:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-id="726" tvg-name="TOONCAST" group-title="Infantil" radio="false" catchup="vod",TOONCAST
 http://181.78.8.90:16123/play/a068
 #EXTINF:-1 tvg-chno="210" tvg-id="711" tvg-name="NICK JR." group-title="Infantil" radio="false" catchup="vod",NICK JR.
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=1446845667&_cdn_timestamp=1700032333&_cdn_token=6146bf0e20858778559f4ace579da0c243ef25e7
+http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/312814.m3u8
 #EXTINF:-1,  tvg-chno="211"tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantil",TEEN NICK
 http://187.102.208.108:50001/play/a047/index.m3u8
 #EXTINF:-1 tvg-chno="212" tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="INFANTILES",PLIM PLIM TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLIMPLIM_stream_63&_cdn_session=1446839771&_cdn_timestamp=1700032268&_cdn_token=2f7559ad335d7294b69ceb04bae7e54b9febb3e7
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLIMPLIM_stream_63&_cdn_session=1454448979&_cdn_timestamp=1700157445&_cdn_token=f25461e75ffd4e5ca32f7805a99d03b499358752
 #EXTINF:-1,  tvg-chno="213" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="Infantil",LA PANTERA ROSA
 https://v3.playerlatino.live/stream/m3u8/671
 #EXTINF:-1,  tvg-chno="214" tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Infantil",LOONEY TUNES
@@ -212,7 +212,7 @@ http://170.82.37.21:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-chno="307" tvg-id="322" tvg-name="TNT SERIES" group-title="Series" radio="false" catchup="vod",TNT SERIES
 http://170.82.37.21:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-chno="308" tvg-id="294" tvg-name="FX HD" group-title="Peliculas" radio="false" catchup="vod",FX HD
-http://190.187.154.156:8000/play/a06e/index.m3u8
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
 #EXTINF:-1 tvg-chno="309" tvg-id="123" tvg-name="STAR CHANNEL HD" group-title="Peliculas" radio="false" catchup="vod",STAR CHANNEL HD
 http://190.187.154.156:8000/play/a066/index.m3u8
 #EXTINF:-1 tvg-chno="310" tvg-id="124" tvg-name="SONY HD" group-title="Peliculas" radio="false" catchup="vod",SONY HD
@@ -238,7 +238,7 @@ http://190.187.154.156:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-chno="320" tvg-id="700" tvg-name="ISAT" group-title="Peliculas" radio="false" catchup="vod",ISAT
 http://45.5.117.182:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-chno="322" tvg-id="720" tvg-name="SY FY" group-title="Peliculas" radio="false" catchup="vod" tvg-logo="https://res.cloudinary.com/tongal/image/upload/w_150,c_limit/images/sponsor/2021/07/20/ScreenShot2021-07-20At52324Pm.png",USA NETWORK-SYFY
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=1439536539&_cdn_timestamp=1699898743&_cdn_token=30fa4995b7470e03de8719e8f8ecf36cc184d06f
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/189
 #EXTINF:-1 tvg-chno="323" tvg-id="9139" tvg-name="SONY MOVIES" group-title="Peliculas" radio="false" catchup="vod",SONY MOVIES
 http://170.82.37.21:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-chno="324" tvg-id="687" tvg-name="EUROCHANNEL" group-title="Peliculas" radio="false" catchup="vod",EUROCHANNEL
@@ -416,7 +416,7 @@ http://181.78.8.90:16123/play/ch25
 #EXTINF:-1 tvg-chno="410" tvg-id="1027" tvg-name="DISCOVERY TLC HD" group-title="Flow" radio="false" catchup="vod",DISCOVERY TLC HD
 http://181.78.8.90:16123/play/ch26
 #EXTINF:-1 tvg-chno="411" tvg-id="8417" tvg-name="HGTV" group-title="Flow" radio="false" catchup="vod",HGTV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=1445669627&_cdn_timestamp=1700014598&_cdn_token=0e66c6deefaa6e0f751b4f29eee15a57a5fdbaff
+http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/312798.m3u8
 #EXTINF:-1 tvg-chno="412" tvg-id="695" tvg-name="GLITZ" group-title="Flow" radio="false" catchup="vod",GLITZ
 http://181.78.8.90:16123/play/ch34
 #EXTINF:-1 tvg-chno="413" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElDestape.jpg" group-title="Noticias",EL DESTAPE SIN FIN
@@ -468,7 +468,7 @@ http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
 #EXTINF:-1 tvg-chno="460" tvg-id="681" tvg-name="DISCOVERY WORLD HD" group-title="Flow" radio="false" catchup="vod",DISCOVERY WORLD HD
 http://177.53.153.21:8001/play/a037/index.m3u8
 #EXTINF:-1 tvg-chno="462" tvg-id="680" tvg-name="DISCOVERY SCIENCE" group-title="Flow" radio="false" catchup="vod",DISCOVERY SCIENCE
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=1446847963&_cdn_timestamp=1700032359&_cdn_token=9cbad3244b989ae68366bda9190331abc0bbb802
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/53464
 #EXTINF:-1 tvg-chno="500" tvg-id="707" tvg-name="MTV HD" group-title="Musical" radio="false" catchup="vod",MTV HD
 http://45.5.117.182:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-id="715" tvg-name="QUIERO HD" group-title="Musical" radio="false" catchup="vod",QUIERO HD
@@ -520,7 +520,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 #EXTINF:-1 tvg-chno="552" tvg-id="666" tvg-name="BLOOMBERG" group-title="Internacional" radio="false" catchup="vod",BLOOMBERG
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0020
 #EXTINF:-1 tvg-chno="553" tvg-id="727" tvg-name="TVN CHILE" group-title="Internacional" radio="false" catchup="vod",TVN CHILE
-http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/16.m3u8
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 #EXTINF:-1 tvg-chno="554" tvg-id="730" tvg-name="TV 5" group-title="Internacional" radio="false" catchup="vod",TV 5
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-chno="555" tvg-id="CanalE.ar"  tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1",E ECONOMIA
@@ -695,7 +695,7 @@ https://v3.playerlatino.live/stream/m3u8/689
 http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139186.ts
 #EXTINF:-1 tvg-chno=" 615" group-title="03-ESPAÑA juanpablo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF4ANeb7Q51cBOZ3JLCu6MQXFXH9Bl7g6BA&usqp=CAU",XTRM
 http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139177.ts
-#EXTINF:-1, tvg-chno=" 616" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP9Og1L5fJWdU-SsHLS663XxeKFe5mj2QZA&usqp=CAU" group-title="Peliculas",CINE de Comedia
+#EXTINF:-1, tvg-chno=" 616" tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="Peliculas",DISTRITO COMEDIA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 #EXTINF:-1 tvg-chno=" 617" tvg-id="CL | MX Classic" tvg-name="CL | MX Classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", CLASSIC+
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
