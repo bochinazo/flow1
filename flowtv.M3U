@@ -270,11 +270,11 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/176
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hboplus.webp" group-title="Peliculas",  HBO+
 http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-chno="336" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbofam.webp" group-title="Peliculas",  HBO FAMILY
-http://177.53.153.21:8001/play/a04g/index.m3u8
+http://170.82.37.21:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hboxtreme.webp" group-title="Peliculas",  HBO XTREME
-http://177.53.153.21:8001/play/a04h/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4183
 #EXTINF:-1 tvg-chno="338" tvg-id="hbopop.mx" tvg-name="HBO POP HD" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbopop.webp" group-title="Peliculas",HBO POP 
-http://177.53.153.21:8001/play/a01y/index.m3u8
+http://187.102.208.108:50001/play/a007/index.m3u8
 #EXTINF:-1 tvg-chno="339"  tvg-id="hbomundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbomundi.webp" group-title="Peliculas",HBO MUNDI
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
 #EXTINF:-1 tvg-chno="340" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbosig.webp" group-title="Peliculas"group-title="Peliculas",HBO SIGNATURE
@@ -336,7 +336,7 @@ http://45.5.117.182:8000/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="golden.us"tvg-chno=" 368" tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png " group-title="Peliculas", GOLDEN PLUS
 http://187.102.208.108:50001/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="golden.edge" tvg-chno="369" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png?20210824000810" group-title="Peliculas", GOLDEN EDGE 
-http://gotv.vip:8880/Angel2023/Angel2023/85
+http://181.78.8.90:16123/play/ch47
 #EXTINF:-1 tvg-chno="370" tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Peliculas", GOLDEN PREMIER
 http://170.82.37.21:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-chno="371" tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Peliculas", GOLDEN PREMIER 2
