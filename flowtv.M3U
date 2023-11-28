@@ -116,7 +116,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-chno="112" tvg-id="641" tvg-name="DISC TURBO HD" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO HD
 http://181.78.8.90:16123/play/ch24
 #EXTINF:-1 tvg-chno="113" tvg-id="7840" tvg-name="PX SPORTS" group-title="Deportes" radio="false" catchup="vod",PX SPORTS
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
+https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=528&f=.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-id="663" tvg-name="AMERICA SPORTS SATELITAL" group-title="Deportes" radio="false" catchup="vod",AMERICA SPORTS SATELITAL
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 #EXTINF:-1 tvg-chno="116"  " group-title="Deportes" radio="false" catchup="vod",tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg", EVENTOS TyC SPORTS PLAY 1
@@ -183,10 +183,10 @@ https://v3.playerlatino.live/stream/m3u8/671
 https://v3.playerlatino.live/stream/m3u8/524
 #EXTINF:-1,  tvg-chno="215" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="Infantil",LOS PICAPIEDRAS
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
-#EXTINF:-1 tvg-chno="216 tvg-id="" tvg-logo="https://i.imgur.com/UbZXTKF.jpg" group-title="Infantil",PITUFO TV
+#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://i.imgur.com/UbZXTKF.jpg" group-title="Infantil",PITUFO TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-#EXTINF:-1,  tvg-chno="217" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Infantil",LOS SIMPSON 
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1305
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/130px-FXX_Logo.svg.png" group-title="Bics Extra MX", FXX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713
 #EXTINF:-1,  tvg-chno="218" tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="Infantil",LOS SUPERSONICOS
 https://v3.playerlatino.live/stream/m3u8/797
 #EXTINF:-1,  tvg-chno="219" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="Infantil",EL CHAVO DEL OCHO
@@ -202,7 +202,7 @@ http://170.82.37.21:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-chno="300" tvg-id="701" tvg-name="CINE.AR HD" group-title="Peliculas" radio="false" catchup="vod",CINE.AR HD
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-id="673" tvg-name="CINEMAX HD" group-title="Peliculas" radio="false" catchup="vod",CINEMAX HD
-http://45.5.117.182:8000/play/a0j6/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
 #EXTINF:-1, tvg-chno="302" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
 http://45.5.117.182:8000/play/a0fs/index.m3u8
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="ARGENTINA", VOLVER 
