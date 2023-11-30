@@ -86,7 +86,7 @@ plugin://plugin.video.flow/play/channel/921
 #EXTINF:-1 tvg-chno="100" tvg-id="270" tvg-name="DEPORTV HD" group-title="Deportes" radio="false" catchup="vod",DEPORTV HD
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="74" tvg-name="TYC SPORTS HD" group-title="Deportes" radio="false" catchup="vod",TYC SPORTS HD
-http://dezerottv.mypsx.net:8089/live/jose2/jose2/fc05cd05-d9c2-49c5-ae24-2ce0489b336a.m3u
+http://190.187.154.156:8000/play/a0d6/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="280" tvg-name="ESPN" group-title="Deportes" radio="false" catchup="vod",ESPN
 http://dezerottv.mypsx.net:8089/live/jose2/jose2/819aab9d-1000-4a92-970d-d99d966a5b19.m3u
 #EXTINF:-1 tvg-chno="103" tvg-id="278" tvg-name="ESPN 2" group-title="Deportes" radio="false" catchup="vod",ESPN 2
