@@ -116,7 +116,7 @@ http://likea8bitboss.xyz:80/Dpride254/5683704192/344574
 #EXTINF:-1 tvg-chno="112" tvg-id="641" tvg-name="DISC TURBO HD" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO HD
 http://181.78.8.90:16123/play/ch24
 #EXTINF:-1 tvg-chno="113" tvg-id="7840" tvg-name="PX SPORTS" group-title="Deportes" radio="false" catchup="vod",PX SPORTS
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=528&f=.m3u8
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2121811
 #EXTINF:-1 tvg-chno="115" tvg-id="663" tvg-name="AMERICA SPORTS SATELITAL" group-title="Deportes" radio="false" catchup="vod",AMERICA SPORTS SATELITAL
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 #EXTINF:-1 tvg-chno="116"  " group-title="Deportes" radio="false" catchup="vod",tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg", EVENTOS TyC SPORTS PLAY 1
@@ -178,15 +178,15 @@ http://187.102.208.108:50001/play/a047/index.m3u8
 #EXTINF:-1 tvg-chno="212" tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="INFANTILES",PLIM PLIM TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLIMPLIM_stream_63&_cdn_session=1578092643&_cdn_timestamp=1701845221&_cdn_token=e2e85a282a779a6ce67ca715c1f8cfaf5dfe215d
 #EXTINF:-1,  tvg-chno="213" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="Infantil",LA PANTERA ROSA
-https://v3.playerlatino.live/stream/m3u8/671
+https://3.ultimate2019.com/stream/hls/671
 #EXTINF:-1,  tvg-chno="214" tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Infantil",LOONEY TUNES
-https://v3.playerlatino.live/stream/m3u8/524
+https://3.ultimate2019.com/stream/hls/524
 #EXTINF:-1,  tvg-chno="215" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="Infantil",LOS PICAPIEDRAS
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 #EXTINF:-1 tvg-chno="216" tvg-id="" tvg-logo="https://i.imgur.com/UbZXTKF.jpg" group-title="Infantil",PITUFO TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/130px-FXX_Logo.svg.png" group-title="Bics Extra MX", FXX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713
+https://3.ultimate2019.com/stream/hls/357
 #EXTINF:-1,  tvg-chno="218" tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="Infantil",LOS SUPERSONICOS
 https://v3.playerlatino.live/stream/m3u8/797
 #EXTINF:-1,  tvg-chno="219" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="Infantil",EL CHAVO DEL OCHO
@@ -505,8 +505,8 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0015
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
 #EXTINF:-1 tvg-chno="513" group-title="Musical" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/1200px-MTV_Classic_2021.svg.png", MTV CLASSIC
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19148/index.m3u8
-#EXTINF:-1 tvg-chno="514" group-title="LAT-1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b8d2a6a7d0c3588f50ccc190b3f6a40d.png",NBC Universo
-http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/90120
+#EXTINF:-1 tvg-chno="514" group-title="LAT-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/180px-Universo_2017.svg.png",NBC UNIVERSO
+http://167.114.156.136:25461/INFINITV/ZX89NM22/165
 #EXTINF:-1 tvg-chno="515" tvg-id="669" tvg-name="CANAL DE LA CIUDAD" group-title="Flow" radio="false" catchup="vod",CANAL DE LA CIUDAD
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
 #EXTINF:-1 tvg-chno="516" tvg-id="1445" tvg-name="Teatrix" tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png", TEATRIX 
@@ -744,7 +744,7 @@ http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217567.ts
 #EXTINF:-1 tvg-chno=" 634" tvg-id="" tvg-name="SHOWTIME FAMILY ZONE│MOVIES USA" tvg-logo="https://logo.iptveditor.com/showtimefamilyzones.png" group-title="Movies",SHOWTIME FAMILY ZONE
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217569.ts
 #EXTINF:-1 tvg-chno=" 635" tvg-id="" tvg-name="SHOWTIME NEXT│MOVIES USA" tvg-logo="https://logo.iptveditor.com/showtimenext.png" group-title="Movies",SHOWTIME NEXT
-http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217571.ts
+http://167.114.156.136:25461/INFINITV/ZX89NM22/189
 #EXTINF:-1 tvg-chno=" 636" tvg-id="" tvg-name="SHOWTIME SHOWCASE│MOVIES USA" tvg-logo="https://logo.iptveditor.com/showtimeshowcases.png" group-title="Movies",SHOWTIME SHOWCASE
 http://likea8bitboss.xyz:80/Dpride254/5683704192/742657
 #EXTINF:-1 tvg-chno=" 637" tvg-id="" tvg-name="SHOWTIME WOMEN│MOVIES USA" tvg-logo="https://logo.iptveditor.com/showtimewomen.png" group-title="Movies",SHOWTIME WOMEN
@@ -777,9 +777,9 @@ http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/210822
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/210823
 #EXTINF:-1 tvg-chno=" 651" group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",CINE DE DRAMA
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/203983
-#EXTINF:-1 tvg-chno=" 652" group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7 :CINE ACCION
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090917
-#EXTINF:-1 tvg-chno=" 653" group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7 :CINE ACCION SAGAS
+#EXTINF:-1 tvg-chno=" 652" group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",CINE ACCION
+https://3.ultimate2019.com/stream/hls/671
+#EXTINF:-1 tvg-chno=" 653" group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",CINE ACCION SAGAS
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090918
 #EXTINF:-1 tvg-chno=" 654" group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7: CINE ACCION HD
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090923
