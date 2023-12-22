@@ -28,7 +28,7 @@ http://gamsgo.cyou:8080/732b6535/3660edeef3/3190
 #EXTINF:-1 tvg-chno="19" tvg-id="1081" tvg-name="LA NACION" group-title="Noticias" radio="false" catchup="vod",LA NACION +
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0074
 #EXTINF:-1 tvg-chno="20" tvg-id="64" tvg-name="MAGAZINE" group-title="Flow" radio="false" catchup="vod",CIUDAD MAGAZINE
-http://gamsgo.cyou:8080/732b6535/3660edeef3/38663
+http://gamsgo.cyou:8080/7e4b0dbd/1dd755dc3f/38663
 #EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="686" tvg-name="ENCUENTRO" group-title="Flow" radio="false" catchup="vod",ENCUENTRO
@@ -98,7 +98,7 @@ http://dezerottv.mypsx.net:8089/live/jose2/jose2/87571246-8447-4abc-a2f7-e526e7e
 #EXTINF:-1  tvg-chno="129" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="Deportes",ESPN EXTRA
 http://dezerottv.mypsx.net:8089/live/jose2/jose2/bd4409f0-ad91-47d8-ab15-3c790a5f7ede.m3u
 #EXTINF:-1  tvg-chno="128" tvg-name="ESPN PREMIUM" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg" group-title="Deportes",ESPN PREMIUM
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0031
+http://gamsgo.cyou:8080/7e4b0dbd/1dd755dc3f/298158
 #EXTINF:-1 tvg-chno="106" tvg-id="73" tvg-name="FOX SPORTS HD" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS HD
 http://dezerottv.mypsx.net:8089/live/jose2/jose2/71ad8571-ba41-48b1-8c50-e6e830e2ea14.m3u
 #EXTINF:-1 tvg-chno="107" tvg-id="292" tvg-name="FOX SPORTS 2 HD" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 2 HD
@@ -230,7 +230,7 @@ http://likea8bitboss.xyz:80/Dpride254/5683704192/775783
 #EXTINF:-1, tvg-chno="302" tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
 http://45.5.117.182:8000/play/a0fs/index.m3u8
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="ARGENTINA", VOLVER 
-http://gamsgo.cyou:8080/732b6535/3660edeef3/49329
+http://gamsgo.cyou:8080/7e4b0dbd/1dd755dc3f/49329
 #EXTINF:-1 tvg-chno="304" tvg-id="67" tvg-name="SPACE HD" group-title="Peliculas" radio="false" catchup="vod",SPACE HD
 http://45.5.117.182:8000/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-chno="305" tvg-id="267" tvg-name="CINECANAL HD" group-title="Peliculas" radio="false" catchup="vod",CINECANAL HD
@@ -487,7 +487,7 @@ http://138.59.177.34:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-chno="500" tvg-id="707" tvg-name="MTV HD" group-title="Musical" radio="false" catchup="vod",MTV HD
 http://138.59.177.34:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-id="715" tvg-name="QUIERO HD" group-title="Musical" radio="false" catchup="vod",QUIERO HD
-http://gamsgo.cyou:8080/732b6535/3660edeef3/30699
+http://gamsgo.cyou:8080/7e4b0dbd/1dd755dc3f/30699
 #EXTINF:-1 tvg-chno="502" tvg-id="7018" tvg-name="VORTERIX" group-title="Musical" radio="false" catchup="vod",VORTERIX
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0165
 #EXTINF:-1 tvg-chno="503" tvg-id="7277" tvg-name="ALLEGRO HD" group-title="Musical" radio="false" catchup="vod",ALLEGRO HD
