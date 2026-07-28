@@ -27,9 +27,9 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712713.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79088.ts
 #EXTINF:-1 tvg-chno="575" tvg-id="6617" tvg-name="FRANCE 24 ESPAÑOL" group-title="Aire" ,FRANCE 24 ESPAÑOL
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79099.ts
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Aire",GEN TV 
+#EXTINF:-1 tvg-chno="576" tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Aire",GEN TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="Aire",CANAL 22
+#EXTINF:-1 tvg-chno="576" tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="Aire",CANAL 22
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL22___
 *************************************** VARIEDADES
 #EXTINF:-1 tvg-chno="20" tvg-id="64" tvg-name="MAGAZINE" group-title="Variedades" ,CIUDAD MAGAZINE
@@ -132,14 +132,14 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/596465.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/771571.ts
 #EXTINF:-1 tvg-chno="221" tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="Infantiles", MAGIC KIDS
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBMAGICKIDS_
-#EXTINF:-1 tvg-chno="222" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png?itok=SQuhCR2p" group-title="Niños", PLANETA TV 
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png?itok=SQuhCR2p" group-title="Infantiles", PLANETA TV 
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/601347.ts
 #EXTINF:-1 tvg-chno="223 "tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20220912114022" group-title="Infantiles", BABY  FIRST
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/11916.ts
 ********************** Peliculas y Series
-#EXTINF:-1 tvg-chno="300" tvg-id="701" tvg-name="CINE.AR" group-title="Peliculas y Series" ,CINE.AR
+#EXTINF:-1 tvg-chno="301" tvg-id="701" tvg-name="CINE.AR" group-title="Peliculas y Series" ,CINE.AR
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/772967.ts
-#EXTINF:-1 tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
+#EXTINF:-1 tvg-chno="302" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712741.ts
 #EXTINF:-1 tvg-id="AandE" tvg-name="A&E OP2 " tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46086.ts
@@ -233,7 +233,7 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/96204.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/96207.ts
 #EXTINF:-1 tvg-id="MCINLA" tvg-name="Multicinema" tvg-logo="https://i.ibb.co/921VFpp/multicinema.png" group-title="Peliculas y Series",MULTICINEMA
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/140365.ts
-#EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="Peliculas y Series y Series",CINE ESTELAR
+#EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="Peliculas y Series",CINE ESTELAR
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/148901.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",CINEMA DC UNIVERSE
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/140943.ts
