@@ -1,0 +1,399 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bochinazo/flow1/main/flowtv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+*********************** CANALES DE AIRE
+#EXTINF:-1 tvg-chno="8" tvg-id="706" tvg-name="URBANA TV" group-title="Aire" radio="false" catchup="vod",URBANA TV
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__32.2URBANATEVE
+#EXTINF:-1 tvg-chno="9" tvg-id="66" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712704.ts
+#EXTINF:-1 tvg-chno="10" tvg-id="69" tvg-name="TELEFE" group-title="Aire" radio="false" catchup="vod",TELEFE
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712715.ts
+#EXTINF:-1 tvg-chno="11" tvg-id="77" tvg-name="TV PUBLICA" group-title="Aire" radio="false" catchup="vod",TV PUBLICA
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712720.ts
+#EXTINF:-1 tvg-chno="12" tvg-id="75" tvg-name="EL TRECE" group-title="Aire" radio="false" catchup="vod",EL TRECE
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712711.ts
+#EXTINF:-1 tvg-chno="13" tvg-id="76" tvg-name="EL NUEVE" group-title="Aire" radio="false" catchup="vod",EL NUEVE
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712709.ts
+#EXTINF:-1 tvg-chno="14" tvg-id="70" tvg-name="TN" group-title="Aire" radio="false" catchup="vod",TN
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712718.ts
+#EXTINF:-1 tvg-chno="15" tvg-id="262" tvg-name="A24" group-title="Aire" radio="false" catchup="vod",A24
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712702.ts
+#EXTINF:-1 tvg-chno="16" tvg-id="65" tvg-name="C5N" group-title="Aire" radio="false" catchup="vod",C5N
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712705.ts
+#EXTINF:-1 tvg-chno="17" tvg-id="269" tvg-name="CRONICA" group-title="Aire" radio="false" catchup="vod",CRONICA
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712707.ts
+#EXTINF:-1 tvg-chno="18" tvg-id="1025" tvg-name="26 TV" group-title="Aire" radio="false" catchup="vod",26 TV
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712725.ts
+#EXTINF:-1 tvg-chno="19" tvg-id="1081" tvg-name="LA NACION" group-title="Aire" radio="false" catchup="vod",LA NACION +
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712713.ts
+#EXTINF:-1 tvg-chno="23" tvg-id="676" tvg-name="CNN EN ESPAÑOL" group-title="Aire" radio="false" catchup="vod",CNN EN ESPAÑOL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79088.ts
+#EXTINF:-1 tvg-chno="575" tvg-id="6617" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",FRANCE 24 ESPAÑOL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79099.ts
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Aire",GEN TV 
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="Aire",CANAL 22
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL22___
+#EXTINF:-1 tvg-chno="24" tvg-id="8398" tvg-name="IP" tvg-logo=""group-title="Variedades" radio="false" catchup="vod",AR 12
+http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvakgxMDcyMGNVWlFRNndaeXNnN1pBUT0
+*************************************** VARIEDADES
+#EXTINF:-1 tvg-chno="20" tvg-id="64" tvg-name="MAGAZINE" group-title="Variedades" radio="false" catchup="vod",CIUDAD MAGAZINE
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712732.ts
+#EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Variedades" radio="false" catchup="vod",NET TV
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712736.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png/revision/latest?cb=20220113152551&path-prefix=es" group-title="Variedades",TELEMAX
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712740.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://i.ibb.co/Xyk9JsC/dsd.png" group-title="Variedades",THE WEATHER CHANNEL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/165861.ts
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="Variedades",CGTN ESPAÑOL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79450.ts
+#EXTINF:-1 tvg-chno="25" tvg-id="9117" tvg-name="BRAVO" tvg-logo="" group-title="Variedades" radio="false" catchup="vod",BRAVO
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="Variedades",CARAS TV 
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
+Entretinimiento#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICDADAB.png" group-title="Variedades" ,CANAL DE LA CIUDAD 
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAC
+#EXTINF:-1 tvg-chno="555" tvg-id="CanalE.ar"  tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1",group-title="Variedades",E ECONOMIA
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.6CANAL-E___
+#EXTINF:-1 tvg-id="" tvg-name="Metro" tvg-logo="https://i.postimg.cc/pTkykn74/file-000000007610720ea97af1ee84e1a008.png" group-title="Variedades",METRO
+http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvbkFZMzF5TkxXVEpJVVdSWmE4a3owRT0
+#EXTINF:-1 tvg-id="" tvg-name="Canal a" tvg-logo="https://i.postimg.cc/pTkykn74/file-000000007610720ea97af1ee84e1a008.png" group-title="Variedades",CANAL A
+http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvdStBcXk4WWl0TzNqbkpmcnRsQ1Vvbz0
+#EXTINF:-1 tvg-id="" tvg-name="IN" tvg-logo="https://i.postimg.cc/pTkykn74/file-000000007610720ea97af1ee84e1a008.png" group-title="Variedades", SOMOS
+http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcWFURHVJSnUzRytUK1VPVjVCMFpPTT0
+#EXTINF:-1 tvg-id="" tvg-name="TEC TV" tvg-logo="https://i.postimg.cc/pTkykn74/file-000000007610720ea97af1ee84e1a008.png" group-title="Variedades",TEC TV
+http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvdHZaak1iM05GKzhNYUd5MTdXNmJmVT0
+#EXTINF:-1 tvg-id="ChacraTV.ar@SD" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Variedades", CHACRA TV
+https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
+******************************* DEPORTES
+#EXTINF:-1 tvg-chno="100" tvg-id="270" tvg-name="DEPORTV" group-title="Deportes" radio="false" catchup="vod",DEPORTV
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712742.ts
+#EXTINF:-1 tvg-chno="101" tvg-id="74" tvg-name="TYC SPORTS" group-title="Deportes" radio="false" catchup="vod",TYC SPORTS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712755.ts
+#EXTINF:-1 tvg-chno="102" tvg-id="280" tvg-name="ESPN" group-title="Deportes" radio="false" catchup="vod",ESPN
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712743.ts
+#EXTINF:-1 tvg-chno="103" tvg-id="278" tvg-name="ESPN 2" group-title="Deportes" radio="false" catchup="vod",ESPN 2
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712744.ts
+#EXTINF:-1 tvg-chno="104" tvg-id="72" tvg-name="ESPN 3" group-title="Deportes" radio="false" catchup="vod",ESPN 3
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712745.ts
+#EXTINF:-1 tvg-chno="105" tvg-id="279" tvg-name="ESPN EXTRA" group-title="Deportes" radio="false" catchup="vod",ESPN 4
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712746.ts
+#EXTINF:-1  tvg-chno="128" tvg-name="ESPN PREMIUM" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg" group-title="Deportes",ESPN PREMIUM
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712747.ts
+#EXTINF:-1 tvg-chno="106" tvg-id="73" tvg-name="FOX SPORTS" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712748.ts
+#EXTINF:-1 tvg-chno="107" tvg-id="292" tvg-name="FOX SPORTS 2" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 2
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712749.ts
+#EXTINF:-1 tvg-chno="108" tvg-id="293" tvg-name="FOX SPORTS 3" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 3
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712750.ts
+#EXTINF:-1 tvg-chno="109" tvg-id="685" tvg-name="EL GARAGE" group-title="Deportes" radio="false" catchup="vod",EL GARAGE
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712751.ts
+#EXTINF:-1 tvg-chno="110" tvg-id="696" tvg-name="GOLF CHANNEL" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/213977.ts
+#EXTINF:-1 tvg-chno="111" tvg-id="710" tvg-name="NBA TV" group-title="Deportes" radio="false" catchup="vod",NBA TV
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/213980.ts
+#EXTINF:-1 tvg-chno="112" tvg-id="641" tvg-name="DISC TURBO" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79466.ts
+#EXTINF:-1 tvg-chno="113" tvg-id="7840" tvg-name="PX SPORTS" group-title="Deportes" radio="false" catchup="vod",PX SPORTS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/755490.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSPORTS 1 ARG
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712756.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",DSPORTS 2 ARG
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712757.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS +1 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSPORTS +1 AR
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/722195.ts
+#EXTINF:-1 tvg-chno="115" tvg-id="663" tvg-name="AMERICA SPORTS SATELITAL" group-title="Deportes" radio="false" catchup="vod",AMERICA SPORTS SATELITAL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/722195.ts
+EXTINF:-1, tvg-chno="127" tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT SPORTS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712753.ts
+#EXTINF:-1 tvg-chno="129" tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DEPORTV 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/722195.ts
+#EXTINF:-1 tvg-chno="130" tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportes",CNAR DEPORTES
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/722195.ts
+****************************** Infantiles
+#EXTINF:-1 tvg-chno="200" tvg-id="713" tvg-name="PAKAPAKA" group-title="Infantiles" radio="false" catchup="vod",PAKAPAKA
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712737.ts
+#EXTINF:-1 tvg-chno="201" tvg-id="275" tvg-name="DISNEY" group-title="Infantiles" radio="false" catchup="vod",DISNEY CHANNEL 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/11927.ts
+#EXTINF:-1 tvg-chno="202" tvg-id="6857" tvg-name="NICKELODEON" group-title="Infantiles" radio="false" catchup="vod",NICKELODEON
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/11939.ts
+#EXTINF:-1 tvg-chno="203" tvg-id="71" tvg-name="CARTOON NETWORK" group-title="Infantiles" radio="false" catchup="vod",CARTOON NETWORK
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/11921.ts
+#EXTINF:-1 tvg-chno="204" tvg-id="9140" tvg-name="DREAMWORKS" group-title="Infantiles" radio="false" catchup="vod",DREAMWORKS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/206517.ts
+#EXTINF:-1 tvg-chno="205" tvg-id="679" tvg-name="DISCOVERY KIDS" group-title="Infantiles" radio="false" catchup="vod",DISCOVERY KIDS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/11925.ts
+#EXTINF:-1 tvg-chno="206" tvg-id="266" tvg-name="CARTOONITO" group-title="Infantiles" radio="false" catchup="vod",CARTOONITO
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/11919.ts
+#EXTINF:-1 tvg-chno="207" tvg-id="276" tvg-name="DISNEY JR" group-title="Infantiles" radio="false" catchup="vod",DISNEY JR
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/414717.ts
+#EXTINF:-1 tvg-chno="208" tvg-id="264" tvg-name="BABY TV" group-title="Infantiles" radio="false" catchup="vod",BABY TV
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/414709.ts
+#EXTINF:-1 tvg-chno="209" tvg-id="726" tvg-name="TOONCAST" group-title="Infantiles" radio="false" catchup="vod",TOONCAST
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/11941.ts
+#EXTINF:-1 tvg-chno="210" tvg-id="711" tvg-name="NICK JR." group-title="Infantiles" radio="false" catchup="vod",NICK JR.
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/11938.ts
+#EXTINF:-1,tvg-chno="211"tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TEEN NICK
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/596465.ts
+#EXTINF:-1 tvg-chno="212 "tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="Infantiles" ,PLIM PLIM TV
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/771571.ts
+#EXTINF:-1 tvg-chno="221" tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="Infantiles", MAGIC KIDS
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBMAGICKIDS_
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png?itok=SQuhCR2p" group-title="Niños", PLANETA TV 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/601347.ts
+#EXTINF:-1 tvg-chno="223 "tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20220912114022" group-title="Infantiles", BABY  FIRST
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/11916.ts
+********************** Peliculas y Series
+#EXTINF:-1 tvg-chno="300" tvg-id="701" tvg-name="CINE.AR" group-title="Peliculas y Series" radio="false" catchup="vod",CINE.AR
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/772967.ts
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712741.ts
+#EXTINF:-1 tvg-id="AandE" tvg-name="A&E OP2 " tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46086.ts
+EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC  " tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="Peliculas y Series",AMC  
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46089.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN " tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="Peliculas y Series",AXN 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46093.ts
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",A3SERIES
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46097.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES " tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",ATRESERIES 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46098.ts
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="Peliculas y Series",CINEMA
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46101.ts
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO " tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="Peliculas y Series",CINE LATINO 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46103.ts
+#EXTINF:-1 tvg-id="CINECANAL.co" tvg-name="CINECANAL " tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="Peliculas y Series",CINECANAL 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46108.ts
+#EXTINF:-1 tvg-id="CINEMAX.co" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas y Series",CINEMAX 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46111.ts
+#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="Peliculas y Series",DE PELICULA PLUS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46118.ts
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Peliculas y Series",DE PELICULA
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46120.ts
+#EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="Peliculas y Series",DE PELICULA CLASICO
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46121.ts
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE " tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="Peliculas y Series",DHE 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46122.ts
+#EXTINF:-1 tvg-id="EUROPA EUROPA.co" tvg-name="EUROPA EUROPA " tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="Peliculas y Series",EUROPA EUROPA 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46127.ts
+#EXTINF:-1 tvg-id="FX.co" tvg-name="FX " tvg-logo="https://i.ibb.co/hDvN9HZ/FX2.png" group-title="Peliculas y Series",FX 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46132.ts
+#EXTINF:-1 tvg-id="GOLDEN.co" tvg-name="GOLDEN PLUS " tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="Peliculas y Series",GOLDEN PLUS 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46138.ts
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="GOLDEN EDGE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="Peliculas y Series",GOLDEN EDGE 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46139.ts
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="Peliculas y Series",GOLDEN PREMIER
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46141.ts
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN " tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46142.ts
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="https://i.ibb.co/58VvdgP/hbo1.png" group-title="Peliculas y Series",HBO
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46144.ts
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="Peliculas y Series",HBO 2
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46151.ts
+#EXTINF:-1 tvg-id="HBO Family.co" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="Peliculas y Series",HBO FAMILY
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46153.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="Peliculas y Series",HBO PLUS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46159.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE " tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="Peliculas y Series",HBO SIGNATURE 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46162.ts
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="Peliculas y Series",MULTIPREMIER
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46168.ts
+#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-name="PARAMOUNT CHANNEL " tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="Peliculas y Series",PARAMOUNT CHANNEL 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46170.ts
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES " tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="Peliculas y Series",SONY MOVIES 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46175.ts
+#EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL " tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="Peliculas y Series",SONY CHANNEL 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46176.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL G" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="Peliculas y Series",STAR CHANNEL G
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46188.ts
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL " tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="Peliculas y Series",STUDIO UNIVERSAL 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46218.ts
+#EXTINF:-1 tvg-id="SYFY" tvg-name="USA " tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="Peliculas y Series",USA 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46223.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS  " tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="Peliculas y Series",TNT NOVELAS  
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46226.ts
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM  " tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="Peliculas y Series",TCM  
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46232.ts
+#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT " tvg-logo="https://i.ibb.co/Fhsz28h/TNT1.png" group-title="Peliculas y Series",TNT 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46237.ts
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="Peliculas y Series",TNT SERIES
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46241.ts
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="UNIVERSAL " tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="Peliculas y Series",UNIVERSAL 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46246.ts
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV AR " tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="Peliculas y Series",WARNER TV  
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46249.ts
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="Peliculas y Series",UNIVERSAL REALITY
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/90077.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="Peliculas y Series",UNIVERSAL CINEMA
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/90078.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME |MX" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="Peliculas y Series",UNIVERSAL CRIME 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/90079.ts
+#EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY " tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="Peliculas y Series",UNIVERSAL COMEDY 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/90081.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE " tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="Peliculas y Series",UNIVERSAL PREMIERE 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/90083.ts
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP " tvg-logo="https://i.ibb.co/vxK0tVp/hbopop3.png" group-title="Peliculas y Series",HBO POP 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/96201.ts
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI  " tvg-logo="https://i.ibb.co/GHngdzz/hbomun3.png" group-title="Peliculas y Series",HBO MUNDI  
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/96204.ts
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="Peliculas y Series",HBO XTREME
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/96207.ts
+#EXTINF:-1 tvg-id="MCINLA" tvg-name="Multicinema" tvg-logo="https://i.ibb.co/921VFpp/multicinema.png" group-title="Peliculas y Series",MULTICINEMA
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/140365.ts
+#EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="Peliculas y Series",CINE ESTELAR
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/148901.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Peliculas y Series",CINEMA DC UNIVERSE
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/140943.ts
+#EXTINF:-1 tvg-id="filmAndarts.ar" tvg-name="Film & Arts " tvg-logo="https://i.ibb.co/JCPsWS7/filmds.png" group-title="Peliculas y Series",FILM & ARTS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46129.ts
+#EXTINF:-1 tvg-chno=" 343" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 1
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno=" 344" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 2
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno=" 345" group-title="Peliculas y Series" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png",MY TIME MOVIE NETWORK
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+************************** ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="Entretinimiento",UNIVISION TELENOVELAS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/4778.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://i.ibb.co/dW0RXN7/rcnnovelas.png" group-title="Entretinimiento",RCN Novelas
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/13785.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://i.ibb.co/y0VcDzp/46576978uijfgcvgbc.png" group-title="Entretinimiento",E!
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/31960.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC " tvg-logo="https://i.ibb.co/QC0WwvW/45rwerwesdvctu7y8uhjbn3w.png" group-title="Entretinimiento",TLC 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46233.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL " tvg-logo="https://i.ibb.co/WWSPhwg/565rty6547yrtfgvb.png" group-title="Entretinimiento",COMEDY CENTRAL 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79058.ts
+#EXTINF:-1 tvg-chno="405" tvg-id="295" tvg-name="EL GOURMET" group-title="Entretinimiento" radio="false" catchup="vod",EL GOURMET
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79061.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://i.ibb.co/tHVVvrx/3454654775ghffdfrsds.png" group-title="Entretinimiento",FOOD NETWORK
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79063.ts
+#EXTINF:-1 tvg-chno="404" tvg-id="692" tvg-name="LIFETIME" group-title="Entretinimiento" radio="false" catchup="vod",LIFETIME
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/113865.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://i.ibb.co/wpxLdLn/NBC-universoeast.png" group-title="Entretinimiento",NBC UNIVERSO
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79070.ts
+#EXTINF:-1 tvg-id="AdultSwim.ar" tvg-name="ADULT SWIM " tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?w=1000" group-title="Entretinimiento",ADULT SWIM 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79072.ts
+#EXTINF:-1 tvg-id="KANALDL" tvg-name="Kanal D Drama" tvg-logo="https://i.ibb.co/MCzcqMx/KANALD.png" group-title="Entretinimiento",Kanal D Drama
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/4693.ts
+#EXTINF:-1 tvg-id="ViajarTV.ar",tvg-chno="40" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",group-title="Entretinimiento",VIAJAR TV
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
+#EXTINF:-1 tvg-id="" tvg-name="El Canal  de las Estrellas" tvg-logo="https://i.postimg.cc/pTkykn74/file-000000007610720ea97af1ee84e1a008.png" group-title="Entretinimiento",El Canal  de las Estrellas
+http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvc0toYUNIdGN5QlUwT2JDcnF5cnhWRT0
+******************************* CULTURAL
+#EXTINF:-1 tvg-id="filmAndarts.ar" tvg-name="Film & Arts " tvg-logo="https://i.ibb.co/JCPsWS7/filmds.png" group-title="Cultural",Film & Arts 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46129.ts
+#EXTINF:-1 tvg-id="Animal Planet.co" tvg-name="Animal Planet  " tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="Cultural",Animal Planet  
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel " tvg-logo="https://i.ibb.co/HtqyD0b/ddffds.png" group-title="Cultural",Discovery Channel 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID " tvg-logo="https://i.ibb.co/v3vWJPP/5436t5gfdvbcnhgjkiopl.png" group-title="Cultural",Discovery ID 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79458.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health " tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="Cultural",Discovery Home & Health 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79459.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science " tvg-logo="https://i.ibb.co/K7MrFNm/543gdr44.png" group-title="Cultural",Discovery Science 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79463.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://i.ibb.co/k3Yb7Ff/teheat.png" group-title="Cultural",Discovery Theater
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79464.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo  " tvg-logo="https://i.ibb.co/rdd22kL/34t5regdfgdsfcssxz.png" group-title="Cultural",Discovery Turbo  
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79466.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World  " tvg-logo="https://i.ibb.co/D9TxF6V/discworsd.png" group-title="Cultural",Discovery World  
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79468.ts
+#EXTINF:-1 tvg-id="hgtv.ar" tvg-name="HGTV " tvg-logo="https://i.ibb.co/znPFvsm/765rtfhygy5464we3sdfzcx.png" group-title="Cultural",HGTV 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hispan TV" tvg-logo="https://i.ibb.co/HzvTpT1/hispanid.png" group-title="Cultural",Hispan TV
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79476.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 " tvg-logo="https://i.ibb.co/0BGSc13/h2cahne.png" group-title="Cultural",HISTORY 2 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79478.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Channel " tvg-logo="https://i.ibb.co/wgfpK2W/3245325437656876ty.png" group-title="Cultural",History Channel 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79479.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE " tvg-logo="https://i.ibb.co/PQ5nx0q/lovena.png" group-title="Cultural",LOVE NATURE 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79481.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic " tvg-logo="https://i.ibb.co/sCY6fYc/cfdetf435433.png" group-title="Cultural",National Geographic 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79486.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo" tvg-logo="https://i.ibb.co/D57vhdZ/24324342545.png" group-title="Cultural",NatGeo Mundo
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79488.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSEUM TV" tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="Cultural",MUSEUM TV
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/771892.ts
+#EXTINF:-1 tvg-chno="22" tvg-id="686" tvg-name="ENCUENTRO" group-title="Cultural" radio="false" catchup="vod",ENCUENTRO
+http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcDdzcGxmcjZOd2IvSFVRd00xTE9Mdz0
+******************************** MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="https://i.postimg.cc/cCwc8QNg/images-q-tbn-ANd9Gc-Tdj9Acdkh-O4o4Q86Vqy0ic-CPd581v-HORB8Aw-s.png" group-title="Musical",TELEHIT
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/86461.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTVU East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Musical",MTVU 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/86469.ts
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/890px-Htv_logo.svg.png" group-title="Musical",HTV
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/86480.ts
+#EXTINF:-1 tvg-id="" tvg-name="Quiero Musica" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e29c46a43b8_QuieroMsicaTV.png.c8744ad128faccb060fc71fa96ba294e.png" group-title="Musical",QUIERO MUSICA
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/86482.ts
+#EXTINF:-1 tvg-id="" tvg-name="Farra Music" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/farra-png-5.png" group-title="Musical",Farra Music
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/86732.ts
+#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Musical",MTV 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/167411.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE | 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="Musical",MTV LIVE
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/195548.ts
+#EXTINF:-1 tvg-chno="573" tvg-id="664" tvg-name="ARGENTINISIMA SATELITAL" group-title="Musical" radio="false" catchup="vod",ARGENTINISIMA SATELITAL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Allegro " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Allegro_hd.png/revision/latest?cb=20210526004610&path-prefix=es" group-title="Musical",Allegro 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/772968.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV 80sⓧ SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mtv-80s-uk.png?raw=true" group-title="Musical",MTV 80s
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439064.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV 90sⓧ SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mtv-90s-uk.png?raw=true" group-title="Musical",MTV 90s
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439063.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Baseⓧ SD" tvg-logo="" group-title="Musical",MTV Base
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439062.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Classicⓧ SD" tvg-logo="" group-title="Musical",MTV Classic
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439061.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Hitsⓧ SD" tvg-logo="" group-title="Musical",MTV Hits
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439060.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Musicⓧ SD" tvg-logo="" group-title="Musical",MTV Music
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439059.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : MUTVⓧ " tvg-logo="" group-title="Musical",MUTV 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439057.ts
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="https://i.ibb.co/4FHz2zt/concer.png" group-title="Musical",Concert Channel
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79448.ts
+#EXTINF:-1 tvg-chno="507" tvg-id="674" tvg-name="CANAL DE LA MUSICA" group-title="Musical", CANAL DE LA MUSICA
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAM
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMUSTOP.png" group-title="Musical",Musictop 
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
+#EXTINF:-1 tvg-chno="502" tvg-id="7018" tvg-name="VORTERIX" group-title="Musical" ",VORTERIX
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
+******************************** INTERNACIONALES
+#EXTINF:-1 tvg-chno="551" tvg-id="716" tvg-name="RAI" group-title="Internacional" ,RAI NEWS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/600318.ts
+#EXTINF:-1 tvg-chno="552" tvg-id="666" tvg-name="BLOOMBERG" group-title="Internacional" radio="false" catchup="vod",BLOOMBERG
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439208.ts
+#EXTINF:-1 tvg-chno="553" tvg-id="727" tvg-name="TVN CHILE" group-title="Internacional" radio="false" catchup="vod",TVN CHILE
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/171590.ts
+#EXTINF:-1 tvg-chno="554" tvg-id="730" tvg-name="TV 5" group-title="Internacional" radio="false" catchup="vod",TV 5
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/584966.ts
+#EXTINF:-1 tvg-chno="556" tvg-id="724" tvg-name="TELESUR" group-title="Internacional" radio="false" catchup="vod",TELESUR
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/198302.ts
+#EXTINF:-1 tvg-chno="557" tvg-id="677" tvg-name="CNN" group-title="Internacional" radio="false" catchup="vod",CNN
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/153352.ts
+#EXTINF:-1 tvg-chno="558" tvg-id="864" tvg-name="BBC WORLD" group-title="Internacional" radio="false" catchup="vod",BBC WORLD
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/89898.ts
+#EXTINF:-1 tvg-chno="559" tvg-id="693" tvg-name="FOX NEWS" group-title="Internacional" radio="false" catchup="vod",FOX NEWS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/213964.ts
+#EXTINF:-1 tvg-chno="560" tvg-id="1024" tvg-name="AL JAZEERA" group-title="Internacional" radio="false" catchup="vod",AL JAZEERA
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439250.ts
+#EXTINF:-1 tvg-chno="561" tvg-id="688" tvg-name="EURONEWS" group-title="Internacional" radio="false" catchup="vod",EURONEWS
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/438682.ts
+#EXTINF:-1 tvg-chno="562" tvg-id="683" tvg-name="DEUTSCHE WELLE" group-title="Internacional" radio="false" catchup="vod",DW DEUTSCHE WELLE
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79084.ts
+#EXTINF:-1 tvg-chno="564" tvg-id="729" tvg-name="GALICIA TV" group-title="Internacional" radio="false" catchup="vod",GALICIA TV
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGALICIATV_
+#EXTINF:-1 tvg-chno="565" tvg-id="670" tvg-name="CANAL DE LAS ESTRELLAS" group-title="Internacional" radio="false" catchup="vod",CANAL DE LAS ESTRELLAS
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+#EXTINF:-1 tvg-chno="566" tvg-id="941" tvg-name="ARIRANG" group-title="Internacional" radio="false" catchup="vod",ARIRANG
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439241.ts
+#EXTINF:-1 tvg-chno="567" tvg-id="672" tvg-name="UCL" group-title="Internacional" radio="false" catchup="vod",UCL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/198284.ts
+#EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Internacional" radio="false" catchup="vod",FRANCE 24
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/438665.ts
+#EXTINF:-1 tvg-chno="569" tvg-id="1162" tvg-name="NEW BRASIL" group-title="Internacional" radio="false" catchup="vod",NEWS BRASIL
+plugin://plugin.video.flow/play/channel/1162
+******************************************** RELIGIOSOS
+#EXTINF:-1 tvg-chno="425" tvg-id="668" tvg-name="CANAL ORBE 21" group-title="Religion" radio="false" catchup="vod",CANAL ORBE 21
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/55197.ts
+#EXTINF:-1 tvg-chno="426" tvg-id="690" tvg-name="EWTN" group-title="Religion" radio="false" catchup="vod",EWTN
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/42434.ts
+#EXTINF:-1 tvg-chno="424" tvg-id="963" tvg-name="CANAL SANTA MARÍA" group-title="Religion" radio="false" catchup="vod",CANAL SANTA MARÍA
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
