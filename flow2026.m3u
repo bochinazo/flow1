@@ -27,7 +27,7 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712713.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79088.ts
 #EXTINF:-1 tvg-chno="575" tvg-id="6617" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",FRANCE 24 ESPAÑOL
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79099.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/UNIFE.jpg/330px-UNIFE.jpg" group-title="Aire",UNIFE 
+#EXTINF:-1 tvg-name="UNIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/UNIFE.jpg/330px-UNIFE.jpg" group-title="Aire", UNIFE 
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcjVUUlZKWkMxckhZdFZXRU9UOFFiQT0
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Aire",GEN TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
@@ -115,7 +115,7 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712753.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/722195.ts
 #EXTINF:-1 tvg-chno="130" tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportes",CNAR DEPORTES
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/722195.ts
-#EXTINF:-1 tvg-id="RakutenTV-UK_fifa-plus-uk-live-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/f2357f3b-12c7-4b37-9c21-8029da9c31fb.png" group-title="RakutenTV🇬🇧: Sports",FIFA+
+#EXTINF:-1 tvg-id="RakutenTV-UK_fifa-plus-uk-live-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/f2357f3b-12c7-4b37-9c21-8029da9c31fb.png" group-title="Deportes",FIFA+
 https://49f2b747.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=0&ads.rtv_content_id=6133&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=a592a2da-7998-485e-b356-937d2e2c4399&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1781
 #EXTINF:-1 tvg-chno="200" tvg-id="713" tvg-name="PAKAPAKA" group-title="Infantiles" radio="false" catchup="vod",PAKAPAKA
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712737.ts
@@ -335,9 +335,9 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/772968.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439064.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK : MTV 90sⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/250px-MTV_90s_2022.svg.png" group-title="Musical",MTV 90s
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439063.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Classicⓧ SD" tvg-logo="" group-title="Musical",MTV Classic
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Classicⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/250px-MTV_Classic_US.svg.png" group-title="Musical",MTV Classic
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439061.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Hitsⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/250px-MTV2_logo_2013.svg.png" group-title="Musical",MTV Hits
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Hitsⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/250px-MTV_Hits_2021.svg.png" group-title="Musical",MTV Hits
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439060.ts
 #EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="https://i.ibb.co/4FHz2zt/concer.png" group-title="Musical",Concert Channel
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79448.ts
