@@ -27,7 +27,7 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712713.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79088.ts
 #EXTINF:-1 tvg-chno="575" tvg-id="6617" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",FRANCE 24 ESPAÑOL
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79099.ts
-#EXTINF:-1 tvg-name="UNIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/UNIFE.jpg/330px-UNIFE.jpg" group-title="Aire", UNIFE 
+#EXTINF:-1 tvg-name="UNIFE" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Aire", UNIFE 
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcjVUUlZKWkMxckhZdFZXRU9UOFFiQT0
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Aire",GEN TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
@@ -67,7 +67,7 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79078.ts
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcWFURHVJSnUzRytUK1VPVjVCMFpPTT0
 #EXTINF:-1 tvg-chno="24" tvg-id="8398" tvg-name="AR12" tvg-logo="https://telecentro.com.ar/img/cm/channels/AR12@2x.png" group-title="Variedades" radio="false" catchup="vod",AR 12
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvakgxMDcyMGNVWlFRNndaeXNnN1pBUT0
-#EXTINF:-1 tvg-id="" tvg-name="TEC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Nuevo_logo_TEC_2022.png" group-title="Variedades",TEC TV
+#EXTINF:-1 tvg-id="" tvg-name="TEC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online-1.png" group-title="Variedades",TEC TV
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvdHZaak1iM05GKzhNYUd5MTdXNmJmVT0
 #EXTINF:-1 tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Aire",KZO ENTERTAINMENT
 http://185.71.66.13:8080/zyTYRQufUL/YBZgSIUHnS/43904
@@ -171,7 +171,7 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46108.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46111.ts
 #EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="Peliculas y Series",DE PELICULA PLUS
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46118.ts
-#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Peliculas y Series",DE PELICULA
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=430" group-title="Peliculas y Series",DE PELICULA
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46120.ts
 #EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="Peliculas y Series",DE PELICULA CLASICO
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46121.ts
@@ -325,19 +325,15 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/86482.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/86732.ts
 #EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV MX" tvg-logo="https://telecentro.com.ar/img/cm/channels/mtv@2x.png" group-title="Musical",MTV 
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439062.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE | 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="Musical",MTV LIVE
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE | 720p" tvg-logo="https://w7.pngwing.com/pngs/537/813/png-transparent-mtv-live-hd-viacom-media-networks-logo-tv-high-definition-television-others-miscellaneous-television-angle-thumbnail.png" group-title="Musical",MTV LIVE
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/195548.ts
 #EXTINF:-1 tvg-chno="573" tvg-id="664" tvg-name="ARGENTINISIMA SATELITAL" group-title="Musical" radio="false" catchup="vod",ARGENTINISIMA SATELITAL
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712721.ts
 #EXTINF:-1 tvg-id="" tvg-name="Allegro " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Allegro_hd.png/revision/latest?cb=20210526004610&path-prefix=es" group-title="Musical",Allegro 
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/772968.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : MTV 80sⓧ SD" tvg-logo="https://es.wikipedia.org/wiki/Archivo:MTV_80s_2022.png" group-title="Musical",MTV 80s
-https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439064.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : MTV 90sⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/250px-MTV_90s_2022.svg.png" group-title="Musical",MTV 90s
-https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439063.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Classicⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/250px-MTV_Classic_US.svg.png" group-title="Musical",MTV Classic
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Classicⓧ SD" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG-1677602317994.png" group-title="Musical",MTV Classic
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439061.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Hitsⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/250px-MTV_Hits_2021.svg.png" group-title="Musical",MTV Hits
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV Hitsⓧ SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv-hits_m.png" group-title="Musical",MTV Hits
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/439060.ts
 #EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="https://i.ibb.co/4FHz2zt/concer.png" group-title="Musical",Concert Channel
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79448.ts
