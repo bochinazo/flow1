@@ -69,6 +69,8 @@ http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcWFURHVJSnUzRytUK1VPVjVCMFpPTT0
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvakgxMDcyMGNVWlFRNndaeXNnN1pBUT0
 #EXTINF:-1 tvg-id="" tvg-name="TEC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online-1.png" group-title="Variedades",TEC TV
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvdHZaak1iM05GKzhNYUd5MTdXNmJmVT0
+#EXTINF:-1 tvg-id="" tvg-name="AR |*F∆SHl0N TV " tvg-logo="http://www.rt-a.com/67/fotos/ftv_26.gif" group-title="Variedades",FASHl0N TV 
+http://p2premium.club:80/live/YOL345PEZ564DAS/PER786YAL234DA/305969.ts
 #EXTINF:-1 tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Aire",KZO ENTERTAINMENT
 http://185.71.66.13:8080/zyTYRQufUL/YBZgSIUHnS/43904
 #EXTINF:-1 tvg-chno="100" tvg-id="270" tvg-name="DEPORTV" group-title="Deportes" radio="false" catchup="vod",DEPORTV
@@ -179,8 +181,8 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46121.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46122.ts
 #EXTINF:-1 tvg-id="EUROPA EUROPA.co" tvg-name="EUROPA EUROPA " tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="Peliculas y Series",EUROPA EUROPA 
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46127.ts
-#EXTINF:-1 tvg-id="FX.co" tvg-name="FX " tvg-logo="https://i.ibb.co/hDvN9HZ/FX2.png" group-title="Peliculas y Series",FX 
-https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46132.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD (DTV)" tvg-logo="https://i.ibb.co/z2PqF2T/FX1.png" group-title="Peliculas y Series",FX 
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46130.ts
 #EXTINF:-1 tvg-id="GOLDEN.co" tvg-name="GOLDEN PLUS " tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="Peliculas y Series",GOLDEN PLUS 
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46138.ts
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="GOLDEN EDGE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="Peliculas y Series",GOLDEN EDGE 
@@ -251,6 +253,8 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/148901.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/140943.ts
 #EXTINF:-1 tvg-id="filmAndarts.ar" tvg-name="Film & Arts " tvg-logo="https://i.ibb.co/JCPsWS7/filmds.png" group-title="Peliculas y Series",FILM & ARTS
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/46129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Retro Tv" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Peliculas y Series",Retro Tv
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/9521.ts
 #EXTINF:-1 tvg-chno=" 343" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 1
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno=" 344" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 2
