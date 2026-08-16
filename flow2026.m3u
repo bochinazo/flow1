@@ -23,10 +23,6 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712707.ts
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712725.ts
 #EXTINF:-1 tvg-chno="19" tvg-id="1081" tvg-name="LA NACION" group-title="Aire" radio="false" catchup="vod",LA NACION +
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/712713.ts
-#EXTINF:-1 tvg-chno="23" tvg-id="676" tvg-name="CNN EN ESPAÑOL" group-title="Aire" radio="false" catchup="vod",CNN EN ESPAÑOL
-https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79088.ts
-#EXTINF:-1 tvg-chno="575" tvg-id="6617" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",FRANCE 24 ESPAÑOL
-https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79099.ts
 #EXTINF:-1 tvg-name="UNIFE" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Aire", UNIFE 
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcjVUUlZKWkMxckhZdFZXRU9UOFFiQT0
 #EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" radio="false" catchup="vod",NET TV
@@ -52,7 +48,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="Variedades",CARAS TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
 #EXTINF:-1 tvg-id="HOLAHD" tvg-name="HOLA TV HD" tvg-logo="https://i.imgur.com/a6ZDo3q.jpg" group-title="Variedades",HOLA TV HD
-http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/181864.m3u8
+http://31.43.191.125:8080/live/vip2441766345493/e91e71b9320d/5098.m3u8
 #EXTINF:-1 tvg-id="ViajarTV.ar",tvg-chno="40" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",group-title="Variedades",VIAJAR TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICDADAB.png" group-title="Variedades" ,CANAL DE LA CIUDAD 
@@ -66,7 +62,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.6CANAL-E___
 #EXTINF:-1 tvg-id="" tvg-name="Multivision HD" tvg-logo="https://multivision.tv/wp-content/uploads/2025/08/cropped-LOGO-ID-WEB-244x67.png" group-title="Variedades",Multivision 
 http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/712734.ts
 #EXTINF:-1 tvg-id="" tvg-name="Metro" tvg-logo="https://telecentro.com.ar/img/cm/channels/metro@2x.png" group-title="Variedades",METRO
-http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/10036
+http://voodvooxqha.top:8080/VIP0116171003240856/5f1cf406aa72/4786
 #EXTINF:-1 tvg-id="" tvg-name="Canal a" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Canal_%28%C3%A1%29_1999.svg/revision/latest/scale-to-width-down/200?cb=20251004032504" group-title="Variedades",CANAL A+
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420008.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas.co" tvg-name="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="Variedades",LAS ESTRELLAS
@@ -386,6 +382,10 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
 #EXTINF:-1 tvg-id="Retroclub.ar@HD" tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png" group-title="Musical",RETROCLUB
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="676" tvg-name="CNN EN ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",CNN EN ESPAÑOL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79088.ts
+#EXTINF:-1 tvg-chno="575" tvg-id="6617" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",FRANCE 24 ESPAÑOL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79099.ts
 #EXTINF:-1 tvg-chno="551" tvg-id="716" tvg-name="RAI" group-title="Internacional" ,RAI NEWS
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/600318.ts
 #EXTINF:-1 tvg-chno="552" tvg-id="666" tvg-name="BLOOMBERG" group-title="Internacional" radio="false" catchup="vod",BLOOMBERG
