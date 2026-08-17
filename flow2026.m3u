@@ -27,7 +27,7 @@ http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/712713.ts
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcjVUUlZKWkMxckhZdFZXRU9UOFFiQT0
 #EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" radio="false" catchup="vod",NET TV
 http://thenewxtreme2025.xyz/live/JoeBombon/4eTqfgcxcD/712736.ts
-#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%2BPerfil_Logo_2026.png", +PERFIL
+#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Aires" tvg-logo="https://argentina.mom-gmr.org/uploads/_processed_/8/0/csm_16117-1639_company_import_d7774c7716.jpg", +PERFIL
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Aire",GEN TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
@@ -49,7 +49,7 @@ https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79450.ts
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="Variedades",CARAS TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
-#EXTINF:-1 tvg-id="HOLAHD" tvg-name="HOLA TV HD" tvg-logo="https://i.imgur.com/a6ZDo3q.jpg" group-title="Variedades",HOLA TV HD
+#EXTINF:-1 tvg-id="HOLAHD" tvg-name="HOLA TV HD" tvg-logo="https://i.imgur.com/a6ZDo3q.jpg" group-title="Variedades",HOLA TV 
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/327834.ts
 #EXTINF:-1 tvg-id="ViajarTV.ar",tvg-chno="40" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",group-title="Variedades",VIAJAR TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
