@@ -27,6 +27,8 @@ http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/712713.ts
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcjVUUlZKWkMxckhZdFZXRU9UOFFiQT0
 #EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" radio="false" catchup="vod",NET TV
 http://thenewxtreme2025.xyz/live/JoeBombon/4eTqfgcxcD/712736.ts
+#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%2BPerfil_Logo_2026.png", +PERFIL
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Aire",GEN TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="Aire",CANAL 22
@@ -223,7 +225,7 @@ http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46176.ts
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46180.ts
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL HD | AR" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="Peliculas y Series",STUDIO UNIVERSAL
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46218.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA HD | AR" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="Peliculas y Series",USA 
+#EXTINF:-1 tvg-id="" tvg-name="USA HD | AR" tvg-logo="https://telecentro.com.ar/img/cm/channels/usa@2x.png" group-title="Peliculas y Series",USA 
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46222.ts
 #EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT NOVELAS HD (DTV)" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="Peliculas y Series",TNT NOVELAS 
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46227.ts
