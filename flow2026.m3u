@@ -204,7 +204,7 @@ http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46141.ts
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46142.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="Peliculas y Series",HBO 
-http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46146.ts
+http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46145.ts
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="Peliculas y Series",HBO 2 
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46151.ts
 #EXTINF:-1 tvg-id="HBO Family.co" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="Peliculas y Series",HBO FAMILY
@@ -233,8 +233,6 @@ http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46227.ts
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46236.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD (DTV)" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="Peliculas y Series",TNT SERIES 
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46240.ts
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES HD" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="Peliculas y Series",TNT SERIES 
-http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46241.ts
 #EXTINF:-1 tvg-id="TNT Series.co" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="Peliculas y Series",TNT SERIES
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/46242.ts
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="UNIVERSAL " tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="Peliculas y Series",UNIVERSAL 
@@ -425,19 +423,19 @@ http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/55197.ts
 http://thenewxtreme2025.xyz/live/JoseBombon/4eTqfgcxcD/55159.ts
 #EXTINF:-1 tvg-chno="424" tvg-id="963" tvg-name="CANAL SANTA MARÍA" group-title="Religion" radio="false" catchup="vod",CANAL SANTA MARÍA
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LA CASA DE LA PRADERA " tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/pizap-com15509369442614f_orig.jpg" group-title="24/7", LA FAMILIA INGALLS
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LA CASA DE LA PRADERA " tvg-logo="https://pics.filmaffinity.com/little_house_on_the_prairie-162276546-msmall.jpg" group-title="24/7", LA FAMILIA INGALLS
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBbXQ2d1BwQ0hWU1dPMC9CRjMwaHkrZz0
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LA FAMILIA PELUCHE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/La-familia-peluche-620x345.jpg/revision/latest?cb=20210429204350&path-prefix=es" group-title="24/7", LA FAMILIA PELUCHE 
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LA FAMILIA PELUCHE " tvg-logo="https://media.themoviedb.org/t/p/w130_and_h195_face/xOUwdPoYiASTZcTmHfuWW5hQ1wP.jpg" group-title="24/7", LA FAMILIA PELUCHE 
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBdkJZOHdseDhzNUdYRFYrTmNlQm5GMD0
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LOS AÑOS MARAVILLOSOS " tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/21/LOGOTIPO_REDONDO.png/revision/latest?cb=20201213202929&path-prefix=es" group-title="24/7", LOS AÑOS MARAVILLOSOS 
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LOS AÑOS MARAVILLOSOS " tvg-logo="https://resizing.flixster.com/-iMenRFeHU8S_dWIKViLrBM839U=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p184040_b_v8_aj.jpg" group-title="24/7", LOS AÑOS MARAVILLOSOS 
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBako0WkxOU0FFNmw4SEdGd1hNWHhHRT0
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LOS MAGNIFICOS TEMP 1 " tvg-logo="https://popmagazine.cl/wp-content/uploads/2019/08/CV-Magnificos.jpg" group-title="24/7", LOS MAGNIFICOS TEMP 1 
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LOS MAGNIFICOS TEMP 1 " tvg-logo="https://popmagazine.cl/wp-content/uploads/2019/08/CV-Magnificos.jpg" group-title="24/7", LOS MAGNIFICOS  
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBZ1J5WDFJV3NndHYyRUFKZFRhUGJPOD0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" NARUTO " tvg-logo="https://www.malatintamagazine.com/wp-content/uploads/2014/10/narutoportada1.png" group-title="24/7", NARUTO 
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBay9VU0FBeWtaelN4RE1Rc1h2eStnUT0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" PATO AVENTURA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Patoaventuras_Logo.png" group-title="24/7", PATO AVENTURA 
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBaURDUy9xT0xYeHV0d1UvVE9Fb0ZPND0
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" TOM Y JERRY " tvg-logo="https://m.media-amazon.com/images/I/51v9mZqOqhL._AC_SS450_.jpg" group-title="24/7", TOM Y JERRY 
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" TOM Y JERRY " tvg-logo="https://pics.filmaffinity.com/tom_and_jerry_tom_jerry_tv_series-202407065-msmall.jpg" group-title="24/7", TOM Y JERRY 
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBdjkzMTBWVGI5cGNSMmRDQjA0QmVDQT0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" VECINOS TEMP 1 Y 2  " tvg-logo="https://static.wikia.nocookie.net/comediasmx/images/1/19/VecinosSerieTV.jpg/revision/latest?cb=20161125014541&path-prefix=es" group-title="24/7", VECINOS TEMP 1 Y 2  
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBaGt5SGFXdVRZWHZpa29Jcy9rdGtCOD0
@@ -457,7 +455,7 @@ http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBcHF5Smx3TUdpQmsyazg3SXd3
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBaHRHdEM0UVVKNEVGRmNmd1Z5WHM4ND0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" EL BEBE JEFAZO  " tvg-logo="https://pics.filmaffinity.com/El_beb_jefazo_Vuelta_al_curro_Serie_de_TV-721264653-large.jpg" group-title="24/7", EL BEBE JEFAZO  
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBcDRSTVBqdTdnamFoZmNZaXZGMmRFQT0
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" FRIENDS TEMP 1 Y 2  " tvg-logo="https://www.formulatv.com/images/series/posters/000/45/2_m3.jpg" group-title="24/7", FRIENDS TEMP 1 Y 2  
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" FRIENDS TEMP 1 Y 2  " tvg-logo="https://www.formulatv.com/images/series/posters/000/45/2_m3.jpg" group-title="24/7", FRIENDS   
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBbGRyNDBYMC91eVlLQTNPa1FhTTVRZz0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" FULL HOUSE " tvg-logo="https://static.wikia.nocookie.net/fullhouse/images/b/b0/250px-Full_House_-_Season_4.jpg/revision/latest/top-crop/width/360/height/450?cb=20121220054216" group-title="24/7", FULL HOUSE 
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBaXRPejdsR2F2VzF4UVcweVhDWm1RND0
@@ -517,7 +515,7 @@ http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBZ3BaNm92M09xUm1LNndRMGVm
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBaiswUEhXMk0xU3RxYzBmWHRPUlV5cz0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" DISNEY PRINCESS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", DISNEY PRINCESS
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBdmk4K015bGZEekk3NVJ3b3BtVWtXbz0
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LOS 3 CHIFLADOS" tvg-logo="https://i.pinimg.com/236x/a1/88/5b/a1885b75c13ac52ef1e5ba6d022d1ffb--charlie-chaplin.jpg" group-title="24/7", LOS 3 CHIFLADOS
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LOS 3 CHIFLADOS" tvg-logo="https://i.pinimg.com/236x/a1/88/5b/a1885b75c13ac52ef1e5ba6d022d1ffb--charlie-chaplin.jpg" group-title="24/7", LOS TRES CHIFLADOS
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBaDZjYTU3Q3dOTWxkUXdEa2d0K1hwYz0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LAS CHICAS SUPERPODEROSAS" tvg-logo="http://assets.stickpng.com/thumbs/59cfc96ed3b1936210a5ddde.png" group-title="24/7", LAS CHICAS SUPERPODEROSAS
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBdGhsSFhaUmpzeE13NVJ4OGl6Szl0ND0
@@ -535,7 +533,7 @@ http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBcFJQTFpQcXhKTm9YMENtOXI0
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBblJSemI1MWJiUzhnSS9LdVpraGYzST0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" FAMILY GUY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", FAMILY GUY
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBa2ZCbVVMUWVsaDZzdXdHc1E2bkNlRT0
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" FAMILIA ADDAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", FAMILIA ADDAMS
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" FAMILIA ADDAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", LOS LOCOS ADDAMS
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBajhYOWtPN2NIcUZtdEpUZkZHMXpnYz0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" CLARO CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", CLARO CINEMA
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBbytNZzVCTWJoSnBCMU5lUGpSMzJCQT0
@@ -631,7 +629,7 @@ http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBakVVRWVlTGlTNHVxYWNXNzVr
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBbGNmZ1J2dFcwYWZwbnRlcUVuT1hnST0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" DORA LA EXPLORADORA" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/87/Dora.jpg/revision/latest?cb=20171125061549&path-prefix=es" group-title="24/7", DORA LA EXPLORADORA
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBdnFvdmxmVGdlekdGdnVHa2ZXNmFGST0
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" ME TV SERIES - ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", ME TV SERIES 
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" ME TV SERIES - ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", ME TV  
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBcjhUdWpQZGlnbklXSFJLRWJ4Zm1rWT0
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" SUPER CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", SUPER CAMPEONES
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBclg5ZXllWHp5RHY1Z1NORUM4Ync2bz0
