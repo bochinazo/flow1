@@ -406,7 +406,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/89898.ts
 #EXTINF:-1 tvg-chno="559" tvg-id="693" tvg-name="FOX NEWS" tvg-logo="https://banner2.cleanpng.com/20180918/sxx/kisspng-logo-font-brand-product-line-5ba15efe6c46c5.7863516315373022704435.jpg" group-title="Internacional" radio="false" catchup="vod",FOX NEWS
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/597235.ts
 #EXTINF:-1 tvg-chno="560" tvg-id="1024" tvg-name="AL JAZEERA" group-title="Internacional"tvg-logo="https://www.ecured.cu/images/c/cc/AlJazeera.jpg" radio="false" catchup="vod",AL JAZEERA
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/439250.ts
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-chno="561" tvg-id="688" tvg-name="EURONEWS" group-title="Internacional" radio="false" catchup="vod",EURONEWS
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/501086.ts
 #EXTINF:-1 tvg-chno="562" tvg-id="683" tvg-name="DEUTSCHE WELLE" tvg-logo="https://telecentro.com.ar/img/cm/channels/dw@2x.png" group-title="Internacional" radio="false" catchup="vod",DW DEUTSCHE WELLE
@@ -416,7 +416,7 @@ http://dejatedemamadas.neospaxy.top:8080/79176608188674/2v4v29hu393y/10065
 #EXTINF:-1 tvg-chno="564" tvg-id="729" tvg-name="GALICIA TV" group-title="Internacional" radio="false" catchup="vod",GALICIA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGALICIATV_
 #EXTINF:-1 tvg-chno="566" tvg-id="941" tvg-name="ARIRANG" group-title="Internacional" radio="false" catchup="vod",ARIRANG
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/439241.ts
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="567" tvg-id="672" tvg-name="UCL" group-title="Internacional" radio="false" catchup="vod",UCL
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/198283.ts
 #EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Internacional" radio="false" catchup="vod",FRANCE 24
