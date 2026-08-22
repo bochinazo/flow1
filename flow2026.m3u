@@ -116,16 +116,14 @@ http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvakgxMDcyMGNVWlFRNndaeXNnN1pBUT0
 http://avefenixtv.com/live/AdanMontes/11122023AM/150799.ts
 #EXTINF:-1 tvg-chno="552" tvg-id="666" tvg-name="BLOOMBERG" group-title="Noticias" radio="false" catchup="vod",BLOOMBERG
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERG_
-#EXTINF:-1 tvg-chno="555" tvg-id="CanalE.ar"  tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1",group-title="Noticias",E ECONOMIA
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.6CANAL-E___
+#EXTINF:-1 tvg-chno="20" tvg-id="64" tvg-name="MAGAZINE" group-title="Variedades" radio="false" catchup="vod",CIUDAD MAGAZINE
+http://avefenixtv.com/live/AdanMontes/11122023AM/712732.ts
 #EXTINF:-1 tvg-chno="8" tvg-id="64" tvg-name="URBANA TV" group-title="Variedades" tvg-logo="https://radiosargentina.com.ar/png/VIURTEVE.png" radio="false" catchup="vod",URBANA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__32.2URBANATEVE
 #EXTINF:-1 tvg-name="UNIFE" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Variedades", UNIFE 
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Variedades",GEN TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
-#EXTINF:-1 tvg-chno="20" tvg-id="64" tvg-name="MAGAZINE" group-title="Variedades" radio="false" catchup="vod",CIUDAD MAGAZINE
-http://avefenixtv.com/live/AdanMontes/11122023AM/712732.ts
 #EXTINF:-1 xc_vm-id="653409" tvg-id="" tvg-name="Argentina - TELEMAX HD" tvg-logo="https://television.com.ar/wp-content/uploads/2024/06/Telemax.jpg" group-title="Variedades",TELEMAX
 http://aioplus.es:80/live/a2620bcdb25de87bba36276fb9b6ae6e/653409.ts
 #EXTINF:-1 tvg-id="" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://i.ibb.co/Xyk9JsC/dsd.png" group-title="Variedades",THE WEATHER CHANNEL
@@ -195,8 +193,8 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/712751.ts
 #EXTINF:-1 tvg-chno="110" tvg-id="696" tvg-name="GOLF CHANNEL" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/GOLFCHANNEL.jpg" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL
 http://avefenixtv.com/live/AdanMontes/11122023AM/213977.ts
 #EXTINF:-1 tvg-chno="111" tvg-id="710" tvg-name="NBA TV" group-title="Deportes" radio="false" catchup="vod",NBA TV
-http://somoseluno.blog:80/live/9mQxLW8jGj5s/GekDyup9gYLR/399381.ts
-#EXTINF:-1 tvg-chno="112" tvg-id="641" tvg-name="DISC TURBO" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO
+http://avefenixtv.com/live/AdanMontes/11122023AM/213980.ts
+#EXTINF:-1 tvg-chno="112" tvg-id="641" tvg-name="DISC TURBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO
 http://avefenixtv.com/live/AdanMontes/11122023AM/79466.ts
 #EXTINF:-1 tvg-chno="113" tvg-id="7840" tvg-name="PX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/PX-Sports.png" group-title="Deportes" radio="false" catchup="vod",PX SPORTS
 http://neospaxy.top:8080/9531757497260567/85326a36b10b/10098
@@ -208,8 +206,6 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/712757.ts
 http://avefenixtv.com/live/AdanMontes/11122023AM/722195.ts
 #EXTINF:-1, tvg-chno="127" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT SPORTS
 http://avefenixtv.com/live/AdanMontes/11122023AM/712753.ts
-#EXTINF:-1 tvg-chno="129" tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DEPORTV 
-http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/712742.ts
 #EXTINF:-1 tvg-id="RakutenTV-UK_fifa-plus-uk-live-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/f2357f3b-12c7-4b37-9c21-8029da9c31fb.png" group-title="Deportes",FIFA+
 https://49f2b747.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=0&ads.rtv_content_id=6133&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=a592a2da-7998-485e-b356-937d2e2c4399&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1781
 #EXTINF:-1 tvg-chno="200" tvg-id="713" tvg-name="PAKAPAKA" group-title="Infantiles" radio="false" catchup="vod",PAKAPAKA
@@ -247,8 +243,7 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/772967.ts
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
 http://avefenixtv.com/live/AdanMontes/11122023AM/712741.ts
 #EXTINF:-1 tvg-id="AandE" tvg-name="A&E OP2 " tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
-http://avefenixtv.com/live/AdanMontes/11122023AM/46085.ts
-http://avefenixtv.com/live/AdanMontes/11122023AM/46085.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46087.ts
 EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC  " tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="Peliculas y Series",AMC  
 http://avefenixtv.com/live/AdanMontes/11122023AM/46089.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://i.postimg.cc/XvtyWrnR/AMC-Crime-Print.png" group-title="Peliculas y Series",AMC CRIME 
@@ -428,12 +423,12 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/79476.ts
 #EXTINF:-1 tvg-id="" tvg-name="H2 History HD (DTV)" tvg-logo="https://i.ibb.co/0BGSc13/h2cahne.png" group-title="Cultural",H2 History 
 http://avefenixtv.com/live/AdanMontes/11122023AM/79477.ts
 #EXTINF:-1 tvg-id="" tvg-name="History Channel " tvg-logo="https://i.ibb.co/wgfpK2W/3245325437656876ty.png" group-title="Cultural",History Channel 
-http://redworld.pro:8880/ACTIVACION301/CECredGaWrbj/318617
+http://avefenixtv.com/live/AdanMontes/11122023AM/79479.ts
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD (DTV)" tvg-logo="https://i.ibb.co/RHMtJVv/lober.png" group-title="Cultural",LOVE NATURE 
 http://avefenixtv.com/live/AdanMontes/11122023AM/79482.ts
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic HD | AR" tvg-logo="https://i.ibb.co/sCY6fYc/cfdetf435433.png" group-title="Cultural",National Geographic 
 http://avefenixtv.com/live/AdanMontes/11122023AM/79486.ts 
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD" tvg-logo="https://i.ibb.co/D57vhdZ/24324342545.png" group-title="Cultural",NATGEO MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD" tvg-logo="https://i.ibb.co/D57vhdZ/24324342545.png" group-title="Cultural",NAT GEO MUNDO
 http://avefenixtv.com/live/AdanMontes/11122023AM/79489.ts
 #EXTINF:-1 tvg-id="" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
 http://avefenixtv.com/live/AdanMontes/11122023AM/79490.ts
@@ -447,11 +442,7 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/86480.ts
 http://avefenixtv.com/live/AdanMontes/11122023AM/86482.ts
 #EXTINF:-1 tvg-id="" tvg-name="Farra Music" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/49/3e/493e7428-f8e3-4372-9c4b-908792723aa6.jpg" group-title="Musical",Farra Music
 http://avefenixtv.com/live/AdanMontes/11122023AM/86732.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG: VH1" tvg-logo="https://docdog.top/logo/countries/argentina/vh1.png" group-title="Musical",VH1
-http://dejatedemamadas.neospaxy.top:8080/79176608188674/2v4v29hu393y/10067
-#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV MX" tvg-logo="https://telecentro.com.ar/img/cm/channels/mtv@2x.png" group-title="Musical",MTV 
-http://avefenixtv.com/live/AdanMontes/11122023AM/167411.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="Musical",ARG: MTV HITS
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="Musical",MTV HITS
 http://neospaxy.top:8080/281703331471132/41703331471087/10038
 #EXTINF:-1 tvg-id="" tvg-name="ARG: MUCH MUSIC" tvg-logo="https://docdog.top/logo/countries/argentina/muchmusic.png" group-title="Musical",ARG: MUCH MUSIC
 http://neospaxy.top:8080/281703331471132/41703331471087/9985
@@ -469,7 +460,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAM
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 #EXTINF:-1 channel-id="5d3609cd6a6c78d7672f2a81" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-chno="4790" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="Musical",MTV Latino
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
-#EXTINF:-1 channel-id="5ca672f515a62078d2ec0ad2" tvg-id="5ca672f515a62078d2ec0ad2" tvg-chno="2140" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Musical",MTV TV
+#EXTINF:-1 channel-id="5ca672f515a62078d2ec0ad2" tvg-id="5ca672f515a62078d2ec0ad2" tvg-chno="2140" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Musical",MTV
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 #EXTINF:-1 channel-id="5d14fdb8ca91eedee1633117" tvg-id="5d14fdb8ca91eedee1633117" tvg-chno="4770" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Musical",MTV Spankin 
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
@@ -501,7 +492,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 http://avefenixtv.com/live/AdanMontes/11122023AM/501086.ts
 #EXTINF:-1 tvg-chno="562" tvg-id="683" tvg-name="DEUTSCHE WELLE" tvg-logo="https://telecentro.com.ar/img/cm/channels/dw@2x.png" group-title="Internacional" radio="false" catchup="vod",DW DEUTSCHE WELLE
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CDWESPANOL_
-#EXTINF:-1 tvg-id="" tvg-name="TVE INTERNACIONAL | AR" tvg-logo="https://i.postimg.cc/PfpLkgKr/250-(1).png" group-title="Internacional",TVE 
+#EXTINF:-1 tvg-id="" tvg-name="TVE INTERNACIONAL | AR" tvg-logo="https://i.postimg.cc/PfpLkgKr/250-(1).png" group-title="Internacional",RTVE 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTVE24H____
 #EXTINF:-1 tvg-chno="564" tvg-id="729" tvg-name="GALICIA TV" group-title="Internacional" radio="false" catchup="vod",GALICIA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGALICIATV_
