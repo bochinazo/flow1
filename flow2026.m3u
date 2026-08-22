@@ -1,28 +1,111 @@
-﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ASIANTELEVISION1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BE2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DRAFTKINGS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FI1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JM1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PAC-12.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_POWERNATION1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RALLY_TV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SSPORTPLUS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TBNPLUS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_THESPORTPLUS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_VN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_VOA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz, https://epgshare01.online/epgshare01/locomotiontv.xml.gz, https://raw.githubusercontent.com/bochinazo/flow1/main/flowtv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz, 
+https://raw.githubusercontent.com/bochinazo/flow1/main/flowtv.xml, 
+https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_ASIANTELEVISION1.xml.gz,
+ https://epgshare01.online/epgshare01/epg_ripper_AT1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_BA1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_BE2.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_CY1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,
+https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_DRAFTKINGS1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FI1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JM1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KE1.xml.gz,
+https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_LV1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_MT1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_NO1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PAC-12.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_POWERNATION1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_DE1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_ES1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_FR1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_IT1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_NL1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_PL1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RALLY_TV1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_RS1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_SE1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_SSPORTPLUS1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_TBNPLUS1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_THESPORTPLUS1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_VN1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_VOA1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz, 
+https://epgshare01.online/epgshare01/locomotiontv.xml.gz, 
 #EXTINF:-1 tvg-chno="9" tvg-id="66" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712704.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712704.ts
 #EXTINF:-1 tvg-chno="10" tvg-id="69" tvg-name="TELEFE" group-title="Aire" radio="false" catchup="vod",TELEFE
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712715.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712715.ts
 #EXTINF:-1 tvg-chno="11" tvg-id="77" tvg-name="TV PUBLICA" group-title="Aire" radio="false" catchup="vod",TV PUBLICA
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712720.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712720.ts
 #EXTINF:-1 tvg-chno="12" tvg-id="75" tvg-name="EL TRECE" group-title="Aire" radio="false" catchup="vod",EL TRECE
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712711.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712711.ts
 #EXTINF:-1 tvg-chno="13" tvg-id="76" tvg-name="EL NUEVE" group-title="Aire" radio="false" catchup="vod",EL NUEVE
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712709.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712709.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="70" tvg-name="TN" group-title="Noticias" radio="false" catchup="vod",TN
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712718.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712718.ts
 #EXTINF:-1 tvg-chno="15" tvg-id="262" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias" radio="false" catchup="vod",A24
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712702.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712702.ts
 #EXTINF:-1 tvg-chno="16" tvg-id="65" tvg-name="C5N" group-title="Noticias" radio="false" catchup="vod",C5N
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712705.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712705.ts
 #EXTINF:-1 tvg-chno="17" tvg-id="269" tvg-name="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias" radio="false" catchup="vod",CRONICA
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712707.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712707.ts
 #EXTINF:-1 tvg-chno="18" tvg-id="1025" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod",26 TV
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712725.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712725.ts
 #EXTINF:-1 tvg-chno="19" tvg-id="1081" tvg-name="LA NACION" group-title="Noticias" radio="false" catchup="vod",LA NACION +
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712713.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712713.ts
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="Noticias",CANAL 22
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL22___
 #EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Noticias" tvg-logo="https://argentina.mom-gmr.org/uploads/_processed_/8/0/csm_16117-1639_company_import_d7774c7716.jpg", +PERFIL
@@ -30,7 +113,7 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="8398" tvg-name="AR12" tvg-logo="https://telecentro.com.ar/img/cm/channels/AR12@2x.png" group-title="Noticias" radio="false" catchup="vod",AR 12
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvakgxMDcyMGNVWlFRNndaeXNnN1pBUT0
 #EXTINF:-1 tvg-chno="23" tvg-id="676" tvg-name="CNN EN ESPAÑOL" group-title="Noticias" radio="false" catchup="vod",CNN EN ESPAÑOL
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/150799.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/150799.ts
 #EXTINF:-1 tvg-chno="552" tvg-id="666" tvg-name="BLOOMBERG" group-title="Noticias" radio="false" catchup="vod",BLOOMBERG
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERG_
 #EXTINF:-1 tvg-chno="555" tvg-id="CanalE.ar"  tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1",group-title="Noticias",E ECONOMIA
@@ -42,7 +125,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Variedades",GEN TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
 #EXTINF:-1 tvg-chno="20" tvg-id="64" tvg-name="MAGAZINE" group-title="Variedades" radio="false" catchup="vod",CIUDAD MAGAZINE
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712732.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712732.ts
 #EXTINF:-1 xc_vm-id="653409" tvg-id="" tvg-name="Argentina - TELEMAX HD" tvg-logo="https://television.com.ar/wp-content/uploads/2024/06/Telemax.jpg" group-title="Variedades",TELEMAX
 http://aioplus.es:80/live/a2620bcdb25de87bba36276fb9b6ae6e/653409.ts
 #EXTINF:-1 tvg-id="" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://i.ibb.co/Xyk9JsC/dsd.png" group-title="Variedades",THE WEATHER CHANNEL
@@ -54,7 +137,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="Variedades",CARAS TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
 #EXTINF:-1 tvg-id="HOLAHD" tvg-name="HOLA TV HD" tvg-logo="https://i.imgur.com/a6ZDo3q.jpg" group-title="Variedades",HOLA TV 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/755528.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/755528.ts
 #EXTINF:-1 tvg-id="ViajarTV.ar",tvg-chno="40" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",group-title="Variedades",VIAJAR TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICDADAB.png" group-title="Variedades" ,CANAL DE LA CIUDAD 
@@ -72,11 +155,11 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-metro.playli
 #EXTINF:-1 tvg-id="" tvg-name="Canal a" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Canal_%28%C3%A1%29_1999.svg/revision/latest/scale-to-width-down/200?cb=20251004032504" group-title="Variedades",CANAL A+
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420008.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas.co" tvg-name="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="Variedades",LAS ESTRELLAS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79079.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79079.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN" tvg-logo="http://www.radiosargentina.com.ar/png/VI-2GCHU.png" group-title="Variedades",SOMOS
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcWFURHVJSnUzRytUK1VPVjVCMFpPTT0
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Variedades",NEO TV 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712735.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712735.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHimvPEE2Hyu2ZTefssitfPeMwYV5BcJMyA&s" group-title="Variedades",CANAL C
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online-1.png" group-title="Variedades",TEC TV
@@ -86,186 +169,186 @@ http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/305969.ts
 #EXTINF:-1 tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Variedades",KZO ENTERTAINMENT
 http://cdn.instream.audio:9660/stream
 #EXTINF:-1 tvg-chno="100" tvg-id="270" tvg-name="DEPORTV" group-title="Deportes" radio="false" catchup="vod",DEPORTV
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712742.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712742.ts
 #EXTINF:-1 tvg-chno="101" tvg-id="74" tvg-name="TYC SPORTS" group-title="Deportes" tvg-logo="https://telecentro.com.ar/img/cm/channels/LatinaTV-4k-128.png" radio="false" catchup="vod",TYC SPORTS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712755.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712755.ts
 #EXTINF:-1 tvg-chno="102" tvg-id="280" tvg-name="ESPN" group-title="Deportes" radio="false" catchup="vod",ESPN
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712743.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712743.ts
 #EXTINF:-1 tvg-chno="103" tvg-id="278" tvg-name="ESPN 2" group-title="Deportes" radio="false" catchup="vod",ESPN 2
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712744.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712744.ts
 #EXTINF:-1 tvg-chno="104" tvg-id="72" tvg-name="ESPN 3" group-title="Deportes" radio="false" catchup="vod",ESPN 3
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712745.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712745.ts
 #EXTINF:-1 tvg-chno="105" tvg-id="279" tvg-name="ESPN EXTRA" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-espn4-252x252.png" group-title="Deportes" radio="false" catchup="vod",ESPN 4
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712746.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712746.ts
 #EXTINF:-1  tvg-chno="128" tvg-name="ESPN PREMIUM" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg" group-title="Deportes",ESPN PREMIUM
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712747.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712747.ts
 #EXTINF:-1 tvg-chno="106" tvg-id="73" tvg-name="FOX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-azul.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712748.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712748.ts
 #EXTINF:-1 tvg-chno="107" tvg-id="292" tvg-name="FOX SPORTS 2" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-2.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 2
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712749.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712749.ts
 #EXTINF:-1 tvg-chno="108" tvg-id="293" tvg-name="FOX SPORTS 3" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-3.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 3
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712750.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712750.ts
 #EXTINF:-1 tvg-id="" tvg-name="D| FOX Sports Premium Arg HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-premium_m.png" group-title="Deportes",FOX SPORTS PREMIUM
 http://somoseluno.blog:80/live/9mQxLW8jGj5s/GekDyup9gYLR/361018.ts
 #EXTINF:-1 tvg-chno="109" tvg-id="685" tvg-name="EL GARAGE" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/elgarage.png" group-title="Deportes" radio="false" catchup="vod",EL GARAGE
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712751.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712751.ts
 #EXTINF:-1 tvg-chno="110" tvg-id="696" tvg-name="GOLF CHANNEL" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/GOLFCHANNEL.jpg" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/213977.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/213977.ts
 #EXTINF:-1 tvg-chno="111" tvg-id="710" tvg-name="NBA TV" group-title="Deportes" radio="false" catchup="vod",NBA TV
 http://somoseluno.blog:80/live/9mQxLW8jGj5s/GekDyup9gYLR/399381.ts
 #EXTINF:-1 tvg-chno="112" tvg-id="641" tvg-name="DISC TURBO" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79466.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79466.ts
 #EXTINF:-1 tvg-chno="113" tvg-id="7840" tvg-name="PX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/PX-Sports.png" group-title="Deportes" radio="false" catchup="vod",PX SPORTS
 http://neospaxy.top:8080/9531757497260567/85326a36b10b/10098
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 ARG" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lg-dsports.png" group-title="Deportes",DSPORTS 1 ARG
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712756.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712756.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lg-dsports2.png" group-title="Deportes",DSPORTS 2 ARG
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712757.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712757.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS +1 AR" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lg-dsports.png" group-title="Deportes",DSPORTS +1 AR
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/722195.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/722195.ts
 #EXTINF:-1, tvg-chno="127" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT SPORTS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712753.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712753.ts
 #EXTINF:-1 tvg-chno="129" tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DEPORTV 
 http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/712742.ts
 #EXTINF:-1 tvg-id="RakutenTV-UK_fifa-plus-uk-live-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/f2357f3b-12c7-4b37-9c21-8029da9c31fb.png" group-title="Deportes",FIFA+
 https://49f2b747.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=0&ads.rtv_content_id=6133&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=a592a2da-7998-485e-b356-937d2e2c4399&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1781
 #EXTINF:-1 tvg-chno="200" tvg-id="713" tvg-name="PAKAPAKA" group-title="Infantiles" radio="false" catchup="vod",PAKAPAKA
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712737.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712737.ts
 #EXTINF:-1 tvg-chno="201" tvg-id="275" tvg-name="DISNEY" tvg-logo="https://telecentro.com.ar/img/cm/channels/disneychannel@2x.png" group-title="Infantiles" radio="false" catchup="vod",DISNEY CHANNEL 
 http://redworld.pro:8880/ACTIVACION301/CECredGaWrbj/321978
 #EXTINF:-1 tvg-chno="202" tvg-id="6857" tvg-name="NICKELODEON" group-title="Infantiles" radio="false" catchup="vod",NICKELODEON
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11939.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11939.ts
 #EXTINF:-1 tvg-id="" tvg-name="NICKMUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjKxxwjpC-ITNwW2VRXHO4y3ceTYowFQflQ&s" group-title="Infantiles",NICKMUSIC
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11940.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11940.ts
 #EXTINF:-1 tvg-chno="203" tvg-id="71" tvg-name="CARTOON NETWORK" group-title="Infantiles" radio="false" catchup="vod",CARTOON NETWORK
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11921.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11921.ts
 #EXTINF:-1 tvg-chno="204" tvg-id="9140" tvg-name="DREAMWORKS" group-title="Infantiles" tvg-logo="https://i.postimg.cc/h437r7q9/Dream-Works-Channel-Logo-svg.png" radio="false" catchup="vod",DREAMWORKS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/319635.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/319635.ts
 #EXTINF:-1 tvg-chno="205" tvg-id="679" tvg-name="DISCOVERY KIDS" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoverykids.png" group-title="Infantiles" radio="false" catchup="vod",DISCOVERY KIDS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11925.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11925.ts
 #EXTINF:-1 tvg-chno="206" tvg-id="266" tvg-name="CARTOONITO" group-title="Infantiles" radio="false" catchup="vod",CARTOONITO
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11918.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11918.ts
 #EXTINF:-1 tvg-chno="207" tvg-id="276" tvg-name="DISNEY JR" tvg-logo="https://telecentro.com.ar/img/cm/channels/disneyjunior@2x.png" group-title="Infantiles" radio="false" catchup="vod",DISNEY JR
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11929.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11929.ts
 #EXTINF:-1 tvg-chno="208" tvg-id="264" tvg-name="BABY TV" group-title="Infantiles" radio="false" catchup="vod",BABY TV
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11917.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11917.ts
 #EXTINF:-1 tvg-chno="209" tvg-id="726" tvg-name="TOONCAST" group-title="Infantiles" radio="false" catchup="vod",TOONCAST
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11941.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11941.ts
 #EXTINF:-1 tvg-chno="210" tvg-id="711" tvg-name="NICK JR." tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/nickjr.png" group-title="Infantiles" radio="false" catchup="vod",NICK JR.
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11938.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11938.ts
 #EXTINF:-1,tvg-chno="211" group-title="Infantiles" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/nickjr.png", TEEN NICK
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/596465.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/596465.ts
 #EXTINF:-1 tvg-chno="212 "tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="Infantiles" ,PLIM PLIM TV
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/771571.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/771571.ts
 #EXTINF:-1 tvg-chno="223 "tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20220912114022" group-title="Infantiles", BABY  FIRST
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11916.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/11916.ts
 #EXTINF:-1 tvg-chno="300" tvg-id="701" tvg-name="CINE.AR" group-title="Peliculas y Series" radio="false" catchup="vod",CINE.AR
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/772967.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/772967.ts
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712741.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712741.ts
 #EXTINF:-1 tvg-id="AandE" tvg-name="A&E OP2 " tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46085.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46085.ts
 http://avefenixtv.com/live/AdanMontes/11122023AM/46085.ts
 EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC  " tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="Peliculas y Series",AMC  
 http://avefenixtv.com/live/AdanMontes/11122023AM/46089.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://i.postimg.cc/XvtyWrnR/AMC-Crime-Print.png" group-title="Peliculas y Series",AMC CRIME 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/327839.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/327839.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN " tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="Peliculas y Series",AXN 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46095.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46095.ts
 #EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",A3SERIES
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46097.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46097.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATRESERIES " tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",ATRESERIES 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46100.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46100.ts
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="Peliculas y Series",CINEMA
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46101.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46101.ts
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO " tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="Peliculas y Series",CINE LATINO 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46106.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46106.ts
 #EXTINF:-1 tvg-id="CINECANAL.co" tvg-name="CINECANAL " tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="Peliculas y Series",CINECANAL 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46108.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46108.ts
 #EXTINF:-1 tvg-id="CINEMAX.co" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas y Series",CINEMAX 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46111.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46111.ts
 #EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="Peliculas y Series",DE PELICULA PLUS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46118.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46118.ts
 #EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=430" group-title="Peliculas y Series",DE PELICULA
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46120.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46120.ts
 #EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="Peliculas y Series",DE PELICULA CLASICO
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46121.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46121.ts
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE " tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="Peliculas y Series",DHE 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46122.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46122.ts
 #EXTINF:-1 tvg-id="EUROPA EUROPA.co" tvg-name="EUROPA EUROPA " tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="Peliculas y Series",EUROPA EUROPA 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46127.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46127.ts
 #EXTINF:-1 tvg-id="" tvg-name="FX HD (DTV)" tvg-logo="https://i.ibb.co/z2PqF2T/FX1.png" group-title="Peliculas y Series",FX 
 http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/46130.ts
 #EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="GOLDEN PLUS | AR" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="Peliculas y Series",GOLDEN PLUS 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46138.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46138.ts
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://static.wixstatic.com/media/799a49_71c1ff04114f46cfb36a1b658f46e7c4~mv2.png/v1/fill/w_306,h_306,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png" group-title="Peliculas y Series",GOLDEN EDGE 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46139.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46139.ts
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="Peliculas y Series",GOLDEN PREMIER 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46141.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46141.ts
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46142.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46142.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="Peliculas y Series",HBO 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46145.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46145.ts
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="Peliculas y Series",HBO 2 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46151.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46151.ts
 #EXTINF:-1 tvg-id="HBO Family.co" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="Peliculas y Series",HBO FAMILY
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46153.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46153.ts
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="Peliculas y Series",HBO PLUS 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46159.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46159.ts
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/BfvZWCJ/hb0sig3.png" group-title="Peliculas y Series",HBO SIGNATURE
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46163.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46163.ts
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="Peliculas y Series",MULTIPREMIER 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46168.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46168.ts
 #EXTINF:-1 tvg-id="Paramount Channel.co" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="Peliculas y Series",PARAMOUNT CHANNEL 
 http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/46170.ts
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES HD | AR" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="Peliculas y Series",SONY MOVIES 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46175.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46175.ts
 #EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL HD | AR" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="Peliculas y Series",SONY CHANNEL 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46176.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46176.ts
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="Peliculas y Series",SPACE 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46180.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46180.ts
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL HD | AR" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="Peliculas y Series",STUDIO UNIVERSAL
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46218.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46218.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA HD | AR" tvg-logo="https://telecentro.com.ar/img/cm/channels/usa@2x.png" group-title="Peliculas y Series",USA 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46222.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46222.ts
 #EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT NOVELAS HD (DTV)" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="Peliculas y Series",TNT NOVELAS 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46227.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46227.ts
 #EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT HD | AR" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="Peliculas y Series",TNT 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46236.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46236.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD (DTV)" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="Peliculas y Series",TNT SERIES 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46240.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46240.ts
 #EXTINF:-1 tvg-id="TNT Series.co" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="Peliculas y Series",TNT SERIES
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46242.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46242.ts
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="UNIVERSAL " tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="Peliculas y Series",UNIVERSAL 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46246.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46246.ts
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV AR " tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="Peliculas y Series",WARNER TV  
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46248.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46248.ts
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="Peliculas y Series",UNIVERSAL REALITY
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/90077.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/90077.ts
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="Peliculas y Series",UNIVERSAL CINEMA
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/90078.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/90078.ts
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME |MX" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Crime%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL CRIME 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/90079.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/90079.ts
 #EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY " tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="Peliculas y Series",UNIVERSAL COMEDY 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/90081.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/90081.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE " tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="Peliculas y Series",UNIVERSAL PREMIERE 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/90083.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/90083.ts
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP " tvg-logo="https://i.ibb.co/vxK0tVp/hbopop3.png" group-title="Peliculas y Series",HBO POP 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/96203.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/96203.ts
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI  " tvg-logo="https://i.ibb.co/GHngdzz/hbomun3.png" group-title="Peliculas y Series",HBO MUNDI  
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/96205.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/96205.ts
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="Peliculas y Series",HBO XTREME
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/96209.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/96209.ts
 #EXTINF:-1 tvg-id="MCINLA" tvg-name="Multicinema" tvg-logo="https://i.ibb.co/921VFpp/multicinema.png" group-title="Peliculas y Series",MULTICINEMA
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/140365.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/140365.ts
 #EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="Peliculas y Series",CINE ESTELAR
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/148901.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/148901.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Peliculas y Series",CINEMA DC UNIVERSE
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/140943.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/140943.ts
 #EXTINF:-1 tvg-id="filmAndarts.ar" tvg-name="Film & Arts " tvg-logo="https://i.ibb.co/JCPsWS7/filmds.png" group-title="Peliculas y Series",FILM & ARTS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46129.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46129.ts
 #EXTINF:-1 tvg-id="" tvg-name="Retro Tv" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Peliculas y Series",RETRO TV
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/684852.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/684852.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CINEMA 
 http://liontv.es:8080/Walter549211/Walter549211/16
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CLASSIC 
@@ -293,93 +376,93 @@ http://neospaxy.top:8080/9531757497260567/85326a36b10b/18429
 #EXTINF:-1 tvg-id="" tvg-name="LA: MOVIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/movieplex.png" group-title="Peliculas y Series",MOVIEPLEX
 http://neospaxy.top:8080/9531757497260567/85326a36b10b/18430
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="Entretenimiento",UNIVISION TELENOVELAS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/4778.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/4778.ts
 #EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://i.ibb.co/dW0RXN7/rcnnovelas.png" group-title="Entretenimiento",RCN Novelas
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/13785.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/13785.ts
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://i.ibb.co/y0VcDzp/46576978uijfgcvgbc.png" group-title="Entretenimiento",E!
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/31960.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/31960.ts
 #EXTINF:-1 tvg-id="" tvg-name="TLC " tvg-logo="https://telecentro.com.ar/img/cm/channels/TLC%20128.png" group-title="Entretenimiento",TLC 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46233.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46233.ts
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL " tvg-logo="https://telecentro.com.ar/img/cm/channels/comedycentral@2x.png" group-title="Entretenimiento",COMEDY CENTRAL 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79058.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79058.ts
 #EXTINF:-1 tvg-chno="405" tvg-id="295" tvg-name="EL GOURMET" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgourmet.png" group-title="Entretenimiento" radio="false" catchup="vod",EL GOURMET
 http://redworld.pro:8880/benja77lop/rbYhcQnhbWur/318616
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://telecentro.com.ar/img/cm/channels/food%20network%20128.png" group-title="Entretenimiento",FOOD NETWORK
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79063.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79063.ts
 #EXTINF:-1 tvg-chno="404" tvg-id="692" tvg-name="LIFETIME" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lifetime.png" group-title="Entretenimiento" radio="false" catchup="vod",LIFETIME
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/113865.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/113865.ts
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="http://redworld.pro:8880/images/3cc08b1c9d27766ef4324e457791f37b.png" group-title="Entretenimiento",GLITZ
 http://redworld.pro:8880/ACTIVACION301/CECredGaWrbj/135432
 #EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://i.ibb.co/wpxLdLn/NBC-universoeast.png" group-title="Entretenimiento",NBC UNIVERSO
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/205618.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/205618.ts
 #EXTINF:-1 tvg-id="AdultSwim.ar" tvg-name="ADULT SWIM " tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?w=1000" group-title="Entretenimiento",ADULT SWIM 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79072.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79072.ts
 #EXTINF:-1 tvg-id="KANALDL" tvg-name="Kanal D Drama" tvg-logo="https://i.ibb.co/MCzcqMx/KANALD.png" group-title="Entretenimiento",Kanal D Drama
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/4693.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/4693.ts
 #EXTINF:-1 tvg-chno="22" tvg-id="686" tvg-name="ENCUENTRO" group-title="Cultural" radio="false" catchup="vod",ENCUENTRO
 http://liontv.es:8080/Walter549211/Walter549211/334347
 #EXTINF:-1 tvg-id="filmAndarts.ar" tvg-name="Film & Arts  HD" tvg-logo="https://i.ibb.co/JCPsWS7/filmds.png" group-title="Cultural",Film & Arts  
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46129.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/46129.ts
 #EXTINF:-1 tvg-id="Animal Planet.co" tvg-name="Animal Planet   HD" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="Cultural",Animal Planet  
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79447.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79447.ts
 #EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL HD" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="Cultural",CGTN ESPAÑOL 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79450.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79450.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel " tvg-logo="https://i.ibb.co/HtqyD0b/ddffds.png" group-title="Cultural",Discovery Channel 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79453.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79453.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="https://i.ibb.co/v3vWJPP/5436t5gfdvbcnhgjkiopl.png" group-title="Cultural",Discovery ID
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79457.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79457.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health " tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="Cultural",Discovery Home & Health 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79459.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79459.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science " tvg-logo="https://i.ibb.co/K7MrFNm/543gdr44.png" group-title="Cultural",Discovery Science 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79463.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79463.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://i.ibb.co/k3Yb7Ff/teheat.png" group-title="Cultural",Discovery Theater 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79464.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79464.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD " tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" group-title="Cultural",Discovery Turbo  
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79466.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79466.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD  " tvg-logo="https://i.ibb.co/D9TxF6V/discworsd.png" group-title="Cultural",Discovery World   
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79468.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79468.ts
 #EXTINF:-1 tvg-id="HGTV.co" tvg-name="HGTV  | AR HD" tvg-logo="https://i.ibb.co/ckqYDrF/hgtcwsd.png" group-title="Cultural",HGTV  
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79474.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79474.ts
 #EXTINF:-1 tvg-id="" tvg-name="Hispan TV" tvg-logo="https://i.ibb.co/HzvTpT1/hispanid.png" group-title="Cultural",Hispan TV
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79476.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79476.ts
 #EXTINF:-1 tvg-id="" tvg-name="H2 History HD (DTV)" tvg-logo="https://i.ibb.co/0BGSc13/h2cahne.png" group-title="Cultural",H2 History 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79477.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79477.ts
 #EXTINF:-1 tvg-id="" tvg-name="History Channel " tvg-logo="https://i.ibb.co/wgfpK2W/3245325437656876ty.png" group-title="Cultural",History Channel 
 http://redworld.pro:8880/ACTIVACION301/CECredGaWrbj/318617
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD (DTV)" tvg-logo="https://i.ibb.co/RHMtJVv/lober.png" group-title="Cultural",LOVE NATURE 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79482.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79482.ts
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic HD | AR" tvg-logo="https://i.ibb.co/sCY6fYc/cfdetf435433.png" group-title="Cultural",National Geographic 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79486.ts 
+http://avefenixtv.com/live/AdanMontes/11122023AM/79486.ts 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD" tvg-logo="https://i.ibb.co/D57vhdZ/24324342545.png" group-title="Cultural",NATGEO MUNDO
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79489.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79489.ts
 #EXTINF:-1 tvg-id="" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79490.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79490.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUSEUM TV" tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="Cultural",MUSEUM TV
 http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/8144
 #EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="https://i.postimg.cc/cCwc8QNg/images-q-tbn-ANd9Gc-Tdj9Acdkh-O4o4Q86Vqy0ic-CPd581v-HORB8Aw-s.png" group-title="Musical",TELEHIT
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/86461.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/86461.ts
 #EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://telecentro.com.ar/img/cm/channels/htv@2x.png" group-title="Musical",HTV
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/86480.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/86480.ts
 #EXTINF:-1 tvg-id="" tvg-name="Quiero Musica" tvg-logo="https://telecentro.com.ar/img/cm/channels/quieromimusica@2x.png" group-title="Musical",QUIERO MUSICA
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/86482.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/86482.ts
 #EXTINF:-1 tvg-id="" tvg-name="Farra Music" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/49/3e/493e7428-f8e3-4372-9c4b-908792723aa6.jpg" group-title="Musical",Farra Music
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/86732.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/86732.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: VH1" tvg-logo="https://docdog.top/logo/countries/argentina/vh1.png" group-title="Musical",VH1
 http://dejatedemamadas.neospaxy.top:8080/79176608188674/2v4v29hu393y/10067
 #EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV MX" tvg-logo="https://telecentro.com.ar/img/cm/channels/mtv@2x.png" group-title="Musical",MTV 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/167411.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/167411.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="Musical",ARG: MTV HITS
 http://neospaxy.top:8080/281703331471132/41703331471087/10038
 #EXTINF:-1 tvg-id="" tvg-name="ARG: MUCH MUSIC" tvg-logo="https://docdog.top/logo/countries/argentina/muchmusic.png" group-title="Musical",ARG: MUCH MUSIC
 http://neospaxy.top:8080/281703331471132/41703331471087/9985
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/planetatv.PNG" group-title="Musical",  PLANETA TV 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/601347.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/601347.ts
 #EXTINF:-1 tvg-chno="573" tvg-id="664" tvg-name="ARGENTINISIMA SATELITAL" group-title="Musical" radio="false" catchup="vod",ARGENTINISIMA SATELITAL
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712721.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/712721.ts
 #EXTINF:-1 tvg-id="" tvg-name="Allegro " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Allegro_hd.png/revision/latest?cb=20210526004610&path-prefix=es" group-title="Musical",Allegro 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/772968.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/772968.ts
 #EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="https://i.ibb.co/4FHz2zt/concer.png" group-title="Musical",Concert Channel
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79448.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79448.ts
 #EXTINF:-1 tvg-chno="507" tvg-id="674" tvg-name="CANAL DE LA MUSICA" group-title="Musical", CANAL DE LA MUSICA
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAM
 #EXTINF:-1 channel-id="5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-chno="4780" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG_1758324914960.png" group-title="Musical",MTV Biggest Pop
@@ -397,25 +480,25 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
 #EXTINF:-1 tvg-id="Retroclub.ar@HD" tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png" group-title="Musical",RETROCLUB
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 #EXTINF:-1 tvg-chno="557" tvg-id="677" tvg-name="CNN" group-title="Internacional" radio="false" catchup="vod",CNN INTERNACIONAL
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79094.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79094.ts
 #EXTINF:-1 tvg-chno="575" tvg-id="6617" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",FRANCE 24 ESPAÑOL
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79099.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/79099.ts
 #EXTINF:-1 tvg-chno="551" tvg-id="716" tvg-name="RAI" group-title="Internacional" ,RAI NEWS
 http://dejatedemamadas.neospaxy.top:8080/391732027469620/57f18b9047da/62027
 #EXTINF:-1 tvg-chno="553" tvg-id="727" tvg-name="TVN CHILE" group-title="Internacional" radio="false" catchup="vod",TVN CHILE
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/171590.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/171590.ts
 #EXTINF:-1 tvg-chno="554" tvg-id="730" tvg-name="TV 5" tvg-logo="https://telecentro.com.ar/img/cm/channels/tv5monde@2x.png" group-title="Internacional" radio="false" catchup="vod",TV 5
 http://avefenixtv.com/live/AdanMontes/11122023AM/438507.ts
 #EXTINF:-1 tvg-chno="556" tvg-id="724" tvg-name="TELESUR" group-title="Internacional" radio="false" catchup="vod",TELESUR
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/198302.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/198302.ts
 #EXTINF:-1 tvg-chno="558" tvg-id="864" tvg-name="BBC WORLD" group-title="Internacional" radio="false" catchup="vod",BBC WORLD
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/89898.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/89898.ts
 #EXTINF:-1 tvg-chno="559" tvg-id="693" tvg-name="FOX NEWS" tvg-logo="https://banner2.cleanpng.com/20180918/sxx/kisspng-logo-font-brand-product-line-5ba15efe6c46c5.7863516315373022704435.jpg" group-title="Internacional" radio="false" catchup="vod",FOX NEWS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/597235.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/597235.ts
 #EXTINF:-1 tvg-chno="560" tvg-id="1024" tvg-name="AL JAZEERA" group-title="Internacional"tvg-logo="https://www.ecured.cu/images/c/cc/AlJazeera.jpg" radio="false" catchup="vod",AL JAZEERA
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-chno="561" tvg-id="688" tvg-name="EURONEWS" group-title="Internacional" radio="false" catchup="vod",EURONEWS
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/501086.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/501086.ts
 #EXTINF:-1 tvg-chno="562" tvg-id="683" tvg-name="DEUTSCHE WELLE" tvg-logo="https://telecentro.com.ar/img/cm/channels/dw@2x.png" group-title="Internacional" radio="false" catchup="vod",DW DEUTSCHE WELLE
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CDWESPANOL_
 #EXTINF:-1 tvg-id="" tvg-name="TVE INTERNACIONAL | AR" tvg-logo="https://i.postimg.cc/PfpLkgKr/250-(1).png" group-title="Internacional",TVE 
@@ -425,15 +508,15 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGALICIATV_
 #EXTINF:-1 tvg-chno="566" tvg-id="941" tvg-name="ARIRANG" group-title="Internacional" radio="false" catchup="vod",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="567" tvg-id="672" tvg-name="UCL" group-title="Internacional" radio="false" catchup="vod",UCL
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/198283.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/198283.ts
 #EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Internacional" radio="false" catchup="vod",FRANCE 24
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/438677.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/438677.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV   FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Globo_Internacional_2014.png/revision/latest?cb=20200812160256&path-prefix=es" group-title="Internacional",GLOBO TV  
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/195355.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/195355.ts
 #EXTINF:-1 tvg-chno="425" tvg-id="668" tvg-name="CANAL ORBE 21" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png" group-title="Religion" radio="false" catchup="vod",CANAL ORBE 21
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/55197.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/55197.ts
 #EXTINF:-1 tvg-chno="426" tvg-id="690" tvg-name="EWTN" group-title="Religion" radio="false" catchup="vod",EWTN
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/55159.ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/55159.ts
 #EXTINF:-1 tvg-chno="424" tvg-id="963" tvg-name="CANAL SANTA MARÍA" group-title="Religion" radio="false" catchup="vod",CANAL SANTA MARÍA
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name=" LA CASA DE LA PRADERA " tvg-logo="https://pics.filmaffinity.com/little_house_on_the_prairie-162276546-msmall.jpg" group-title="24/7", LA FAMILIA INGALLS
