@@ -244,7 +244,7 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/772967.ts
 http://avefenixtv.com/live/AdanMontes/11122023AM/712741.ts
 #EXTINF:-1 tvg-id="AandE" tvg-name="A&E OP2 " tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
 http://avefenixtv.com/live/AdanMontes/11122023AM/46087.ts
-EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC  " tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="Peliculas y Series",AMC  
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC  " tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="Peliculas y Series",AMC  
 http://avefenixtv.com/live/AdanMontes/11122023AM/46089.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://i.postimg.cc/XvtyWrnR/AMC-Crime-Print.png" group-title="Peliculas y Series",AMC CRIME 
 http://avefenixtv.com/live/AdanMontes/11122023AM/327839.ts
