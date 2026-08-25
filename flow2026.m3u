@@ -1,7 +1,7 @@
-﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
+﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.txt"
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
 http://avefenixtv.com/live/AdanMontes/11122023AM/712704.ts
-#EXTINF:-1 tvg-chno="10" tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" group-title="Aire" radio="false" catchup="vod",TELEFE
+#EXTINF:-1 tvg-chno="10" tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" tvg-logo=""https://static.flow.com.ar/images/66/CH_LOGO/350/500/0/0/60528493072631.png" group-title="Aire" radio="false" catchup="vod",TELEFE
 http://avefenixtv.com/live/AdanMontes/11122023AM/712715.ts
 #EXTINF:-1 tvg-chno="11" tvg-id="Canal.Televisión.Pública.(Argentina).ar" tvg-name="TV PUBLICA" group-title="Aire" radio="false" catchup="vod",TV PUBLICA
 http://avefenixtv.com/live/AdanMontes/11122023AM/712720.ts
@@ -11,13 +11,13 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/712711.ts
 http://avefenixtv.com/live/AdanMontes/11122023AM/712709.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="70" tvg-name="TN" group-title="Noticias" radio="false" catchup="vod",TN
+#EXTINF:-1 tvg-chno="14" tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="TN" group-title="Noticias" radio="false" catchup="vod",TN
 http://avefenixtv.com/live/AdanMontes/11122023AM/712718.ts
 #EXTINF:-1 tvg-chno="15" tvg-id="262" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias" radio="false" catchup="vod",A24
 http://avefenixtv.com/live/AdanMontes/11122023AM/712702.ts
 #EXTINF:-1 tvg-chno="16" tvg-id="65" tvg-name="C5N" group-title="Noticias" radio="false" catchup="vod",C5N
 http://avefenixtv.com/live/AdanMontes/11122023AM/712705.ts
-#EXTINF:-1 tvg-chno="17" tvg-id="269" tvg-name="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias" radio="false" catchup="vod",CRONICA
+#EXTINF:-1 tvg-chno="17" tvg-id="CRONICA.uy" tvg-name="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias" radio="false" catchup="vod",CRONICA
 http://avefenixtv.com/live/AdanMontes/11122023AM/712707.ts
 #EXTINF:-1 tvg-chno="18" tvg-id="1025" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod",26 TV
 http://avefenixtv.com/live/AdanMontes/11122023AM/712725.ts
@@ -33,7 +33,7 @@ http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvakgxMDcyMGNVWlFRNndaeXNnN1pBUT0
 http://avefenixtv.com/live/AdanMontes/11122023AM/150799.ts
 #EXTINF:-1 tvg-chno="552" tvg-id="666" tvg-name="BLOOMBERG" group-title="Noticias" radio="false" catchup="vod",BLOOMBERG
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERG_
-#EXTINF:-1 tvg-chno="20" tvg-id="64" tvg-name="MAGAZINE" group-title="Variedades" radio="false" catchup="vod",CIUDAD MAGAZINE
+#EXTINF:-1 tvg-chno="20" tvg-id="CIUDAD.MAGAZINE..uy" tvg-name="MAGAZINE" group-title="Variedades" radio="false" catchup="vod",CIUDAD MAGAZINE
 http://avefenixtv.com/live/AdanMontes/11122023AM/712732.ts
 #EXTINF:-1 tvg-chno="8" tvg-id="64" tvg-name="URBANA TV" group-title="Variedades" tvg-logo="https://radiosargentina.com.ar/png/VIURTEVE.png" radio="false" catchup="vod",URBANA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__32.2URBANATEVE
@@ -83,6 +83,8 @@ http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvdHZaak1iM05GKzhNYUd5MTdXNmJmVT0
 http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/305969.ts
 #EXTINF:-1 tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Variedades",KZO ENTERTAINMENT
 http://cdn.instream.audio:9660/stream
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVUNLP.png" group-title="Variedades",TV Universidad de La Plata
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBALA_PL__32.1TVUNIVERSI
 #EXTINF:-1 tvg-chno="100" tvg-id="270" tvg-name="DEPORTV" group-title="Deportes" radio="false" catchup="vod",DEPORTV
 http://avefenixtv.com/live/AdanMontes/11122023AM/712742.ts
 #EXTINF:-1 tvg-chno="101" tvg-id="Canal.TyC.Sports.ar" tvg-name="TYC SPORTS" group-title="Deportes" tvg-logo="https://telecentro.com.ar/img/cm/channels/LatinaTV-4k-128.png" radio="false" catchup="vod",TYC SPORTS
@@ -313,7 +315,7 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/205618.ts
 http://avefenixtv.com/live/AdanMontes/11122023AM/79072.ts
 #EXTINF:-1 tvg-id="KANALDL" tvg-name="Kanal D Drama" tvg-logo="https://i.ibb.co/MCzcqMx/KANALD.png" group-title="Entretenimiento",Kanal D Drama
 http://avefenixtv.com/live/AdanMontes/11122023AM/4693.ts
-#EXTINF:-1 tvg-chno="22" tvg-id="686" tvg-name="ENCUENTRO" group-title="Cultural" radio="false" catchup="vod",ENCUENTRO
+#EXTINF:-1 tvg-chno="22" tvg-id="ENCUENTRO.uy" tvg-name="ENCUENTRO" group-title="Cultural" radio="false" catchup="vod",ENCUENTRO
 http://liontv.es:8080/Walter549211/Walter549211/334347
 #EXTINF:-1 tvg-id="Canal.Animal.Planet.(Argentina).ar" tvg-name="Animal Planet   HD" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="Cultural",Animal Planet  
 http://avefenixtv.com/live/AdanMontes/11122023AM/79447.ts
@@ -419,7 +421,9 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://avefenixtv.com/live/AdanMontes/11122023AM/198283.ts
 #EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Internacional" radio="false" catchup="vod",FRANCE 24
 http://avefenixtv.com/live/AdanMontes/11122023AM/438677.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV   FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Globo_Internacional_2014.png/revision/latest?cb=20200812160256&path-prefix=es" group-title="Internacional",GLOBO TV  
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS  | H.264 480p" tvg-logo="https://logowik.com/content/uploads/images/bandnews-tv-202494983.logowik.com.webp" group-title="Internacional",BAND NEWS 
+http://avefenixtv.com/live/AdanMontes/11122023AM/195410.ts
+#EXTINF:-1 tvg-id="Canal.TV.Globo.Internacional.ar" tvg-name="GLOBO TV   FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Globo_Internacional_2014.png/revision/latest?cb=20200812160256&path-prefix=es" group-title="Internacional",GLOBO TV  
 http://avefenixtv.com/live/AdanMontes/11122023AM/195355.ts
 #EXTINF:-1 tvg-id="Canal.SNT.(Paraguay).ar" tvg-name="PY: SNT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest/scale-to-width-down/1000?cb=20220908172855&path-prefix=es" group-title="Internacional",SNT 
 http://avefenixtv.com/live/AdanMontes/11122023AM/18449.ts
