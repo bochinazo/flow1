@@ -11,15 +11,15 @@ http://avefenixtv.com/live/AdanMontes/11122023AM/712711.ts
 http://avefenixtv.com/live/AdanMontes/11122023AM/712709.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="TN" group-title="Noticias" radio="false" catchup="vod",TN
+#EXTINF:-1 tvg-chno="14" tvg-id="TN.HD..uy" tvg-name="TN" group-title="Noticias" radio="false" catchup="vod",TN
 http://avefenixtv.com/live/AdanMontes/11122023AM/712718.ts
-#EXTINF:-1 tvg-chno="15" tvg-id="262" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias" radio="false" catchup="vod",A24
+#EXTINF:-1 tvg-chno="15" tvg-id="A24.HD.uy" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias" radio="false" catchup="vod",A24
 http://avefenixtv.com/live/AdanMontes/11122023AM/712702.ts
 #EXTINF:-1 tvg-chno="16" tvg-id="65" tvg-name="C5N" group-title="Noticias" radio="false" catchup="vod",C5N
 http://avefenixtv.com/live/AdanMontes/11122023AM/712705.ts
-#EXTINF:-1 tvg-chno="17" tvg-id="CRONICA.uy" tvg-name="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias" radio="false" catchup="vod",CRONICA
+#EXTINF:-1 tvg-chno="17" tvg-id="[CRON].Cronica.TV.uy" tvg-name="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias" radio="false" catchup="vod",CRONICA
 http://avefenixtv.com/live/AdanMontes/11122023AM/712707.ts
-#EXTINF:-1 tvg-chno="18" tvg-id="1025" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod",26 TV
+#EXTINF:-1 tvg-chno="18" tvg-id="26.TV.HD..uy" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod",26 TV
 http://avefenixtv.com/live/AdanMontes/11122023AM/712725.ts
 #EXTINF:-1 tvg-chno="19" tvg-id="1081" tvg-name="LA NACION" group-title="Noticias" radio="false" catchup="vod",LA NACION +
 http://avefenixtv.com/live/AdanMontes/11122023AM/712713.ts
