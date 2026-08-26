@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom XMLTV Generator">
+  <!-- Definicion del Canal -->
+  <channel id="Volver.ar">
+    <display-name lang="es">Canal Volver</display-name>
+  </channel>
+
+  <!-- PROGRAMACION: LUNES 31/08/2026 -->
+  <programme start="20260831000000 -0300" stop="20260831014000 -0300" channel="Volver.ar">
+    <title lang="es">Cine de Trasnoche: La Ultima Jugada</title>
+    <desc lang="es">Bloque de cine de trasnoche en la pantalla de Volver.</desc>
+  </programme>
+  <programme start="20260831014000 -0300" stop="20260831030000 -0300" channel="Volver.ar">
+    <title lang="es">Cine de Trasnoche: Un Momento Muy Largo</title>
+    <desc lang="es">Continuacion del bloque de cine clasico de trasnoche.</desc>
+  </programme>
+  <programme start="20260831030000 -0300" stop="20260831044000 -0300" channel="Volver.ar">
+    <title lang="es">Peliculas de la Tarde: Patapufete</title>
+    <desc lang="es">Emision especial de madrugada del bloque de peliculas de la tarde.</desc>
+  </programme>
+  <programme start="20260831044000 -0300" stop="20260831060000 -0300" channel="Volver.ar">
+    <title lang="es">Peliculas de la Tarde: Seres Queridos</title>
+    <desc lang="es">Cierre del bloque matutino de peliculas de la tarde.</desc>
+  </programme>
+  <programme start="20260831060000 -0300" stop="20260831070000 -0300" channel="Volver.ar">
+    <title lang="es">Gasoleros</title>
+    <desc lang="es">Telenovela y clasico de la television argentina.</desc>
+  </programme>
+  <programme start="20260831070000 -0300" stop="20260831080000 -0300" channel="Volver.ar">
+    <title lang="es">Buenos Chicos</title>
+    <desc lang="es">Serie dramatica nacional.</desc>
+  </programme>
+  <programme start="20260831080000 -0300" stop="20260831090000 -0300" channel="Volver.ar">
+    <title lang="es">Consentidos</title>
+    <desc lang="es">Serie de television juvenil.</desc>
+  </programme>
+  <programme start="20260831090000 -0300" stop="20260831100000 -0300" channel="Volver.ar">
+    <title lang="es">Collar de Esmeraldas</title>
+    <desc lang="es">Telenovela clasica argentina.</desc>
+  </programme>
+  <programme start="20260831100000 -0300" stop="20260831110000 -0300" channel="Volver.ar">
+    <title lang="es">Mil Millones</title>
+    <desc lang="es">Ficcion dramatica nacional.</desc>
+  </programme>
+  <programme start="20260831110000 -0300" stop="20260831120000 -0300" channel="Volver.ar">
+    <title lang="es">Las Estrellas</title>
+    <desc lang="es">Comedia dramatica romantica de la television argentina.</desc>
+  </programme>
+  <programme start="20260831120000 -0300" stop="20260831130000 -0300" channel="Volver.ar">
+    <title lang="es">Arguianano en tu Cocina</title>
+    <desc lang="es">Programa gastronomico clasico.</desc>
+  </programme>
+  <programme start="20260831130000 -0300" stop="20260831144000 -0300" channel="Volver.ar">
+    <title lang="es">Peliculas de la Tarde: Patapufete</title>
+    <desc lang="es">Cine nacional familiar.</desc>
+  </programme>
+  <programme start="20260831144000 -0300" stop="20260831160000 -0300" channel="Volver.ar">
+    <title lang="es">Peliculas de la Tarde: Seres Queridos</title>
+    <desc lang="es">Bloque vespertino de largometrajes.</desc>
+  </programme>
+  <programme start="20260831160000 -0300" stop="20260831170000 -0300" channel="Volver.ar">
+    <title lang="es">Gasoleros</title>
+    <desc lang="es">Emision vespertina de la clasica tira diaria.</desc>
+  </programme>
+  <programme start="20260831170000 -0300" stop="20260831180000 -0300" channel="Volver.ar">
+    <title lang="es">Nano</title>
+    <desc lang="es">Telenovela iconica de la TV argentina.</desc>
+  </programme>
+  <programme start="20260831180000 -0300" stop="20260831190000 -0300" channel="Volver.ar">
+    <title lang="es">Las Estrellas</title>
+    <desc lang="es">Repeticion de la tira diaria.</desc>
+  </programme>
+  <programme start="20260831190000 -0300" stop="20260831200000 -0300" channel="Volver.ar">
+    <title lang="es">Campeones de la Vida</title>
+    <desc lang="es">Clasica telenovela costumbrista argentina.</desc>
+  </programme>
+  <programme start="20260831200000 -0300" stop="20260831210000 -0300" channel="Volver.ar">
+    <title lang="es">Buenos Chicos</title>
+    <desc lang="es">Emision estelar de la ficcion nacional.</desc>
+  </programme>
+  <programme start="20260831210000 -0300" stop="20260831220000 -0300" channel="Volver.ar">
+    <title lang="es">Guapas</title>
+    <desc lang="es">Serie de television multi-estelar.</desc>
+  </programme>
+  <programme start="20260831220000 -0300" stop="20260831234500 -0300" channel="Volver.ar">
+    <title lang="es">Cine Argentino: Los Caballeros de la Cama Redonda</title>
+    <desc lang="es">Cine humoristico clasico nacional.</desc>
+  </programme>
+  <programme start="20260831234500 -0300" stop="20260901000000 -0300" channel="Volver.ar">
+    <title lang="es">Cine de Trasnoche: Flop</title>
+    <desc lang="es">Inicio del bloque cinematografico nocturno.</desc>
+  </programme>
+
+  <!-- PROGRAMACION: MARTES 01/09/2026 -->
+  <programme start="20260901000000 -0300" stop="20260901013000 -0300" channel="Volver.ar">
+    <title lang="es">Cine de Trasnoche: Flop (Continuacion)</title>
+    <desc lang="es">Pelicula biografica y dramatica argentina.</desc>
+  </programme>
+  <programme start="20260901013000 -0300" stop="20260901030000 -0300" channel="Volver.ar">
+    <title lang="es">Cine de Trasnoche: La Revelacion</title>
+    <desc lang="es">Bloque nocturno cinematografico.</desc>
+  </programme>
+  <programme start="20260901030000 -0300" stop="20260901045000 -0300" channel="Volver.ar">
+    <title lang="es">Peliculas de la Tarde: El Faro</title>
+    <desc lang="es">Largometraje dramatico argentino-espanol.</desc>
+  </programme>
+  <programme start="20260901045000 -0300" stop="20260901060000 -0300" channel="Volver.ar">
+    <title lang="es">Peliculas de la Tarde: Contacto en Argentina</title>
+    <desc lang="es">Cierre del bloque de cine matutino.</desc>
+  </programme>
+  <programme start="20260901060000 -0300" stop="20260901130000 -0300" channel="Volver.ar">
+    <title lang="es">Bloque de Programacion Regular Manana</title>
+    <desc lang="es">Incluye Gasoleros, Buenos Chicos, Consentidos, Collar de Esmeraldas, Mil Millones, Las Estrellas y Arguianano.</desc>
+  </programme>
+  <programme start="20260901130000 -0300" stop="20260901145000 -0300" channel="Volver.ar">
+    <title lang="es">Peliculas de la Tarde: El Faro</title>
+    <desc lang="es">Emision vespertina de cine nacional.</desc>
+  </programme>
+  <programme start="20260901145000 -0300" stop="20260901160000 -0300" channel="Volver.ar">
+    <title lang="es">Peliculas de la Tarde: Contacto en Argentina</title>
+    <desc lang="es">Bloque cinematografico de la tarde.</desc>
+  </programme>
+  <programme start="20260901160000 -0300" stop="20260901220000 -0300" channel="Volver.ar">
+    <title lang="es">Bloque de Programacion Regular Tarde/Noche</title>
+    <desc lang="es">Incluye Gasoleros, Nano, Las Estrellas, Campeones de la Vida, Buenos Chicos y Guapas.</desc>
+  </programme>
+  <programme start="20260901220000 -0300" stop="20260901234500 -0300" channel="Volver.ar">
+    <title lang="es">Cine Argentino: Bajo Bandera</title>
+    <desc lang="es">Pelicula dramatica y de suspenso argentina.</desc>
+  </programme>
+  <programme start="20260901234500 -0300" stop="20260902000000 -0300" channel="Volver.ar">
+    <title lang="es">Cine de Trasnoche: Carlos Monzon, El Segundo Juicio</title>
+    <desc lang="es">Pelicula dramatica basada en hechos reales.</desc>
+  </programme>
+</tv>
