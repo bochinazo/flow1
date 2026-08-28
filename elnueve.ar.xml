@@ -1,0 +1,676 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT" generator-info-url="https://www.xmltv.org/">
+  <channel id="elnueve.ar">
+    <display-name>El Nueve</display-name>
+    <display-name lang="es">El Nueve</display-name>
+  </channel>
+ <icon src="https://static.flow.com.ar/images/76/CH_LOGO/350/500/0/0/93367508072808.png" />
+  <programme start="2026-08-23 00:0000 -0300" stop="2026-08-23 00:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Con todo respeto</title>
+  </programme>
+  <programme start="2026-08-23 00:3000 -0300" stop="2026-08-23 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Tenes que ir</title>
+  </programme>
+  <programme start="2026-08-23 01:0000 -0300" stop="2026-08-23 01:3000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="2026-08-23 01:3000 -0300" stop="2026-08-23 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-08-23 05:3000 -0300" stop="2026-08-23 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-08-23 06:0000 -0300" stop="2026-08-23 07:0000 -0300" channel="elnueve.ar">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme start="2026-08-23 07:0000 -0300" stop="2026-08-23 09:0000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="2026-08-23 09:0000 -0300" stop="2026-08-23 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme start="2026-08-23 10:0000 -0300" stop="2026-08-23 10:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Automas</title>
+  </programme>
+  <programme start="2026-08-23 10:3000 -0300" stop="2026-08-23 11:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Argentina x Argentinos</title>
+  </programme>
+  <programme start="2026-08-23 11:3000 -0300" stop="2026-08-23 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Tenes que ir</title>
+
+https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz,
+  </programme>
+  <programme start="2026-08-23 12:0000 -0300" stop="2026-08-23 12:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+  <programme start="2026-08-23 12:3000 -0300" stop="2026-08-23 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">La cocina del 9</title>
+  </programme>
+  <programme start="2026-08-23 13:3000 -0300" stop="2026-08-23 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Medico de familia</title>
+  </programme>
+  <programme start="2026-08-23 15:0000 -0300" stop="2026-08-23 16:0000 -0300" channel="elnueve.ar">
+    <title lang="es">El show del Problema</title>
+  </programme>
+  <programme start="2026-08-23 16:0000 -0300" stop="2026-08-23 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Dosis semanal</title>
+  </programme>
+  <programme start="2026-08-23 17:0000 -0300" stop="2026-08-23 18:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme start="2026-08-23 18:0000 -0300" stop="2026-08-23 20:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="2026-08-23 20:0000 -0300" stop="2026-08-23 21:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Imagen de moda</title>
+  </programme>
+  <programme start="2026-08-23 21:0000 -0300" stop="2026-08-23 22:3000 -0300" channel="elnueve.ar">
+    <title lang="es">70-20 Hoy</title>
+  </programme>
+  <programme start="2026-08-23 22:3000 -0300" stop="2026-08-23 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Futbol sin manchas</title>
+  </programme>
+  <programme start="2026-08-24 00:0000 -0300" stop="2026-08-24 00:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Mas que Sinverguenzas</title>
+  </programme>
+  <programme start="2026-08-24 00:3000 -0300" stop="2026-08-24 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="2026-08-24 01:0000 -0300" stop="2026-08-24 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-08-24 05:0000 -0300" stop="2026-08-24 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-08-24 05:3000 -0300" stop="2026-08-24 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-08-24 06:0000 -0300" stop="2026-08-24 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-08-24 10:0000 -0300" stop="2026-08-24 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-08-24 12:0000 -0300" stop="2026-08-24 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-24 13:3000 -0300" stop="2026-08-24 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-08-24 15:0000 -0300" stop="2026-08-24 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-08-24 17:0000 -0300" stop="2026-08-24 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-08-24 19:0000 -0300" stop="2026-08-24 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-24 20:3000 -0300" stop="2026-08-24 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-08-24 22:0000 -0300" stop="2026-08-24 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-08-24 23:0000 -0300" stop="2026-08-24 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">TL9 Denuncia</title>
+  </programme>
+  <programme start="2026-08-25 00:0000 -0300" stop="2026-08-25 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-08-25 01:0000 -0300" stop="2026-08-25 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-08-25 05:0000 -0300" stop="2026-08-25 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-08-25 05:3000 -0300" stop="2026-08-25 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-08-25 06:0000 -0300" stop="2026-08-25 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-08-25 10:0000 -0300" stop="2026-08-25 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-08-25 12:0000 -0300" stop="2026-08-25 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-25 13:3000 -0300" stop="2026-08-25 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-08-25 15:0000 -0300" stop="2026-08-25 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-08-25 17:0000 -0300" stop="2026-08-25 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-08-25 19:0000 -0300" stop="2026-08-25 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-25 20:3000 -0300" stop="2026-08-25 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-08-25 22:0000 -0300" stop="2026-08-25 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-08-25 23:0000 -0300" stop="2026-08-25 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Codigo Doman</title>
+  </programme>
+  <programme start="2026-08-26 00:0000 -0300" stop="2026-08-26 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-08-26 01:0000 -0300" stop="2026-08-26 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-08-26 05:0000 -0300" stop="2026-08-26 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-08-26 05:3000 -0300" stop="2026-08-26 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-08-26 06:0000 -0300" stop="2026-08-26 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-08-26 10:0000 -0300" stop="2026-08-26 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-08-26 12:0000 -0300" stop="2026-08-26 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-26 13:3000 -0300" stop="2026-08-26 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-08-26 15:0000 -0300" stop="2026-08-26 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-08-26 17:0000 -0300" stop="2026-08-26 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-08-26 19:0000 -0300" stop="2026-08-26 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-26 20:3000 -0300" stop="2026-08-26 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-08-26 22:0000 -0300" stop="2026-08-26 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-08-26 23:0000 -0300" stop="2026-08-26 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Opinion Publica</title>
+  </programme>
+  <programme start="2026-08-27 00:0000 -0300" stop="2026-08-27 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-08-27 01:0000 -0300" stop="2026-08-27 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-08-27 05:0000 -0300" stop="2026-08-27 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-08-27 05:3000 -0300" stop="2026-08-27 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-08-27 06:0000 -0300" stop="2026-08-27 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-08-27 10:0000 -0300" stop="2026-08-27 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-08-27 12:0000 -0300" stop="2026-08-27 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-27 13:3000 -0300" stop="2026-08-27 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-08-27 15:0000 -0300" stop="2026-08-27 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-08-27 17:0000 -0300" stop="2026-08-27 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-08-27 19:0000 -0300" stop="2026-08-27 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-27 20:3000 -0300" stop="2026-08-27 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-08-27 22:0000 -0300" stop="2026-08-27 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-08-27 23:0000 -0300" stop="2026-08-27 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Viviana</title>
+  </programme>
+  <programme start="2026-08-28 00:0000 -0300" stop="2026-08-28 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-08-28 01:0000 -0300" stop="2026-08-28 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-08-28 05:0000 -0300" stop="2026-08-28 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-08-28 05:3000 -0300" stop="2026-08-28 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-08-28 06:0000 -0300" stop="2026-08-28 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-08-28 10:0000 -0300" stop="2026-08-28 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-08-28 12:0000 -0300" stop="2026-08-28 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-28 13:3000 -0300" stop="2026-08-28 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-08-28 15:0000 -0300" stop="2026-08-28 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-08-28 17:0000 -0300" stop="2026-08-28 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-08-28 19:0000 -0300" stop="2026-08-28 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-28 20:3000 -0300" stop="2026-08-28 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-08-28 22:0000 -0300" stop="2026-08-28 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-08-28 23:0000 -0300" stop="2026-08-28 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Decime algo lindo</title>
+  </programme>
+  <programme start="2026-08-29 00:0000 -0300" stop="2026-08-29 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-08-29 01:0000 -0300" stop="2026-08-29 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-08-29 05:3000 -0300" stop="2026-08-29 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-08-29 06:0000 -0300" stop="2026-08-29 09:0000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="2026-08-29 09:3000 -0300" stop="2026-08-29 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme start="2026-08-29 10:0000 -0300" stop="2026-08-29 10:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Prevenir</title>
+  </programme>
+  <programme start="2026-08-29 10:3000 -0300" stop="2026-08-29 11:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Argentina x Argentinos</title>
+  </programme>
+  <programme start="2026-08-29 11:3000 -0300" stop="2026-08-29 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Historias de AXA</title>
+  </programme>
+  <programme start="2026-08-29 12:0000 -0300" stop="2026-08-29 12:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Vivian</title>
+  </programme>
+  <programme start="2026-08-29 12:3000 -0300" stop="2026-08-29 13:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Somos bonaerenses</title>
+  </programme>
+  <programme start="2026-08-29 13:0000 -0300" stop="2026-08-29 14:0000 -0300" channel="elnueve.ar">
+    <title lang="es">La cocina del 9</title>
+  </programme>
+  <programme start="2026-08-29 14:0000 -0300" stop="2026-08-29 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Medico de familia</title>
+  </programme>
+  <programme start="2026-08-29 15:0000 -0300" stop="2026-08-29 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">El show del Problema</title>
+  </programme>
+  <programme start="2026-08-29 17:0000 -0300" stop="2026-08-29 18:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme start="2026-08-29 18:0000 -0300" stop="2026-08-29 20:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="2026-08-29 20:0000 -0300" stop="2026-08-29 21:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con estilo</title>
+  </programme>
+  <programme start="2026-08-29 21:0000 -0300" stop="2026-08-29 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Sabados con Jey</title>
+  </programme>
+  <programme start="2026-08-29 22:0000 -0300" stop="2026-08-29 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">La hora exacta</title>
+  </programme>
+  <programme start="2026-08-29 23:0000 -0300" stop="2026-08-29 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con todo respeto</title>
+  </programme>
+  <programme start="2026-08-30 00:0000 -0300" stop="2026-08-30 00:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Con todo respeto</title>
+  </programme>
+  <programme start="2026-08-30 00:3000 -0300" stop="2026-08-30 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Tenes que ir</title>
+  </programme>
+  <programme start="2026-08-30 01:0000 -0300" stop="2026-08-30 01:3000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="2026-08-30 01:3000 -0300" stop="2026-08-30 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-08-30 05:3000 -0300" stop="2026-08-30 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-08-30 06:0000 -0300" stop="2026-08-30 07:0000 -0300" channel="elnueve.ar">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme start="2026-08-30 07:0000 -0300" stop="2026-08-30 09:0000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="2026-08-30 09:0000 -0300" stop="2026-08-30 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme start="2026-08-30 10:0000 -0300" stop="2026-08-30 10:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Automas</title>
+  </programme>
+  <programme start="2026-08-30 10:3000 -0300" stop="2026-08-30 11:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Argentina x Argentinos</title>
+  </programme>
+  <programme start="2026-08-30 11:3000 -0300" stop="2026-08-30 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Tenes que ir</title>
+  </programme>
+  <programme start="2026-08-30 12:0000 -0300" stop="2026-08-30 12:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+  <programme start="2026-08-30 12:3000 -0300" stop="2026-08-30 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">La cocina del 9</title>
+  </programme>
+  <programme start="2026-08-30 13:3000 -0300" stop="2026-08-30 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Medico de familia</title>
+  </programme>
+  <programme start="2026-08-30 15:0000 -0300" stop="2026-08-30 16:0000 -0300" channel="elnueve.ar">
+    <title lang="es">El show del Problema</title>
+  </programme>
+  <programme start="2026-08-30 16:0000 -0300" stop="2026-08-30 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Dosis semanal</title>
+  </programme>
+  <programme start="2026-08-30 17:0000 -0300" stop="2026-08-30 18:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme start="2026-08-30 18:0000 -0300" stop="2026-08-30 20:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="2026-08-30 20:0000 -0300" stop="2026-08-30 21:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Imagen de moda</title>
+  </programme>
+  <programme start="2026-08-30 21:0000 -0300" stop="2026-08-30 22:3000 -0300" channel="elnueve.ar">
+    <title lang="es">70-20 Hoy</title>
+  </programme>
+  <programme start="2026-08-30 22:3000 -0300" stop="2026-08-30 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Futbol sin manchas</title>
+  </programme>
+  <programme start="2026-08-31 00:0000 -0300" stop="2026-08-31 00:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Mas que Sinverguenzas</title>
+  </programme>
+  <programme start="2026-08-31 00:3000 -0300" stop="2026-08-31 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="2026-08-31 01:0000 -0300" stop="2026-08-31 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-08-31 05:0000 -0300" stop="2026-08-31 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-08-31 05:3000 -0300" stop="2026-08-31 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-08-31 06:0000 -0300" stop="2026-08-31 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-08-31 10:0000 -0300" stop="2026-08-31 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-08-31 12:0000 -0300" stop="2026-08-31 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-31 13:3000 -0300" stop="2026-08-31 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-08-31 15:0000 -0300" stop="2026-08-31 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-08-31 17:0000 -0300" stop="2026-08-31 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-08-31 19:0000 -0300" stop="2026-08-31 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-08-31 20:3000 -0300" stop="2026-08-31 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-08-31 22:0000 -0300" stop="2026-08-31 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-08-31 23:0000 -0300" stop="2026-08-31 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">TL9 Denuncia</title>
+  </programme>
+  <programme start="2026-09-01 00:0000 -0300" stop="2026-09-01 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-09-01 01:0000 -0300" stop="2026-09-01 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-09-01 05:0000 -0300" stop="2026-09-01 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-09-01 05:3000 -0300" stop="2026-09-01 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-09-01 06:0000 -0300" stop="2026-09-01 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-09-01 10:0000 -0300" stop="2026-09-01 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-09-01 12:0000 -0300" stop="2026-09-01 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-09-01 13:3000 -0300" stop="2026-09-01 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-09-01 15:0000 -0300" stop="2026-09-01 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-09-01 17:0000 -0300" stop="2026-09-01 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-09-01 19:0000 -0300" stop="2026-09-01 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-09-01 20:3000 -0300" stop="2026-09-01 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-09-01 22:0000 -0300" stop="2026-09-01 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-09-01 23:0000 -0300" stop="2026-09-01 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Codigo Doman</title>
+  </programme>
+  <programme start="2026-09-02 00:0000 -0300" stop="2026-09-02 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-09-02 01:0000 -0300" stop="2026-09-02 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-09-02 05:0000 -0300" stop="2026-09-02 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-09-02 05:3000 -0300" stop="2026-09-02 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-09-02 06:0000 -0300" stop="2026-09-02 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-09-02 10:0000 -0300" stop="2026-09-02 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-09-02 12:0000 -0300" stop="2026-09-02 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-09-02 13:3000 -0300" stop="2026-09-02 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-09-02 15:0000 -0300" stop="2026-09-02 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-09-02 17:0000 -0300" stop="2026-09-02 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-09-02 19:0000 -0300" stop="2026-09-02 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-09-02 20:3000 -0300" stop="2026-09-02 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-09-02 22:0000 -0300" stop="2026-09-02 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-09-02 23:0000 -0300" stop="2026-09-02 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Opinion Publica</title>
+  </programme>
+  <programme start="2026-09-03 00:0000 -0300" stop="2026-09-03 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-09-03 01:0000 -0300" stop="2026-09-03 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-09-03 05:0000 -0300" stop="2026-09-03 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-09-03 05:3000 -0300" stop="2026-09-03 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-09-03 06:0000 -0300" stop="2026-09-03 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-09-03 10:0000 -0300" stop="2026-09-03 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-09-03 12:0000 -0300" stop="2026-09-03 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-09-03 13:3000 -0300" stop="2026-09-03 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-09-03 15:0000 -0300" stop="2026-09-03 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-09-03 17:0000 -0300" stop="2026-09-03 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-09-03 19:0000 -0300" stop="2026-09-03 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-09-03 20:3000 -0300" stop="2026-09-03 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-09-03 22:0000 -0300" stop="2026-09-03 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-09-03 23:0000 -0300" stop="2026-09-03 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Viviana</title>
+  </programme>
+  <programme start="2026-09-04 00:0000 -0300" stop="2026-09-04 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-09-04 01:0000 -0300" stop="2026-09-04 05:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-09-04 05:0000 -0300" stop="2026-09-04 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="2026-09-04 05:3000 -0300" stop="2026-09-04 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-09-04 06:0000 -0300" stop="2026-09-04 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="2026-09-04 10:0000 -0300" stop="2026-09-04 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="2026-09-04 12:0000 -0300" stop="2026-09-04 13:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-09-04 13:3000 -0300" stop="2026-09-04 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="2026-09-04 15:0000 -0300" stop="2026-09-04 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="2026-09-04 17:0000 -0300" stop="2026-09-04 19:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="2026-09-04 19:0000 -0300" stop="2026-09-04 20:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="2026-09-04 20:3000 -0300" stop="2026-09-04 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="2026-09-04 22:0000 -0300" stop="2026-09-04 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="2026-09-04 23:0000 -0300" stop="2026-09-04 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Decime algo lindo</title>
+  </programme>
+  <programme start="2026-09-05 00:0000 -0300" stop="2026-09-05 01:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="2026-09-05 01:0000 -0300" stop="2026-09-05 05:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="2026-09-05 05:3000 -0300" stop="2026-09-05 06:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="2026-09-05 06:0000 -0300" stop="2026-09-05 09:0000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="2026-09-05 09:3000 -0300" stop="2026-09-05 10:0000 -0300" channel="elnueve.ar">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme start="2026-09-05 10:0000 -0300" stop="2026-09-05 10:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Prevenir</title>
+  </programme>
+  <programme start="2026-09-05 10:3000 -0300" stop="2026-09-05 11:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Argentina x Argentinos</title>
+  </programme>
+  <programme start="2026-09-05 11:3000 -0300" stop="2026-09-05 12:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Historias de AXA</title>
+  </programme>
+  <programme start="2026-09-05 12:0000 -0300" stop="2026-09-05 12:3000 -0300" channel="elnueve.ar">
+    <title lang="es">Vivian</title>
+  </programme>
+  <programme start="2026-09-05 12:3000 -0300" stop="2026-09-05 13:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Somos bonaerenses</title>
+  </programme>
+  <programme start="2026-09-05 13:0000 -0300" stop="2026-09-05 14:0000 -0300" channel="elnueve.ar">
+    <title lang="es">La cocina del 9</title>
+  </programme>
+  <programme start="2026-09-05 14:0000 -0300" stop="2026-09-05 15:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Medico de familia</title>
+  </programme>
+  <programme start="2026-09-05 15:0000 -0300" stop="2026-09-05 17:0000 -0300" channel="elnueve.ar">
+    <title lang="es">El show del Problema</title>
+  </programme>
+  <programme start="2026-09-05 17:0000 -0300" stop="2026-09-05 18:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme start="2026-09-05 18:0000 -0300" stop="2026-09-05 20:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="2026-09-05 20:0000 -0300" stop="2026-09-05 21:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con estilo</title>
+  </programme>
+  <programme start="2026-09-05 21:0000 -0300" stop="2026-09-05 22:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Sabados con Jey</title>
+  </programme>
+  <programme start="2026-09-05 22:0000 -0300" stop="2026-09-05 23:0000 -0300" channel="elnueve.ar">
+    <title lang="es">La hora exacta</title>
+  </programme>
+  <programme start="2026-09-05 23:0000 -0300" stop="2026-09-05 00:0000 -0300" channel="elnueve.ar">
+    <title lang="es">Con todo respeto</title>
+  </programme>
+</tv>

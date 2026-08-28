@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="CustomEPGGenerator" generator-info-url="http://localhost/">
+  <!-- Channel definition -->
+  <channel id="CINE.AR">
+    <display-name lang="es">CINE.AR TV</display-name>
+    <display-name lang="es">Canal 22.4 TDA</display-name>
+    <display-name lang="es">Canal 300 Flow</display-name>
+    <display-name lang="es">Canal 512 DirecTV</display-name>
+    <icon src="https://tv2.cine.ar/images/logo.png" />
+  </channel>
+
+  <!-- Dummy program lineup for demonstration -->
+  <programme start="20260827000000 -0300" stop="20260827014500 -0300" channel="CINE.AR">
+    <title lang="es">La Historia Oficial</title>
+    <desc lang="es">Durante los últimos años de la dictadura militar argentina, una profesora de historia comienza a sospechar de la procedencia de su hija adoptiva.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Cine Argentino</category>
+  </programme>
+
+  <programme start="20260827014500 -0300" stop="20260827033000 -0300" channel="CINE.AR">
+    <title lang="es">Nueve Reinas</title>
+    <desc lang="es">Dos estafadores de poca monta se conocen por casualidad y deciden unirse para un negocio que les puede hacer millonarios en menos de un día.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Crimen</category>
+  </programme>
+
+  <programme start="20260827033000 -0300" stop="20260827050000 -0300" channel="CINE.AR">
+    <title lang="es">Esperando la Carroza</title>
+    <desc lang="es">Una loca comedia sobre una familia de clase media que se reúne para celebrar el cumpleaños de la abuela, Mamá Cora.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Clásico</category>
+  </programme>
+
+  <programme start="20260827050000 -0300" stop="20260827235959 -0300" channel="CINE.AR">
+    <title lang="es">Programación Continuada - CINE.AR</title>
+    <desc lang="es">Emisión continua de largometrajes, cortometrajes y documentales de la producción audiovisual nacional.</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+</tv>
