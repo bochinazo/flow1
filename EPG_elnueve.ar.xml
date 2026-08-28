@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="ChatGPT - EPG XMLTV" generator-info-url="https://www.xmltv.org/">
+  <channel id="elnueve.ar">
+    <display-name lang="es">elnueve.ar</display-name>
+    <display-name lang="es">El Nueve</display-name>
+  </channel>
+  <programme start="20260827000000 -0300" stop="20260827010000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="20260827010000 -0300" stop="20260827050000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="20260827050000 -0300" stop="20260827053000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="20260827053000 -0300" stop="20260827060000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20260827060000 -0300" stop="20260827080000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260827080000 -0300" stop="20260827100000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260827100000 -0300" stop="20260827120000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="20260827120000 -0300" stop="20260827133000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260827133000 -0300" stop="20260827150000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="20260827150000 -0300" stop="20260827170000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="20260827170000 -0300" stop="20260827190000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="20260827190000 -0300" stop="20260827203000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260827203000 -0300" stop="20260827220000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20260827220000 -0300" stop="20260827230000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="20260827230000 -0300" stop="20260828000000 -0300" channel="elnueve.ar">
+    <title lang="es">Viviana</title>
+  </programme>
+  <programme start="20260828000000 -0300" stop="20260828010000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="20260828010000 -0300" stop="20260828050000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="20260828050000 -0300" stop="20260828053000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="20260828053000 -0300" stop="20260828060000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20260828060000 -0300" stop="20260828080000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260828080000 -0300" stop="20260828100000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260828100000 -0300" stop="20260828120000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="20260828120000 -0300" stop="20260828133000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260828133000 -0300" stop="20260828150000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="20260828150000 -0300" stop="20260828170000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="20260828170000 -0300" stop="20260828190000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="20260828190000 -0300" stop="20260828203000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260828203000 -0300" stop="20260828220000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20260828220000 -0300" stop="20260828230000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="20260828230000 -0300" stop="20260829000000 -0300" channel="elnueve.ar">
+    <title lang="es">Decime algo lindo</title>
+  </programme>
+  <programme start="20260829000000 -0300" stop="20260829010000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="20260829010000 -0300" stop="20260829053000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="20260829053000 -0300" stop="20260829060000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20260829060000 -0300" stop="20260829080000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="20260829080000 -0300" stop="20260829093000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="20260829093000 -0300" stop="20260829100000 -0300" channel="elnueve.ar">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme start="20260829100000 -0300" stop="20260829103000 -0300" channel="elnueve.ar">
+    <title lang="es">Prevenir</title>
+  </programme>
+  <programme start="20260829103000 -0300" stop="20260829113000 -0300" channel="elnueve.ar">
+    <title lang="es">Argentina x Argentinos</title>
+  </programme>
+  <programme start="20260829113000 -0300" stop="20260829120000 -0300" channel="elnueve.ar">
+    <title lang="es">Historias de AXA</title>
+  </programme>
+  <programme start="20260829120000 -0300" stop="20260829123000 -0300" channel="elnueve.ar">
+    <title lang="es">Vivian</title>
+  </programme>
+  <programme start="20260829123000 -0300" stop="20260829130000 -0300" channel="elnueve.ar">
+    <title lang="es">Somos bonaerenses</title>
+  </programme>
+  <programme start="20260829130000 -0300" stop="20260829140000 -0300" channel="elnueve.ar">
+    <title lang="es">La cocina del 9</title>
+  </programme>
+  <programme start="20260829140000 -0300" stop="20260829150000 -0300" channel="elnueve.ar">
+    <title lang="es">Medico de familia</title>
+  </programme>
+  <programme start="20260829150000 -0300" stop="20260829170000 -0300" channel="elnueve.ar">
+    <title lang="es">El show del Problema</title>
+  </programme>
+  <programme start="20260829170000 -0300" stop="20260829180000 -0300" channel="elnueve.ar">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme start="20260829180000 -0300" stop="20260829200000 -0300" channel="elnueve.ar">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="20260829200000 -0300" stop="20260829210000 -0300" channel="elnueve.ar">
+    <title lang="es">Con estilo</title>
+  </programme>
+  <programme start="20260829210000 -0300" stop="20260829220000 -0300" channel="elnueve.ar">
+    <title lang="es">Sabados con Jey</title>
+  </programme>
+  <programme start="20260829220000 -0300" stop="20260829230000 -0300" channel="elnueve.ar">
+    <title lang="es">La hora exacta</title>
+  </programme>
+  <programme start="20260829230000 -0300" stop="20260830000000 -0300" channel="elnueve.ar">
+    <title lang="es">Con todo respeto</title>
+  </programme>
+<programme start="20260830000000 -0300" stop="20260830003000 -0300" channel="elnueve.ar">
+    <title lang="es">Con todo respeto</title>
+  </programme>
+  <programme start="20260830003000 -0300" stop="20260830010000 -0300" channel="elnueve.ar">
+    <title lang="es">Tenes que ir</title>
+  </programme>
+  <programme start="20260830010000 -0300" stop="20260830013000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="20260830013000 -0300" stop="20260830053000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="20260830053000 -0300" stop="20260830060000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20260830060000 -0300" stop="20260830070000 -0300" channel="elnueve.ar">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme start="20260830070000 -0300" stop="20260830080000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="20260830080000 -0300" stop="20260830090000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="20260830090000 -0300" stop="20260830100000 -0300" channel="elnueve.ar">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme start="20260830100000 -0300" stop="20260830103000 -0300" channel="elnueve.ar">
+    <title lang="es">Automas</title>
+  </programme>
+  <programme start="20260830103000 -0300" stop="20260830113000 -0300" channel="elnueve.ar">
+    <title lang="es">Argentina x Argentinos</title>
+  </programme>
+  <programme start="20260830113000 -0300" stop="20260830120000 -0300" channel="elnueve.ar">
+    <title lang="es">Tenes que ir</title>
+  </programme>
+  <programme start="20260830120000 -0300" stop="20260830123000 -0300" channel="elnueve.ar">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+  <programme start="20260830123000 -0300" stop="20260830133000 -0300" channel="elnueve.ar">
+    <title lang="es">La cocina del 9</title>
+  </programme>
+  <programme start="20260830133000 -0300" stop="20260830150000 -0300" channel="elnueve.ar">
+    <title lang="es">Medico de familia</title>
+  </programme>
+  <programme start="20260830150000 -0300" stop="20260830160000 -0300" channel="elnueve.ar">
+    <title lang="es">El show del Problema</title>
+  </programme>
+  <programme start="20260830160000 -0300" stop="20260830170000 -0300" channel="elnueve.ar">
+    <title lang="es">Dosis semanal</title>
+  </programme>
+  <programme start="20260830170000 -0300" stop="20260830180000 -0300" channel="elnueve.ar">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme start="20260830180000 -0300" stop="20260830200000 -0300" channel="elnueve.ar">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="20260830200000 -0300" stop="20260830210000 -0300" channel="elnueve.ar">
+    <title lang="es">Imagen de moda</title>
+  </programme>
+  <programme start="20260830210000 -0300" stop="20260830223000 -0300" channel="elnueve.ar">
+    <title lang="es">70-20 Hoy</title>
+  </programme>
+  <programme start="20260830223000 -0300" stop="20260831000000 -0300" channel="elnueve.ar">
+    <title lang="es">Futbol sin manchas</title>
+  </programme>
+  <programme start="20260831000000 -0300" stop="20260831003000 -0300" channel="elnueve.ar">
+    <title lang="es">Mas que Sinverguenzas</title>
+  </programme>
+  <programme start="20260831003000 -0300" stop="20260831010000 -0300" channel="elnueve.ar">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme start="20260831010000 -0300" stop="20260831050000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="20260831050000 -0300" stop="20260831053000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="20260831053000 -0300" stop="20260831060000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20260831060000 -0300" stop="20260831080000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260831080000 -0300" stop="20260831100000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260831100000 -0300" stop="20260831120000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="20260831120000 -0300" stop="20260831133000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260831133000 -0300" stop="20260831150000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="20260831150000 -0300" stop="20260831170000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="20260831170000 -0300" stop="20260831190000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="20260831190000 -0300" stop="20260831203000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260831203000 -0300" stop="20260831220000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20260831220000 -0300" stop="20260831230000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="20260831230000 -0300" stop="20260901000000 -0300" channel="elnueve.ar">
+    <title lang="es">TL9 Denuncia</title>
+  </programme>
+  <programme start="20260901000000 -0300" stop="20260901010000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="20260901010000 -0300" stop="20260901050000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="20260901050000 -0300" stop="20260901053000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="20260901053000 -0300" stop="20260901060000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20260901060000 -0300" stop="20260901080000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260901080000 -0300" stop="20260901100000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260901100000 -0300" stop="20260901120000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="20260901120000 -0300" stop="20260901133000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260901133000 -0300" stop="20260901150000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="20260901150000 -0300" stop="20260901170000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="20260901170000 -0300" stop="20260901190000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="20260901190000 -0300" stop="20260901203000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260901203000 -0300" stop="20260901220000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20260901220000 -0300" stop="20260901230000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="20260901230000 -0300" stop="20260902000000 -0300" channel="elnueve.ar">
+    <title lang="es">Codigo Doman</title>
+  </programme>
+  <programme start="20260902000000 -0300" stop="20260902010000 -0300" channel="elnueve.ar">
+    <title lang="es">Nuevediario</title>
+  </programme>
+  <programme start="20260902010000 -0300" stop="20260902050000 -0300" channel="elnueve.ar">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme start="20260902050000 -0300" stop="20260902053000 -0300" channel="elnueve.ar">
+    <title lang="es">INFORME TL9</title>
+  </programme>
+  <programme start="20260902053000 -0300" stop="20260902060000 -0300" channel="elnueve.ar">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20260902060000 -0300" stop="20260902080000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260902080000 -0300" stop="20260902100000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve al amanecer</title>
+  </programme>
+  <programme start="20260902100000 -0300" stop="20260902120000 -0300" channel="elnueve.ar">
+    <title lang="es">Que mañana !</title>
+  </programme>
+  <programme start="20260902120000 -0300" stop="20260902133000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260902133000 -0300" stop="20260902150000 -0300" channel="elnueve.ar">
+    <title lang="es">Con Carmen</title>
+  </programme>
+  <programme start="20260902150000 -0300" stop="20260902170000 -0300" channel="elnueve.ar">
+    <title lang="es">Los Profesionales con Flor</title>
+  </programme>
+  <programme start="20260902170000 -0300" stop="20260902190000 -0300" channel="elnueve.ar">
+    <title lang="es">Todo cocinado</title>
+  </programme>
+  <programme start="20260902190000 -0300" stop="20260902203000 -0300" channel="elnueve.ar">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20260902203000 -0300" stop="20260902220000 -0300" channel="elnueve.ar">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20260902220000 -0300" stop="20260902230000 -0300" channel="elnueve.ar">
+    <title lang="es">Bienvenidos a ganar</title>
+  </programme>
+  <programme start="20260902230000 -0300" stop="20260903000000 -0300" channel="elnueve.ar">
+    <title lang="es">Opinion Publica</title>
+  </programme>
+</tv>
