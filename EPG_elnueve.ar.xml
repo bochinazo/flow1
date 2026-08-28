@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="ChatGPT - EPG XMLTV" generator-info-url="https://www.xmltv.org/">
   <channel id="elnueve.ar">
-    <display-name lang="es">elnueve.ar</display-name>
-    <display-name lang="es">El Nueve</display-name>
+    <display-name>EL NUEVE</display-name>
   </channel>
   <programme start="20260827000000 -0300" stop="20260827010000 -0300" channel="elnueve.ar">
     <title lang="es">Nuevediario</title>
