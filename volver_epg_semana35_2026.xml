@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT - basado en grilla Volver semana 35/2026">
+  <channel id="volver">
+    <display-name>VOLVER</display-name>
+  </channel>
+  <programme start="20260824000000 -0300" stop="20260824013000 -0300" channel="volver">
+    <title lang="es">CINE DE TRASNOCHE - LA CARA DEL ANGEL</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824013000 -0300" stop="20260824030000 -0300" channel="volver">
+    <title lang="es">MUJER MUJER</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824030000 -0300" stop="20260824045000 -0300" channel="volver">
+    <title lang="es">UN ELEFANTE COLOR ILUSION</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824045000 -0300" stop="20260824060000 -0300" channel="volver">
+    <title lang="es">LA PANDILLA INOLVIDABLE</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824060000 -0300" stop="20260824063000 -0300" channel="volver">
+    <title lang="es">GASOLEROS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824063000 -0300" stop="20260824070000 -0300" channel="volver">
+    <title lang="es">EL FLEQUILLO DE BALA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824070000 -0300" stop="20260824080000 -0300" channel="volver">
+    <title lang="es">BUENOS CHICOS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824080000 -0300" stop="20260824090000 -0300" channel="volver">
+    <title lang="es">CONSENTIDOS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824090000 -0300" stop="20260824100000 -0300" channel="volver">
+    <title lang="es">COLLAR DE ESMERALDAS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824100000 -0300" stop="20260824110000 -0300" channel="volver">
+    <title lang="es">MIL MILLONES</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824110000 -0300" stop="20260824120000 -0300" channel="volver">
+    <title lang="es">LAS ESTRELLAS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824120000 -0300" stop="20260824123000 -0300" channel="volver">
+    <title lang="es">ARGUIÑANO EN TU COCINA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824123000 -0300" stop="20260824130000 -0300" channel="volver">
+    <title lang="es">LOS MUSICALES DE SOLAMENTE VOS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824130000 -0300" stop="20260824145000 -0300" channel="volver">
+    <title lang="es">UN ELEFANTE COLOR ILUSION</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824145000 -0300" stop="20260824160000 -0300" channel="volver">
+    <title lang="es">LA PANDILLA INOLVIDABLE</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824160000 -0300" stop="20260824170000 -0300" channel="volver">
+    <title lang="es">GASOLEROS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824170000 -0300" stop="20260824180000 -0300" channel="volver">
+    <title lang="es">NANO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824180000 -0300" stop="20260824190000 -0300" channel="volver">
+    <title lang="es">LAS ESTRELLAS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824190000 -0300" stop="20260824200000 -0300" channel="volver">
+    <title lang="es">CAMPEONES DE LA VIDA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824200000 -0300" stop="20260824210000 -0300" channel="volver">
+    <title lang="es">BUENOS CHICOS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824210000 -0300" stop="20260824213000 -0300" channel="volver">
+    <title lang="es">GUAPAS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824213000 -0300" stop="20260824220000 -0300" channel="volver">
+    <title lang="es">LOS MUSICALES DE SOLAMENTE VOS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824220000 -0300" stop="20260824230000 -0300" channel="volver">
+    <title lang="es">CINE ARGENTINO - SUSANA QUIERE, EL NEGRO TAMBIEN</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824230000 -0300" stop="20260824233000 -0300" channel="volver">
+    <title lang="es">BOTINES</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260824233000 -0300" stop="20260825003000 -0300" channel="volver">
+    <title lang="es">CINE DE TRASNOCHE - MAESTRO DE PALA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 24/08/2026.</desc>
+  </programme>
+  <programme start="20260825000000 -0300" stop="20260825013000 -0300" channel="volver">
+    <title lang="es">QUE SEA ROCK</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825013000 -0300" stop="20260825030000 -0300" channel="volver">
+    <title lang="es">LA INDUSTRIA DEL MATRIMONIO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825030000 -0300" stop="20260825043000 -0300" channel="volver">
+    <title lang="es">MAMA SE FUE DE VIAJE</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825043000 -0300" stop="20260825070000 -0300" channel="volver">
+    <title lang="es">LOS HIJOS DE LOPEZ</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825070000 -0300" stop="20260825083000 -0300" channel="volver">
+    <title lang="es">PELICULAS ARGENTINAS - MAMA SE FUE DE VIAJE</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825083000 -0300" stop="20260825100000 -0300" channel="volver">
+    <title lang="es">LOS HIJOS DE LOPEZ</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825100000 -0300" stop="20260825110000 -0300" channel="volver">
+    <title lang="es">1002 MOMENTOS DE LA TV</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825110000 -0300" stop="20260825130000 -0300" channel="volver">
+    <title lang="es">URUGUAYOS, HOMENAJE AL HUMOR</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825130000 -0300" stop="20260825143000 -0300" channel="volver">
+    <title lang="es">MAMA SE FUE DE VIAJE</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825143000 -0300" stop="20260825200000 -0300" channel="volver">
+    <title lang="es">LOS HIJOS DE LOPEZ</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825200000 -0300" stop="20260825210000 -0300" channel="volver">
+    <title lang="es">DURMIENDO CON MI JEFE</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825210000 -0300" stop="20260825220000 -0300" channel="volver">
+    <title lang="es">ROMPEPORTONES</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825220000 -0300" stop="20260825230000 -0300" channel="volver">
+    <title lang="es">CINE ARGENTINO - NUEVE REINAS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260825230000 -0300" stop="20260826000000 -0300" channel="volver">
+    <title lang="es">LA BIBLIA Y EL CALEFON</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 25/08/2026.</desc>
+  </programme>
+  <programme start="20260826000000 -0300" stop="20260826013000 -0300" channel="volver">
+    <title lang="es">LAS COLEGIALAS SE DIVIERTEN</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 26/08/2026.</desc>
+  </programme>
+  <programme start="20260826013000 -0300" stop="20260826030000 -0300" channel="volver">
+    <title lang="es">OTRA ESPERANZA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 26/08/2026.</desc>
+  </programme>
+  <programme start="20260826030000 -0300" stop="20260826043000 -0300" channel="volver">
+    <title lang="es">MINGUITO TINGUITELLA PAPA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 26/08/2026.</desc>
+  </programme>
+  <programme start="20260826043000 -0300" stop="20260826130000 -0300" channel="volver">
+    <title lang="es">LOS IRROMPIBLES</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 26/08/2026.</desc>
+  </programme>
+  <programme start="20260826130000 -0300" stop="20260826143000 -0300" channel="volver">
+    <title lang="es">MINGUITO TINGUITELLA PAPA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 26/08/2026.</desc>
+  </programme>
+  <programme start="20260826143000 -0300" stop="20260826220000 -0300" channel="volver">
+    <title lang="es">LOS IRROMPIBLES</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 26/08/2026.</desc>
+  </programme>
+  <programme start="20260826220000 -0300" stop="20260826230000 -0300" channel="volver">
+    <title lang="es">CINE ARGENTINO - TACHERO NOCTURNO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 26/08/2026.</desc>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827010000 -0300" channel="volver">
+    <title lang="es">MAESTRO DE PALA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 27/08/2026.</desc>
+  </programme>
+  <programme start="20260827010000 -0300" stop="20260827130000 -0300" channel="volver">
+    <title lang="es">EL CANTO CUENTA SU HISTORIA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 27/08/2026.</desc>
+  </programme>
+  <programme start="20260827130000 -0300" stop="20260827144500 -0300" channel="volver">
+    <title lang="es">ARGENTINISIMA I</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 27/08/2026.</desc>
+  </programme>
+  <programme start="20260827144500 -0300" stop="20260827220000 -0300" channel="volver">
+    <title lang="es">CANUTO CAÑETE DETECTIVE PRIVADO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 27/08/2026.</desc>
+  </programme>
+  <programme start="20260827220000 -0300" stop="20260827233000 -0300" channel="volver">
+    <title lang="es">MUJERES ASESINAS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 27/08/2026.</desc>
+  </programme>
+  <programme start="20260827233000 -0300" stop="20260828003000 -0300" channel="volver">
+    <title lang="es">CINE DE TRASNOCHE - MAESTRO DE PALA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 27/08/2026.</desc>
+  </programme>
+  <programme start="20260828000000 -0300" stop="20260828015000 -0300" channel="volver">
+    <title lang="es">GOLPES A MI PUERTA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 28/08/2026.</desc>
+  </programme>
+  <programme start="20260828015000 -0300" stop="20260828130000 -0300" channel="volver">
+    <title lang="es">DE NOCHE TAMBIEN SE DUERME</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 28/08/2026.</desc>
+  </programme>
+  <programme start="20260828130000 -0300" stop="20260828144500 -0300" channel="volver">
+    <title lang="es">ARGENTINISIMA II</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 28/08/2026.</desc>
+  </programme>
+  <programme start="20260828144500 -0300" stop="20260828220000 -0300" channel="volver">
+    <title lang="es">BUENOS AIRES, LA 3ra FUNDACION</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 28/08/2026.</desc>
+  </programme>
+  <programme start="20260828220000 -0300" stop="20260828234500 -0300" channel="volver">
+    <title lang="es">MATRIMONIOS Y ALGO MAS</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 28/08/2026.</desc>
+  </programme>
+  <programme start="20260828234500 -0300" stop="20260829004500 -0300" channel="volver">
+    <title lang="es">CINE DE TRASNOCHE - QUE SEA ROCK</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 28/08/2026.</desc>
+  </programme>
+  <programme start="20260829000000 -0300" stop="20260829014000 -0300" channel="volver">
+    <title lang="es">PERDIDO POR PERDIDO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829014000 -0300" stop="20260829030000 -0300" channel="volver">
+    <title lang="es">GOLETA AUSTRAL</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829030000 -0300" stop="20260829044500 -0300" channel="volver">
+    <title lang="es">ARGENTINISIMA II</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829044500 -0300" stop="20260829050000 -0300" channel="volver">
+    <title lang="es">BUENOS AIRES, LA 3ra FUNDACION</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829050000 -0300" stop="20260829064000 -0300" channel="volver">
+    <title lang="es">BLOQUE PELICULAS SABADO - ENCUENTROS MUY CERCANOS CON SEÑORAS DE CUALQUIER TIPO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829064000 -0300" stop="20260829081500 -0300" channel="volver">
+    <title lang="es">MI MUJER NO ES MI SEÑORA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829081500 -0300" stop="20260829094000 -0300" channel="volver">
+    <title lang="es">SALVESE QUIEN PUEDA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829094000 -0300" stop="20260829110000 -0300" channel="volver">
+    <title lang="es">LOS REYES DEL SABLAZO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829110000 -0300" stop="20260829130000 -0300" channel="volver">
+    <title lang="es">DEPARTAMENTO COMPARTIDO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829130000 -0300" stop="20260830130000 -0300" channel="volver">
+    <title lang="es">BALA100</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829130000 -0300" stop="20260829140000 -0300" channel="volver">
+    <title lang="es">BLOQUE PELICULAS SABADO - ENCUENTROS MUY CERCANOS CON SEÑORAS DE CUALQUIER TIPO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829140000 -0300" stop="20260829154000 -0300" channel="volver">
+    <title lang="es">ENCUENTROS MUY CERCANOS CON SEÑORAS DE CUALQUIER TIPO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829154000 -0300" stop="20260829171500 -0300" channel="volver">
+    <title lang="es">MI MUJER NO ES MI SEÑORA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829171500 -0300" stop="20260829184000 -0300" channel="volver">
+    <title lang="es">SALVESE QUIEN PUEDA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829184000 -0300" stop="20260829200000 -0300" channel="volver">
+    <title lang="es">LOS REYES DEL SABLAZO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829200000 -0300" stop="20260829220000 -0300" channel="volver">
+    <title lang="es">DEPARTAMENTO COMPARTIDO</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260829220000 -0300" stop="20260829230000 -0300" channel="volver">
+    <title lang="es">ROMPEPORTONES</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 29/08/2026.</desc>
+  </programme>
+  <programme start="20260830000000 -0300" stop="20260830014000 -0300" channel="volver">
+    <title lang="es">PLATA DULCE</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+  <programme start="20260830014000 -0300" stop="20260830030000 -0300" channel="volver">
+    <title lang="es">EL CRIMEN DE ORIBE</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+  <programme start="20260830030000 -0300" stop="20260831030000 -0300" channel="volver">
+    <title lang="es">MATRIMONIOS Y ALGO MAS - REPETICION DEL VIERNES</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+  <programme start="20260830030000 -0300" stop="20260830040000 -0300" channel="volver">
+    <title lang="es">LA AVENTURA DEL HOMBRE</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+  <programme start="20260830040000 -0300" stop="20260830050000 -0300" channel="volver">
+    <title lang="es">BALA100</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+  <programme start="20260830050000 -0300" stop="20260830130000 -0300" channel="volver">
+    <title lang="es">MONUMENTAL MORIA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+  <programme start="20260830130000 -0300" stop="20260830150000 -0300" channel="volver">
+    <title lang="es">BLOQUE PELICULAS DOMINGO - AMIGOS PARA LA AVENTURA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+  <programme start="20260830150000 -0300" stop="20260830164000 -0300" channel="volver">
+    <title lang="es">QUE LINDA ES MI FAMILIA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+  <programme start="20260830164000 -0300" stop="20260830183000 -0300" channel="volver">
+    <title lang="es">VIVIR CON ALEGRIA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+  <programme start="20260830183000 -0300" stop="20260830193000 -0300" channel="volver">
+    <title lang="es">LA SONRISA DE MAMA</title>
+    <desc lang="es">Programación de VOLVER según la grilla del 30/08/2026.</desc>
+  </programme>
+</tv>
