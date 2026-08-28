@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="ChatGPT XMLTV" source-info-name="El Nueve">
+  <!--EPG recurrente/semanal para elnueve.ar. La fecha 2026-08-23 es solamente técnica; weekly=true indica que la grilla debe repetirse.-->
+  <channel id="elnueve.ar">
+    <display-name lang="es">El Nueve</display-name>
+  </channel>
+  <programme channel="elnueve.ar" start="20260823000000 -0300" stop="20260823003000 -0300" weekly="true">
+    <title lang="es">Con todo respeto</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823003000 -0300" stop="20260823010000 -0300" weekly="true">
+    <title lang="es">Tenes que ir</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823010000 -0300" stop="20260823013000 -0300" weekly="true">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823013000 -0300" stop="20260823020000 -0300" weekly="true">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823020000 -0300" stop="20260823023000 -0300" weekly="true">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823023000 -0300" stop="20260823030000 -0300" weekly="true">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823030000 -0300" stop="20260823033000 -0300" weekly="true">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823033000 -0300" stop="20260823040000 -0300" weekly="true">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823040000 -0300" stop="20260823043000 -0300" weekly="true">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823043000 -0300" stop="20260823050000 -0300" weekly="true">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823050000 -0300" stop="20260823053000 -0300" weekly="true">
+    <title lang="es">Fin de trasmision</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823053000 -0300" stop="20260823060000 -0300" weekly="true">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823060000 -0300" stop="20260823063000 -0300" weekly="true">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823063000 -0300" stop="20260823070000 -0300" weekly="true">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823070000 -0300" stop="20260823080000 -0300" weekly="true">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823080000 -0300" stop="20260823083000 -0300" weekly="true">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823083000 -0300" stop="20260823090000 -0300" weekly="true">
+    <title lang="es">TV Compras</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823090000 -0300" stop="20260823093000 -0300" weekly="true">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823093000 -0300" stop="20260823100000 -0300" weekly="true">
+    <title lang="es">SUTERH con Vos</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823100000 -0300" stop="20260823103000 -0300" weekly="true">
+    <title lang="es">Automas</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823103000 -0300" stop="20260823110000 -0300" weekly="true">
+    <title lang="es">Argentina x Argentinos</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823110000 -0300" stop="20260823113000 -0300" weekly="true">
+    <title lang="es">Argentina x Argentinos</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823113000 -0300" stop="20260823120000 -0300" weekly="true">
+    <title lang="es">Tenes que ir</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823120000 -0300" stop="20260823123000 -0300" weekly="true">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823123000 -0300" stop="20260823130000 -0300" weekly="true">
+    <title lang="es">La cocina del 9</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823130000 -0300" stop="20260823133000 -0300" weekly="true">
+    <title lang="es">La cocina del 9</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823133000 -0300" stop="20260823140000 -0300" weekly="true">
+    <title lang="es">Medico de familia</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823140000 -0300" stop="20260823143000 -0300" weekly="true">
+    <title lang="es">Medico de familia</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823143000 -0300" stop="20260823150000 -0300" weekly="true">
+    <title lang="es">Medico de familia</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823150000 -0300" stop="20260823153000 -0300" weekly="true">
+    <title lang="es">El show del Problema</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823153000 -0300" stop="20260823160000 -0300" weekly="true">
+    <title lang="es">El show del Problema</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823160000 -0300" stop="20260823163000 -0300" weekly="true">
+    <title lang="es">Dosis semanal</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823163000 -0300" stop="20260823170000 -0300" weekly="true">
+    <title lang="es">Dosis semanal</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823170000 -0300" stop="20260823173000 -0300" weekly="true">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823173000 -0300" stop="20260823180000 -0300" weekly="true">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823180000 -0300" stop="20260823183000 -0300" weekly="true">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823183000 -0300" stop="20260823190000 -0300" weekly="true">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823190000 -0300" stop="20260823193000 -0300" weekly="true">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823193000 -0300" stop="20260823200000 -0300" weekly="true">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823200000 -0300" stop="20260823203000 -0300" weekly="true">
+    <title lang="es">Imagen de moda</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823203000 -0300" stop="20260823210000 -0300" weekly="true">
+    <title lang="es">Imagen de moda</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823210000 -0300" stop="20260823213000 -0300" weekly="true">
+    <title lang="es">70-20 Hoy</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823213000 -0300" stop="20260823220000 -0300" weekly="true">
+    <title lang="es">70-20 Hoy</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823220000 -0300" stop="20260823223000 -0300" weekly="true">
+    <title lang="es">70-20 Hoy</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823223000 -0300" stop="20260823230000 -0300" weekly="true">
+    <title lang="es">Futbol sin manchas</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823230000 -0300" stop="20260823233000 -0300" weekly="true">
+    <title lang="es">Futbol sin manchas</title>
+  </programme>
+  <programme channel="elnueve.ar" start="20260823233000 -0300" stop="20260824000000 -0300" weekly="true">
+    <title lang="es">Futbol sin manchas</title>
+  </programme>
+</tv>
