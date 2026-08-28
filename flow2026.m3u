@@ -90,7 +90,7 @@ http://cdn.instream.audio:9660/stream
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBALA_PL__32.1TVUNIVERSI
 #EXTINF:-1 tvg-chno="100" tvg-id="270" tvg-name="DEPORTV" group-title="Deportes" radio="false" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" catchup="vod",DEPORTV
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712742.ts
-#EXTINF:-1 tvg-chno="101" tvg-id="Canal.TyC.Sports.ar" tvg-name="TYC SPORTS" group-title="Deportes" tvg-logo="https://static.flow.com.ar/images/270/CH_LOGO/350/500/0/0/81432910072195.png" radio="false" catchup="vod",TYC SPORTS
+#EXTINF:-1 tvg-chno="101" tvg-id="Canal.TyC.Sports.ar" tvg-name="TYC SPORTS" group-title="Deportes" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/tyc.png" radio="false" catchup="vod",TYC SPORTS
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712755.ts
 #EXTINF:-1 tvg-chno="102" tvg-id="Canal.ESPN.(Argentina).ar" tvg-name="ESPN" group-title="Deportes" radio="false" catchup="vod",ESPN
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712743.ts
