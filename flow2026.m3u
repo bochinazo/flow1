@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/epg_volver.XML"
+﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/epg_volver.XML, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/volver_epg_semana35_2026.xml, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/elnueve.ar_sin_fechas.xml"
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712704.ts
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" tvg-logo=""https://static.flow.com.ar/images/66/CH_LOGO/350/500/0/0/60528493072631.png" group-title="Aire" radio="false" catchup="vod",TELEFE
@@ -7,7 +7,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712715.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712720.ts
 #EXTINF:-1 tvg-chno="12" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="EL TRECE" group-title="Aire" radio="false" catchup="vod",EL TRECE
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712711.ts
-#EXTINF:-1 tvg-chno="13" tvg-id="76" tvg-name="EL NUEVE" group-title="Aire" radio="false" catchup="vod",EL NUEVE
+#EXTINF:-1 tvg-chno="13" tvg-id="elnueve.ar" tvg-name="EL NUEVE" group-title="Aire" radio="false" catchup="vod",EL NUEVE
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712709.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -161,7 +161,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/771571.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11916.ts
 #EXTINF:-1 tvg-chno="300" tvg-id="701" tvg-name="CINE.AR" group-title="Peliculas y Series" radio="false" catchup="vod",CINE.AR
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/772967.ts
-#EXTINF:-1 tvg-id="Volver.ar" tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
+#EXTINF:-1 tvg-id="volver" tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712741.ts
 #EXTINF:-1 tvg-id="AandE" tvg-name="A&E OP2 " tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46087.ts
