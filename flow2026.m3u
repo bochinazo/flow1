@@ -1,5 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/volver_epg_semana35_2026.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,
-https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/flowtv.xml"
+﻿#EXTM3U x-tvg-url= "https://www.open-epg.com/files/argentina.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/volver_epg_semana35_2026.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712704.ts
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" tvg-logo=""https://static.flow.com.ar/images/66/CH_LOGO/350/500/0/0/60528493072631.png" group-title="Aire" radio="false" catchup="vod",TELEFE
@@ -48,11 +47,11 @@ http://aioplus.es:80/live/a2620bcdb25de87bba36276fb9b6ae6e/653409.ts
 http://miotv.cc:8080/K2pQU05ERTl2V05jKzdqQXlNSU1lMmhEYXd5YTQ1b2NFOWtBUjBCSEVsVT0
 #EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="Variedades",CGTN ESPAÑOL
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79450.ts
-#EXTINF:-1 tvg-chno="25" tvg-id="9117" tvg-name="BRAVO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXldU5dQm50XfqIzvGoykVZt0aORsYVj4cAGnB4OwY-leOU2odEkAtpIrLRtzXMBavK9cQKcN9oRbT9Z5oJyhhz1evuLSP-NCVg0bL4qxj71Nz7gxeH_q3NWgL3iQQnNnKydVPJkySkgYOYMB56rgRJkJicG6RaClhjzBypkbB1DW36pOMrjv8OcLJiNw/s320/rockandpop-bravotv.jpg" group-title="Variedades" radio="false" catchup="vod",ROCK & POP
+#EXTINF:-1 tvg-chno="25" tvg-id="BravoTv.ar" tvg-name="BRAVO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXldU5dQm50XfqIzvGoykVZt0aORsYVj4cAGnB4OwY-leOU2odEkAtpIrLRtzXMBavK9cQKcN9oRbT9Z5oJyhhz1evuLSP-NCVg0bL4qxj71Nz7gxeH_q3NWgL3iQQnNnKydVPJkySkgYOYMB56rgRJkJicG6RaClhjzBypkbB1DW36pOMrjv8OcLJiNw/s320/rockandpop-bravotv.jpg" group-title="Variedades" radio="false" catchup="vod",ROCK & POP
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="Variedades",CARAS TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
-#EXTINF:-1 tvg-id="HOLA.TV.HD.uy" tvg-name="HOLA TV HD" tvg-logo="https://i.imgur.com/a6ZDo3q.jpg" group-title="Variedades",HOLA TV 
+#EXTINF:-1 tvg-id="HolaTV.ar" tvg-name="HOLA TV HD" tvg-logo="https://i.imgur.com/a6ZDo3q.jpg" group-title="Variedades",HOLA TV 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/755528.ts
 #EXTINF:-1 tvg-id="ViajarTV.ar",tvg-chno="40" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",group-title="Variedades",VIAJAR TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
@@ -66,9 +65,9 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Canal.Sun.Channel.ar" tvg-name="AR | SUN CHANNEL" tvg-logo="https://i.ibb.co/wN1sjPH/unnamed.jpg" group-title="Variedades",SUN CHANNEL
 http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBc1UxbFpDMm1CVjBSS1pJZHMyWllzUT0
-#EXTINF:-1 tvg-id="" tvg-name="Multivision HD" tvg-logo="https://multivision.tv/wp-content/uploads/2025/08/cropped-LOGO-ID-WEB-244x67.png" group-title="Variedades", MULTIVISION 
+#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-name="Multivision HD" tvg-logo="https://multivision.tv/wp-content/uploads/2025/08/cropped-LOGO-ID-WEB-244x67.png" group-title="Variedades", MULTIVISION 
 http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/712734.ts
-#EXTINF:-1 tvg-id="" tvg-name="Metro" tvg-logo="https://telecentro.com.ar/img/cm/channels/metro@2x.png" group-title="Variedades",METRO
+#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" tvg-logo="https://telecentro.com.ar/img/cm/channels/metro@2x.png" group-title="Variedades",METRO
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-metro.playlist.m3u8
 #EXTINF:-1 tvg-id="CanalA.ar" tvg-name="Canal a" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Canal_%28%C3%A1%29_1999.svg/revision/latest/scale-to-width-down/200?cb=20251004032504" group-title="Variedades",CANAL A+
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420008.m3u8
@@ -112,9 +111,9 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712750.ts
 http://somoseluno.blog:80/live/9mQxLW8jGj5s/GekDyup9gYLR/361018.ts
 #EXTINF:-1 tvg-chno="109" tvg-id="685" tvg-name="EL GARAGE" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/elgarage.png" group-title="Deportes" radio="false" catchup="vod",EL GARAGE
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712751.ts
-#EXTINF:-1 tvg-chno="110" tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/GOLFCHANNEL.jpg" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL
+#EXTINF:-1 tvg-chno="110" tvg-id="GolfChannel.ar" tvg-name="GOLF CHANNEL" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/GOLFCHANNEL.jpg" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/213977.ts
-#EXTINF:-1 tvg-chno="111" tvg-id="710" tvg-name="NBA TV" group-title="Deportes" radio="false" catchup="vod",NBA TV
+#EXTINF:-1 tvg-chno="111" tvg-id="NBATV.ar" tvg-name="NBA TV" group-title="Deportes" radio="false" catchup="vod",NBA TV
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/213980.ts
 #EXTINF:-1 tvg-chno="112" tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ar" tvg-name="DISC TURBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79466.ts
@@ -178,7 +177,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46097.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46100.ts
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="Peliculas y Series",CINEMA
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46101.ts
-#EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO " tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="Peliculas y Series",CINE LATINO 
+#EXTINF:-1 tvg-id="CineLatino.ar" tvg-name="CINE LATINO " tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="Peliculas y Series",CINE LATINO 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46106.ts
 #EXTINF:-1 tvg-id="Canal.Cinecanal.(Argentina).ar" tvg-name="CINECANAL " tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="Peliculas y Series",CINECANAL 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46108.ts
@@ -198,7 +197,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46127.ts
 http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/46130.ts
 #EXTINF:-1 tvg-id="GOLDEN.PLUS..uy" tvg-name="GOLDEN PLUS | AR" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="Peliculas y Series",GOLDEN PLUS 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46138.ts
-#EXTINF:-1 tvg-id="GOLDEN.EDGE.HD.uy" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://static.wixstatic.com/media/799a49_71c1ff04114f46cfb36a1b658f46e7c4~mv2.png/v1/fill/w_306,h_306,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png" group-title="Peliculas y Series",GOLDEN EDGE 
+#EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://static.wixstatic.com/media/799a49_71c1ff04114f46cfb36a1b658f46e7c4~mv2.png/v1/fill/w_306,h_306,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png" group-title="Peliculas y Series",GOLDEN EDGE 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46139.ts
 #EXTINF:-1 tvg-id="GOLDEN.PREMIER.HD..uy" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="Peliculas y Series",GOLDEN PREMIER 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46141.ts
@@ -370,7 +369,7 @@ http://neospaxy.top:8080/281703331471132/41703331471087/10038
 http://neospaxy.top:8080/281703331471132/41703331471087/9985
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/planetatv.PNG" group-title="Musical",PLANETA TV 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/601347.ts
-#EXTINF:-1 tvg-chno="573" tvg-id="664" tvg-name="ARGENTINISIMA SATELITAL" group-title="Musical" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/argentinisimasatelital@2x.png",ARGENTINISIMA SATELITAL
+#EXTINF:-1 tvg-chno="573" tvg-id="ArgentinisimaSatelital.ar" tvg-name="ARGENTINISIMA SATELITAL" group-title="Musical" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/argentinisimasatelital@2x.png",ARGENTINISIMA SATELITAL
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712721.ts
 #EXTINF:-1 tvg-id="ALLEGRO.HD..uy" tvg-name="Allegro " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Allegro_hd.png/revision/latest?cb=20210526004610&path-prefix=es" group-title="Musical",Allegro 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/772968.ts
