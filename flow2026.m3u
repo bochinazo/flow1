@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/EPG_elnueve.ar.xml, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/volver_epg_semana35_2026.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,
+﻿#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/volver_epg_semana35_2026.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,
 https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/flowtv.xml"
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712704.ts
@@ -8,9 +8,9 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712715.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712720.ts
 #EXTINF:-1 tvg-chno="12" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="EL TRECE" group-title="Aire" radio="false" catchup="vod",EL TRECE
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712711.ts
-#EXTINF:-1 tvg-chno="13" tvg-id="elnueve.ar" tvg-name="EL NUEVE" group-title="Aire" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/350/500/0/0/93367508072808.png" radio="false" catchup="vod",EL NUEVE
+#EXTINF:-1 tvg-chno="13" tvg-id="ElNueve.ar" tvg-name="EL NUEVE" group-title="Aire" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/350/500/0/0/93367508072808.png" radio="false" catchup="vod",EL NUEVE
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712709.ts
-#EXTINF:-1 tvg-chno="21" tvg-id="7457" tvg-name="NET TV" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/nettv@2x.png" radio="false" catchup="vod",NET TV
+#EXTINF:-1 tvg-chno="21" tvg-id="NetTV.ar" tvg-name="NET TV" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/nettv@2x.png" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias" radio="false" catchup="vod",TN
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712718.ts
@@ -28,7 +28,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712713.ts
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL22___
 #EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Noticias" tvg-logo="https://argentina.mom-gmr.org/uploads/_processed_/8/0/csm_16117-1639_company_import_d7774c7716.jpg", +PERFIL
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="8398" tvg-name="AR12" tvg-logo="https://telecentro.com.ar/img/cm/channels/AR12@2x.png" group-title="Noticias" radio="false" catchup="vod",AR 12
+#EXTINF:-1 tvg-chno="24" tvg-id="Ar12.ar" tvg-name="AR12" tvg-logo="https://telecentro.com.ar/img/cm/channels/AR12@2x.png" group-title="Noticias" radio="false" catchup="vod",AR 12
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvakgxMDcyMGNVWlFRNndaeXNnN1pBUT0
 #EXTINF:-1 tvg-chno="23" tvg-id="Canal.CNN.en.EspaÃ±ol.ar" tvg-name="CNN EN ESPAÑOL" group-title="Noticias" radio="false" catchup="vod",CNN EN ESPAÑOL
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/150799.ts
@@ -70,7 +70,7 @@ http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBc1UxbFpDMm1CVjBSS1pJZHMy
 http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/712734.ts
 #EXTINF:-1 tvg-id="" tvg-name="Metro" tvg-logo="https://telecentro.com.ar/img/cm/channels/metro@2x.png" group-title="Variedades",METRO
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-metro.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal a" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Canal_%28%C3%A1%29_1999.svg/revision/latest/scale-to-width-down/200?cb=20251004032504" group-title="Variedades",CANAL A+
+#EXTINF:-1 tvg-id="CanalA.ar" tvg-name="Canal a" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Canal_%28%C3%A1%29_1999.svg/revision/latest/scale-to-width-down/200?cb=20251004032504" group-title="Variedades",CANAL A+
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420008.m3u8
 #EXTINF:-1 tvg-id="Canal.Las.Estrellas.(Argentina).ar" tvg-name="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="Variedades",LAS ESTRELLAS
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79079.ts
@@ -80,11 +80,11 @@ http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcWFURHVJSnUzRytUK1VPVjVCMFpPTT0
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712735.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHimvPEE2Hyu2ZTefssitfPeMwYV5BcJMyA&s" group-title="Variedades",CANAL C
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online-1.png" group-title="Variedades",TEC TV
+#EXTINF:-1 tvg-id="TECtv.ar" tvg-name="TEC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online-1.png" group-title="Variedades",TEC TV
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvdHZaak1iM05GKzhNYUd5MTdXNmJmVT0
 #EXTINF:-1 tvg-id="" tvg-name="FASHl0N TV " tvg-logo="http://www.rt-a.com/67/fotos/ftv_26.gif" group-title="Variedades",FASHlON TV 
 http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/305969.ts
-#EXTINF:-1 tvg-id="[KZOAR].KZO.uy" tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Variedades",KZO ENTERTAINMENT
+#EXTINF:-1 tvg-id="KZO.ar" tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Variedades",KZO ENTERTAINMENT
 http://cdn.instream.audio:9660/stream
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVUNLP.png" group-title="Variedades",TV Universidad de La Plata
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBALA_PL__32.1TVUNIVERSI
@@ -118,7 +118,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/213977.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/213980.ts
 #EXTINF:-1 tvg-chno="112" tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ar" tvg-name="DISC TURBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79466.ts
-#EXTINF:-1 tvg-chno="113" tvg-id="7840" tvg-name="PX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/PX-Sports.png" group-title="Deportes" radio="false" catchup="vod",PX SPORTS
+#EXTINF:-1 tvg-chno="113" tvg-id="PXSports.ar" tvg-name="PX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/PX-Sports.png" group-title="Deportes" radio="false" catchup="vod",PX SPORTS
 http://neospaxy.top:8080/9531757497260567/85326a36b10b/10098
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 ARG" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lg-dsports.png" group-title="Deportes",DSPORTS 1 ARG
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712756.ts
@@ -160,9 +160,9 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/596465.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/771571.ts
 #EXTINF:-1 tvg-chno="223 "tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20220912114022" group-title="Infantiles", BABY  FIRST
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11916.ts
-#EXTINF:-1 tvg-chno="300" tvg-id="701" tvg-name="CINE.AR" group-title="Peliculas y Series" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" radio="false" catchup="vod",CINE.AR
+#EXTINF:-1 tvg-chno="300" tvg-id="CineAr.ar" tvg-name="CINE.AR" group-title="Peliculas y Series" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" radio="false" catchup="vod",CINE.AR
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/772967.ts
-#EXTINF:-1 tvg-id="volver" tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
+#EXTINF:-1 tvg-id="Volver.ar" tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712741.ts
 #EXTINF:-1 tvg-id="AandE" tvg-name="A&E OP2 " tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46087.ts
