@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/volver_epg_semana35_2026.xml, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/EPG_elnueve.ar.xml,
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/EPG_elnueve.ar.xml, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/volver_epg_semana35_2026.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,
 https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/flowtv.xml"
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712704.ts
@@ -44,7 +44,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
 #EXTINF:-1 xc_vm-id="653409" tvg-id="" tvg-name="Argentina - TELEMAX HD" tvg-logo="https://television.com.ar/wp-content/uploads/2024/06/Telemax.jpg" group-title="Variedades",TELEMAX
 http://aioplus.es:80/live/a2620bcdb25de87bba36276fb9b6ae6e/653409.ts
-#EXTINF:-1 tvg-id="" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://i.ibb.co/Xyk9JsC/dsd.png" group-title="Variedades",THE WEATHER CHANNEL
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://i.ibb.co/Xyk9JsC/dsd.png" group-title="Variedades",THE WEATHER CHANNEL
 http://miotv.cc:8080/K2pQU05ERTl2V05jKzdqQXlNSU1lMmhEYXd5YTQ1b2NFOWtBUjBCSEVsVT0
 #EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="Variedades",CGTN ESPAÑOL
 https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79450.ts
@@ -108,7 +108,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712748.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712749.ts
 #EXTINF:-1 tvg-chno="108" tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="FOX SPORTS 3" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-3.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 3
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712750.ts
-#EXTINF:-1 tvg-id="" tvg-name="D| FOX Sports Premium Arg HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-premium_m.png" group-title="Deportes",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="D| FOX Sports Premium Arg HD" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="Deportes",FOX SPORTS PREMIUM
 http://somoseluno.blog:80/live/9mQxLW8jGj5s/GekDyup9gYLR/361018.ts
 #EXTINF:-1 tvg-chno="109" tvg-id="685" tvg-name="EL GARAGE" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/elgarage.png" group-title="Deportes" radio="false" catchup="vod",EL GARAGE
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712751.ts
@@ -268,17 +268,17 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/140943.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46129.ts
 #EXTINF:-1 tvg-id="" tvg-name="Retro Tv" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Peliculas y Series",RETRO TV
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/684852.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CINEMA 
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CINEMA 
 http://liontv.es:8080/Walter549211/Walter549211/16
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CLASSIC 
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CLASSIC 
 http://liontv.es:8080/Walter549211/Walter549211/161
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE FAMILY & KIDS
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE FAMILY & KIDS
 http://liontv.es:8080/Walter549211/Walter549211/164
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ ENCORE WESTERN FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE WESTERN 
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE WESTERN FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE WESTERN 
 http://liontv.es:8080/Walter549211/Walter549211/165
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ 
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="CINE Y SERIES | STARZ FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ 
 http://liontv.es:8080/Walter549211/Walter549211/163
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES | STARZ WEST FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title=Peliculas y Series",STARZ WEST FHD
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="CINE Y SERIES | STARZ WEST FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title=Peliculas y Series",STARZ WEST
 http://liontv.es:8080/Walter549211/Walter549211/516035
 #EXTINF:-1 tvg-chno=" 343" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 1
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -292,7 +292,7 @@ http://neospaxy.top:8080/281703331471132/41703331471087/10051
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/575686.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: MOREMAX" tvg-logo="https://docdog.top/logo/countries/latino/moremax.png" group-title="Peliculas y Series",MOREMAX
 http://neospaxy.top:8080/9531757497260567/85326a36b10b/18429
-#EXTINF:-1 tvg-id="" tvg-name="LA: MOVIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/movieplex.png" group-title="Peliculas y Series",MOVIEPLEX
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="LA: MOVIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/movieplex.png" group-title="Peliculas y Series",MOVIEPLEX
 http://neospaxy.top:8080/9531757497260567/85326a36b10b/18430
 #EXTINF:-1 tvg-id="Canal.TLNovelas.(Argentina).ar" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="Entretenimiento",UNIVISION TELENOVELAS
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/4778.ts
@@ -352,7 +352,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79482.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79486.ts 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD" tvg-logo="https://i.ibb.co/D57vhdZ/24324342545.png" group-title="Cultural",NAT GEO MUNDO
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79489.ts
-#EXTINF:-1 tvg-id="" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
+#EXTINF:-1 tvg-id="NASA.Plus.us2" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79490.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUSEUM TV" tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="Cultural",MUSEUM TV
 http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/8144
