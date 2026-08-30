@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url= "https://open-epg.com/files/argentina.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, , https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz"
+﻿#EXTM3U x-tvg-url= "https://open-epg.com/files/argentina.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz"
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712704.ts
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" tvg-logo=""https://static.flow.com.ar/images/66/CH_LOGO/350/500/0/0/60528493072631.png" group-title="Aire" radio="false" catchup="vod",TELEFE
@@ -323,19 +323,19 @@ http://liontv.es:8080/Walter549211/Walter549211/334347
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79447.ts
 #EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL HD" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="Cultural",CGTN ESPAÑOL 
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY..uy" tvg-name="Discovery Channel " tvg-logo="https://i.ibb.co/HtqyD0b/ddffds.png" group-title="Cultural",Discovery Channel 
+#EXTINF:-1 tvg-id="Discovery.ar" tvg-name="Discovery Channel " tvg-logo="https://i.ibb.co/HtqyD0b/ddffds.png" group-title="Cultural",Discovery Channel 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79453.ts
 #EXTINF:-1 tvg-id="DISCOVERY.ID..uy" tvg-name="Discovery ID" tvg-logo="https://i.ibb.co/v3vWJPP/5436t5gfdvbcnhgjkiopl.png" group-title="Cultural",ID Discovery
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79457.ts
-#EXTINF:-1 tvg-id="HOME.AND.HEALTH..uy" tvg-name="Discovery Home & Health " tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="Cultural",Discovery Home & Health 
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="Discovery Home & Health " tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="Cultural",Discovery Home & Health 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79459.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science " tvg-logo="https://i.ibb.co/K7MrFNm/543gdr44.png" group-title="Cultural",Discovery Science 
+#EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-name="Discovery Science " tvg-logo="https://i.ibb.co/K7MrFNm/543gdr44.png" group-title="Cultural",Discovery Science 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79463.ts
 #EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).ar" tvg-name="Discovery Theater HD" tvg-logo="https://i.ibb.co/k3Yb7Ff/teheat.png" group-title="Cultural",Discovery Theater 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79464.ts
 #EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ar" tvg-name="Discovery Turbo FHD " tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" group-title="Cultural",Discovery Turbo  
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79466.ts
-#EXTINF:-1 tvg-id="Canal.Discovery.World.Latinoamérica.ar" tvg-name="Discovery World HD  " tvg-logo="https://i.ibb.co/D9TxF6V/discworsd.png" group-title="Cultural",Discovery World   
+#EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="Discovery World HD  " tvg-logo="https://i.ibb.co/D9TxF6V/discworsd.png" group-title="Cultural",Discovery World   
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79468.ts
 #EXTINF:-1 tvg-id="HGTV.ar" tvg-name="HGTV  | AR HD" tvg-logo="https://i.ibb.co/ckqYDrF/hgtcwsd.png" group-title="Cultural",HGTV  
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79474.ts
