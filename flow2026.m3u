@@ -181,7 +181,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46101.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46106.ts
 #EXTINF:-1 tvg-id="Canal.Cinecanal.(Argentina).ar" tvg-name="CINECANAL " tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="Peliculas y Series",CINECANAL 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46108.ts
-#EXTINF:-1 tvg-id="CINEMAX.co" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas y Series",CINEMAX 
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas y Series",CINEMAX 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46111.ts
 #EXTINF:-1 tvg-id="DE PELICULA PLUS HD" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="Peliculas y Series",DE PELICULA PLUS
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46118.ts
@@ -387,7 +387,7 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMUSTOP.png" group-title="Musical" tvg-id="MusicTop.ar" ,MUSICTOP 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
-#EXTINF:-1 tvg-chno="502" tvg-id="7018" tvg-name="VORTERIX" group-title="Musical" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",VORTERIX
+#EXTINF:-1 tvg-chno="502" tvg-id="7018" tvg-name="VORTERIX" group-title="Musical" tvg-logo="https://radiosargentina.com.ar/png/VIVORTER.png",VORTERIX
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
 #EXTINF:-1 tvg-id="Retroclub.ar@HD" tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png" group-title="Musical",RETROCLUB
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
@@ -417,9 +417,9 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CDWESPANOL_
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTVE24H____
 #EXTINF:-1 tvg-chno="564" tvg-id="Canal.Galicia.TV.ar" tvg-name="GALICIA TV" group-title="Internacional" radio="false" catchup="vod",GALICIA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGALICIATV_
-#EXTINF:-1 tvg-chno="566" tvg-id="941" tvg-name="ARIRANG" group-title="Internacional" radio="false" catchup="vod",ARIRANG
+#EXTINF:-1 tvg-chno="566" tvg-id="941" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/Arirang-TV-Logo-1024x546.jpg" tvg-name="ARIRANG" group-title="Internacional" radio="false" catchup="vod",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="567" tvg-id="[UCLPLAY].UCL.TV.UniÃ³n.Continental.LatinoamÃ©rica.uy" tvg-name="UCL" group-title="Internacional" tvg-logo="http://dtil.tmsimg.com/assets/s116150_ll_h15_aa.png" radio="false" catchup="vod",UCL
+#EXTINF:-1 tvg-chno="567" tvg-id=""[UCLPLAY].UCL.TV.Unión.Continental.Latinoamérica.uy" tvg-name="UCL" group-title="Internacional" tvg-logo="http://dtil.tmsimg.com/assets/s116150_ll_h15_aa.png" radio="false" catchup="vod",UCL
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/198283.ts
 #EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Internacional" radio="false" catchup="vod",FRANCE 24
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/438677.ts
