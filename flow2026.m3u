@@ -45,8 +45,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
 http://aioplus.es:80/live/a2620bcdb25de87bba36276fb9b6ae6e/653409.ts
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://i.ibb.co/Xyk9JsC/dsd.png" group-title="Variedades",THE WEATHER CHANNEL
 http://miotv.cc:8080/K2pQU05ERTl2V05jKzdqQXlNSU1lMmhEYXd5YTQ1b2NFOWtBUjBCSEVsVT0
-#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="Variedades",CGTN ESPAÑOL
-https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79450.ts
 #EXTINF:-1 tvg-chno="25" tvg-id="BravoTv.ar" tvg-name="BRAVO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXldU5dQm50XfqIzvGoykVZt0aORsYVj4cAGnB4OwY-leOU2odEkAtpIrLRtzXMBavK9cQKcN9oRbT9Z5oJyhhz1evuLSP-NCVg0bL4qxj71Nz7gxeH_q3NWgL3iQQnNnKydVPJkySkgYOYMB56rgRJkJicG6RaClhjzBypkbB1DW36pOMrjv8OcLJiNw/s320/rockandpop-bravotv.jpg" group-title="Variedades" radio="false" catchup="vod",ROCK & POP
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="Variedades",CARAS TV 
@@ -76,7 +74,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79079.ts
 #EXTINF:-1 tvg-id="SomosAmba.ar" tvg-name="IN" tvg-logo="http://www.radiosargentina.com.ar/png/VI-2GCHU.png" group-title="Variedades",SOMOS
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcWFURHVJSnUzRytUK1VPVjVCMFpPTT0
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Variedades",NEO TV 
-http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712735.ts
+http://redworld.pro:8880/Platano568/Th2tMw6XyNKN/359922
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHimvPEE2Hyu2ZTefssitfPeMwYV5BcJMyA&s" group-title="Variedades",CANAL C
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420011.m3u8
 #EXTINF:-1 tvg-id="TECtv.ar" tvg-name="TEC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online-1.png" group-title="Variedades",TEC TV
@@ -101,9 +99,9 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712745.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712746.ts
 #EXTINF:-1  tvg-chno="EspnPremium.ar" tvg-name="ESPN PREMIUM" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg" group-title="Deportes",ESPN PREMIUM
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712747.ts
-#EXTINF:-1 tvg-chno="106" tvg-id="73" tvg-name="FOX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-azul.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS
+#EXTINF:-1 tvg-chno="106" tvg-id="FoxSports.ar" tvg-name="FOX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-azul.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712748.ts
-#EXTINF:-1 tvg-chno="107" tvg-id="292" tvg-name="FOX SPORTS 2" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-2.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 2
+#EXTINF:-1 tvg-chno="107" tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-2.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 2
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712749.ts
 #EXTINF:-1 tvg-chno="108" tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="FOX SPORTS 3" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-3.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 3
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712750.ts
@@ -125,7 +123,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712756.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712757.ts
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DSPORTS +1 AR" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lg-dsports.png" group-title="Deportes",DSPORTS +1 AR
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/722195.ts
-#EXTINF:-1, tvg-chno="TNTSportsPremium.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT SPORTS PREMIU
+#EXTINF:-1, tvg-chno="TNTSportsPremium.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT SPORTS PREMIUM
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/712753.ts
 #EXTINF:-1 tvg-id="RakutenTV-UK_fifa-plus-uk-live-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/f2357f3b-12c7-4b37-9c21-8029da9c31fb.png" group-title="Deportes",FIFA+
 https://49f2b747.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=0&ads.rtv_content_id=6133&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=a592a2da-7998-485e-b356-937d2e2c4399&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1781
@@ -139,7 +137,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11939.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11940.ts
 #EXTINF:-1 tvg-chno="203" tvg-id="Canal.Cartoon.Network.(Argentina).ar" tvg-name="CARTOON NETWORK" group-title="Infantiles" radio="false" catchup="vod",CARTOON NETWORK
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11921.ts
-#EXTINF:-1 tvg-chno="204" tvg-id="9140" tvg-name="DREAMWORKS" group-title="Infantiles" tvg-logo="https://i.postimg.cc/h437r7q9/Dream-Works-Channel-Logo-svg.png" radio="false" catchup="vod",DREAMWORKS
+#EXTINF:-1 tvg-chno="204" tvg-id="" tvg-name="DREAMWORKS" group-title="Infantiles" tvg-logo="https://i.postimg.cc/h437r7q9/Dream-Works-Channel-Logo-svg.png" radio="false" catchup="vod",DREAMWORKS
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/319635.ts
 #EXTINF:-1 tvg-chno="205" tvg-id="Canal.Discovery.Kids.(Argentina).ar" tvg-name="DISCOVERY KIDS" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoverykids.png" group-title="Infantiles" radio="false" catchup="vod",DISCOVERY KIDS
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/11925.ts
@@ -171,7 +169,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46089.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/327839.ts
 #EXTINF:-1 tvg-id="Canal.AXN.(Argentina).ar" tvg-name="AXN" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="Peliculas y Series",AXN 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46095.ts
-#EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",A3SERIES
+#EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",A3SERIES
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46097.ts
 #EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="ATRESERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",ATRESERIES 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46100.ts
@@ -205,11 +203,11 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46141.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46142.ts
 #EXTINF:-1 tvg-id="Canal.HBO.(Argentina).ar" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="Peliculas y Series",HBO 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46145.ts
-#EXTINF:-1 tvg-id="HBO.2.HD..uy" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="Peliculas y Series",HBO 2 
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="Peliculas y Series",HBO 2 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46151.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="Peliculas y Series",HBO FAMILY
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46153.ts
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.ar" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="Peliculas y Series",HBO PLUS 
+#EXTINF:-1 tvg-id="HBOPlus.ar" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="Peliculas y Series",HBO PLUS 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46159.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.ar" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/BfvZWCJ/hb0sig3.png" group-title="Peliculas y Series",HBO SIGNATURE
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46163.ts
@@ -217,7 +215,7 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46163.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46168.ts
 #EXTINF:-1 tvg-id="[PARAMNT].Paramount.Network.uy" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="Peliculas y Series",PARAMOUNT CHANNEL 
 http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/46170.ts
-#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES HD | AR" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="Peliculas y Series",SONY MOVIES 
+#EXTINF:-1 tvg-id="SonyMovies.ar" tvg-name="SONY MOVIES HD | AR" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="Peliculas y Series",SONY MOVIES 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46175.ts
 #EXTINF:-1 tvg-id="Canal.Sony.(Argentina).ar" tvg-name="SONY CHANNEL HD | AR" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="Peliculas y Series",SONY CHANNEL 
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/46176.ts
@@ -353,6 +351,8 @@ http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79486.ts
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79489.ts
 #EXTINF:-1 tvg-id="NASA.Plus.us2" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
 http://thenewxtreme2025.xyz/live/51952716251/5195271625143/79490.ts
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="Cultural",CGTN ESPAÑOL
+https://los84hijosdelsol.com/live/Maria2402marq/FDEYQhzmSq/79450.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUSEUM TV" tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="Cultural",MUSEUM TV
 http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/8144
 #EXTINF:-1 tvg-id="Canal.Telehit.ar" tvg-name="Telehit" tvg-logo="https://i.postimg.cc/cCwc8QNg/images-q-tbn-ANd9Gc-Tdj9Acdkh-O4o4Q86Vqy0ic-CPd581v-HORB8Aw-s.png" group-title="Musical",TELEHIT
