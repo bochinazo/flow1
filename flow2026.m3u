@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url= "https://open-epg.com/files/argentina.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz"
+﻿#EXTM3U x-tvg-url= "https://open-epg.com/files/argentina.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz"
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712704.ts
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" tvg-logo=""https://static.flow.com.ar/images/66/CH_LOGO/350/500/0/0/60528493072631.png" group-title="Aire" radio="false" catchup="vod",TELEFE
@@ -151,7 +151,7 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/11917.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/11941.ts
 #EXTINF:-1 tvg-chno="210" tvg-id="NickJr.ar" tvg-name="NICK JR." tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/nickjr.png" group-title="Infantiles" radio="false" catchup="vod",NICK JR.
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/11938.ts
-#EXTINF:-1,tvg-chno="211" group-title="Infantiles" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/nickjr.png", TEEN NICK
+#EXTINF:-1,tvg-id"Canal.TeenNick.cl" tvg-chno="211" group-title="Infantiles" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/nickjr.png", TEEN NICK
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/596465.ts
 #EXTINF:-1 tvg-chno="212 "PlimPlim.ar" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="Infantiles" ,PLIM PLIM TV
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/771571.ts
@@ -281,8 +281,6 @@ http://liontv.es:8080/Walter549211/Walter549211/516035
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno=" 344" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 2
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno=" 345" group-title="Peliculas y Series" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png",MY TIME MOVIE NETWORK
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="Peliculas y Series",SYFY
 http://neospaxy.top:8080/281703331471132/41703331471087/10051
 #EXTINF:-1 tvg-id="" tvg-name="M|Moviecenter Premium Oeste" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WZUl_t_A1HLUP85Y2af-AH5YVTtCTtFEGA&s" group-title="Peliculas y Series",Moviecenter Premium Oeste
