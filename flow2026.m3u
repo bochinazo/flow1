@@ -42,7 +42,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="Variedades",GEN TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
 #EXTINF:-1 xc_vm-id="653409" tvg-id="Telemax.ar" tvg-name="Argentina - TELEMAX HD" tvg-logo="https://television.com.ar/wp-content/uploads/2024/06/Telemax.jpg" group-title="Variedades",TELEMAX
-http://aioplus.es:80/live/a2620bcdb25de87bba36276fb9b6ae6e/653409.ts
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://i.ibb.co/Xyk9JsC/dsd.png" group-title="Variedades",THE WEATHER CHANNEL
 http://miotv.cc:8080/K2pQU05ERTl2V05jKzdqQXlNSU1lMmhEYXd5YTQ1b2NFOWtBUjBCSEVsVT0
 #EXTINF:-1 tvg-chno="25" tvg-id="BravoTv.ar" tvg-name="BRAVO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXldU5dQm50XfqIzvGoykVZt0aORsYVj4cAGnB4OwY-leOU2odEkAtpIrLRtzXMBavK9cQKcN9oRbT9Z5oJyhhz1evuLSP-NCVg0bL4qxj71Nz7gxeH_q3NWgL3iQQnNnKydVPJkySkgYOYMB56rgRJkJicG6RaClhjzBypkbB1DW36pOMrjv8OcLJiNw/s320/rockandpop-bravotv.jpg" group-title="Variedades" radio="false" catchup="vod",ROCK & POP
@@ -61,10 +61,10 @@ https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://radiosargentina.com.ar/png/VITIEMIA.png" group-title="Variedades",TIERRAMIA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
-#EXTINF:-1 xm-ott="{ID}" tvg-id="Canal.Sun.Channel.ar" tvg-name="AR | SUN CHANNEL" tvg-logo="https://i.ibb.co/wN1sjPH/unnamed.jpg" group-title="Variedades",SUN CHANNEL
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Canal.Sun.Channel.ar" tvg-name="AR | SUN CHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/co_sun-channel_m.png" group-title="Variedades",SUN CHANNEL
 http://181.78.79.131:8000/play/a0qz
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-name="Multivision HD" tvg-logo="https://multivision.tv/wp-content/uploads/2025/08/cropped-LOGO-ID-WEB-244x67.png" group-title="Variedades", MULTIVISION 
-http://thenewxtreme2025.xyz/live/Patricia99/Patricia99/712734.ts
+http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712734.ts
 #EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" tvg-logo="https://telecentro.com.ar/img/cm/channels/metro@2x.png" group-title="Variedades",METRO
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-metro.playlist.m3u8
 #EXTINF:-1 tvg-id="CanalA.ar" tvg-name="Canal a" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Canal_%28%C3%A1%29_1999.svg/revision/latest/scale-to-width-down/200?cb=20251004032504" group-title="Variedades",CANAL A+
@@ -72,13 +72,13 @@ http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420008.m3u8
 #EXTINF:-1 tvg-id="Canal.Las.Estrellas.(Argentina).ar" tvg-name="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="Variedades",LAS ESTRELLAS
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79079.ts
 #EXTINF:-1 tvg-id="SomosAmba.ar" tvg-name="IN" tvg-logo="http://www.radiosargentina.com.ar/png/VI-2GCHU.png" group-title="Variedades",SOMOS
-http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcWFURHVJSnUzRytUK1VPVjVCMFpPTT0
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Variedades",NEO TV 
 http://redworld.pro:8880/Platano568/Th2tMw6XyNKN/359922
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHimvPEE2Hyu2ZTefssitfPeMwYV5BcJMyA&s" group-title="Variedades",CANAL C
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420011.m3u8
 #EXTINF:-1 tvg-id="TECtv.ar" tvg-name="TEC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online-1.png" group-title="Variedades",TEC TV
-http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvdHZaak1iM05GKzhNYUd5MTdXNmJmVT0
+
 #EXTINF:-1 tvg-id="" tvg-name="FASHl0N TV " tvg-logo="http://www.rt-a.com/67/fotos/ftv_26.gif" group-title="Variedades",FASHlON TV 
 http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/305969.ts
 #EXTINF:-1 tvg-id="KZO.ar" tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Variedades",KZO ENTERTAINMENT
@@ -110,13 +110,13 @@ http://somoseluno.blog:80/live/9mQxLW8jGj5s/GekDyup9gYLR/361018.ts
 #EXTINF:-1 tvg-chno="109" tvg-id="ElGarage.ar" tvg-name="EL GARAGE" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/elgarage.png" group-title="Deportes" radio="false" catchup="vod",EL GARAGE
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712751.ts
 #EXTINF:-1 tvg-chno="110" tvg-id="GolfChannel.ar" tvg-name="GOLF CHANNEL" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/GOLFCHANNEL.jpg" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL
-http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/213977.ts
+http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/360923.ts
 #EXTINF:-1 tvg-chno="111" tvg-id="NBATV.ar" tvg-name="NBA TV" group-title="Deportes" radio="false" catchup="vod",NBA TV
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/213980.ts
 #EXTINF:-1 tvg-chno="112" tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ar" tvg-name="DISC TURBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79466.ts
 #EXTINF:-1 tvg-chno="113" tvg-id="PXSports.ar" tvg-name="PX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/PX-Sports.png" group-title="Deportes" radio="false" catchup="vod",PX SPORTS
-http://neospaxy.top:8080/9531757497260567/85326a36b10b/10098
+http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/360925.ts
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DSPORTS 1 ARG" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lg-dsports.png" group-title="Deportes",DSPORTS 1 ARG
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712756.ts
 #EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DSPORTS 2 ARG" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lg-dsports2.png" group-title="Deportes",DSPORTS 2 ARG
@@ -161,7 +161,7 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/11916.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/772967.ts
 #EXTINF:-1 tvg-id="Volver.ar" tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712741.ts
-#EXTINF:-1 tvg-id="AandE" tvg-name="A&E OP2 " tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
+#EXTINF:-1 tvg-id="A&amp;E.MUNDO..uy" tvg-name="A&E" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46087.ts
 #EXTINF:-1 tvg-id="[AMCMEX].AMC.uy" tvg-name="AMC  " tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="Peliculas y Series",AMC  
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46089.ts
@@ -197,7 +197,7 @@ http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/1276.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46138.ts
 #EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://static.wixstatic.com/media/799a49_71c1ff04114f46cfb36a1b658f46e7c4~mv2.png/v1/fill/w_306,h_306,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png" group-title="Peliculas y Series",GOLDEN EDGE 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46139.ts
-#EXTINF:-1 tvg-id="GOLDEN.PREMIER.HD..uy" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="Peliculas y Series",GOLDEN PREMIER 
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="Peliculas y Series",GOLDEN PREMIER 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46141.ts
 #EXTINF:-1 tvg-id="Canal.Golden.(Argentina).ar" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46142.ts
@@ -213,7 +213,7 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46159.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46163.ts
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="Peliculas y Series",MULTIPREMIER 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46168.ts
-#EXTINF:-1 tvg-id="Canal.Paramount.Channel.(Chile).cl" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="Peliculas y Series",PARAMOUNT CHANNEL 
+#EXTINF:-1 tvg-id="PARAMOUNT.NETWORK.HD..uy" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="Peliculas y Series",PARAMOUNT CHANNEL 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46172.ts
 #EXTINF:-1 tvg-id="SonyMovies.ar" tvg-name="SONY MOVIES HD | AR" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="Peliculas y Series",SONY MOVIES 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46175.ts
@@ -247,7 +247,7 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/90078.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/90079.ts
 #EXTINF:-1 tvg-id="Canal.Universal.Comedy.mx" tvg-name="UNIVERSAL COMEDY " tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="Peliculas y Series",UNIVERSAL COMEDY 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/90081.ts
-#EXTINF:-1 tvg-id="UNIVERSAL.PREMIERE.HD..uy" tvg-name="UNIVERSAL PREMIERE " tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="Peliculas y Series",UNIVERSAL PREMIERE 
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.mx" tvg-name="UNIVERSAL PREMIERE " tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="Peliculas y Series",UNIVERSAL PREMIERE 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/90083.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Pop.ar" tvg-name="HBO POP " tvg-logo="https://i.ibb.co/vxK0tVp/hbopop3.png" group-title="Peliculas y Series",HBO POP 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/96203.ts
@@ -307,23 +307,21 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79063.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/113865.ts
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="http://redworld.pro:8880/images/3cc08b1c9d27766ef4324e457791f37b.png" group-title="Entretenimiento",GLITZ
 http://redworld.pro:8880/playred20/cDNtGMsKMWy4/135432
-#EXTINF:-1 tvg-id="" tvg-name="Az click" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/03/az-click.jpg" group-title="Entretenimiento" ,Az click
+#EXTINF:-1 tvg-id="" tvg-name="Az click" tvg-logo="https://images.produ.com/noticias/0521/big-ClicTeConecta.jpg" group-title="Entretenimiento" ,CLIC
 http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/315941.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://i.ibb.co/wpxLdLn/NBC-universoeast.png" group-title="Entretenimiento",NBC UNIVERSO
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/205618.ts
 #EXTINF:-1 tvg-id="AdultSwim.ar" tvg-name="ADULT SWIM " tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?w=1000" group-title="Entretenimiento",ADULT SWIM 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79072.ts
-#EXTINF:-1 tvg-id="KANAL.D.DRAMA..uy" tvg-name="Kanal D Drama" tvg-logo="https://i.ibb.co/MCzcqMx/KANALD.png" group-title="Entretenimiento",Kanal D Drama
+#EXTINF:-1 tvg-id="KANAL.D.DRAMA..uy" tvg-name="Kanal D Drama" tvg-logo="https://i.ibb.co/MCzcqMx/KANALD.png" group-title="Entretenimiento",KANAL D DRAMA
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/4693.ts
 #EXTINF:-1 tvg-chno="22" tvg-id="ENCUENTRO.uy" tvg-name="ENCUENTRO" group-title="Cultural" radio="false" catchup="vod",ENCUENTRO
 http://liontv.es:8080/Walter549211/Walter549211/334347
 #EXTINF:-1 tvg-id="Canal.Animal.Planet.(Argentina).ar" tvg-name="Animal Planet   HD" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="Cultural",Animal Planet  
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79447.ts
-#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL HD" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="Cultural",CGTN ESPAÑOL 
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="Discovery.ar" tvg-name="Discovery Channel " tvg-logo="https://i.ibb.co/HtqyD0b/ddffds.png" group-title="Cultural",Discovery Channel 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79453.ts
-#EXTINF:-1 tvg-id="DISCOVERY.ID..uy" tvg-name="Discovery ID" tvg-logo="https://i.ibb.co/v3vWJPP/5436t5gfdvbcnhgjkiopl.png" group-title="Cultural",ID Discovery
+#EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Chile).cl" tvg-name="Discovery ID" tvg-logo="https://i.ibb.co/v3vWJPP/5436t5gfdvbcnhgjkiopl.png" group-title="Cultural",ID Discovery
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79457.ts
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="Discovery Home & Health " tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="Cultural",Discovery Home & Health 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79459.ts
