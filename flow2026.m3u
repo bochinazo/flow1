@@ -11,6 +11,8 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712710.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712709.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="NetTV.ar" tvg-name="NET TV" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/nettv@2x.png" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | *C.ANAL> TⓔLⓔFⓔ ROSARIO ғʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="Aire",TELEFE ROSARIO
+http://flowzy.work/live/JORGE12345/12345JORGE/70c548ca-cbd7-4138-83f0-c37ff36e3c55.m3u
 #EXTINF:-1 tvg-chno="14" tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias" radio="false" catchup="vod",TN
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712718.ts
 #EXTINF:-1 tvg-chno="15" tvg-id="A24.HD.uy" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias" radio="false" catchup="vod",A24
@@ -354,7 +356,7 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79486.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79489.ts
 #EXTINF:-1 tvg-id="NASA.Plus.us2" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79490.ts
-#EXTINF:-1 tvg-id="[CGTNE].CGTN.Español.uy" tvg-name="CGTN ESPAÑOL" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="Cultural",CGTN ESPAÑOL
+#EXTINF:-1 tvg-id="" tvg-name="CURIOSITY" tvg-logo="https://mms.businesswire.com/media/20240502214496/es/1184149/4/Curiosity_Wordmark_Color_Pos.jpg" group-title="Cultural",CURIOSITY ANIMALS
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79450.ts
 #EXTINF:-1 tvg-id="MUSEUM.TV.fr" tvg-name="MUSEUM TV" tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="Cultural",MUSEUM TV
 http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/8144
@@ -530,8 +532,6 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/575790.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/575795.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7: Malcolm" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A1FD1DDD61A1E87108AE19E9017B35CBFD421546374C71BFB5354DAF127F738D/scale?width=506&amp;aspectRatio=2.00&amp;format=webp" group-title="24/7", Malcolm
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/575796.ts
-#EXTINF:-1 tvg-id="" tvg-name="Camino al Cielo" tvg-logo="http://redworld.pro:8880/images/ec4f9374ebe4865299d3d58f415c4af2.jpg" group-title="24/7",Camino al Cielo
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526509
 #EXTINF:-1 tvg-id="" tvg-name="Los locos Addams (1964)" tvg-logo="http://redworld.pro:8880/images/815b36b78f70acbdee86fb3b3b827e2a.jpg" group-title="24/7",Los locos Addams (1964)
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526496
 #EXTINF:-1 tvg-id="" tvg-name="Mi bella genio" tvg-logo="http://redworld.pro:8880/images/a1ba7a398c4534d1ff0c6973f586a536.jpg" group-title="24/7",Mi bella genio
@@ -544,10 +544,6 @@ http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526399
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526400
 #EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street" tvg-logo="http://redworld.pro:8880/images/f8ac301c68df42f02647cd2ae1862985.jpg" group-title="24/7",Saga Pesadilla en Elm Street
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526401
-#EXTINF:-1 tvg-id="" tvg-name="Rapido y Furioso (1-5)" tvg-logo="http://redworld.pro:8880/images/dc3d3b1a336fbbd51585e31c95f45c83.png" group-title="24/7",Saga Rapido y Furioso (1-5)
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526360
-#EXTINF:-1 tvg-id="" tvg-name="Rapido y Furioso (6-10)" tvg-logo="http://redworld.pro:8880/images/dc3d3b1a336fbbd51585e31c95f45c83.png" group-title="24/7",Saga Rapido y Furioso (6-10)
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526361
 #EXTINF:-1 tvg-id="" tvg-name="La casa del dragon (Temp 1)" tvg-logo="http://redworld.pro:8880/images/d69a7bfe0b9e0a6dd1f099f543309ac4.jpg" group-title="24/7",La casa del dragon 
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526362
 #EXTINF:-1 tvg-id="" tvg-name="Marvel 1" tvg-logo="http://redworld.pro:8880/images/ab9e4ee147580ab7aec527bbc4caf410.jpg" group-title="24/7",Marvel 1
@@ -560,15 +556,15 @@ http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526365
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526366
 #EXTINF:-1 tvg-id="" tvg-name="Marvel 5" tvg-logo="http://redworld.pro:8880/images/ab9e4ee147580ab7aec527bbc4caf410.jpg" group-title="24/7",Marvel 5
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526367
-#EXTINF:-1 tvg-id="" tvg-name="| 12 Horas para sobrevivir" tvg-logo="http://redworld.pro:8880/images/834552076d7474926f884225cec1da69.jpg" group-title="24/7"12 Horas para sobrevivir
+#EXTINF:-1 tvg-id="" tvg-name="| 12 Horas para sobrevivir" tvg-logo="http://redworld.pro:8880/images/834552076d7474926f884225cec1da69.jpg" group-title="24/7"Saga 12 Horas para sobrevivir
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526368
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="http://redworld.pro:8880/images/854fa36e250f15cc53eed7925ef9156f.png" group-title="24/7",Saga Harry Potter
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526369
-#EXTINF:-1 tvg-id="" tvg-name="Chucky" tvg-logo="http://redworld.pro:8880/images/d7a6527f373dfe9c9b9d2bc11d19dcd4.png" group-title="24/7",Sagsa Chucky
+#EXTINF:-1 tvg-id="" tvg-name="Chucky" tvg-logo="http://redworld.pro:8880/images/d7a6527f373dfe9c9b9d2bc11d19dcd4.png" group-title="24/7",Saga Chucky
 http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526370
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rapido y Furioso (1-5)" tvg-logo="http://redworld.pro:8880/images/dc3d3b1a336fbbd51585e31c95f45c83.png" group-title="24/7",Rapido y Furioso (1-5)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rapido y Furioso (1-5)" tvg-logo="http://redworld.pro:8880/images/dc3d3b1a336fbbd51585e31c95f45c83.png" group-title="24/7",Saga Rapido y Furioso (1-5)
 http://superxlatino.com:8880/56984192771f/M8Z4rxjNjT6c/526360
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rapido y Furioso (6-10)" tvg-logo="http://redworld.pro:8880/images/dc3d3b1a336fbbd51585e31c95f45c83.png" group-title="24/7",Rapido y Furioso (6-10)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rapido y Furioso (6-10)" tvg-logo="http://redworld.pro:8880/images/dc3d3b1a336fbbd51585e31c95f45c83.png" group-title="24/7",Saga Rapido y Furioso (6-10)
 http://superxlatino.com:8880/56984192771f/M8Z4rxjNjT6c/526361
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hombres de negro" tvg-logo="http://redworld.pro:8880/images/492496eb0a0e4a9c995a574b1b57666c.jpg" group-title="24/7",Saga Hombres de negro
 http://superxlatino.com:8880/56984192771f/M8Z4rxjNjT6c/526374
@@ -604,6 +600,27 @@ http://superxlatino.com:8880/56984192771f/M8Z4rxjNjT6c/526574
 http://superxlatino.com:8880/56984192771f/M8Z4rxjNjT6c/526575
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0_okXdzerFdXciVNkyW9gh_6KrUekcVAvw&s.png" group-title="24/7",Alerta Aeropuerto
 http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/316938.ts
+#EXTINF:-1 tvg-id="0e346cbd-e070-4c1d-9fa9-ff6f2d82c6ef" tvg-name="24/7 Bonanza" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2QyM2FmMTAtYTQxNS00NTg3LTgzYWQtYTA3ODk0MDFkODhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="♾️ 24/7 ( SERIES )",  Bonanza
+http://flowzy.work/live/JORGE12345/12345JORGE/0e346cbd-e070-4c1d-9fa9-ff6f2d82c6ef.m3u
+#EXTINF:-1 tvg-id="b9b762c5-3640-4675-be32-b0eda9aa98f4" tvg-name="24/7 Auto Fantástico" tvg-logo="" group-title="♾️ 24/7 ( SERIES )", El Auto Fantástico
+http://flowzy.work/live/JORGE12345/12345JORGE/b9b762c5-3640-4675-be32-b0eda9aa98f4.m3u
+#EXTINF:-1 tvg-id="247matrix" tvg-name="24/7 Matrix" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tpW2X2DvxtTHJ61iJ7zNYYrJihs.jpg" group-title="24/7", Saga Matrix
+http://flowzy.work/live/JORGE12345/12345JORGE/b5f347d0-c4b1-44b0-a998-ac995d173dc8.m3u
+#EXTINF:-1 tvg-id="247duendem" tvg-name="24/7 Duende Maldito" tvg-logo="" group-title="24/7",  Duende Maldito
+http://flowzy.work/live/JORGE12345/12345JORGE/9333e308-9f8d-4367-ad6a-ec93d8e9738f.m3u
+#EXTINF:-1 tvg-id="247karatekid" tvg-name="24/7 Karate Kid" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg" group-title="24/7", Saga Karate Kid
+http://flowzy.work/live/JORGE12345/12345JORGE/fa76bddf-488b-4186-9697-f7aebfd79076.m3u
+#EXTINF:-1 tvg-id="247peliaccion" tvg-name="24/7 PELICULAS DE ACCION" tvg-logo="https://i.pinimg.com/564x/4b/4e/76/4b4e76c179a348f83b060db5484e5c95.jpg" group-title="24/7",  PELICULAS DE ACCION
+http://flowzy.work/live/JORGE12345/12345JORGE/4a19d4b0-62d2-4232-a756-2abcbe0bf4ae.m3u
+#EXTINF:-1 tvg-id="247agente007" tvg-name="24/7 AGENTE 007" tvg-logo="https://imgs.search.brave.com/tR9_qIvSMZLfJoUBkOgLfRRbHVD6rN_PYUo9nXqN-40/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZWNp/bmUyMS5jb20vaW1n/L3VwbG9hZC9vYnJh/cy9nb2xkZW5leWUt/NzM2Ni9nb2xkZW5l/eWUtNzM2Ni1jLmpw/Zw" group-title="24/7",  AGENTE 007
+http://flowzy.work/live/JORGE12345/12345JORGE/03331000-4649-4eed-b1e0-049abeaa954b.m3u
+#EXTINF:-1 tvg-id="247terminator" tvg-name="24/7 Terminator" tvg-logo="https://www.nicepng.com/png/full/311-3110225_terminator-movie-logo-terminator-1.png" group-title="24/7",  Saga Terminator
+http://flowzy.work/live/JORGE12345/12345JORGE/37d5ff31-4806-49f9-b133-9c548f276358.m3u
+
+
+
+
+
 
 
 
