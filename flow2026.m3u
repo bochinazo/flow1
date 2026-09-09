@@ -204,7 +204,7 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46141.ts
 #EXTINF:-1 tvg-id="Canal.Golden.(Argentina).ar" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46142.ts
 #EXTINF:-1 tvg-id="Canal.HBO.(Argentina).ar" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="Peliculas y Series",HBO 
-http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46145.ts
+http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46146.ts
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="Peliculas y Series",HBO 2 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46151.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="Peliculas y Series",HBO FAMILY
@@ -356,10 +356,12 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79486.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79489.ts
 #EXTINF:-1 tvg-id="NASA.Plus.us2" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79490.ts
-#EXTINF:-1 tvg-id="" tvg-name="CURIOSITY" tvg-logo="https://mms.businesswire.com/media/20240502214496/es/1184149/4/Curiosity_Wordmark_Color_Pos.jpg" group-title="Cultural",CURIOSITY ANIMALS
+#EXTINF:-1 tvg-id="" tvg-name="CURIOSITY" tvg-logo="https://mms.businesswire.com/media/20240502214496/es/1184149/4/Curiosity_Wordmark_Color_Pos.jpg" group-title="Cultural",CURIOSITY 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79450.ts
 #EXTINF:-1 tvg-id="MUSEUM.TV.fr" tvg-name="MUSEUM TV" tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="Cultural",MUSEUM TV
 http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/8144
+#EXTINF:-1 tvg-id="RakutenTV-UK_cgtn" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="Cultural",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel_id=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=7&ads_rtv_content_id=4941&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=96ed95d9-badd-47ae-a944-c5d694a7a53f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-id="Canal.Telehit.ar" tvg-name="Telehit" tvg-logo="https://i.postimg.cc/cCwc8QNg/images-q-tbn-ANd9Gc-Tdj9Acdkh-O4o4Q86Vqy0ic-CPd581v-HORB8Aw-s.png" group-title="Musical",TELEHIT
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/86461.ts
 #EXTINF:-1 tvg-id="Canal.HTV.ar" tvg-name="HTV" tvg-logo="https://telecentro.com.ar/img/cm/channels/htv@2x.png" group-title="Musical",HTV
@@ -440,6 +442,8 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/55197.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/55159.ts
 #EXTINF:-1 tvg-chno="424" tvg-id="963" tvg-name="CANAL SANTA MARÍA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Religion" radio="false" catchup="vod",CANAL SANTA MARÍA
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="✮CINE PREMIUM✮",HBO HD (DTV)
+http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46146.ts
 #EXTINF:-1 tvg-id="" tvg-name="Garfield Y Amigos" tvg-logo="https://i.pinimg.com/originals/2e/77/9b/2e779b076e4c96d868f98c8084182465.jpg" group-title="24/7",Garfield Y Amigos
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/428506.ts
 #EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="24/7",Peppa Pig
@@ -600,9 +604,7 @@ http://superxlatino.com:8880/56984192771f/M8Z4rxjNjT6c/526574
 http://superxlatino.com:8880/56984192771f/M8Z4rxjNjT6c/526575
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0_okXdzerFdXciVNkyW9gh_6KrUekcVAvw&s.png" group-title="24/7",Alerta Aeropuerto
 http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/316938.ts
-#EXTINF:-1 tvg-id="0e346cbd-e070-4c1d-9fa9-ff6f2d82c6ef" tvg-name="24/7 Bonanza" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2QyM2FmMTAtYTQxNS00NTg3LTgzYWQtYTA3ODk0MDFkODhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="♾️ 24/7 ( SERIES )",  Bonanza
-http://flowzy.work/live/JORGE12345/12345JORGE/0e346cbd-e070-4c1d-9fa9-ff6f2d82c6ef.m3u
-#EXTINF:-1 tvg-id="b9b762c5-3640-4675-be32-b0eda9aa98f4" tvg-name="24/7 Auto Fantástico" tvg-logo="" group-title="♾️ 24/7 ( SERIES )", El Auto Fantástico
+#EXTINF:-1 tvg-id="b9b762c5-3640-4675-be32-b0eda9aa98f4" tvg-name="24/7 Auto Fantástico" tvg-logo="" group-title="24/7", El Auto Fantástico
 http://flowzy.work/live/JORGE12345/12345JORGE/b9b762c5-3640-4675-be32-b0eda9aa98f4.m3u
 #EXTINF:-1 tvg-id="247matrix" tvg-name="24/7 Matrix" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tpW2X2DvxtTHJ61iJ7zNYYrJihs.jpg" group-title="24/7", Saga Matrix
 http://flowzy.work/live/JORGE12345/12345JORGE/b5f347d0-c4b1-44b0-a998-ac995d173dc8.m3u
