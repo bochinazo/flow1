@@ -204,7 +204,7 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46141.ts
 #EXTINF:-1 tvg-id="Canal.Golden.(Argentina).ar" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46142.ts
 #EXTINF:-1 tvg-id="Canal.HBO.(Argentina).ar" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="Peliculas y Series",HBO 
-http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46146.ts
+http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46147.ts
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="Peliculas y Series",HBO 2 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46151.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="Peliculas y Series",HBO FAMILY
@@ -356,7 +356,7 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79486.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79489.ts
 #EXTINF:-1 tvg-id="NASA.Plus.us2" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79490.ts
-#EXTINF:-1 tvg-id="" tvg-name="CURIOSITY" tvg-logo="https://mms.businesswire.com/media/20240502214496/es/1184149/4/Curiosity_Wordmark_Color_Pos.jpg" group-title="Cultural",CURIOSITY 
+#EXTINF:-1 tvg-id="" tvg-name="CURIOSITY" tvg-logo="https://github.com/bochinazo/flow1/blob/main/Curiosity_Wordmark_Color_Pos.jpg?raw=true" group-title="Cultural",CURIOSITY 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79450.ts
 #EXTINF:-1 tvg-id="MUSEUM.TV.fr" tvg-name="MUSEUM TV" tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="Cultural",MUSEUM TV
 http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/8144
@@ -442,8 +442,6 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/55197.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/55159.ts
 #EXTINF:-1 tvg-chno="424" tvg-id="963" tvg-name="CANAL SANTA MARÍA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Religion" radio="false" catchup="vod",CANAL SANTA MARÍA
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="✮CINE PREMIUM✮",HBO HD (DTV)
-http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/46146.ts
 #EXTINF:-1 tvg-id="" tvg-name="Garfield Y Amigos" tvg-logo="https://i.pinimg.com/originals/2e/77/9b/2e779b076e4c96d868f98c8084182465.jpg" group-title="24/7",Garfield Y Amigos
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/428506.ts
 #EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="24/7",Peppa Pig
