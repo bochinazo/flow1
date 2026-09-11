@@ -11,8 +11,6 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712710.ts
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712709.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="NetTV.ar" tvg-name="NET TV" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/nettv@2x.png" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | *C.ANAL> TⓔLⓔFⓔ ROSARIO ғʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="Aire",TELEFE ROSARIO
-http://flowzy.work/live/JORGE12345/12345JORGE/70c548ca-cbd7-4138-83f0-c37ff36e3c55.m3u
 #EXTINF:-1 tvg-chno="14" tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias" radio="false" catchup="vod",TN
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/712718.ts
 #EXTINF:-1 tvg-chno="15" tvg-id="A24.HD.uy" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias" radio="false" catchup="vod",A24
@@ -74,7 +72,7 @@ http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420008.m3u8
 #EXTINF:-1 tvg-id="Canal.Las.Estrellas.(Argentina).ar" tvg-name="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="Variedades",LAS ESTRELLAS
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/79079.ts
 #EXTINF:-1 tvg-id="SomosAmba.ar" tvg-name="IN" tvg-logo="http://www.radiosargentina.com.ar/png/VI-2GCHU.png" group-title="Variedades",SOMOS
-https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLPSANTA_____CSOMOSLAPAM
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Variedades",NEO TV 
 http://redworld.pro:8880/Platano568/Th2tMw6XyNKN/359922
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHimvPEE2Hyu2ZTefssitfPeMwYV5BcJMyA&s" group-title="Variedades",CANAL C
@@ -291,9 +289,6 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/575686.ts
 http://neospaxy.top:8080/9531757497260567/85326a36b10b/18429
 #EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="LA: MOVIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/movieplex.png" group-title="Peliculas y Series",MOVIEPLEX
 http://neospaxy.top:8080/9531757497260567/85326a36b10b/18430
-#EXTINF:-1 tvg-id="XTREMAAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" http-referrer="https://XTREMAtv.com/?p=1434" group-title="Peliculas y Series",XTREMA Accion
-#EXTVLCOPT:http-referrer=https://XTREMAtv.com/?p=1434
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.TLNovelas.(Argentina).ar" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="Entretenimiento",UNIVISION TELENOVELAS
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/4778.ts
 #EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://i.ibb.co/dW0RXN7/rcnnovelas.png" group-title="Entretenimiento",RCN Novelas
