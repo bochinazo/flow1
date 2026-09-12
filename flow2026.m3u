@@ -79,10 +79,6 @@ http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420008.m3u8
 http://miotv.cc:8080/K2pQU05ERTl2V05jKzdqQXlNSU1lMmhEYXd5YTQ1b2NFOWtBUjBCSEVsVT0
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Variedades",NEO TV 
 http://redworld.pro:8880/Platano568/Th2tMw6XyNKN/359922
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHimvPEE2Hyu2ZTefssitfPeMwYV5BcJMyA&s" group-title="Variedades",CANAL C
-
-#EXTINF:-1 tvg-id="TECtv.ar" tvg-name="TEC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Tec-TV-en-vivo-Online-1.png" group-title="Variedades",TEC TV
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVUNLP.png" group-title="Variedades",TV Universidad de La Plata
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBALA_PL__32.1TVUNIVERSI
 #EXTINF:-1 tvg-chno="100" tvg-id="DeporTv.ar" tvg-name="DEPORTV" group-title="Deportes" radio="false" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" catchup="vod",DEPORTV
