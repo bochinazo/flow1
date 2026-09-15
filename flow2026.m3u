@@ -260,7 +260,7 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/140943.ts
 #EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts " tvg-logo="https://i.ibb.co/JCPsWS7/filmds.png" group-title="Peliculas y Series",FILM & ARTS
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46129.ts
 #EXTINF:-1 tvg-id="RTP.3.ch" tvg-name="Retro Tv" tvg-logo="https://www.tv.wurtlitzer.com/imagenes/categoria/musica/retro_plus_1.png" group-title="Peliculas y Series",RETRO PLUS
-http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvdTN5K2lXdHVjREJiNWRWbWRjanJxbz0
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CINEMA 
 http://liontv.es:8080/Walter549211/Walter549211/16
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CLASSIC 
@@ -389,6 +389,10 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
 #EXTINF:-1 tvg-id="Retroclub.ar@HD" tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png" group-title="Musical",RETROCLUB
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Musical", Retro Plus TV 
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Musical", Retro Plus TV Señal 2 
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="557" tvg-id="Canal.CNN.Internacional.ar" tvg-name="CNN" group-title="Internacional" radio="false" catchup="vod",CNN INTERNACIONAL
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79094.ts
 #EXTINF:-1 tvg-chno="575" tvg-id="FRANCE.24.ESPAÑOL.HD.uy" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8091548.jpg",FRANCE 24 ESPAÑOL
