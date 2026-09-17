@@ -33,7 +33,7 @@ https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/150799.ts
 #EXTINF:-1 tvg-chno="552" tvg-id="Bloomberg.ar" tvg-name="BLOOMBERG" group-title="Noticias" radio="false" catchup="vod",BLOOMBERG
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERG_
-#EXTINF:-1 tvg-chno="20" tvg-id="MAGAZINE.HD.uy" tvg-name="CIUDAD MAGAZINE" group-title="Variedades" radio="false" catchup="vod",CIUDAD MAGAZINE
+#EXTINF:-1 tvg-chno="20" tvg-id="MAGAZINE.HD.uy" tvg-name="CIUDAD MAGAZINE" group-title="Variedades" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/ciudadmagazine@2x.png",CIUDAD MAGAZINE
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712732.ts
 #EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-logo="https://radiosargentina.com.ar/png/VICDADAB.png" group-title="Variedades" ,CANAL DE LA CIUDAD 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAC
@@ -311,8 +311,6 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79063.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/113865.ts
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="http://redworld.pro:8880/images/3cc08b1c9d27766ef4324e457791f37b.png" group-title="Entretenimiento",GLITZ
 http://redworld.pro:8880/playred20/cDNtGMsKMWy4/135432
-#EXTINF:-1 tvg-id="" tvg-name="Az click" tvg-logo="https://images.produ.com/noticias/0521/big-ClicTeConecta.jpg" group-title="Entretenimiento" ,CLIC
-http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/315941.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://i.ibb.co/wpxLdLn/NBC-universoeast.png" group-title="Entretenimiento",NBC UNIVERSO
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79070.ts
 #EXTINF:-1 tvg-id="Canal.Telemundo.(Chile).cl" tvg-name="Telemundo Internacional ᴴᴰ | MX" tvg-logo="https://i.ibb.co/61R3pNw/TEVDVFDV.png" group-title="Entretenimiento",Telemundo Internacional 
