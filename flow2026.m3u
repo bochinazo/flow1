@@ -29,6 +29,8 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL22___
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="Ar12.ar" tvg-name="AR12" tvg-logo="https://telecentro.com.ar/img/cm/channels/AR12@2x.png" group-title="Noticias" radio="false" catchup="vod",AR 12
 https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
+#EXTINF:-1 tvg-name="ARGENTINA|12" group-title="Noticias",ARGENTINA|12 EN VIVO
+https://kevin.rocks
 #EXTINF:-1 tvg-chno="23" tvg-id="CnnenEspañol.ar" tvg-name="CNN EN ESPAÑOL" group-title="Noticias" radio="false" catchup="vod",CNN EN ESPAÑOL
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/150799.ts
 #EXTINF:-1 tvg-chno="552" tvg-id="Bloomberg.ar" tvg-name="BLOOMBERG" group-title="Noticias" radio="false" catchup="vod",BLOOMBERG
