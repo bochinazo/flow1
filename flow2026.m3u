@@ -19,9 +19,9 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712702.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712705.ts
 #EXTINF:-1 tvg-chno="17" tvg-id="[CRON].Cronica.TV.uy" tvg-name="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias" radio="false" catchup="vod",CRONICA
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712707.ts
-#EXTINF:-1 tvg-chno="18" tvg-id="26.TV.HD..uy" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod",26 TV
+#EXTINF:-1 tvg-chno="18" tvg-id="26.TV.HD..uy" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/canal%2026%20128.png",26 TV
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712725.ts
-#EXTINF:-1 tvg-chno="19" tvg-id="LA.NACION.HD.uy" tvg-name="LA NACION" group-title="Noticias" radio="false" catchup="vod",LA NACION +
+#EXTINF:-1 tvg-chno="19" tvg-id="LA.NACION.HD.uy" tvg-name="LA NACION" group-title="Noticias" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png",LA NACION +
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712713.ts
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="Noticias",CANAL 22
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL22___
@@ -29,19 +29,17 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL22___
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="Ar12.ar" tvg-name="AR12" tvg-logo="https://telecentro.com.ar/img/cm/channels/AR12@2x.png" group-title="Noticias" radio="false" catchup="vod",AR 12
 https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
-#EXTINF:-1 tvg-name="ARGENTINA|12" group-title="Noticias",ARGENTINA|12 EN VIVO
-https://kevin.rocks
 #EXTINF:-1 tvg-chno="23" tvg-id="CnnenEspañol.ar" tvg-name="CNN EN ESPAÑOL" group-title="Noticias" radio="false" catchup="vod",CNN EN ESPAÑOL
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/150799.ts
 #EXTINF:-1 tvg-chno="552" tvg-id="Bloomberg.ar" tvg-name="BLOOMBERG" group-title="Noticias" radio="false" catchup="vod",BLOOMBERG
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERG_
 #EXTINF:-1 tvg-chno="20" tvg-id="MAGAZINE.HD.uy" tvg-name="CIUDAD MAGAZINE" group-title="Variedades" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/ciudadmagazine@2x.png",CIUDAD MAGAZINE
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712732.ts
-#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-logo="https://radiosargentina.com.ar/png/VICDADAB.png" group-title="Variedades" ,CANAL DE LA CIUDAD 
+#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/canaldelaciudad@2x.png" group-title="Variedades" ,CANAL DE LA CIUDAD 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAC
 #EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" tvg-logo="https://telecentro.com.ar/img/cm/channels/metro@2x.png" group-title="Variedades",METRO
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-metro.playlist.m3u8
-#EXTINF:-1 xc_vm-id="653409" tvg-id="Telemax.ar" tvg-name="Argentina - TELEMAX HD" tvg-logo="https://television.com.ar/wp-content/uploads/2024/06/Telemax.jpg" group-title="Variedades",TELEMAX
+#EXTINF:-1 xc_vm-id="653409" tvg-id="Telemax.ar" tvg-name="Argentina - TELEMAX HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/telemax@2x.png" group-title="Variedades",TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-name="Multivision HD" tvg-logo="https://multivision.tv/wp-content/uploads/2025/08/cropped-LOGO-ID-WEB-244x67.png" group-title="Variedades", MULTIVISION 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712734.ts
@@ -95,7 +93,7 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712744.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712745.ts
 #EXTINF:-1 tvg-chno="105" tvg-id="EspnExtra.ar" tvg-name="ESPN EXTRA" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-espn4-252x252.png" group-title="Deportes" radio="false" catchup="vod",ESPN 4
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712746.ts
-#EXTINF:-1  tvg-chno="EspnPremium.ar" tvg-name="ESPN PREMIUM" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg" group-title="Deportes",ESPN PREMIUM
+#EXTINF:-1  tvg-chno="EspnPremium.ar" tvg-name="ESPN PREMIUM" tvg-logo="https://telecentro.com.ar/img/cm/channels/Espn%20Premium%20128.png" group-title="Deportes",ESPN PREMIUM
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712747.ts
 #EXTINF:-1 tvg-chno="106" tvg-id="FoxSports.ar" tvg-name="FOX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-azul.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/360931.ts
@@ -159,15 +157,15 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/771571.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/11916.ts
 #EXTINF:-1 tvg-chno="300" tvg-id="CineAr.ar" tvg-name="CINE.AR" group-title="Peliculas y Series" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" radio="false" catchup="vod",CINE.AR
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/772967.ts
-#EXTINF:-1 tvg-id="Volver.ar" tvg-chno="303" tvg-logo="https://i.ibb.co/nzpWgD2/LOGO-VOLVER-234x300.jpg" tvg-group="Peliculas y Series", VOLVER 
+#EXTINF:-1 tvg-id="Volver.ar" tvg-chno="303" tvg-logo="https://telecentro.com.ar/img/cm/channels/volver@2x.png" tvg-group="Peliculas y Series", VOLVER 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712741.ts
-#EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="Peliculas y Series",A&E 
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Peliculas y Series",A&E 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46087.ts
 #EXTINF:-1 tvg-id="[AMCMEX].AMC.uy" tvg-name="AMC  " tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="Peliculas y Series",AMC  
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46092.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://i.postimg.cc/XvtyWrnR/AMC-Crime-Print.png" group-title="Peliculas y Series",AMC CRIME 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/327839.ts
-#EXTINF:-1 tvg-id="Canal.AXN.(Argentina).ar" tvg-name="AXN" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="Peliculas y Series",AXN 
+#EXTINF:-1 tvg-id="Canal.AXN.(Argentina).ar" tvg-name="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Peliculas y Series",AXN 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46095.ts
 #EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",A3SERIES
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46097.ts
@@ -177,9 +175,9 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46100.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46101.ts
 #EXTINF:-1 tvg-id="CineLatino.ar" tvg-name="CINE LATINO " tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="Peliculas y Series",CINE LATINO 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46106.ts
-#EXTINF:-1 tvg-id="Canal.Cinecanal.(Argentina).ar" tvg-name="CINECANAL " tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="Peliculas y Series",CINECANAL 
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(Argentina).ar" tvg-name="CINECANAL " tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Peliculas y Series",CINECANAL 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46108.ts
-#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="Peliculas y Series",CINEMAX 
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX OP1" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinemax@2x.png" group-title="Peliculas y Series",CINEMAX 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46111.ts
 #EXTINF:-1 tvg-id="DE PELICULA PLUS HD" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="Peliculas y Series",DE PELICULA PLUS
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46118.ts
@@ -189,9 +187,9 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46120.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46121.ts
 #EXTINF:-1 tvg-id="[CNLDHE].Canal.DHE.uy" tvg-name="DHE " tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="Peliculas y Series",DHE 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46122.ts
-#EXTINF:-1 tvg-id="Canal.Europa.Europa.ar" tvg-name="EUROPA EUROPA " tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="Peliculas y Series",EUROPA EUROPA 
+#EXTINF:-1 tvg-id="Canal.Europa.Europa.ar" tvg-name="EUROPA EUROPA " tvg-logo="https://telecentro.com.ar/img/cm/channels/europaeuropa@2x.png" group-title="Peliculas y Series",EUROPA EUROPA 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46127.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX HD (DTV)" tvg-logo="https://i.ibb.co/z2PqF2T/FX1.png" group-title="Peliculas y Series",FX 
+#EXTINF:-1 tvg-id="" tvg-name="FX HD (DTV)" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Peliculas y Series",FX 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46130.ts
 #EXTINF:-1 tvg-id="Canal.Golden.Plus.cl" tvg-name="GOLDEN PLUS | AR" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="Peliculas y Series",GOLDEN PLUS 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46138.ts
@@ -201,15 +199,15 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46139.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46141.ts
 #EXTINF:-1 tvg-id="Canal.Golden.(Argentina).ar" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46142.ts
-#EXTINF:-1 tvg-id="Canal.HBO.(Argentina).ar" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="Peliculas y Series",HBO 
+#EXTINF:-1 tvg-id="Canal.HBO.(Argentina).ar" tvg-name="HBO HD (DTV)" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbohd@2x.png" group-title="Peliculas y Series",HBO 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46147.ts
-#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="Peliculas y Series",HBO 2 
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Peliculas y Series",HBO 2 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46149.ts
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="Peliculas y Series",HBO FAMILY
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO FAMILY" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamilyhd.png" group-title="Peliculas y Series",HBO FAMILY
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46153.ts
-#EXTINF:-1 tvg-id="HBOPlus.ar" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="Peliculas y Series",HBO PLUS 
+#EXTINF:-1 tvg-id="HBOPlus.ar" tvg-name="HBO PLUS HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Peliculas y Series",HBO PLUS 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46156.ts
-#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.ar" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/BfvZWCJ/hb0sig3.png" group-title="Peliculas y Series",HBO SIGNATURE
+#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.ar" tvg-name="HBO SIGNATURE HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignaturehd@2x.png" group-title="Peliculas y Series",HBO SIGNATURE
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46163.ts
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="Peliculas y Series",MULTIPREMIER 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46168.ts
@@ -219,11 +217,11 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46172.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46175.ts
 #EXTINF:-1 tvg-id="Canal.Sony.(Argentina).ar" tvg-name="SONY CHANNEL HD | AR" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="Peliculas y Series",SONY CHANNEL 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46176.ts
-#EXTINF:-1 tvg-id="Canal.Space.(Argentina).ar" tvg-name="SPACE FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="Peliculas y Series",SPACE 
+#EXTINF:-1 tvg-id="Canal.Space.(Argentina).ar" tvg-name="SPACE FHD" tvg-logo="https://telecentro.com.ar/img/cm/channels/space.png" group-title="Peliculas y Series",SPACE 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46180.ts
 #EXTINF:-1 tvg-id="Canal.Star.Channel.(Argentina).ar" tvg-name="STAR CHANNEL HD | ARG" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="Peliculas y Series",STAR CHANNEL 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46188.ts
-#EXTINF:-1 tvg-id="STUDIO.UNIVERSAL.HD.uy" tvg-name="STUDIO UNIVERSAL HD | AR" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="Peliculas y Series",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="STUDIO.UNIVERSAL.HD.uy" tvg-name="STUDIO UNIVERSAL HD | AR" tvg-logo="https://telecentro.com.ar/img/cm/channels/studiouniversal@2x.png" group-title="Peliculas y Series",STUDIO UNIVERSAL
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46218.ts
 #EXTINF:-1 tvg-id="Canal.USA.Network.(Argentina).ar" tvg-name="USA HD | AR" tvg-logo="https://telecentro.com.ar/img/cm/channels/usa@2x.png" group-title="Peliculas y Series",USA 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46222.ts
@@ -235,35 +233,35 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46236.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46240.ts
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="Peliculas y Series",TNT SERIES
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46242.ts
-#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL " tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="Peliculas y Series",UNIVERSAL 
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL " tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Peliculas y Series",UNIVERSAL 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46246.ts
-#EXTINF:-1 tvg-id="Canal.Warner.TV.(Argentina).ar" tvg-name="WARNER TV AR " tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="Peliculas y Series",WARNER TV  
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(Argentina).ar" tvg-name="WARNER TV AR " tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Peliculas y Series",WARNER TV  
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46248.ts
-#EXTINF:-1 tvg-id="Canal.Universal.Reality.mx" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="Peliculas y Series",UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="Canal.Universal.Reality.mx" tvg-name="UNIVERSAL REALITY" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Reality%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL REALITY
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/90077.ts
-#EXTINF:-1 tvg-id="Canal.Universal.Cinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="Peliculas y Series",UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="Canal.Universal.Cinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Cinema%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL CINEMA
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/90078.ts
 #EXTINF:-1 tvg-id="UNIVERSAL.CRIME.HD..uy" tvg-name="UNIVERSAL CRIME |MX" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Crime%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL CRIME 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/90079.ts
-#EXTINF:-1 tvg-id="Canal.Universal.Comedy.mx" tvg-name="UNIVERSAL COMEDY " tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="Peliculas y Series",UNIVERSAL COMEDY 
+#EXTINF:-1 tvg-id="Canal.Universal.Comedy.mx" tvg-name="UNIVERSAL COMEDY " tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Comedy%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL COMEDY 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/90081.ts
-#EXTINF:-1 tvg-id="Canal.Universal.Premiere.mx" tvg-name="UNIVERSAL PREMIERE " tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="Peliculas y Series",UNIVERSAL PREMIERE 
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.mx" tvg-name="UNIVERSAL PREMIERE " tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Premiere%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL PREMIERE 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/90083.ts
-#EXTINF:-1 tvg-id="Canal.HBO.Pop.ar" tvg-name="HBO POP " tvg-logo="https://i.ibb.co/vxK0tVp/hbopop3.png" group-title="Peliculas y Series",HBO POP 
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.ar" tvg-name="HBO POP " tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Peliculas y Series",HBO POP 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/96203.ts
-#EXTINF:-1 tvg-id="Canal.HBO.Mundi.ar" tvg-name="HBO MUNDI  " tvg-logo="https://i.ibb.co/GHngdzz/hbomun3.png" group-title="Peliculas y Series",HBO MUNDI  
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.ar" tvg-name="HBO MUNDI  " tvg-logo="https://telecentro.com.ar/img/cm/channels/hbomundi.png" group-title="Peliculas y Series",HBO MUNDI  
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/96205.ts
-#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.ar" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="Peliculas y Series",HBO XTREME
-http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/96209.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.ar" tvg-name="HBO XTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Peliculas y Series",HBO XTREME
+http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/96209.ts00
 #EXTINF:-1 tvg-id="MCINLA" tvg-name="Multicinema" tvg-logo="https://i.ibb.co/921VFpp/multicinema.png" group-title="Peliculas y Series",MULTICINEMA
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/140365.ts
 #EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="Peliculas y Series",CINE ESTELAR
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/148901.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Peliculas y Series",CINEMA DC UNIVERSE
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/140943.ts
-#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts " tvg-logo="https://i.ibb.co/JCPsWS7/filmds.png" group-title="Peliculas y Series",FILM & ARTS
+#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts " tvg-logo="https://telecentro.com.ar/img/cm/channels/filmandarts@2x.png" group-title="Peliculas y Series",FILM & ARTS
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46129.ts
-#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM HD" tvg-logo="https://i.ibb.co/myRdt2X/TCM.png" group-title="Peliculas y Series",TCM 
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/tcm@2x.png" group-title="Peliculas y Series",TCM 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46231.ts
 #EXTINF:-1 tvg-id="RTP.3.ch" tvg-name="Retro Tv" tvg-logo="https://www.tv.wurtlitzer.com/imagenes/categoria/musica/retro_plus_1.png" group-title="Peliculas y Series",RETRO PLUS
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
@@ -315,45 +313,43 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/113865.ts
 http://redworld.pro:8880/playred20/cDNtGMsKMWy4/135432
 #EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://i.ibb.co/wpxLdLn/NBC-universoeast.png" group-title="Entretenimiento",NBC UNIVERSO
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79070.ts
-#EXTINF:-1 tvg-id="Canal.Telemundo.(Chile).cl" tvg-name="Telemundo Internacional ᴴᴰ | MX" tvg-logo="https://i.ibb.co/61R3pNw/TEVDVFDV.png" group-title="Entretenimiento",Telemundo Internacional 
+#EXTINF:-1 tvg-id="Canal.Telemundo.(Chile).cl" tvg-name="Telemundo Internacional ᴴᴰ | MX" tvg-logo="https://telecentro.com.ar/img/cm/channels/telemundo@2x.png" group-title="Entretenimiento",Telemundo Internacional 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/4734.ts
-#EXTINF:-1 tvg-id="AdultSwim.ar" tvg-name="ADULT SWIM " tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?w=1000" group-title="Entretenimiento",ADULT SWIM 
+#EXTINF:-1 tvg-id="AdultSwim.ar" tvg-name="ADULT SWIM " tvg-logo="https://telecentro.com.ar/img/cm/channels/adult-swim@2x.png" group-title="Entretenimiento",ADULT SWIM 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79072.ts
-#EXTINF:-1 tvg-id="KANAL.D.DRAMA..uy" tvg-name="Kanal D Drama" tvg-logo="https://i.ibb.co/MCzcqMx/KANALD.png" group-title="Entretenimiento",KANAL D DRAMA
+#EXTINF:-1 tvg-id="KANAL.D.DRAMA..uy" tvg-name="Kanal D Drama" tvg-logo="https://telecentro.com.ar/img/cm/channels/kanal%20D%20128.png" group-title="Entretenimiento",KANAL D DRAMA
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/4693.ts
 #EXTINF:-1 tvg-chno="22" tvg-id="ENCUENTRO.uy" tvg-name="ENCUENTRO" group-title="Cultural" tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" radio="false" catchup="vod",ENCUENTRO
 http://liontv.es:8080/Walter549211/Walter549211/334347
 #EXTINF:-1 tvg-id="Canal.Animal.Planet.(Argentina).ar" tvg-name="Animal Planet   HD" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="Cultural",Animal Planet  
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79447.ts
-#EXTINF:-1 tvg-id="Discovery.ar" tvg-name="Discovery Channel " tvg-logo="https://i.ibb.co/HtqyD0b/ddffds.png" group-title="Cultural",Discovery Channel 
+#EXTINF:-1 tvg-id="Discovery.ar" tvg-name="Discovery Channel " tvg-logo="https://telecentro.com.ar/img/cm/channels/discovery@2x.png" group-title="Cultural",Discovery Channel 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79453.ts
-#EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Chile).cl" tvg-name="Discovery ID" tvg-logo="https://i.ibb.co/v3vWJPP/5436t5gfdvbcnhgjkiopl.png" group-title="Cultural",ID Discovery
+#EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Chile).cl" tvg-name="Discovery ID" tvg-logo="https://telecentro.com.ar/img/cm/channels/investigationdiscovery@2x.png" group-title="Cultural",ID Discovery
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79457.ts
-#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="Discovery Home & Health " tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="Cultural",Discovery Home & Health 
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="Discovery Home & Health " tvg-logo="https://telecentro.com.ar/img/cm/channels/h&h%20128.png" group-title="Cultural",Discovery Home & Health 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79459.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-name="Discovery Science " tvg-logo="https://i.ibb.co/K7MrFNm/543gdr44.png" group-title="Cultural",Discovery Science 
+#EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-name="Discovery Science " tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryscience@2x.png" group-title="Cultural",Discovery Science 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79463.ts
-#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).ar" tvg-name="Discovery Theater HD" tvg-logo="https://i.ibb.co/k3Yb7Ff/teheat.png" group-title="Cultural",Discovery Theater 
+#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).ar" tvg-name="Discovery Theater HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoverytheaterhd@2x.png" group-title="Cultural",Discovery Theater 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79464.ts
 #EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ar" tvg-name="Discovery Turbo FHD " tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" group-title="Cultural",Discovery Turbo  
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79466.ts
-#EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="Discovery World HD  " tvg-logo="https://i.ibb.co/D9TxF6V/discworsd.png" group-title="Cultural",Discovery World   
+#EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="Discovery World HD  " tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryworldhd@2x.png" group-title="Cultural",Discovery World   
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia FHD" tvg-logo="http://redworld.pro:8880/images/b7664c449eaa2b5da315f071351f39e7.png" group-title="Cultural",Discovery Familia 
-http://superxlatino.com:8880/vudtatfcsd/puYkpehcpxJ3/318614
 #EXTINF:-1 tvg-id="HGTV.ar" tvg-name="HGTV  | AR HD" tvg-logo="https://i.ibb.co/ckqYDrF/hgtcwsd.png" group-title="Cultural",HGTV  
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79474.ts
 #EXTINF:-1 tvg-id="HispanTV.ar" tvg-name="Hispan TV" tvg-logo="https://i.ibb.co/HzvTpT1/hispanid.png" group-title="Cultural",Hispan TV
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79476.ts
-#EXTINF:-1 tvg-id="History2.ar" tvg-name="H2 History HD (DTV)" tvg-logo="https://i.ibb.co/0BGSc13/h2cahne.png" group-title="Cultural",H2 History 
+#EXTINF:-1 tvg-id="History2.ar" tvg-name="H2 History HD (DTV)" tvg-logo="https://telecentro.com.ar/img/cm/channels/history%202%20128.png" group-title="Cultural",H2 History 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79477.ts
-#EXTINF:-1 tvg-id="History.ar" tvg-name="History Channel " tvg-logo="https://i.ibb.co/wgfpK2W/3245325437656876ty.png" group-title="Cultural",History Channel 
+#EXTINF:-1 tvg-id="History.ar" tvg-name="History Channel " tvg-logo="https://telecentro.com.ar/img/cm/channels/history%20128.png" group-title="Cultural",History Channel 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79479.ts
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD (DTV)" tvg-logo="https://i.ibb.co/RHMtJVv/lober.png" group-title="Cultural",LOVE NATURE 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79482.ts
 #EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="National Geographic HD | AR" tvg-logo="https://i.ibb.co/sCY6fYc/cfdetf435433.png" group-title="Cultural",National Geographic 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79486.ts 
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD" tvg-logo="https://i.ibb.co/D57vhdZ/24324342545.png" group-title="Cultural",NAT GEO MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/nationalgeographic@2x.png" group-title="Cultural",NAT GEO MUNDO
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79489.ts
 #EXTINF:-1 tvg-id="NASA.Plus.us2" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/79490.ts
@@ -433,11 +429,11 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGALICIATV_
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="567" tvg-id="[UCLPLAY].UCL.TV.Unión.Continental.Latinoamérica.uy" tvg-name="UCL" group-title="Internacional" tvg-logo="http://dtil.tmsimg.com/assets/s116150_ll_h15_aa.png" radio="false" catchup="vod",UCL
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/198283.ts
-#EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Internacional" radio="false" catchup="vod",FRANCE 24
+#EXTINF:-1 tvg-chno="568" tvg-id="694" tvg-name="FRANCE 24" group-title="Internacional" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/France24-128.png" ,FRANCE 24
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/438677.ts
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS  | H.264 480p" tvg-logo="https://logowik.com/content/uploads/images/bandnews-tv-202494983.logowik.com.webp" group-title="Internacional",BAND NEWS 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/195410.ts
-#EXTINF:-1 tvg-id="Canal.TV.Globo.Internacional.ar" tvg-name="GLOBO TV   FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Globo_Internacional_2014.png/revision/latest?cb=20200812160256&path-prefix=es" group-title="Internacional",GLOBO TV  
+#EXTINF:-1 tvg-id="Canal.TV.Globo.Internacional.ar" tvg-name="GLOBO TV" tvg-logo="https://www.newslinereport.com/online/nota_globo-anuncia-nuevo-acuerdo-en-per.jpg" group-title="Internacional",GLOBO TV  
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/195355.ts
 #EXTINF:-1 tvg-id="Canal.SNT.(Paraguay).ar" tvg-name="PY: SNT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest/scale-to-width-down/1000?cb=20220908172855&path-prefix=es" group-title="Internacional",SNT 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/18449.ts
