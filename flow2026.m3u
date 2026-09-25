@@ -66,7 +66,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
 #EXTINF:-1 tvg-id="[CHATV].Chacra.TV.uy" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Variedades", CHACRA TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-id="[RURAL].Canal.Rural.uy" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Variedades",CANAL RURAL
-http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvbVZteVBXRlY0RFA1Z0lpOGgxUDVWaz0
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-rural.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHI0N TV " tvg-logo="http://www.rt-a.com/67/fotos/ftv_26.gif" group-title="Variedades",FASHION TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CFASHIONTV_
 #EXTINF:-1 tvg-id="Canal.Las.Estrellas.(Argentina).ar" tvg-name="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="Variedades",LAS ESTRELLAS
@@ -193,7 +193,7 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46127.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46130.ts
 #EXTINF:-1 tvg-id="Canal.Golden.Plus.cl" tvg-name="GOLDEN PLUS | AR" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="Peliculas y Series",GOLDEN PLUS 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46138.ts
-#EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://static.wixstatic.com/media/799a49_71c1ff04114f46cfb36a1b658f46e7c4~mv2.png/v1/fill/w_306,h_306,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png" group-title="Peliculas y Series",GOLDEN EDGE 
+#EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://cdn.mitvstatic.com/channels/ar_golden-edge_m.png" group-title="Peliculas y Series",GOLDEN EDGE 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46139.ts
 #EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="Peliculas y Series",GOLDEN PREMIER 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46141.ts
@@ -619,6 +619,14 @@ http://flowzy.work/live/JORGE12345/12345JORGE/4a19d4b0-62d2-4232-a756-2abcbe0bf4
 http://flowzy.work/live/JORGE12345/12345JORGE/03331000-4649-4eed-b1e0-049abeaa954b.m3u
 #EXTINF:-1 tvg-id="247terminator" tvg-name="24/7 Terminator" tvg-logo="https://www.nicepng.com/png/full/311-3110225_terminator-movie-logo-terminator-1.png" group-title="24/7",  Saga Terminator
 http://flowzy.work/live/JORGE12345/12345JORGE/37d5ff31-4806-49f9-b133-9c548f276358.m3u
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El crucero del amor" tvg-logo="http://redworld.pro:8880/images/b3c271d27d81587797b5333c2aaca4ff.jpg" group-title="24/7",24/7 El crucero del amor
+http://67.220.71.35:8880/npztfqffjs/j99SmXSnPXT7/526547
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El auto fantástico" tvg-logo="http://redworld.pro:8880/images/2f7a83577033b28fdb7ca1b71a357782.png" group-title="24/7",24/7 El auto fantástico
+http://67.220.71.35:8880/npztfqffjs/j99SmXSnPXT7/526548
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver" tvg-logo="http://redworld.pro:8880/images/351e049e7ce5a24d27b435967603c667.png" group-title="24/7",24/7 MacGyver
+http://67.220.71.35:8880/npztfqffjs/j99SmXSnPXT7/526551
+
+
 
 
 
