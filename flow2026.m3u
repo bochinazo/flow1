@@ -166,7 +166,7 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46092.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://i.postimg.cc/XvtyWrnR/AMC-Crime-Print.png" group-title="Peliculas y Series",AMC CRIME 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/327839.ts
 #EXTINF:-1 tvg-id="Canal.AXN.(Argentina).ar" tvg-name="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Peliculas y Series",AXN 
-http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46095.ts
+http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46094.ts
 #EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",A3SERIES
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/46097.ts
 #EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="ATRESERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",ATRESERIES 
@@ -291,8 +291,10 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 http://fentoplay2.com:80/live/rol528ram/48veri2f8x/1595544.ts
 #EXTINF:-1 tvg-id="" tvg-name="M|Moviecenter Premium Oeste" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WZUl_t_A1HLUP85Y2af-AH5YVTtCTtFEGA&s" group-title="Peliculas y Series",Moviecenter 
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/575686.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE CHANNEL USA" tvg-logo="https://i.ibb.co/VJ24XfP/the-movie-channel.png" group-title="Peliculas y Series",THE MOVIE CHANNEL 
+http://miotv.cc:8080/dzliajU5MDlxOU9LbW5Bc1k0OVpZRHM4WWRUNHppSlBhQ25rOWRIalU5MUozaXdJWW01aG4yZ2VSMTlzelJjMA
 #EXTINF:-1 tvg-id="" tvg-name="LA: MOREMAX" tvg-logo="https://docdog.top/logo/countries/latino/moremax.png" group-title="Peliculas y Series",MOREMAX
-
+http://miotv.cc:8080/dzliajU5MDlxOU9LbW5Bc1k0OVpZRHM4WWRUNHppSlBhQ25rOWRIalU5MUJ1ZjNSVFVhbC9IeXAxQTJkdURnYQ
 #EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="LA: MOVIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/movieplex.png" group-title="Peliculas y Series",MOVIEPLEX
 http://neospaxy.top:8080/9531757497260567/85326a36b10b/18430
 #EXTINF:-1 tvg-id="Canal.TLNovelas.(Argentina).ar" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="Entretenimiento",UNIVISION TELENOVELAS
@@ -445,6 +447,8 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/55197.ts
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/55159.ts
 #EXTINF:-1 tvg-chno="424" tvg-id="963" tvg-name="CANAL SANTA MARÍA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Religion" radio="false" catchup="vod",CANAL SANTA MARÍA
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cristiana TV | ES" tvg-logo="https://www.m3u.cl/logo/196_Cristiana_TV.png" group-title="Religion",Cristiana TV 
+http://latinotvplus.online/live/Gustavo2020/Gustavo2020/55143.ts
 #EXTINF:-1 tvg-id="" tvg-name="Garfield Y Amigos" tvg-logo="https://i.pinimg.com/originals/2e/77/9b/2e779b076e4c96d868f98c8084182465.jpg" group-title="24/7",Garfield Y Amigos
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/428506.ts
 #EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="24/7",Peppa Pig
@@ -617,13 +621,13 @@ http://flowzy.work/live/JORGE12345/12345JORGE/fa76bddf-488b-4186-9697-f7aebfd790
 http://flowzy.work/live/JORGE12345/12345JORGE/4a19d4b0-62d2-4232-a756-2abcbe0bf4ae.m3u
 #EXTINF:-1 tvg-id="247agente007" tvg-name="24/7 AGENTE 007" tvg-logo="https://imgs.search.brave.com/tR9_qIvSMZLfJoUBkOgLfRRbHVD6rN_PYUo9nXqN-40/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZWNp/bmUyMS5jb20vaW1n/L3VwbG9hZC9vYnJh/cy9nb2xkZW5leWUt/NzM2Ni9nb2xkZW5l/eWUtNzM2Ni1jLmpw/Zw" group-title="24/7",  AGENTE 007
 http://flowzy.work/live/JORGE12345/12345JORGE/03331000-4649-4eed-b1e0-049abeaa954b.m3u
-#EXTINF:-1 tvg-id="247terminator" tvg-name="24/7 Terminator" tvg-logo="https://www.nicepng.com/png/full/311-3110225_terminator-movie-logo-terminator-1.png" group-title="24/7",  Saga Terminator
+#EXTINF:-1 tvg-id="247terminator" tvg-name="24/7 Terminator" tvg-logo="https://www.nicepng.com/png/full/311-3110225_terminator-movie-logo-terminator-1.png" group-title= "24/7", Saga Terminator
 http://flowzy.work/live/JORGE12345/12345JORGE/37d5ff31-4806-49f9-b133-9c548f276358.m3u
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El crucero del amor" tvg-logo="http://redworld.pro:8880/images/b3c271d27d81587797b5333c2aaca4ff.jpg" group-title="24/7",24/7 El crucero del amor
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El crucero del amor" tvg-logo="http://redworld.pro:8880/images/b3c271d27d81587797b5333c2aaca4ff.jpg" group-title="24/7",El crucero del amor
 http://67.220.71.35:8880/npztfqffjs/j99SmXSnPXT7/526547
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El auto fantástico" tvg-logo="http://redworld.pro:8880/images/2f7a83577033b28fdb7ca1b71a357782.png" group-title="24/7",24/7 El auto fantástico
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El auto fantástico" tvg-logo="http://redworld.pro:8880/images/2f7a83577033b28fdb7ca1b71a357782.png" group-title="24/7",El auto fantástico
 http://67.220.71.35:8880/npztfqffjs/j99SmXSnPXT7/526548
-#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver" tvg-logo="http://redworld.pro:8880/images/351e049e7ce5a24d27b435967603c667.png" group-title="24/7",24/7 MacGyver
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver" tvg-logo="http://redworld.pro:8880/images/351e049e7ce5a24d27b435967603c667.png" group-title="24/7",MacGyver
 http://67.220.71.35:8880/npztfqffjs/j99SmXSnPXT7/526551
 
 
