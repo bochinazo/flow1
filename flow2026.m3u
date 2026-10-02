@@ -20,9 +20,11 @@ http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712705.ts
 #EXTINF:-1 tvg-chno="17" tvg-id="[CRON].Cronica.TV.uy" tvg-name="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias" radio="false" catchup="vod",CRONICA
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712707.ts
 #EXTINF:-1 tvg-chno="18" tvg-id="26.TV.HD..uy" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/canal%2026%20128.png",26 TV
-http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712725.ts
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
 #EXTINF:-1 tvg-chno="19" tvg-id="LA.NACION.HD.uy" tvg-name="LA NACION" group-title="Noticias" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png",LA NACION +
 http://thenewxtreme2025.xyz/live/17luisjime/BV6knuNU26/712713.ts
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="Noticias",CANAL 22
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL22___
 #EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Noticias" tvg-logo="https://argentina.mom-gmr.org/uploads/_processed_/8/0/csm_16117-1639_company_import_d7774c7716.jpg", +PERFIL
