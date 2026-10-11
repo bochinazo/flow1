@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/712704.ts
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" tvg-logo=""https://static.flow.com.ar/images/66/CH_LOGO/350/500/0/0/60528493072631.png" group-title="Aire" radio="false" catchup="vod",TELEFE
-http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/712715.ts
+http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/712714.ts
 #EXTINF:-1 tvg-chno="11" tvg-id="Canal.Televisión.Pública.(Argentina).ar" tvg-name="TV PUBLICA" group-title="Aire" radio="false" catchup="vod",TV PUBLICA
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/712720.ts
 #EXTINF:-1 tvg-chno="12" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="EL TRECE" group-title="Aire" radio="false" catchup="vod",EL TRECE
@@ -268,21 +268,21 @@ http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/46231.ts
 #EXTINF:-1 tvg-id="RTP.3.ch" tvg-name="Retro Tv" tvg-logo="https://www.tv.wurtlitzer.com/imagenes/categoria/musica/retro_plus_1.png" group-title="Peliculas y Series",RETRO PLUS
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CINEMA 
-http://fentoplay2.com:80/live/rol528ram/48veri2f8x/1595532.ts
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CLASSIC 
-http://liontv.es:8080/Walter549211/Walter549211/161
+http://liontv.es:8080/Helenmejia/Ejmavv5cPf/1422854
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE ACCION
+http://liontv.es:8080/Helenmejia/Ejmavv5cPf/1422853
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE FAMILY & KIDS
 http://liontv.es:8080/Walter549211/Walter549211/164
 #EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE WESTERN FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE WESTERN 
-http://liontv.es:8080/Walter549211/Walter549211/165
+http://liontv.es:8080/Helenmejia/Ejmavv5cPf/1377512
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="CINE Y SERIES | STARZ FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ 
-http://liontv.es:8080/Walter549211/Walter549211/163
+http://liontv.es:8080/Helenmejia/Ejmavv5cPf/1422856
 #EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="CINE Y SERIES | STARZ WEST FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ WEST
-http://liontv.es:8080/Walter549211/Walter549211/516035
+http://liontv.es:8080/Helenmejia/Ejmavv5cPf/495899
 #EXTINF:-1 tvg-id="" tvg-name="Starz Edge USA" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ EDGE 
 
 #EXTINF:-1 tvg-id="" tvg-name="Starz Comedy USA" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ COMEDY
-http://planettvweb.com:8091/JuanCC/DMat4595d/100051
+http://liontv.es:8080/Helenmejia/Ejmavv5cPf/495900
 #EXTINF:-1 tvg-id="" tvg-name="PANICO OPCION 2" tvg-logo="http://www.tmsimg.com/assets/s73535_ll_h3_aa.png" group-title="Peliculas y Series",PANICO 
 https://deluxe-tv.online:443/live/FFoitzick1/Se2UnWyKK5ys/1595545.ts
 #EXTINF:-1 tvg-chno=" 343" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 1
@@ -647,6 +647,9 @@ http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/716763.ts
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/716768.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Bates Motel" tvg-logo="https://bananamuncher.com:443/images/Z3FTtckYsGgX7p6_pYOC6MndFtJNWuvZEwI9gI4yFglXgU1iq6wwozwzjzF8mM56YRCOwoUWXTBNyZdCtpsK_sd411iVQagA0xkdipd-1G4.jpg" group-title="24/7",Bates Motel
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/716860.ts
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jurassic Park" tvg-logo="http://billing.tv4k.me/m4/m4-logo.png" group-title="24/7",Saga Jurassic Park
+http://liontv.es:8080/Helenmejia/Ejmavv5cPf/1472179
+
 
 
 
