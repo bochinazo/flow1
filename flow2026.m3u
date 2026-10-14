@@ -302,7 +302,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno=" 344" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 2
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/480x270/filters:quality(80)/image/6abe177f8e22d/uploads/media/1200x900_sci_fi.png" group-title="Peliculas y Series",SCI FI
-http://neospaxy.top:8080/6521778343803/b8942891f6a0/5732
+http://streamingtv.vip:8080/live/Tony54321/Tony54321/316376.m3u
 #EXTINF:-1 tvg-id="" tvg-name="M|Moviecenter Premium Oeste" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WZUl_t_A1HLUP85Y2af-AH5YVTtCTtFEGA&s" group-title="Peliculas y Series",Moviecenter 
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/575686.ts
 #EXTINF:-1 tvg-id="" tvg-name="THE MOVIE CHANNEL USA" tvg-logo="https://i.ibb.co/VJ24XfP/the-movie-channel.png" group-title="Peliculas y Series",THE MOVIE CHANNEL 
@@ -667,6 +667,11 @@ http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/716768.ts
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/716860.ts
 #EXTINF:-1 tvg-id="" tvg-name="M4: Jurassic Park" tvg-logo="http://billing.tv4k.me/m4/m4-logo.png" group-title="24/7",Saga Jurassic Park
 http://liontv.es:8080/Helenmejia/Ejmavv5cPf/1472179
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El planeta de los simios" tvg-logo="http://mundo2.vip:8080/images/24589c13a7563e458f899d648ea3d4d0.png" group-title="24/7",Saga El planeta de los simios
+http://streamingtv.vip:8080/live/Tony54321/Tony54321/317125.m3u
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El señor de los anillos" tvg-logo="http://mundo2.vip:8080/images/7ad0f5e859dc39e0d67f96716390c76d.png" group-title="24/7",Saga El señor de los anillos
+http://streamingtv.vip:8080/live/Tony54321/Tony54321/317126.m3u
+
 
 
 
