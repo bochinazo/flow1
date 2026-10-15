@@ -265,11 +265,11 @@ http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/140943.ts
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/46129.ts
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/tcm@2x.png" group-title="Peliculas y Series",TCM 
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/46231.ts
-#EXTINF:-1 tvg-id="RTP.3.ch" tvg-name="Retro Tv" tvg-logo="https://www.tv.wurtlitzer.com/imagenes/categoria/musica/retro_plus_1.png" group-title="Peliculas y Series",RETRO PLUS
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE CINEMA 
+#EXTINF:-1 tvg-id="RTP.3.ch" tvg-name="Retro Tv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBFL8JPjejESKQXCoFh17sIswI8NZKsZL1oI4vtAdjtUEPt4sVhhds5BS6elrpX1GZZIsJkyJ4pn-PYcABDubmNzAxIu-Ua2Zm2wVsnWLqluGwSZs-OgSu-1QRK5vCfd__qjjvJemVjMkeOB1rLRStPvKUlQ8JKs0V4Pbl5xK8u8308SJQGfysRAaKLknc/s400/RETRO%20PLUS%20TV.png" group-title="Peliculas y Series",RETRO PLUS
+http://181.119.97.124:8080/play/retroplus_3/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ CINEMA 
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvdXd1bm1aTlZUaXRoZEJURjZ4U0oybz0
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE ACCION
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE ACCION
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvb3ZPbHJXTmpMakxIV21sejNyc3NiQT0
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE FAMILY & KIDS
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvc2dCdm5ZUlY2QzA1NzNVWWRMN1dkVT0
@@ -285,18 +285,18 @@ http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvaDFVMmtLUDg2eTFGajluMHhXWjFnWT0
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvajhMQldvVjZrZVBwZ2lmK3NlRnVRdz0
 #EXTINF:-1 tvg-id="" tvg-name="Starz Comedy USA" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ COMEDY
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvaFY0bG50VzJsWWNSWWdtMUFhRE5qND0
-#EXTINF:-1,tvg-id="" tvg-name="Starz Comedy USA" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series", STARZ ENCORE CLASSIC
+#EXTINF:-1,tvg-id="" tvg-name="Starz.Encore.Classic.us2" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series", STARZ ENCORE CLASSIC
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkva0F4Sk9RanVqMXI0U1VYZldOeDh2az0
-#EXTINF:-1,tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="Peliculas y Series",ACTIONMAX 
+#EXTINF:-1, tvg-name="ActionMAX.HD.us2" tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="Peliculas y Series",ACTIONMAX 
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvck1RQWNXVE5ZRC9zZjkvRVhIbzVPaz0
-#EXTINF:-1,tvg-logo="https://www.cnet.com/wp-content/uploads/sites/2/a3844aaa-93ab-4f22-9262-c00e98310c01.jpg" group-title="Peliculas y Series", EPIX
-http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvZ2w3VzZCRjNURE4yYkF5emlpM1hDVT0
-#EXTINF:-1,tvg-logo="https://www.cnet.com/wp-content/uploads/sites/2/a3844aaa-93ab-4f22-9262-c00e98310c01.jpg" group-title="Peliculas y Series", EPIX 2
-http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvcTFxRHpSYXBTajlXOVZLT2k2K0Z6TT0
-#EXTINF:-1,tvg-logo="https://www.cnet.com/wp-content/uploads/sites/2/a3844aaa-93ab-4f22-9262-c00e98310c01.jpg" group-title="Peliculas y Series", EPIX DRIVE IN
-http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvbFp4TmdiYXVJdlc5MHRVUEhRNHN2WT0
+#EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/49/1/mgm-hits-logo-png_seeklogo-496624.png" group-title="Peliculas y Series", MGM HITS
+http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/1377358
+#EXTINF:-1,tvg-logo="https://www.informador.mx/__export/1711670954831/sites/elinformador/img/2024/03/28/captura_de_pantalla_2024-03-28_175329_crop1711670109961.png_1970638775.png" group-title="Peliculas y Series", MGM +
+http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/1377356
+#EXTINF:-1,tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68409_h15_ad.png" group-title="Peliculas y Series", MGM+ DRIVE IN
+http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/1377357
 #EXTINF:-1 tvg-id="" tvg-name="PANICO OPCION 2" tvg-logo="http://www.tmsimg.com/assets/s73535_ll_h3_aa.png" group-title="Peliculas y Series",PANICO 
-https://deluxe-tv.online:443/live/FFoitzick1/Se2UnWyKK5ys/1595545.ts
+https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1595545.ts
 #EXTINF:-1 tvg-chno=" 343" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 1
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno=" 344" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 2
@@ -416,7 +416,7 @@ https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Musical", Retro Plus TV 
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Musical", Retro Plus TV Señal 2 
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+http://181.119.97.124:8080/play/a00n/index.m3u8
 #EXTINF:-1 tvg-chno="557" tvg-id="Canal.CNN.Internacional.ar" tvg-name="CNN" group-title="Internacional" radio="false" catchup="vod",CNN INTERNACIONAL
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/79094.ts
 #EXTINF:-1 tvg-chno="575" tvg-id="FRANCE.24.ESPAÑOL.HD.uy" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8091548.jpg",FRANCE 24 ESPAÑOL
