@@ -289,11 +289,11 @@ http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvaFY0bG50VzJsWWNSWWdtMUFhRE5qND0
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkva0F4Sk9RanVqMXI0U1VYZldOeDh2az0
 #EXTINF:-1, tvg-name="ActionMAX.HD.us2" tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="Peliculas y Series",ACTIONMAX 
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvck1RQWNXVE5ZRC9zZjkvRVhIbzVPaz0
-#EXTINF:-1,tvg-logo="https://images.seeklogo.com/logo-png/49/1/mgm-hits-logo-png_seeklogo-496624.png" group-title="Peliculas y Series", MGM HITS
+#EXTINF:-1,tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73075_h15_ad.png" tvg-name="MGM+.Hits.HD.us2" group-title="Peliculas y Series", MGM HITS
 http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/1377358
-#EXTINF:-1,tvg-logo="https://www.informador.mx/__export/1711670954831/sites/elinformador/img/2024/03/28/captura_de_pantalla_2024-03-28_175329_crop1711670109961.png_1970638775.png" group-title="Peliculas y Series", MGM +
+#EXTINF:-1,tvg-name="MGM+.HD.us2" tvg-logo="https://www.informador.mx/__export/1711670954831/sites/elinformador/img/2024/03/28/captura_de_pantalla_2024-03-28_175329_crop1711670109961.png_1970638775.png" group-title="Peliculas y Series", MGM +
 http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/1377356
-#EXTINF:-1,tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68409_h15_ad.png" group-title="Peliculas y Series", MGM+ DRIVE IN
+#EXTINF:-1,tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68409_h15_ad.png" group-title="Peliculas y Series" tvg-name="MGM+.Drive-In.us2", MGM+ DRIVE IN
 http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/1377357
 #EXTINF:-1 tvg-id="" tvg-name="PANICO OPCION 2" tvg-logo="http://www.tmsimg.com/assets/s73535_ll_h3_aa.png" group-title="Peliculas y Series",PANICO 
 https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1595545.ts
