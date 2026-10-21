@@ -69,6 +69,8 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-id="[RURAL].Canal.Rural.uy" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Variedades",CANAL RURAL
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-rural.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="Variedades",FX
+http://31.43.191.125:8080/vip9591776279126/96f8c0d2967a/4768
 #EXTINF:-1 tvg-id="" tvg-name="FASHI0N TV " tvg-logo="http://www.rt-a.com/67/fotos/ftv_26.gif" group-title="Variedades",FASHION TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CFASHIONTV_
 #EXTINF:-1 tvg-id="Canal.Las.Estrellas.(Argentina).ar" tvg-name="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="Variedades",LAS ESTRELLAS
@@ -108,7 +110,7 @@ http://somoseluno.blog:80/live/9mQxLW8jGj5s/GekDyup9gYLR/361018.ts
 #EXTINF:-1 tvg-chno="109" tvg-id="ElGarage.ar" tvg-name="EL GARAGE" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/elgarage.png" group-title="Deportes" radio="false" catchup="vod",EL GARAGE
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/712751.ts
 #EXTINF:-1 tvg-chno="110" tvg-id="GolfChannel.ar" tvg-name="GOLF CHANNEL" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/GOLFCHANNEL.jpg" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL
-http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/213977.ts
+http://31.43.191.125:8080/vip9591776279126/96f8c0d2967a/4771
 #EXTINF:-1 tvg-chno="111" tvg-id="NBATV.ar" tvg-name="NBA TV" group-title="Deportes" radio="false" catchup="vod",NBA TV
 http://son1kids.online/live/Limacolombia2025/E7sRFtAnv9/213980.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TENNIS CHANEL " tvg-logo="http://redworld.pro:8880/images/74d04d280b936817eb8146241d8521c9.png" group-title="Deportes",TENNIS CHANEL 
