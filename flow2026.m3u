@@ -50,7 +50,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="Variedades",CARAS TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
 #EXTINF:-1 tvg-id="HolaTV.ar" tvg-name="HOLA TV HD" tvg-logo="https://i.imgur.com/a6ZDo3q.jpg" group-title="Variedades",HOLA TV 
-http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=374431&extension=ts
+http://avefenixtv.com/live/AdanMontes/11122023AM/755528.ts
 #EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://radiosargentina.com.ar/png/VITIEMIA.png" group-title="Variedades",TIERRAMIA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Canal.Sun.Channel.ar" tvg-name="AR | SUN CHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/co_sun-channel_m.png" group-title="Variedades",SUN CHANNEL
@@ -294,11 +294,11 @@ http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkva0F4Sk9RanVqMXI0U1VYZldOeDh2az0
 #EXTINF:-1, tvg-name="ActionMAX.HD.us2" tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="Peliculas y Series",ACTIONMAX 
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvck1RQWNXVE5ZRC9zZjkvRVhIbzVPaz0
 #EXTINF:-1,tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73075_h15_ad.png" tvg-name="MGM+.Hits.HD.us2" group-title="Peliculas y Series", MGM HITS
-http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/1377358
+http://lucidhosting.xyz:82/Neil.S123/wTeNCDa8/2098
 #EXTINF:-1,tvg-name="MGM+.HD.us2" tvg-logo="https://www.informador.mx/__export/1711670954831/sites/elinformador/img/2024/03/28/captura_de_pantalla_2024-03-28_175329_crop1711670109961.png_1970638775.png" group-title="Peliculas y Series", MGM +
-http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/1377356
+http://lucidhosting.xyz:82/Neil.S123/wTeNCDa8/2097
 #EXTINF:-1,tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68409_h15_ad.png" group-title="Peliculas y Series" tvg-name="MGM+.Drive-In.us2", MGM+ DRIVE IN
-http://liontv.es:8080/VianneyHernandez/HQDtq7pjG8/1377357
+¡http://lucidhosting.xyz:82/Neil.S123/wTeNCDa8/1853
 #EXTINF:-1 tvg-id="" tvg-name="PANICO OPCION 2" tvg-logo="http://www.tmsimg.com/assets/s73535_ll_h3_aa.png" group-title="Peliculas y Series",PANICO 
 https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1595545.ts
 #EXTINF:-1 tvg-chno=" 343" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 1
@@ -311,10 +311,10 @@ http://streamingtv.vip:8080/live/Tony54321/Tony54321/316376.m3u
 http://fenixplatinium.com/live/HectorPalafox/dG3edqyPM2/575686.ts
 #EXTINF:-1 tvg-id="" tvg-name="THE MOVIE CHANNEL USA" tvg-logo="https://i.ibb.co/VJ24XfP/the-movie-channel.png" group-title="Peliculas y Series",THE MOVIE CHANNEL 
 http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvZ1dvRVQwMTVDVHZUdE9QVjhYUkpLbz0
-#EXTINF:-1 tvg-id="" tvg-name="LA: MOREMAX" tvg-logo="https://docdog.top/logo/countries/latino/moremax.png" group-title="Peliculas y Series",MOREMAX
-http://miotv.cc:8080/dzliajU5MDlxOU9LbW5Bc1k0OVpZRHM4WWRUNHppSlBhQ25rOWRIalU5MUJ1ZjNSVFVhbC9IeXAxQTJkdURnYQ
+#EXTINF:-1 tvg-id="" tvg-name="LA: MOREMAX" tvg-logo="https://docdog.top/logo/countries/latino/moremax.png" group-title="Peliculas y Series",MOREMAX Cinemax Hits
+http://lucidhosting.xyz:82/Neil.S123/wTeNCDa8/1796
 #EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="LA: MOVIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/movieplex.png" group-title="Peliculas y Series",MOVIEPLEX
-http://neospaxy.top:8080/9531757497260567/85326a36b10b/18430
+http://lucidhosting.xyz:82/Neil.S123/wTeNCDa8/17039
 #EXTINF:-1 tvg-id="Canal.TLNovelas.(Argentina).ar" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="Entretenimiento",UNIVISION TELENOVELAS
 http://fenixplatinium.com/live/HectorPalafox/dG3edqyPM2/4778.ts
 #EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://i.ibb.co/dW0RXN7/rcnnovelas.png" group-title="Entretenimiento",RCN Novelas
@@ -395,6 +395,8 @@ http://fenixplatinium.com/live/HectorPalafox/dG3edqyPM2/86482.ts
 
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/bochinazo/flow1/refs/heads/main/planetatv.PNG" group-title="Musical",PLANETA TV 
 
+#EXTINF:-1 tvg-id="RockPop.ar@SD",tvg-logo="https://cdn.onlineradiobox.com/img/l/4/36254.v3.png", Rock & Pop 
+http://190.128.214.97:64333/play/a032/index.m3u8
 #EXTINF:-1 tvg-chno="573" tvg-id="ArgentinisimaSatelital.ar" tvg-name="ARGENTINISIMA SATELITAL" group-title="Musical" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/argentinisimasatelital@2x.png",ARGENTINISIMA SATELITAL
 http://fenixplatinium.com/live/HectorPalafox/dG3edqyPM2/712721.ts
 #EXTINF:-1 tvg-id="ALLEGRO.HD.uy" tvg-name="Allegro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Allegro_hd.png/revision/latest?cb=20210526004610&path-prefix=es" group-title="Musical",Allegro 
