@@ -65,7 +65,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-id="ViajarTV.ar" tvg-chno="40" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",group-title="Variedades",VIAJAR TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
-#EXTINF:-1 tvg-id="[CHATV].Chacra.TV.uy" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Variedades", CHACRA TV
+#EXTINF:-1 tvg-id="[CHATV].Chacra.TV.uy" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/05/Chacra_TV_logo.jpg" group-title="Variedades", CHACRA TV
 https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1241618.ts
 #EXTINF:-1 tvg-id="[RURAL].Canal.Rural.uy" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Variedades",CANAL RURAL
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-rural.playlist.m3u8
@@ -468,17 +468,17 @@ http://netgotvpro.cc/live/juan_ferez/Ferez2023J/55159.ts
 #EXTINF:-1 tvg-chno="424" tvg-id="963" tvg-name="CANAL SANTA MARÍA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Religion" radio="false" catchup="vod",CANAL SANTA MARÍA
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cristiana TV | ES" tvg-logo="https://www.m3u.cl/logo/196_Cristiana_TV.png" group-title="Religion",Cristiana TV 
-http://latinotvplus.online/live/Gustavo2020/Gustavo2020/55143.ts
+http://liontv.es:8080/Helenmejia/Ejmavv5cPf/787107
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LA CASA DE LA PRADERA ⭐️" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xxDCXb368UyxJk1VmJY3C8YYsGd.jpg" group-title="24/7",La Familia Ingalls
 https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/479400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL GRAN CHAPARRAL ⭐️" tvg-logo="http://2.bp.blogspot.com/_7-NlknExAYo/TMrLkFFgmAI/AAAAAAAAIUQ/F7DcyMwnxfQ/s1600/HC%2520GRAPHIC.jpg" group-title="24/7",EL GRAN CHAPARRAL 
 https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/479375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL JUEGO DEL CALAMAR ⭐️" tvg-logo="https://images.seeklogo.com/logo-png/42/1/el-juego-del-calamar-logo-png_seeklogo-424238.png" group-title="24/7",EL JUEGO DEL CALAMAR 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL JUEGO DEL CALAMAR ⭐️" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/FCKdHXVXEAsaylL-691x1024.jpg" group-title="24/7",EL JUEGO DEL CALAMAR 
 https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/479376
 #EXTINF:-1 tvg-id="" tvg-name="Garfield Y Amigos" tvg-logo="https://i.pinimg.com/originals/2e/77/9b/2e779b076e4c96d868f98c8084182465.jpg" group-title="24/7",Garfield Y Amigos
-http://netgotvpro.cc/live/juan_ferez/Ferez2023J/428506.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="24/7",Peppa Pig
-http://netgotvpro.cc/live/juan_ferez/Ferez2023J/428507.ts
+
 #EXTINF:-1 tvg-id="" tvg-name=" Billy y Mandy " tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/16/13/06/231194.jpg" group-title="24/7", Billy y Mandy 
 http://netgotvpro.cc/live/juan_ferez/Ferez2023J/428510.ts
 #EXTINF:-1 tvg-id="" tvg-name="Los misterios de Moville" tvg-logo="https://pics.filmaffinity.com/moville_mysteries_tv_series-293137444-large.jpg" group-title="24/7",Los misterios de Moville
