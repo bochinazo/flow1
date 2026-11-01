@@ -50,7 +50,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="Variedades",CARAS TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
 #EXTINF:-1 tvg-id="HolaTV.ar" tvg-name="HOLA TV HD" tvg-logo="https://i.imgur.com/a6ZDo3q.jpg" group-title="Variedades",HOLA TV 
-http://avefenixtv.com/live/AdanMontes/11122023AM/755528.ts
+http://netgotvpro.cc/live/juan_ferez/Ferez2023J/755528.ts
 #EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://radiosargentina.com.ar/png/VITIEMIA.png" group-title="Variedades",TIERRAMIA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Canal.Sun.Channel.ar" tvg-name="AR | SUN CHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/co_sun-channel_m.png" group-title="Variedades",SUN CHANNEL
@@ -66,7 +66,7 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-id="ViajarTV.ar" tvg-chno="40" tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png",group-title="Variedades",VIAJAR TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CVIAJAR____
 #EXTINF:-1 tvg-id="[CHATV].Chacra.TV.uy" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Variedades", CHACRA TV
-https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
+https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1241618.ts
 #EXTINF:-1 tvg-id="[RURAL].Canal.Rural.uy" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Variedades",CANAL RURAL
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-rural.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="Variedades",FX
@@ -218,7 +218,7 @@ http://netgotvpro.cc/live/juan_ferez/Ferez2023J/46163.ts
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="Peliculas y Series",MULTIPREMIER 
 http://netgotvpro.cc/live/juan_ferez/Ferez2023J/46168.ts
 #EXTINF:-1 tvg-id="[PARAMNT].Paramount.Network.uy" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="Peliculas y Series",PARAMOUNT CHANNEL 
-http://teamcontrol.org/live/OmarFernandezzIPTVCLUB/wJHPTdHLVJTTBw9J/317033.m3u
+http://netgotvpro.cc/live/juan_ferez/Ferez2023J/46170.ts
 #EXTINF:-1 tvg-id="SonyMovies.ar" tvg-name="SONY MOVIES HD | AR" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="Peliculas y Series",SONY MOVIES 
 http://netgotvpro.cc/live/juan_ferez/Ferez2023J/46175.ts
 #EXTINF:-1 tvg-id="Canal.Sony.(Argentina).ar" tvg-name="SONY CHANNEL HD | AR" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="Peliculas y Series",SONY CHANNEL 
@@ -306,7 +306,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno=" 344" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Peliculas y Series", MY TIME MOVIES 2
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/480x270/filters:quality(80)/image/6abe177f8e22d/uploads/media/1200x900_sci_fi.png" group-title="Peliculas y Series",SCI FI
-http://streamingtv.vip:8080/live/Tony54321/Tony54321/316376.m3u
+http://play.pelusa.online:8080/live/Yanira1253/yjDSNaRJbgVQ/36795.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M|Moviecenter Premium Oeste" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WZUl_t_A1HLUP85Y2af-AH5YVTtCTtFEGA&s" group-title="Peliculas y Series",Moviecenter 
 http://netgotvpro.cc/live/juan_ferez/Ferez2023J/575686.ts
 #EXTINF:-1 tvg-id="" tvg-name="THE MOVIE CHANNEL USA" tvg-logo="https://i.ibb.co/VJ24XfP/the-movie-channel.png" group-title="Peliculas y Series",THE MOVIE CHANNEL 
