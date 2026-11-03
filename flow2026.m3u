@@ -54,7 +54,7 @@ http://netgotvpro.cc/live/juan_ferez/Ferez2023J/755528.ts
 #EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://radiosargentina.com.ar/png/VITIEMIA.png" group-title="Variedades",TIERRAMIA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
 #EXTINF:-1 xm-ott="{ID}" tvg-id="Canal.Sun.Channel.ar" tvg-name="AR | SUN CHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/co_sun-channel_m.png" group-title="Variedades",SUN CHANNEL
-http://181.78.79.131:8000/play/a0qz
+http://xdplus.site:8880/live/cheocpf/JTHEC/624049.ts
 #EXTINF:-1 tvg-chno="8" tvg-id="64" tvg-name="URBANA TV" group-title="Variedades" tvg-logo="https://radiosargentina.com.ar/png/VIURTEVE.png" radio="false" catchup="vod",URBANA TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__32.2URBANATEVE
 #EXTINF:-1 tvg-name="UNIFE" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Variedades", UNIFE 
@@ -79,6 +79,8 @@ http://netgotvpro.cc/live/juan_ferez/Ferez2023J/79079.ts
 http://cdn.instream.audio:9660/stream
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA | WOBI FHD" tvg-logo="https://i.ibb.co/T0jFRC4/6265170-640x640.png" group-title="Variedades",WOBI
 http://liontv.es:8080/Mani123456/Mani123456/361825
+#EXTINF:-1 xm-ott="{ID}" tvg-id="azclic.mx" tvg-name="MX | AZ CLIC!" tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png" group-title="Variedades",CLIC!
+http://xdplus.site:8880/live/cheocpf/JTHEC/9463.ts
 #EXTINF:-1 tvg-id="CanalA.ar" tvg-name="Canal a" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Canal_%28%C3%A1%29_1999.svg/revision/latest/scale-to-width-down/200?cb=20251004032504" group-title="Variedades",CANAL A+
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420008.m3u8
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://i.ibb.co/Xyk9JsC/dsd.png" group-title="Variedades",THE WEATHER CHANNEL
@@ -652,7 +654,7 @@ http://67.220.71.35:8880/npztfqffjs/j99SmXSnPXT7/526547
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El auto fantástico" tvg-logo="http://redworld.pro:8880/images/2f7a83577033b28fdb7ca1b71a357782.png" group-title="24/7",El auto fantástico
 http://67.220.71.35:8880/npztfqffjs/j99SmXSnPXT7/526548
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver" tvg-logo="http://redworld.pro:8880/images/351e049e7ce5a24d27b435967603c667.png" group-title="24/7",MacGyver
-http://67.220.71.35:8880/npztfqffjs/j99SmXSnPXT7/526551
+http://xdplus.site:8880/live/cheocpf/JTHEC/257380.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Abbott and Costello" tvg-logo="https://bananamuncher.com:443/images/Z3FTtckYsGgX7p6_pYOC6MndFtJNWuvZEwI9gI4yFgmhhJSOKNULXKwUWxzhkiVZj1cTwkaZOFrtp2pj-B9kHN10sRksGMsfwWW6skwLb0c.jpg" group-title="24/7", Abbott and Costello
 http://netgotvpro.cc/live/juan_ferez/Ferez2023J/716540.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Charlies Angels" tvg-logo="https://bananamuncher.com:443/images/Z3FTtckYsGgX7p6_pYOC6MndFtJNWuvZEwI9gI4yFgnbDsdA2KjKMFKMCOBwkij1UHy-6FAwZd2PCNDR4-8FIovwaI6lqeYufoLFfY4BEBQ.jpg" group-title="24/7",Los angeles de Charlie
@@ -683,6 +685,12 @@ https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/462931.m3u8
 https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/479479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",ALF
 https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/479485.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 | CLARO CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",CLARO CINEMA
+http://xdplus.site:8880/live/cheocpf/JTHEC/531617.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 | CINEMA HORROR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",CINEMA HORROR
+http://xdplus.site:8880/live/cheocpf/JTHEC/177330.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 | LOS PICAPIEDRAS ⭐️" tvg-logo="http://aplicacionesdroid.com/wp-content/uploads/PICAPIEDRA-300x300.png" group-title="24/7", LOS PICAPIEDRAS 
+http://xdplus.site:8880/live/cheocpf/JTHEC/177126.ts
 
 
 
