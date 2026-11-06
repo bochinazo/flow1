@@ -685,10 +685,10 @@ https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/462931.m3u8
 https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/479479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",ALF
 https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/479485.m3u8
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 | CLARO CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",CLARO CINEMA
-http://xdplus.site:8880/live/cheocpf/JTHEC/531617.ts
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 | CINEMA HORROR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",CINEMA HORROR
-http://xdplus.site:8880/live/cheocpf/JTHEC/177330.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL BUEN DOCTOR" tvg-logo="https://i.ibb.co/qMwL8vg/Whats-App-Image-2024-03-22-at-14-36-40-1.jpg" group-title="24/7",EL BUEN DOCTOR
+http://solartv.cc:8080/live/LupyRojas/Daniela1998lupy/184494.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DOCTOR WHO" tvg-logo="https://i.ibb.co/86QtrTv/Whats-App-Image-2024-03-22-at-14-36-40-2.jpg" group-title="24/7",DOCTOR WHO
+http://solartv.cc:8080/live/LupyRojas/Daniela1998lupy/184495.ts
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 | LOS PICAPIEDRAS ⭐️" tvg-logo="http://aplicacionesdroid.com/wp-content/uploads/PICAPIEDRA-300x300.png" group-title="24/7", LOS PICAPIEDRAS 
 http://xdplus.site:8880/live/cheocpf/JTHEC/177126.ts
 
