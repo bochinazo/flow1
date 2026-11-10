@@ -476,11 +476,11 @@ https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cristiana TV | ES" tvg-logo="https://www.m3u.cl/logo/196_Cristiana_TV.png" group-title="Religion",Cristiana TV 
 http://liontv.es:8080/Helenmejia/Ejmavv5cPf/787107
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LA CASA DE LA PRADERA ⭐️" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xxDCXb368UyxJk1VmJY3C8YYsGd.jpg" group-title="24/7",La Familia Ingalls
-https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/479400.m3u8
+https://zonacero.lat:443/NOVA19L44/WsmyeRdctVMz/479400
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL GRAN CHAPARRAL ⭐️" tvg-logo="http://2.bp.blogspot.com/_7-NlknExAYo/TMrLkFFgmAI/AAAAAAAAIUQ/F7DcyMwnxfQ/s1600/HC%2520GRAPHIC.jpg" group-title="24/7",EL GRAN CHAPARRAL 
-https://meganicxgv.lat:443/live/iptv3342216/UYaERtXUAFwn/479375.m3u8
+https://zonacero.lat:443/NOVA19L44/WsmyeRdctVMz/479375
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL JUEGO DEL CALAMAR ⭐️" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/FCKdHXVXEAsaylL-691x1024.jpg" group-title="24/7",EL JUEGO DEL CALAMAR 
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/479376
+https://zonacero.lat:443/NOVA19L44/WsmyeRdctVMz/479376
 #EXTINF:-1 tvg-id="" tvg-name="Garfield Y Amigos" tvg-logo="https://i.pinimg.com/originals/2e/77/9b/2e779b076e4c96d868f98c8084182465.jpg" group-title="24/7",Garfield Y Amigos
 
 #EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="24/7",Peppa Pig
@@ -519,6 +519,8 @@ http://ecuatvip.com/live/Jose1025leon/E3UhkKSDhS/428530.ts
 http://ecuatvip.com/live/Jose1025leon/E3UhkKSDhS/428534.ts
 #EXTINF:-1 tvg-id="" tvg-name="Danny Phantom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLf77qFk54GQcmwSsox6g9JmQHu.jpg" group-title="24/7",Danny Phantom
 http://ecuatvip.com/live/Jose1025leon/E3UhkKSDhS/428535.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CASO CERRADO ⭐️" tvg-logo="https://ahoramismo.com/wp-content/uploads/2020/11/Caso-cerrado.jpg?quality=65&strip=all" group-title="24/7",CASO CERRADO 
+https://zonacero.lat:443/NOVA19L44/WsmyeRdctVMz/479397
 #EXTINF:-1 tvg-id="" tvg-name=" One Punch Man" tvg-logo="https://i.pinimg.com/564x/38/6a/42/386a42c0ac0548d7d64dd0b2543bfd6c.jpg" group-title="24/7", One Punch Man
 http://ecuatvip.com/live/Jose1025leon/E3UhkKSDhS/428539.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Los super campeones" tvg-logo="http://playlis10.online:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg" group-title="24/7", Los super campeones
@@ -640,7 +642,7 @@ http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526575
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0_okXdzerFdXciVNkyW9gh_6KrUekcVAvw&s.png" group-title="24/7",Alerta Aeropuerto
 http://ecuatvip.com/live/Jose1025leon/E3UhkKSDhS/316938.ts
 #EXTINF:-1 tvg-id="b9b762c5-3640-4675-be32-b0eda9aa98f4" tvg-name="24/7 Auto Fantástico" tvg-logo="" group-title="24/7", El Auto Fantástico
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/479408
+https://zonacero.lat:443/NOVA19L44/WsmyeRdctVMz/479408
 #EXTINF:-1 tvg-id="247matrix" tvg-name="24/7 Matrix" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tpW2X2DvxtTHJ61iJ7zNYYrJihs.jpg" group-title="24/7", Saga Matrix
 http://flowzy.work/live/JORGE12345/12345JORGE/b5f347d0-c4b1-44b0-a998-ac995d173dc8.m3u
 #EXTINF:-1 tvg-id="247duendem" tvg-name="24/7 Duende Maldito" tvg-logo="" group-title="24/7",  Duende Maldito
