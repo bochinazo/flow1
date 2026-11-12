@@ -550,7 +550,7 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575723.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Dragon Ball Z Saga Cell" tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/U7PQ5TAUUNE7DH4UVXRHPCH6ZI.jpg" group-title="24/7", Dragon Ball Z Saga Cell
 
 #EXTINF:-1 tvg-id="" tvg-name=" El Chapulin Colorado" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/1973/4/w1280/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7", El Chapulin Colorado
-
+http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wDnDu8EAmMvCaF9-SUZOgfJ8hvdzKSzm8WieQQjon6CF/ts
 #EXTINF:-1 tvg-id="" tvg-name=" El show de los Looney Tunes" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/13/LT_design_concept5.jpg/revision/latest?cb=20220313121201&path-prefix=es" group-title="24/7", El show de los Looney Tunes
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575738.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Extranormal" tvg-logo="https://play-lh.googleusercontent.com/proxy/uvFxAlJLNiswD4AVu6GjVtRqbzig5Pz2cmfBi5ruL7UXYvVPc76eS7-CumttyQ3vvQS66-66P-eFzu_Apq2LwUoYncBQ4ZOEEptQ_8na2_tWwpkdpHCwE_5UT_w075uilLU3gJ19Q48ULmhgBScBrPtuoa7OuRy9XKXjRQ" group-title="24/7", Extranormal
@@ -733,16 +733,17 @@ http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiBauJPz
 http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiBfoGCKBhfT9ncmuPcLbk41/ts
 #EXTINF:-1 xc_vm-id="722476" tvg-id="" tvg-name="CLASICO DE DISNEY 3" tvg-logo="http://alfastr3am.lat:2082/images/6WJzxXsMKXqsUvMJQItpzK5fIEOiorUaFc9vqbZKMdU.png" group-title="24/7",CLASICO DE DISNEY 3
 http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiDV3aQkG8Jc1Bq8N3ujC-k-/ts
+#EXTINF:-1 xc_vm-id="722478" tvg-id="" tvg-name="CLASICO DE DISNEY 4" tvg-logo="http://alfastr3am.lat:2082/images/6WJzxXsMKXqsUvMJQItpzK5fIEOiorUaFc9vqbZKMdU.png" group-title="24/7",CLASICO DE DISNEY 4
+http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiBoe5xt5FXWt0u4SDxfFJfv/ts
+#EXTINF:-1 xc_vm-id="722479" tvg-id="" tvg-name="24/7 CARS" tvg-logo="http://alfastr3am.lat:2082/images/TF3lalfjP2Nk8tTg4Ajkg0MCfaqn7bCXs9MRpH4nk2hijuv3NxZIzlheEstocZf9.png" group-title="24/7",SAGA CARS
+http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiCukP0tO0zZ_D8b4EXM98Yu/ts
+#EXTINF:-1 xc_vm-id="722480" tvg-id="" tvg-name="CLASICO DE DISNEY 5" tvg-logo="http://alfastr3am.lat:2082/images/6WJzxXsMKXqsUvMJQItpzK5fIEOiorUaFc9vqbZKMdU.png" group-title="24/7",CLASICO DE DISNEY 5
+http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiA4gDtZ9s7hlHrD6e2HUypc/ts
+#EXTINF:-1 xc_vm-id="722481" tvg-id="" tvg-name="CLASICO DE DISNEY 6" tvg-logo="http://alfastr3am.lat:2082/images/6WJzxXsMKXqsUvMJQItpzK5fIEOiorUaFc9vqbZKMdU.png" group-title="24/7",CLASICO DE DISNEY 6
+http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiAvFkM3ULzg_jd0ijLX9Tv7/ts
 #EXTINF:-1 xc_vm-id="722477" tvg-id="" tvg-name="24/7 TINKER BELL" tvg-logo="http://alfastr3am.lat:2082/images/TF3lalfjP2Nk8tTg4AjkgwQC7Y_cJG-lyzwJRoBilJPv1-hSgsOVKeufLjwxRaHm.png" group-title="24/7",TINKER BELL
 http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiCudhQ-7YasjbwSIxW9Z5ux/ts
-#EXTINF:-1 xc_vm-id="722478" tvg-id="" tvg-name="CLASICO DE DISNEY 4" tvg-logo="http://alfastr3am.lat:2082/images/6WJzxXsMKXqsUvMJQItpzK5fIEOiorUaFc9vqbZKMdU.png" group-title="TV || 24/7 DISNEY DUAL AUDIO",CLASICO DE DISNEY 4
-http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiBoe5xt5FXWt0u4SDxfFJfv/ts
-#EXTINF:-1 xc_vm-id="722479" tvg-id="" tvg-name="24/7 CARS" tvg-logo="http://alfastr3am.lat:2082/images/TF3lalfjP2Nk8tTg4Ajkg0MCfaqn7bCXs9MRpH4nk2hijuv3NxZIzlheEstocZf9.png" group-title="TV || 24/7 ANIMADOS",24/7 CARS
-http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiCukP0tO0zZ_D8b4EXM98Yu/ts
-#EXTINF:-1 xc_vm-id="722480" tvg-id="" tvg-name="CLASICO DE DISNEY 5" tvg-logo="http://alfastr3am.lat:2082/images/6WJzxXsMKXqsUvMJQItpzK5fIEOiorUaFc9vqbZKMdU.png" group-title="TV || 24/7 DISNEY DUAL AUDIO",CLASICO DE DISNEY 5
-http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiA4gDtZ9s7hlHrD6e2HUypc/ts
-#EXTINF:-1 xc_vm-id="722481" tvg-id="" tvg-name="CLASICO DE DISNEY 6" tvg-logo="http://alfastr3am.lat:2082/images/6WJzxXsMKXqsUvMJQItpzK5fIEOiorUaFc9vqbZKMdU.png" group-title="TV || 24/7 DISNEY DUAL AUDIO",CLASICO DE DISNEY 6
-http://nextstream.lat:2082/play/60hz5mYPVBqTmzdrfqO8wG9AX3xI44xTVgn2oBJSqiAvFkM3ULzg_jd0ijLX9Tv7/ts
+
 
 
 
