@@ -7,7 +7,7 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712714.ts
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712720.ts
 #EXTINF:-1 tvg-chno="12" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="EL TRECE" group-title="Aire" radio="false" catchup="vod",EL TRECE
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712710.ts
-#EXTINF:-1 tvg-chno="13" tvg-id="ElNueve.ar" tvg-name="EL NUEVE" group-title="Aire" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/350/500/0/0/93367508072808.png" radio="false" catchup="vod",EL NUEVE
+#EXTINF:-1 tvg-chno="13" tvg-id="ElNueve.ar" tvg-name="EL NUEVE" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnuevehd@2x.png" radio="false" catchup="vod",EL NUEVE
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712709.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="NetTV.ar" tvg-name="NET TV" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/nettv@2x.png" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -70,7 +70,7 @@ https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1241618.ts
 #EXTINF:-1 tvg-id="[RURAL].Canal.Rural.uy" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Variedades",CANAL RURAL
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-rural.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="Variedades",FX
-http://31.43.191.125:8080/vip9591776279126/96f8c0d2967a/4768
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167070
 #EXTINF:-1 tvg-id="" tvg-name="FASHI0N TV " tvg-logo="http://www.rt-a.com/67/fotos/ftv_26.gif" group-title="Variedades",FASHION TV 
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CFASHIONTV_
 #EXTINF:-1 tvg-id="Canal.Las.Estrellas.(Argentina).ar" tvg-name="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="Variedades",LAS ESTRELLAS
@@ -78,17 +78,17 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/79079.ts
 #EXTINF:-1 tvg-id="KZO.ar" tvg-chno="45" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Variedades",KZO ENTERTAINMENT
 http://cdn.instream.audio:9660/stream
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA | WOBI FHD" tvg-logo="https://i.ibb.co/T0jFRC4/6265170-640x640.png" group-title="Variedades",WOBI
-http://liontv.es:8080/Mani123456/Mani123456/361825
+http://liontv.es:8080/Oskar4076/EuspefkWwJ/361825
 #EXTINF:-1 xm-ott="{ID}" tvg-id="azclic.mx" tvg-name="MX | AZ CLIC!" tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_1163_2_713.png.6233c23c5664a6eec0044cb18d87515f.png" group-title="Variedades",CLIC!
 http://xdplus.site:8880/live/cheocpf/JTHEC/9463.ts
 #EXTINF:-1 tvg-id="CanalA.ar" tvg-name="Canal a" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Canal_%28%C3%A1%29_1999.svg/revision/latest/scale-to-width-down/200?cb=20251004032504" group-title="Variedades",CANAL A+
 http://newvdt.org:8080/HugoMatias/Yay4yGpzU8/420008.m3u8
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://i.ibb.co/Xyk9JsC/dsd.png" group-title="Variedades",THE WEATHER CHANNEL
-http://liontv.es:8080/Mani123456/Mani123456/345588
+http://liontv.es:8080/KLARIOS3711/wJn3nAzx4Y25/345588
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Variedades",NEO TV 
 http://redworld.pro:8880/Platano568/Th2tMw6XyNKN/359922
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITVUNLP.png" group-title="Variedades",TV Universidad de La Plata
-https://radiosargentina.com.ar/php/artvDI.php?id=ARBALA_PL__32.1TVUNIVERSI
+
 #EXTINF:-1 tvg-chno="100" tvg-id="DeporTv.ar" tvg-name="DEPORTV" group-title="Deportes" radio="false" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png" catchup="vod",DEPORTV
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712742.ts
 #EXTINF:-1 tvg-chno="101" tvg-id="Canal.TyC.Sports.ar" tvg-name="TYC SPORTS" group-title="Deportes" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/tyc.png" radio="false" catchup="vod",TYC SPORTS
@@ -104,7 +104,7 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712746.ts
 #EXTINF:-1  tvg-chno="EspnPremium.ar" tvg-name="ESPN PREMIUM" tvg-logo="https://telecentro.com.ar/img/cm/channels/Espn%20Premium%20128.png" group-title="Deportes",ESPN PREMIUM
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712747.ts
 #EXTINF:-1 tvg-chno="106" tvg-id="FoxSports.ar" tvg-name="FOX SPORTS" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-azul.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS
-http://liontv.es:8080/Mani123456/Mani123456/783623
+http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-2.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 2
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712749.ts
 #EXTINF:-1 tvg-chno="108" tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="FOX SPORTS 3" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-3.png" group-title="Deportes" radio="false" catchup="vod",FOX SPORTS 3
@@ -113,10 +113,10 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712750.ts
 http://somoseluno.blog:80/live/9mQxLW8jGj5s/GekDyup9gYLR/361018.ts
 #EXTINF:-1 tvg-chno="109" tvg-id="ElGarage.ar" tvg-name="EL GARAGE" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/elgarage.png" group-title="Deportes" radio="false" catchup="vod",EL GARAGE
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712751.ts
-#EXTINF:-1 tvg-chno="110" tvg-id="GolfChannel.ar" tvg-name="GOLF CHANNEL" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/GOLFCHANNEL.jpg" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL
-http://31.43.191.125:8080/vip9591776279126/96f8c0d2967a/4771
+#EXTINF:-1 tvg-chno="110" tvg-id="GolfChannel.ar" tvg-name="GOLF CHANNEL" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/GOLFCHANNEL.jpg" group-title="Deportes" radio="false" catchup="vod",GOLF CHANNEL LATINO
+http://whmcs01.cooteg.cc:2095/live/rwixpandmw/xjycwpwipu/141362.ts
 #EXTINF:-1 tvg-chno="111" tvg-id="NBATV.ar" tvg-name="NBA TV" group-title="Deportes" radio="false" catchup="vod",NBA TV
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/213980.ts
+http://iptvpremium.ink:55577/josuelite1701/lite202607/258786
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TENNIS CHANEL " tvg-logo="http://redworld.pro:8880/images/74d04d280b936817eb8146241d8521c9.png" group-title="Deportes",TENNIS CHANEL 
 http://superxlatino.com:8880/vudtatfcsd/puYkpehcpxJ3/167748
 #EXTINF:-1 tvg-chno="112" tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ar" tvg-name="DISC TURBO" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" group-title="Deportes" radio="false" catchup="vod",DISCOVERY TURBO
@@ -131,7 +131,7 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712757.ts
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/722195.ts
 #EXTINF:-1, tvg-chno="TNTSportsPremium.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT SPORTS PREMIUM
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/712753.ts
-#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes",FIFA+ Hispano America 
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/f2357f3b-12c7-4b37-9c21-8029da9c31fb.png" group-title="Deportes",FIFA+ Hispano America 
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTV-UK_fifa-plus-uk-live-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/f2357f3b-12c7-4b37-9c21-8029da9c31fb.png" group-title="Deportes",FIFA+
 https://49f2b747.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=0&ads.rtv_content_id=6133&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=a592a2da-7998-485e-b356-937d2e2c4399&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1781
@@ -191,26 +191,20 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46106.ts
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46108.ts
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX OP1" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinemax@2x.png" group-title="Peliculas y Series",CINEMAX 
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46111.ts
-#EXTINF:-1 tvg-id="DE PELICULA PLUS HD" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="Peliculas y Series",DE PELICULA PLUS
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46118.ts
-#EXTINF:-1 tvg-id="Canal De Película" tvg-name="DE PELICULA" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=430" group-title="Peliculas y Series",DE PELICULA
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46120.ts
-#EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="Peliculas y Series",DE PELICULA CLASICO
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46121.ts
 #EXTINF:-1 tvg-id="[CNLDHE].Canal.DHE.uy" tvg-name="DHE " tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="Peliculas y Series",DHE 
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46122.ts
 #EXTINF:-1 tvg-id="Canal.Europa.Europa.ar" tvg-name="EUROPA EUROPA " tvg-logo="https://telecentro.com.ar/img/cm/channels/europaeuropa@2x.png" group-title="Peliculas y Series",EUROPA EUROPA 
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46127.ts
 #EXTINF:-1 tvg-id="" tvg-name="FX HD (DTV)" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Peliculas y Series",FX 
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46130.ts
+#EXTINF:-1 tvg-id="Canal.Golden.(Argentina).ar" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
+http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46142.ts
 #EXTINF:-1 tvg-id="Canal.Golden.Plus.cl" tvg-name="GOLDEN PLUS | AR" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="Peliculas y Series",GOLDEN PLUS 
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46138.ts
 #EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://cdn.mitvstatic.com/channels/ar_golden-edge_m.png" group-title="Peliculas y Series",GOLDEN EDGE 
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46139.ts
 #EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="Peliculas y Series",GOLDEN PREMIER 
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46141.ts
-#EXTINF:-1 tvg-id="Canal.Golden.(Argentina).ar" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46142.ts
 #EXTINF:-1 tvg-id="Canal.HBO.(Argentina).ar" tvg-name="HBO HD (DTV)" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbohd@2x.png" group-title="Peliculas y Series",HBO 
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46147.ts
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Peliculas y Series",HBO 2 
@@ -270,7 +264,7 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/140365.ts
 #EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="Peliculas y Series",CINE ESTELAR
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/148901.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Peliculas y Series",CINEMA DC UNIVERSE
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/140943.ts
+
 #EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts " tvg-logo="https://telecentro.com.ar/img/cm/channels/filmandarts@2x.png" group-title="Peliculas y Series",FILM & ARTS
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46129.ts
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/tcm@2x.png" group-title="Peliculas y Series",TCM 
@@ -279,14 +273,20 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46231.ts
 https://srt01.logicahost.com.br/senal3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="PANICO OPCION 2" tvg-logo="http://www.tmsimg.com/assets/s73535_ll_h3_aa.png" group-title="Peliculas y Series",PANICO 
 https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1595545.ts
+#EXTINF:-1 tvg-id="DE PELICULA PLUS HD" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="Peliculas y Series",DE PELICULA PLUS
+http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46118.ts
+#EXTINF:-1 tvg-id="Canal De Película" tvg-name="DE PELICULA" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=430" group-title="Peliculas y Series",DE PELICULA
+http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46120.ts
+#EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="Peliculas y Series",DE PELICULA CLASICO
+http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/46121.ts
 #EXTINF:-1 xc_vm-id="186480" tvg-id="" tvg-name="PREMIUM | STARZ ENCORE ESPANOL" tvg-logo="https://i.ibb.co/w6vZ5px/STARZESP.png" group-title="Peliculas y Series",STARZ ENCORE ESPANOL
 http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCGnh-XWWg7gAwQDdBkFSvA5/ts
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CINEMA FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ CINEMA 
-http://hostengine.live/live/bluegoat/4431bc61f7bafea9/56522.m3u
+http://whmcs01.cooteg.cc:2095/live/rwixpandmw/xjycwpwipu/134349.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE CLASSIC FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE ACCION
-http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvb3ZPbHJXTmpMakxIV21sejNyc3NiQT0
+http://whmcs01.cooteg.cc:2095/live/rwixpandmw/xjycwpwipu/269365.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE FAMILY & KIDS
-http://miotv.cc:8080/S0xHV0ljS2NrRTZHWnJmaVdPcnkvc2dCdm5ZUlY2QzA1NzNVWWRMN1dkVT0
+http://whmcs01.cooteg.cc:2095/live/rwixpandmw/xjycwpwipu/269366.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="CINE Y SERIES | STARZ ENCORE WESTERN FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ ENCORE WESTERN 
 http://liontv.es:8080/Helenmejia/Ejmavv5cPf/1377512
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="CINE Y SERIES | STARZ FHD" tvg-logo="https://w7.pngwing.com/pngs/237/525/png-transparent-hbo-starz-cinemax-television-showtime-liberty-miscellaneous-television-text-thumbnail.png" group-title="Peliculas y Series",STARZ 
@@ -492,55 +492,55 @@ https://zonacero.lat:443/NOVA19L44/WsmyeRdctVMz/479376
 #EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="24/7",Peppa Pig
 
 #EXTINF:-1 tvg-id="" tvg-name=" Billy y Mandy " tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/16/13/06/231194.jpg" group-title="24/7", Billy y Mandy 
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428510.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Los misterios de Moville" tvg-logo="https://pics.filmaffinity.com/moville_mysteries_tv_series-293137444-large.jpg" group-title="24/7",Los misterios de Moville
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428511.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ThunderCats " tvg-logo="https://i.pinimg.com/originals/91/ed/32/91ed3266f76790058de45b9c85ffea33.png" group-title="24/7",ThunderCats
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428512.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIBuyai7QtNVZuLEn3eeQiyb50C.jpg" group-title="24/7",Spider-Man 
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428516.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Johnny Test " tvg-logo="https://i.pinimg.com/564x/58/48/a1/5848a17e7e5973a8c6a12e78bf5e36d5.jpg" group-title="24/7",Johnny Test 
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428518.ts
+
 #EXTINF:-1 tvg-id="" tvg-name=" Jimmy Neutrón" tvg-logo="https://i.pinimg.com/originals/9a/2a/6d/9a2a6d9dea4eb78911e2fedc7171234b.jpg" group-title="24/7", Jimmy Neutrón
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428520.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Gasparin y sus amigos" tvg-logo="https://www.lacartoons.com/system/series/portadas/000/000/009/original/s-l300.jpg" group-title="24/7",Gasparin y sus amigos
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428521.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="G.I. Joe" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE3ODc0ZWUtNWU5Ni00YzA2LWExMDktNTIyMTQ3YmIwNjM5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="24/7",G.I. Joe
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428522.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Silvestre Y Piolín" tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/24/09/38/246217.jpg" group-title="24/7",Silvestre Y Piolín
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428523.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man: Anime " tvg-logo="https://mlstaticquic-a.akamaihd.net/D_NQ_NP_854811-MEC20630767060_032016-V.jpg" group-title="24/7",IRON MAN Anime 
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428524.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Static Shock" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY8CtEWhQ2MKJQJc9Kx116HxVEA.jpg" group-title="24/7",Static Shock
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428525.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Spawn" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKZR2IIrPPo2LnMdYfxvOlXFls7.jpg" group-title="24/7",Spawn
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428526.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="El proyecto Z" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61RE64an8qL._SL1000_.jpg" group-title="24/7",El proyecto Z
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428528.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="https://i.pinimg.com/564x/dd/d4/4f/ddd44fddf1a383f92780a11cf8b980a9.jpg" group-title="24/7",Death Note
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428529.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Street Sharks" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk8PDEgEP1KLcinuhn6RIvWXy9E.jpg" group-title="24/7",Street Sharks
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428530.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="La máscara" tvg-logo="https://i.imgur.com/2fI3Xz0.jpg" group-title="24/7",La máscara
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428534.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Danny Phantom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLf77qFk54GQcmwSsox6g9JmQHu.jpg" group-title="24/7",Danny Phantom
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428535.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | CASO CERRADO ⭐️" tvg-logo="https://ahoramismo.com/wp-content/uploads/2020/11/Caso-cerrado.jpg?quality=65&strip=all" group-title="24/7",CASO CERRADO 
 https://zonacero.lat:443/NOVA19L44/WsmyeRdctVMz/479397
 #EXTINF:-1 tvg-id="" tvg-name=" One Punch Man" tvg-logo="https://i.pinimg.com/564x/38/6a/42/386a42c0ac0548d7d64dd0b2543bfd6c.jpg" group-title="24/7", One Punch Man
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428539.ts
+h
 #EXTINF:-1 tvg-id="" tvg-name=" Los super campeones" tvg-logo="http://playlis10.online:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg" group-title="24/7", Los super campeones
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/428550.ts
+h
 #EXTINF:-1 tvg-id="" tvg-name="Clasicos de Disney (Latino)" tvg-logo="https://i.postimg.cc/W3phT1HP/disney-plus-catalogo-peliculas-disney-1552044329-2-1024x640.jpg" group-title="24/7",Clasicos de Disney 
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575626.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Garfield" tvg-logo="https://musicart.xboxlive.com/7/12c66500-0000-0000-0000-000000000002/504/image.jpg" group-title="24/7",Garfield
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575636.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="La casa de los Dibujos" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/eb0927966da2645c025317508aeb70b3ff25d663967c2b8444ebf86e0f6dbd21.jpg" group-title="24/7",La casa de los Dibujos
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575646.ts
 #EXTINF:-1 tvg-id="" tvg-name="Los Backyardigans" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6b02fea9ac43358cad762d6d089a3684dc62bee64c72c5f99c5a690e99b5bb89._SX1080_FMjpg_.jpg" group-title="24/7",Los Backyardigans
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575653.ts
 #EXTINF:-1 tvg-id="" tvg-name="Los Supersonicos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/TheJetsons.jpg/revision/latest?cb=20230718010744&path-prefix=es" group-title="24/7",Los Supersonicos
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575657.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="NARCOS" tvg-logo="https://es.web.img3.acsta.net/pictures/15/07/29/14/33/086520.jpg" group-title="24/7",NARCOS
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575690.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Animaniacs" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUzMjg2NDctNWE5NS00ZGIyLTlhMmYtZGI4M2RkOTM3YjI4XkEyXkFqcGdeQXVyODA4OTIyMzY@._V1_.jpg" group-title="24/7", Animaniacs
@@ -548,9 +548,9 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575708.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Dora la Exploradora" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/87/Dora.jpg/revision/latest?cb=20171125061549&path-prefix=es" group-title="24/7", Dora la Exploradora
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575723.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Dragon Ball Z Saga Cell" tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/U7PQ5TAUUNE7DH4UVXRHPCH6ZI.jpg" group-title="24/7", Dragon Ball Z Saga Cell
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575728.ts
+
 #EXTINF:-1 tvg-id="" tvg-name=" El Chapulin Colorado" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/1973/4/w1280/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7", El Chapulin Colorado
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575729.ts
+
 #EXTINF:-1 tvg-id="" tvg-name=" El show de los Looney Tunes" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/13/LT_design_concept5.jpg/revision/latest?cb=20220313121201&path-prefix=es" group-title="24/7", El show de los Looney Tunes
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575738.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Extranormal" tvg-logo="https://play-lh.googleusercontent.com/proxy/uvFxAlJLNiswD4AVu6GjVtRqbzig5Pz2cmfBi5ruL7UXYvVPc76eS7-CumttyQ3vvQS66-66P-eFzu_Apq2LwUoYncBQ4ZOEEptQ_8na2_tWwpkdpHCwE_5UT_w075uilLU3gJ19Q48ULmhgBScBrPtuoa7OuRy9XKXjRQ" group-title="24/7", Extranormal
@@ -568,7 +568,7 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575762.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Mr Bean" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NGRlZTgtZWU1ZC00NzhkLTgyMmYtYTQyZDgzYmE0ZmYzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg" group-title="24/7", MR BEAN
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575766.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Teen Titans Go" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/d9/Teen_Titans_Go%21_TV_Series.jpg/revision/latest?cb=20211209001348" group-title="24/7", Teen Titans Go
-http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575774.ts
+
 #EXTINF:-1 tvg-id="" tvg-name=" The Big Bang Theory" tvg-logo="https://resizing.flixster.com/T0Fv_wWSdcAuRFTxDsGrJnsxKyk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10039305_b_v9_aa.jpg" group-title="24/7", The Big Bang Theory
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575775.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7: CINE TERROR HD" tvg-logo="https://www.21secolo.news/wp-content/uploads/2021/09/cinema-movie-background-popcorn-filmstrip-clapboard-tickets-movie-time-background_41737-248.jpg" group-title="24/7",CINE TERROR 
@@ -577,36 +577,36 @@ http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575790.ts
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575795.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7: Malcolm" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A1FD1DDD61A1E87108AE19E9017B35CBFD421546374C71BFB5354DAF127F738D/scale?width=506&amp;aspectRatio=2.00&amp;format=webp" group-title="24/7", Malcolm
 http://mallorca.plus/live/MiguelRanaldi.ESP/EMfxHCBNSd/575796.ts
-#EXTINF:-1 tvg-id="" tvg-name="Los locos Addams (1964)" tvg-logo="http://redworld.pro:8880/images/815b36b78f70acbdee86fb3b3b827e2a.jpg" group-title="24/7",Los locos Addams (1964)
+#EXTINF:-1 tvg-id="" tvg-name="Los locos Addams (1964)" tvg-logo="http://redworld.pro:8880/images/815b36b78f70acbdee86fb3b3b827e2a.jpg" group-title="24/7",Los locos Addams -1964
 http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526496
 #EXTINF:-1 tvg-id="" tvg-name="Mi bella genio" tvg-logo="http://redworld.pro:8880/images/a1ba7a398c4534d1ff0c6973f586a536.jpg" group-title="24/7",Mi bella genio
 http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526494
 #EXTINF:-1 tvg-id="" tvg-name="La Mujer Biónica" tvg-logo="http://redworld.pro:8880/images/f43c63e41663443bdecf369774e1a629.jpg" group-title="24/7",La Mujer Biónica
 http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526495
 #EXTINF:-1 tvg-id="" tvg-name="Saga Halloween" tvg-logo="http://redworld.pro:8880/images/3fe3b1303f220f0c7f17999908d15578.png" group-title="24/7",Saga Halloween
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526399
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526399
 #EXTINF:-1 tvg-id="" tvg-name="Viernes 13" tvg-logo="http://redworld.pro:8880/images/f700958d053e91bcf2da49672ea182c7.png" group-title="24/7",Saga Viernes 13
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526400
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526400
 #EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street" tvg-logo="http://redworld.pro:8880/images/f8ac301c68df42f02647cd2ae1862985.jpg" group-title="24/7",Saga Pesadilla en Elm Street
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526401
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526401
 #EXTINF:-1 tvg-id="" tvg-name="La casa del dragon (Temp 1)" tvg-logo="http://redworld.pro:8880/images/d69a7bfe0b9e0a6dd1f099f543309ac4.jpg" group-title="24/7",La casa del dragon 
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526362
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526362
 #EXTINF:-1 tvg-id="" tvg-name="Marvel 1" tvg-logo="http://redworld.pro:8880/images/ab9e4ee147580ab7aec527bbc4caf410.jpg" group-title="24/7",Marvel 1
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526363
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526363
 #EXTINF:-1 tvg-id="" tvg-name="Marvel 2" tvg-logo="http://redworld.pro:8880/images/ab9e4ee147580ab7aec527bbc4caf410.jpg" group-title="24/7",Marvel 2
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526364
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526364
 #EXTINF:-1 tvg-id="" tvg-name="Marvel 3" tvg-logo="http://redworld.pro:8880/images/ab9e4ee147580ab7aec527bbc4caf410.jpg" group-title="24/7",Marvel 3
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526365
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526365
 #EXTINF:-1 tvg-id="" tvg-name="Marvel 4" tvg-logo="http://redworld.pro:8880/images/ab9e4ee147580ab7aec527bbc4caf410.jpg" group-title="24/7",Marvel 4
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526366
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526366
 #EXTINF:-1 tvg-id="" tvg-name="Marvel 5" tvg-logo="http://redworld.pro:8880/images/ab9e4ee147580ab7aec527bbc4caf410.jpg" group-title="24/7",Marvel 5
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526367
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526367
 #EXTINF:-1 tvg-id="" tvg-name="| 12 Horas para sobrevivir" tvg-logo="http://redworld.pro:8880/images/834552076d7474926f884225cec1da69.jpg" group-title="24/7"Saga 12 Horas para sobrevivir
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526368
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526368
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="http://redworld.pro:8880/images/854fa36e250f15cc53eed7925ef9156f.png" group-title="24/7",Saga Harry Potter
 https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/479499
 #EXTINF:-1 tvg-id="" tvg-name="Chucky" tvg-logo="http://redworld.pro:8880/images/d7a6527f373dfe9c9b9d2bc11d19dcd4.png" group-title="24/7",Saga Chucky
-http://superxlatino.com:8880/NatalyS4324/YAZD3tXg6E5U/526370
+http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526370
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Rapido y Furioso (1-5)" tvg-logo="http://redworld.pro:8880/images/dc3d3b1a336fbbd51585e31c95f45c83.png" group-title="24/7",Saga Rapido y Furioso (1-5)
 http://redworld.pro:8880/Cuentart74/CV5tFJ7Vbzdg/526360
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Rapido y Furioso (6-10)" tvg-logo="http://redworld.pro:8880/images/dc3d3b1a336fbbd51585e31c95f45c83.png" group-title="24/7",Saga Rapido y Furioso (6-10)
