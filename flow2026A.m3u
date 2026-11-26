@@ -1,28 +1,28 @@
 ﻿#EXTM3U x-tvg-url= "https://open-epg.com/files/argentina.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz"
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/490450
+http://tutele.lat:8080/live/Aldo2025/Aldo2025/494.ts
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/350/500/0/0/60528493072631.png" group-title="Aire" radio="false" catchup="vod",TELEFE
 http://tutele.lat:8080/live/Aldo2025/Aldo2025/265947.ts
 #EXTINF:-1 tvg-chno="11" tvg-id="Canal.Televisión.Pública.(Argentina).ar" tvg-name="TV PUBLICA" group-title="Aire" radio="false" catchup="vod",TV PUBLICA
 http://tutele.lat:8080/live/Aldo2025/Aldo2025/441563.ts
 #EXTINF:-1 tvg-chno="12" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="EL TRECE" group-title="Aire" radio="false" catchup="vod",EL TRECE
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/490442
+http://tutele.lat:8080/live/Aldo2025/Aldo2025/265950.ts
 #EXTINF:-1 tvg-chno="13" tvg-id="ElNueve.ar" tvg-name="EL NUEVE" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnuevehd@2x.png" radio="false" catchup="vod",EL NUEVE
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/490460
+http://tutele.lat:8080/live/Aldo2025/Aldo2025/495.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="NetTV.ar" tvg-name="NET TV" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/nettv@2x.png" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias" radio="false" catchup="vod",TN
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/490454
+http://tutele.lat:8080/live/Aldo2025/Aldo2025/522.ts
 #EXTINF:-1 tvg-chno="15" tvg-id="A24.HD.uy" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias" radio="false" catchup="vod",A24
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/490446
+http://tutele.lat:8080/live/Aldo2025/Aldo2025/501.ts
 #EXTINF:-1 tvg-chno="16" tvg-id="[C5NARG].C5N.uy" tvg-name="C5N" group-title="Noticias" radio="false" catchup="vod",C5N
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/490448
+http://tutele.lat:8080/live/Aldo2025/Aldo2025/503.ts
 #EXTINF:-1 tvg-chno="17" tvg-id="[CRON].Cronica.TV.uy" tvg-name="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias" radio="false" catchup="vod",CRONICA
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/490452
+http://31.43.191.125:8080/vip651785022531/0b5ae49d23af/4746
 #EXTINF:-1 tvg-chno="18" tvg-id="26.TV.HD..uy" tvg-name="26 TV" group-title="Noticias" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/canal%2026%20128.png",26 TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
 #EXTINF:-1 tvg-chno="19" tvg-id="LA.NACION.HD.uy" tvg-name="LA NACION" group-title="Noticias" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png",LA NACION +
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/490466
+http://buenatv.org:80/live/Aitor.Mun24/Aitor2024M/712713.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C22.png" group-title="Noticias",CANAL 22
@@ -32,7 +32,7 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="Ar12.ar" tvg-name="AR12" tvg-logo="https://telecentro.com.ar/img/cm/channels/AR12@2x.png" group-title="Noticias" radio="false" catchup="vod",AR 12
 https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="CnnenEspañol.ar" tvg-name="CNN EN ESPAÑOL" group-title="Noticias" radio="false" catchup="vod",CNN EN ESPAÑOL
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567839
+http://tutele.lat:8080/live/Aldo2025/Aldo2025/253.ts
 #EXTINF:-1 tvg-chno="552" tvg-id="Bloomberg.ar" tvg-name="BLOOMBERG" group-title="Noticias" radio="false" catchup="vod",BLOOMBERG
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERG_
 #EXTINF:-1 tvg-chno="20" tvg-id="MAGAZINE.HD.uy" tvg-name="CIUDAD MAGAZINE" group-title="Variedades" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/ciudadmagazine@2x.png",CIUDAD MAGAZINE
