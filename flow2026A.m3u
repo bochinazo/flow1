@@ -1,20 +1,20 @@
 ﻿#EXTM3U x-tvg-url= "https://open-epg.com/files/argentina.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz"
 #EXTINF:-1 tvg-chno="9" tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="AMERICA 2" group-title="Aire" radio="false" catchup="vod",AMERICA 2 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/494.ts
+http://tutele.lat:8080/live/Armando12/Armando12/494.m3u
 #EXTINF:-1 tvg-chno="10" tvg-id="Canal.Telefé.(Argentina).ar" tvg-name="TELEFE" tvg-logo="https://telecentro.com.ar/img/cm/channels/telefe@2x.png" group-title="Aire" radio="false" catchup="vod",TELEFE
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/265947.ts
+http://tutele.lat:8080/live/Armando12/Armando12/492.m3u
 #EXTINF:-1 tvg-chno="11" tvg-id="Canal.Televisión.Pública.(Argentina).ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/Canalsiete-256.png" tvg-name="CANAL 7" group-title="Aire" radio="false" catchup="vod",CANAL 7
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/441563.ts
+http://tutele.lat:8080/live/Armando12/Armando12/441563.ts
 #EXTINF:-1 tvg-chno="12" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="EL TRECE" group-title="Aire" radio="false" catchup="vod",EL TRECE
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/265950.ts
+http://tutele.lat:8080/live/Armando12/Armando12/265950.ts
 #EXTINF:-1 tvg-chno="13" tvg-id="ElNueve.ar" tvg-name="EL NUEVE" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnuevehd@2x.png" radio="false" catchup="vod",EL NUEVE
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/495.ts
+http://tutele.lat:8080/live/Armando12/Armando12/495.ts
 #EXTINF:-1 tvg-chno="21" tvg-id="NetTV.ar" tvg-name="NET TV" group-title="Aire" tvg-logo="https://telecentro.com.ar/img/cm/channels/nettv@2x.png" radio="false" catchup="vod",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="TN" tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="Noticias" radio="false" catchup="vod",TN
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/522.ts
+http://tutele.lat:8080/live/Armando12/Armando12/522.ts
 #EXTINF:-1 tvg-chno="15" tvg-id="A24.HD.uy" tvg-name="A24" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24new@2x.png" group-title="Noticias" radio="false" catchup="vod",A24
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/501.ts
+http://tutele.lat:8080/live/Armando12/Armando12/501.ts
 #EXTINF:-1 tvg-chno="16" tvg-id="[C5NARG].C5N.uy" tvg-name="C5N" group-title="Noticias" radio="false" catchup="vod",C5N
 http://buenatv.org:80/live/Aitor.Mun24/Aitor2024M/712705.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="[CRON].Cronica.TV.uy" tvg-name="CRONICA" tvg-logo="https://telecentro.com.ar/img/cm/channels/cronica@2x.png" group-title="Noticias" radio="false" catchup="vod",CRONICA
@@ -32,7 +32,7 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="Ar12.ar" tvg-name="AR12" tvg-logo="https://telecentro.com.ar/img/cm/channels/AR12@2x.png" group-title="Noticias" radio="false" catchup="vod",AR 12
 https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="CnnenEspañol.ar" tvg-name="CNN EN ESPAÑOL" group-title="Noticias" radio="false" catchup="vod",CNN EN ESPAÑOL
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/253.ts
+http://tutele.lat:8080/live/Armando12/Armando12/253.ts
 #EXTINF:-1 tvg-chno="552" tvg-id="Bloomberg.ar" tvg-name="BLOOMBERG" group-title="Noticias" radio="false" catchup="vod",BLOOMBERG
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERG_
 #EXTINF:-1 tvg-chno="20" tvg-id="MAGAZINE.HD.uy" tvg-name="CIUDAD MAGAZINE" group-title="Variedades" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/ciudadmagazine@2x.png",CIUDAD MAGAZINE
@@ -94,11 +94,11 @@ http://buenatv.org:80/live/Aitor.Mun24/Aitor2024M/712742.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="Canal.TyC.Sports.ar" tvg-name="TYC SPORTS" group-title="Deportes" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/tyc.png" radio="false" catchup="vod",TYC SPORTS
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/327918
 #EXTINF:-1 tvg-chno="102" tvg-id="Canal.ESPN.(Argentina).ar" tvg-name="ESPN" group-title="Deportes" radio="false" catchup="vod",ESPN
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/327914
+http://buenatv.org:80/live/Aitor.Mun24/Aitor2024M/712743.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="[EPN2HAA].ESPN2.Argentina.uy" tvg-name="ESPN 2" group-title="Deportes" radio="false" catchup="vod",ESPN 2
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/327915
+http://buenatv.org:80/live/Aitor.Mun24/Aitor2024M/712744.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-id="Canal.ESPN.3.(Bolivia).ar" tvg-name="ESPN 3" group-title="Deportes" radio="false" catchup="vod",ESPN 3
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/327916
+http://buenatv.org:80/live/Aitor.Mun24/Aitor2024M/712745.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-id="EspnExtra.ar" tvg-name="ESPN EXTRA" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-espn4-252x252.png" group-title="Deportes" radio="false" catchup="vod",ESPN 4
 http://buenatv.org:80/live/Aitor.Mun24/Aitor2024M/712746.m3u8
 #EXTINF:-1  tvg-chno="EspnPremium.ar" tvg-name="ESPN PREMIUM" tvg-logo="https://telecentro.com.ar/img/cm/channels/Espn%20Premium%20128.png" group-title="Deportes",ESPN PREMIUM
@@ -154,7 +154,7 @@ http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/321981
 #EXTINF:-1 tvg-chno="208" tvg-id="Canal.Baby.TV.(Latinoamérica).ar" tvg-name="BABY TV" group-title="Infantiles" radio="false" catchup="vod",BABY TV
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/321969
 #EXTINF:-1 tvg-chno="209" tvg-id="Canal.Tooncast.ar" tvg-name="TOONCAST" group-title="Infantiles" radio="false" catchup="vod",TOONCAST
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260537.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260537.ts
 #EXTINF:-1 tvg-chno="210" tvg-id="NickJr.ar" tvg-name="NICK JR." tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/nickjr.png" group-title="Infantiles" radio="false" catchup="vod",NICK JR.
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/321982
 #EXTINF:-1,tvg-id="Canal.TeenNick.cl" tvg-chno="211" group-title="Infantiles" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/nickjr.png", TEEN NICK
@@ -164,25 +164,25 @@ http://45.70.168.162:1503/play/a02a/index.m3u8
 #EXTINF:-1 tvg-chno="223 "tvg-id="Canal.BabyFirst.TV.mx" tvg-name="USA | BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20220912114022" group-title="Infantiles", BABY FIRST
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/321968
 #EXTINF:-1 tvg-chno="300" tvg-id="CineAr.ar" tvg-name="CINE.AR" group-title="Peliculas y Series" tvg-logo="https://telecentro.com.ar/img/cm/channels/cinear@2x.png" radio="false" catchup="vod",CINE.AR
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/512.ts
+http://tutele.lat:8080/live/Armando12/Armando12/512.ts
 #EXTINF:-1 tvg-id="Volver.ar" tvg-chno="303" tvg-logo="https://telecentro.com.ar/img/cm/channels/volver@2x.png" tvg-group="Peliculas y Series", VOLVER 
-http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/490449
+http://buenatv.org:80/live/Aitor.Mun24/Aitor2024M/712741.m3u8
 #EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E" tvg-logo="https://telecentro.com.ar/img/cm/channels/aande@2x.png" group-title="Peliculas y Series",A&E 
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567827
 #EXTINF:-1 tvg-id="[AMCMEX].AMC.uy" tvg-name="AMC  " tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="Peliculas y Series",AMC  
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/265941.ts
+http://tutele.lat:8080/live/Armando12/Armando12/265941.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://i.postimg.cc/XvtyWrnR/AMC-Crime-Print.png" group-title="Peliculas y Series",AMC CRIME 
 http://vivaelbetis.neospaxy.top:8080/2541773393843/f2d0a2797591/25927
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" group-title="Peliculas y Series",AMC Series 
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Canal.AXN.(Argentina).ar" tvg-name="AXN" tvg-logo="https://telecentro.com.ar/img/cm/channels/axn@2x.png" group-title="Peliculas y Series",AXN 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/289424.ts
+http://tutele.lat:8080/live/Armando12/Armando12/289424.ts
 #EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",A3SERIES
 http://vivaelbetis.neospaxy.top:8080/2541773393843/f2d0a2797591/52473
 #EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="ATRESERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="Peliculas y Series",ATRESERIES 
 
 #EXTINF:-1 tvg-id="Canal.Cinema.mx" tvg-name="CINEMA" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="Peliculas y Series",CINEMA
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/119.ts
+http://tutele.lat:8080/live/Armando12/Armando12/119.ts
 #EXTINF:-1 tvg-id="CineLatino.ar" tvg-name="CINE LATINO " tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="Peliculas y Series",CINE LATINO 
 http://elpapanatas.space:8080/Arturo2025k/azPXknaH2Dpw/143505
 #EXTINF:-1 tvg-id="Canal.Cinecanal.(Argentina).ar" tvg-name="CINECANAL " tvg-logo="https://telecentro.com.ar/img/cm/channels/cinecanal@2x.png" group-title="Peliculas y Series",CINECANAL 
@@ -196,27 +196,27 @@ http://vivaelbetis.neospaxy.top:8080/2541773393843/f2d0a2797591/52526
 #EXTINF:-1 tvg-id="" tvg-name="FX HD (DTV)" tvg-logo="https://telecentro.com.ar/img/cm/channels/fx@2x.png" group-title="Peliculas y Series",FX 
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567869
 #EXTINF:-1 tvg-id="Canal.Golden.(Argentina).ar" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="Peliculas y Series",GOLDEN 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/288160.ts
+http://tutele.lat:8080/live/Armando12/Armando12/288160.ts
 #EXTINF:-1 tvg-id="Canal.Golden.Plus.cl" tvg-name="GOLDEN PLUS | AR" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="Peliculas y Series",GOLDEN PLUS
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/288159.ts
+http://tutele.lat:8080/live/Armando12/Armando12/288159.ts
 #EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://cdn.mitvstatic.com/channels/ar_golden-edge_m.png" group-title="Peliculas y Series",GOLDEN EDGE 
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567871
 #EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="Peliculas y Series",GOLDEN PREMIER 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260559.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260559.ts
 #EXTINF:-1 tvg-id="Canal.HBO.(Argentina).ar" tvg-name="HBO HD (DTV)" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbohd@2x.png" group-title="Peliculas y Series",HBO 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260557.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260557.ts
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2@2x.png" group-title="Peliculas y Series",HBO 2 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/1473.ts
+http://tutele.lat:8080/live/Armando12/Armando12/1473.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO FAMILY" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamilyhd.png" group-title="Peliculas y Series",HBO FAMILY
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260554.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260554.ts
 #EXTINF:-1 tvg-id="HBOPlus.ar" tvg-name="HBO PLUS HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus@2x.png" group-title="Peliculas y Series",HBO PLUS 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260600.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260600.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.ar" tvg-name="HBO SIGNATURE HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignaturehd@2x.png" group-title="Peliculas y Series",HBO SIGNATURE
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260555.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260555.ts
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="Peliculas y Series",MULTIPREMIER 
 http://antorcha36.co:2052/live/maxva293/totaltv140/36354.m3u8
 #EXTINF:-1 tvg-id="[PARAMNT].Paramount.Network.uy" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="Peliculas y Series",PARAMOUNT CHANNEL 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260543.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260543.ts
 #EXTINF:-1 tvg-id="SonyMovies.ar" tvg-name="SONY MOVIES HD | AR" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="Peliculas y Series",SONY MOVIES 
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567893
 #EXTINF:-1 tvg-id="Canal.Sony.(Argentina).ar" tvg-name="SONY CHANNEL HD | AR" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="Peliculas y Series",SONY CHANNEL 
@@ -226,37 +226,37 @@ http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567894
 #EXTINF:-1 tvg-id="Canal.Star.Channel.(Argentina).ar" tvg-name="STAR CHANNEL HD | ARG" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="Peliculas y Series",STAR CHANNEL 
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567895
 #EXTINF:-1 tvg-id="STUDIO.UNIVERSAL.HD.uy" tvg-name="STUDIO UNIVERSAL HD | AR" tvg-logo="https://telecentro.com.ar/img/cm/channels/studiouniversal@2x.png" group-title="Peliculas y Series",STUDIO UNIVERSAL
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260612.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260612.ts
 #EXTINF:-1 tvg-id="Canal.USA.Network.(Argentina).ar" tvg-name="USA HD | AR" tvg-logo="https://telecentro.com.ar/img/cm/channels/usa@2x.png" group-title="Peliculas y Series",USA 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260525.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260525.ts
 #EXTINF:-1 tvg-id="Canal.TNT.Novelas.(Argentina).ar" tvg-name="TNT NOVELAS HD (DTV)" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="Peliculas y Series",TNT NOVELAS 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/103.ts
+http://tutele.lat:8080/live/Armando12/Armando12/103.ts
 #EXTINF:-1 tvg-id="Canal.TNT.(Argentina).ar" tvg-name="TNT HD | AR" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="Peliculas y Series",TNT 
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567899
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT SERIES HD (DTV)" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="Peliculas y Series",TNT SERIES 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260538.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260538.ts
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="Peliculas y Series",TNT SERIES 2
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/239679.ts
+http://tutele.lat:8080/live/Armando12/Armando12/239679.ts
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL " tvg-logo="https://telecentro.com.ar/img/cm/channels/universalchannel.png" group-title="Peliculas y Series",UNIVERSAL 
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567912
 #EXTINF:-1 tvg-id="Canal.Warner.TV.(Argentina).ar" tvg-name="WARNER TV AR " tvg-logo="https://telecentro.com.ar/img/cm/channels/warnerchannel@2x.png" group-title="Peliculas y Series",WARNER TV  
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260522.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260522.ts
 #EXTINF:-1 tvg-id="Canal.Universal.Reality.mx" tvg-name="UNIVERSAL REALITY" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Reality%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL REALITY
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/278170.ts
+http://tutele.lat:8080/live/Armando12/Armando12/278170.ts
 #EXTINF:-1 tvg-id="Canal.Universal.Cinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Cinema%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL CINEMA
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/278168.ts
+http://tutele.lat:8080/live/Armando12/Armando12/278168.ts
 #EXTINF:-1 tvg-id="UNIVERSAL.CRIME.HD..uy" tvg-name="UNIVERSAL CRIME |MX" tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Crime%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL CRIME 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/278169.ts
+http://tutele.lat:8080/live/Armando12/Armando12/278169.ts
 #EXTINF:-1 tvg-id="Canal.Universal.Comedy.mx" tvg-name="UNIVERSAL COMEDY " tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Comedy%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL COMEDY 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/278167.ts
+http://tutele.lat:8080/live/Armando12/Armando12/278167.ts
 #EXTINF:-1 tvg-id="Canal.Universal.Premiere.mx" tvg-name="UNIVERSAL PREMIERE " tvg-logo="https://telecentro.com.ar/img/cm/channels/Universal%20Premiere%20128%20ok.png" group-title="Peliculas y Series",UNIVERSAL PREMIERE 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/278171.ts
+http://tutele.lat:8080/live/Armando12/Armando12/278171.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Pop.ar" tvg-name="HBO POP " tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup@2x.png" group-title="Peliculas y Series",HBO POP 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/139.ts
+http://tutele.lat:8080/live/Armando12/Armando12/139.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Mundi.ar" tvg-name="HBO MUNDI  " tvg-logo="https://telecentro.com.ar/img/cm/channels/hbomundi.png" group-title="Peliculas y Series",HBO MUNDI  
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/137.ts
+http://tutele.lat:8080/live/Armando12/Armando12/137.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Xtreme.ar" tvg-name="HBO XTREME" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime@2x.png" group-title="Peliculas y Series",HBO XTREME
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/1464.ts
+http://tutele.lat:8080/live/Armando12/Armando12/1464.ts
 #EXTINF:-1 tvg-id="MCINLA" tvg-name="Multicinema" tvg-logo="https://i.ibb.co/921VFpp/multicinema.png" group-title="Peliculas y Series",MULTICINEMA
 
 #EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="Peliculas y Series",CINE ESTELAR
@@ -272,9 +272,9 @@ https://srt01.logicahost.com.br/senal3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="PANICO OPCION 2" tvg-logo="http://www.tmsimg.com/assets/s73535_ll_h3_aa.png" group-title="Peliculas y Series",PANICO 
 https://deluxe-tv.vip:443/live/Bzjuliosa1123/2023JSaGreDo/1595545.ts
 #EXTINF:-1 tvg-id="DE PELICULA PLUS HD" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="Peliculas y Series",DE PELICULA PLUS
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/123.ts
+http://tutele.lat:8080/live/Armando12/Armando12/123.ts
 #EXTINF:-1 tvg-id="Canal De Película" tvg-name="DE PELICULA" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=430" group-title="Peliculas y Series",DE PELICULA
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/131.ts
+http://tutele.lat:8080/live/Armando12/Armando12/131.ts
 #EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="Peliculas y Series",DE PELICULA CLASICO
 46121.ts
 #EXTINF:-1 xc_vm-id="186480" tvg-id="" tvg-name="PREMIUM | STARZ ENCORE ESPANOL" tvg-logo="https://i.ibb.co/w6vZ5px/STARZESP.png" group-title="Peliculas y Series",STARZ ENCORE ESPANOL
@@ -324,27 +324,27 @@ http://lucidhosting.xyz:82/Neil.S123/wTeNCDa8/1796
 #EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="LA: MOVIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/movieplex.png" group-title="Peliculas y Series",MOVIEPLEX
 http://lucidhosting.xyz:82/Neil.S123/wTeNCDa8/17039
 #EXTINF:-1 tvg-id="Canal.TLNovelas.(Argentina).ar" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="Entretenimiento",UNIVISION TELENOVELAS
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/232354.ts
+http://tutele.lat:8080/live/Armando12/Armando12/232354.ts
 #EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://i.ibb.co/dW0RXN7/rcnnovelas.png" group-title="Entretenimiento",RCN Novelas
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/418.ts
+http://tutele.lat:8080/live/Armando12/Armando12/418.ts
 #EXTINF:-1 tvg-id="[ETVLN].E!.Entertainment.TV.uy" tvg-name="E!" tvg-logo="https://i.ibb.co/y0VcDzp/46576978uijfgcvgbc.png" group-title="Entretenimiento",E!
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/289421.ts
+http://tutele.lat:8080/live/Armando12/Armando12/289421.ts
 #EXTINF:-1 tvg-id="TLC..uy" tvg-name="TLC " tvg-logo="https://telecentro.com.ar/img/cm/channels/TLC%20128.png" group-title="Entretenimiento",TLC 
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/567898
 #EXTINF:-1 tvg-id="COMEDY.CENTRAL.HD.uy" tvg-name="COMEDY CENTRAL " tvg-logo="https://telecentro.com.ar/img/cm/channels/comedycentral@2x.png" group-title="Entretenimiento",COMEDY CENTRAL 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/263450.ts
+http://tutele.lat:8080/live/Armando12/Armando12/263450.ts
 #EXTINF:-1 tvg-chno="405" tvg-id="Canal.Elgourmet.ar" tvg-name="EL GOURMET" tvg-logo="https://telecentro.com.ar/img/cm/channels/elgourmet.png" group-title="Entretenimiento" radio="false" catchup="vod",EL GOURMET
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260558.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260558.ts
 #EXTINF:-1 tvg-id="FOOD.NETWORK.HD.uy" tvg-name="FOOD NETWORK" tvg-logo="https://telecentro.com.ar/img/cm/channels/food%20network%20128.png" group-title="Entretenimiento",FOOD NETWORK
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260594.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260594.ts
 #EXTINF:-1 tvg-chno="404" tvg-id="Canal.Lifetime.(Argentina).ar" tvg-name="LIFETIME" tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lifetime.png" group-title="Entretenimiento" radio="false" catchup="vod",LIFETIME
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/260551.ts
+http://tutele.lat:8080/live/Armando12/Armando12/260551.ts
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="http://redworld.pro:8880/images/3cc08b1c9d27766ef4324e457791f37b.png" group-title="Entretenimiento",GLITZ
 http://starlatino.tv:8880/Gx9926829/UuZE8WEdKvmZ/135432
 #EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://i.ibb.co/wpxLdLn/NBC-universoeast.png" group-title="Entretenimiento",NBC UNIVERSO
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/314590.ts
+http://tutele.lat:8080/live/Armando12/Armando12/314590.ts
 #EXTINF:-1 tvg-id="Canal.Telemundo.(Chile).cl" tvg-name="Telemundo Internacional ᴴᴰ | MX" tvg-logo="https://telecentro.com.ar/img/cm/channels/telemundo@2x.png" group-title="Entretenimiento",Telemundo Internacional 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/361616.ts
+http://tutele.lat:8080/live/Armando12/Armando12/361616.ts
 #EXTINF:-1 tvg-id="AdultSwim.ar" tvg-name="ADULT SWIM " tvg-logo="https://telecentro.com.ar/img/cm/channels/adult-swim@2x.png" group-title="Entretenimiento",ADULT SWIM 
 79072.ts
 #EXTINF:-1 tvg-id="KANAL.D.DRAMA..uy" tvg-name="Kanal D Drama" tvg-logo="https://telecentro.com.ar/img/cm/channels/kanal%20D%20128.png" group-title="Entretenimiento",KANAL D DRAMA
@@ -352,33 +352,33 @@ http://tutele.lat:8080/live/Aldo2025/Aldo2025/361616.ts
 #EXTINF:-1 tvg-chno="22" tvg-id="ENCUENTRO.uy" tvg-name="ENCUENTRO" group-title="Cultural" tvg-logo="https://telecentro.com.ar/img/cm/channels/encuentro@2x.png" radio="false" catchup="vod",ENCUENTRO
 http://138.59.227.20:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Animal.Planet.(Argentina).ar" tvg-name="Animal Planet   HD" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="Cultural",Animal Planet  
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/79.ts
+http://tutele.lat:8080/live/Armando12/Armando12/79.ts
 #EXTINF:-1 tvg-id="Discovery.ar" tvg-name="Discovery Channel " tvg-logo="https://telecentro.com.ar/img/cm/channels/discovery@2x.png" group-title="Cultural",Discovery Channel 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/78.ts
+http://tutele.lat:8080/live/Armando12/Armando12/78.ts
 #EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Chile).cl" tvg-name="Discovery ID" tvg-logo="https://telecentro.com.ar/img/cm/channels/investigationdiscovery@2x.png" group-title="Cultural",ID Discovery
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/263293.ts
+http://tutele.lat:8080/live/Armando12/Armando12/263293.ts
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="Discovery Home & Health " tvg-logo="https://telecentro.com.ar/img/cm/channels/h&h%20128.png" group-title="Cultural",Discovery Home & Health 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/263299.ts
+http://tutele.lat:8080/live/Armando12/Armando12/263299.ts
 #EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-name="Discovery Science " tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryscience@2x.png" group-title="Cultural",Discovery Science 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/81.ts
+http://tutele.lat:8080/live/Armando12/Armando12/81.ts
 #EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).ar" tvg-name="Discovery Theater HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/discoverytheaterhd@2x.png" group-title="Cultural",Discovery Theater 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/74.ts
+http://tutele.lat:8080/live/Armando12/Armando12/74.ts
 #EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ar" tvg-name="Discovery Turbo FHD " tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryturbo@2x.png" group-title="Cultural",Discovery Turbo  
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/263349.ts
+http://tutele.lat:8080/live/Armando12/Armando12/263349.ts
 #EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="Discovery World HD  " tvg-logo="https://telecentro.com.ar/img/cm/channels/discoveryworldhd@2x.png" group-title="Cultural",Discovery World   
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/77.ts
+http://tutele.lat:8080/live/Armando12/Armando12/77.ts
 #EXTINF:-1 tvg-id="HGTV.ar" tvg-name="HGTV  | AR HD" tvg-logo="https://i.ibb.co/ckqYDrF/hgtcwsd.png" group-title="Cultural",HGTV  
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/257650.ts
+http://tutele.lat:8080/live/Armando12/Armando12/257650.ts
 #EXTINF:-1 tvg-id="HispanTV.ar" tvg-name="Hispan TV" tvg-logo="https://i.ibb.co/HzvTpT1/hispanid.png" group-title="Cultural",Hispan TV
 http://antorcha36.co:2052/live/maxva293/totaltv140/2369379.m3u8
 #EXTINF:-1 tvg-id="History2.ar" tvg-name="H2 History HD (DTV)" tvg-logo="https://telecentro.com.ar/img/cm/channels/history%202%20128.png" group-title="Cultural",H2 History 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/1510.ts
+http://tutele.lat:8080/live/Armando12/Armando12/1510.ts
 #EXTINF:-1 tvg-id="History.ar" tvg-name="History Channel " tvg-logo="https://telecentro.com.ar/img/cm/channels/history%20128.png" group-title="Cultural",History Channel 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/75.ts
+http://tutele.lat:8080/live/Armando12/Armando12/75.ts
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD (DTV)" tvg-logo="https://i.ibb.co/RHMtJVv/lober.png" group-title="Cultural",LOVE NATURE 
 http://antorcha36.co:2052/live/maxva293/totaltv140/911177.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="National Geographic HD | AR" tvg-logo="https://i.ibb.co/sCY6fYc/cfdetf435433.png" group-title="Cultural",National Geographic 
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/1196.ts
+http://tutele.lat:8080/live/Armando12/Armando12/1196.ts
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD" tvg-logo="https://telecentro.com.ar/img/cm/channels/nationalgeographic@2x.png" group-title="Cultural",NAT GEO MUNDO
 http://antorcha36.co:2052/live/maxva293/totaltv140/567986.m3u8
 #EXTINF:-1 tvg-id="NASA.Plus.us2" tvg-name="NASA Live Stream" tvg-logo="https://i.ibb.co/QmSXHpF/3423254refefds.png" group-title="Cultural",NASA Live Stream
@@ -392,7 +392,7 @@ http://liontv.es:8080/KLARIOS3711/wJn3nAzx4Y25/338247
 #EXTINF:-1 tvg-id="Canal.Telehit.ar" tvg-name="Telehit" tvg-logo="https://i.postimg.cc/cCwc8QNg/images-q-tbn-ANd9Gc-Tdj9Acdkh-O4o4Q86Vqy0ic-CPd581v-HORB8Aw-s.png" group-title="Musical",TELEHIT
 86461.ts
 #EXTINF:-1 tvg-id="Canal.HTV.ar" tvg-name="HTV" tvg-logo="https://telecentro.com.ar/img/cm/channels/htv@2x.png" group-title="Musical",HTV
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/493148.ts
+http://tutele.lat:8080/live/Armando12/Armando12/493148.ts
 #EXTINF:-1 tvg-id="[QMMIHD].Quiero.Mi.Musica.en.Mi.Idioma.HD.uy" tvg-name="Quiero Musica" tvg-logo="https://telecentro.com.ar/img/cm/channels/quieromimusica@2x.png" group-title="Musical",QUIERO MUSICA
 86482.ts
 #EXTINF:-1 tvg-id="" tvg-name="Farra Music" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/49/3e/493e7428-f8e3-4372-9c4b-908792723aa6.jpg" group-title="Musical",Farra Music
@@ -406,7 +406,7 @@ http://tutele.lat:8080/live/Aldo2025/Aldo2025/493148.ts
 #EXTINF:-1 tvg-id="RockPop.ar@SD" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/36254.v3.png" group-title="Musical", Rock & Pop 
 http://190.128.214.97:64333/play/a032/index.m3u8
 #EXTINF:-1 tvg-chno="573" tvg-id="ArgentinisimaSatelital.ar" tvg-name="ARGENTINISIMA SATELITAL" group-title="Musical" radio="false" catchup="vod" tvg-logo="https://telecentro.com.ar/img/cm/channels/argentinisimasatelital@2x.png",ARGENTINISIMA SATELITAL
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/252453.ts
+http://tutele.lat:8080/live/Armando12/Armando12/252453.ts
 #EXTINF:-1 tvg-id="FolcloreandoTV.ar@SD" tvg-logo="https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png" group-title="Musical",Folcloreando TV
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
 #EXTINF:-1 tvg-id="ALLEGRO.HD.uy" tvg-name="Allegro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Allegro_hd.png/revision/latest?cb=20210526004610&path-prefix=es" group-title="Musical",Allegro 
@@ -434,21 +434,21 @@ https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Musical", Retro Plus TV Señal 2 
 https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="557" tvg-id="Canal.CNN.Internacional.ar" tvg-name="CNN" group-title="Internacional" radio="false" catchup="vod",CNN INTERNACIONAL
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/282710.ts
+http://tutele.lat:8080/live/Armando12/Armando12/282710.ts
 #EXTINF:-1 tvg-chno="575" tvg-id="FRANCE.24.ESPAÑOL.HD.uy" tvg-name="FRANCE 24 ESPAÑOL" group-title="Internacional" radio="false" catchup="vod",tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8091548.jpg",FRANCE 24 ESPAÑOL
 79099.ts
 #EXTINF:-1 tvg-chno="551" tvg-id="Canal.RAI.International.ar" tvg-name="RAI" group-title="Internacional" ,RAI INTERNATIONAL
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/282717.ts
+http://tutele.lat:8080/live/Armando12/Armando12/282717.ts
 #EXTINF:-1 tvg-chno="553" tvg-id="Canal.TV.Chile.ar" tvg-name="TVN CHILE" group-title="Internacional" radio="false" catchup="vod",TVN CHILE
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/451029.ts
+http://tutele.lat:8080/live/Armando12/Armando12/451029.ts
 #EXTINF:-1 tvg-chno="554" tvg-id="730" tvg-name="TV 5" tvg-logo="https://telecentro.com.ar/img/cm/channels/tv5monde@2x.png" group-title="Internacional" radio="false" catchup="vod",TV 5
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/282716.ts
+http://tutele.lat:8080/live/Armando12/Armando12/282716.ts
 #EXTINF:-1 tvg-chno="556" tvg-id="TeleSUR.ar" tvg-name="TELESUR" group-title="Internacional" radio="false" catchup="vod",TELESUR
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/252977.ts
+http://tutele.lat:8080/live/Armando12/Armando12/252977.ts
 #EXTINF:-1 tvg-chno="558" tvg-id="BbcWorldNews.ar" tvg-name="BBC WORLD" group-title="Internacional" radio="false" catchup="vod",BBC WORLD
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/293675.ts
+http://tutele.lat:8080/live/Armando12/Armando12/293675.ts
 #EXTINF:-1 tvg-chno="559" tvg-id="693" tvg-name="FOX NEWS" tvg-logo="https://banner2.cleanpng.com/20180918/sxx/kisspng-logo-font-brand-product-line-5ba15efe6c46c5.7863516315373022704435.jpg" group-title="Internacional" radio="false" catchup="vod",FOX NEWS
-http://tutele.lat:8080/live/Aldo2025/Aldo2025/20705.ts
+http://tutele.lat:8080/live/Armando12/Armando12/20705.ts
 #EXTINF:-1 tvg-chno="560" tvg-id="AlJazeera.English.net" tvg-name="AL JAZEERA" group-title="Internacional"tvg-logo="https://www.ecured.cu/images/c/cc/AlJazeera.jpg" radio="false" catchup="vod",AL JAZEERA
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-chno="561" tvg-id="688" tvg-name="EURONEWS" group-title="Internacional" radio="false" catchup="vod",tvg-logo="https://www.aimglobalmedia.com/wp-content/uploads/2025/02/Euronews-2.png", EURONEWS
